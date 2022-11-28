@@ -1,0 +1,1182 @@
+[
+  {
+    "ability_set_id": "2",
+    "ability_id": "70055",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "2",
+    "ability_id": "70057",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "3",
+    "ability_id": "350",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "3",
+    "ability_id": "70048",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "3",
+    "ability_id": "70049",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "3",
+    "ability_id": "70056",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "4",
+    "ability_id": "93",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "4",
+    "ability_id": "26583",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "5",
+    "ability_id": "623",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "5",
+    "ability_id": "26584",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "6",
+    "ability_id": "624",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "6",
+    "ability_id": "26585",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "7",
+    "ability_id": "625",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "7",
+    "ability_id": "26586",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "8",
+    "ability_id": "626",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "8",
+    "ability_id": "26587",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "9",
+    "ability_id": "627",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "9",
+    "ability_id": "26588",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "10",
+    "ability_id": "1960",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "10",
+    "ability_id": "1990",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "11",
+    "ability_id": "1961",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "11",
+    "ability_id": "1991",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "12",
+    "ability_id": "1962",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "12",
+    "ability_id": "1992",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "13",
+    "ability_id": "1963",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "13",
+    "ability_id": "1993",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "14",
+    "ability_id": "15",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "14",
+    "ability_id": "50053",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "15",
+    "ability_id": "565",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "15",
+    "ability_id": "70006",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "16",
+    "ability_id": "9995",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "16",
+    "ability_id": "70007",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "17",
+    "ability_id": "9996",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "17",
+    "ability_id": "70008",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "18",
+    "ability_id": "9997",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "18",
+    "ability_id": "70009",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "19",
+    "ability_id": "25166",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "19",
+    "ability_id": "25167",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "20",
+    "ability_id": "27740",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "20",
+    "ability_id": "27746",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "21",
+    "ability_id": "27740",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "21",
+    "ability_id": "27747",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "22",
+    "ability_id": "27740",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "22",
+    "ability_id": "27748",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "23",
+    "ability_id": "27740",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "23",
+    "ability_id": "27749",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "24",
+    "ability_id": "27740",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "24",
+    "ability_id": "27750",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "25",
+    "ability_id": "27740",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "25",
+    "ability_id": "27751",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "26",
+    "ability_id": "27752",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "26",
+    "ability_id": "27944",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "26",
+    "ability_id": "27948",
+    "order_index": "2"
+  },
+  {
+    "ability_set_id": "27",
+    "ability_id": "27752",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "27",
+    "ability_id": "27945",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "27",
+    "ability_id": "27949",
+    "order_index": "2"
+  },
+  {
+    "ability_set_id": "28",
+    "ability_id": "27752",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "28",
+    "ability_id": "27946",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "28",
+    "ability_id": "27950",
+    "order_index": "2"
+  },
+  {
+    "ability_set_id": "29",
+    "ability_id": "27752",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "29",
+    "ability_id": "27947",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "29",
+    "ability_id": "27951",
+    "order_index": "2"
+  },
+  {
+    "ability_set_id": "30",
+    "ability_id": "134",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "30",
+    "ability_id": "70049",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "31",
+    "ability_id": "135",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "31",
+    "ability_id": "70049",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "32",
+    "ability_id": "70049",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "32",
+    "ability_id": "80406",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "33",
+    "ability_id": "70049",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "33",
+    "ability_id": "80407",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "34",
+    "ability_id": "70049",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "34",
+    "ability_id": "70069",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "35",
+    "ability_id": "70048",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "35",
+    "ability_id": "70049",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "36",
+    "ability_id": "70049",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "36",
+    "ability_id": "70053",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "36",
+    "ability_id": "80427",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "37",
+    "ability_id": "70049",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "37",
+    "ability_id": "70053",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "37",
+    "ability_id": "80428",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "38",
+    "ability_id": "70049",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "38",
+    "ability_id": "70053",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "38",
+    "ability_id": "80429",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "39",
+    "ability_id": "70049",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "39",
+    "ability_id": "70053",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "39",
+    "ability_id": "80430",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "40",
+    "ability_id": "70049",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "40",
+    "ability_id": "70053",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "40",
+    "ability_id": "80431",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "41",
+    "ability_id": "565",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "41",
+    "ability_id": "25196",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "42",
+    "ability_id": "70049",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "42",
+    "ability_id": "80433",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "43",
+    "ability_id": "70049",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "43",
+    "ability_id": "80434",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "44",
+    "ability_id": "70049",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "44",
+    "ability_id": "80435",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "45",
+    "ability_id": "768",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "45",
+    "ability_id": "1111450",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "46",
+    "ability_id": "769",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "46",
+    "ability_id": "1111450",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "47",
+    "ability_id": "770",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "47",
+    "ability_id": "1111450",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "48",
+    "ability_id": "771",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "48",
+    "ability_id": "1111450",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "49",
+    "ability_id": "4537",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "49",
+    "ability_id": "1111450",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "50",
+    "ability_id": "4538",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "50",
+    "ability_id": "1111450",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "51",
+    "ability_id": "4539",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "51",
+    "ability_id": "1111450",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "52",
+    "ability_id": "4540",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "52",
+    "ability_id": "1111450",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "86",
+    "ability_id": "1111456",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "86",
+    "ability_id": "1111469",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "86",
+    "ability_id": "1111474",
+    "order_index": "2"
+  },
+  {
+    "ability_set_id": "447",
+    "ability_id": "1111466",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "454",
+    "ability_id": "70049",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "454",
+    "ability_id": "1112649",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "455",
+    "ability_id": "1112285",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "455",
+    "ability_id": "1112286",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "459",
+    "ability_id": "1112314",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "459",
+    "ability_id": "1112319",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "459",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "460",
+    "ability_id": "1112316",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "460",
+    "ability_id": "1112320",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "460",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "461",
+    "ability_id": "1112321",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "461",
+    "ability_id": "1112327",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "461",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "462",
+    "ability_id": "1112322",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "462",
+    "ability_id": "1112328",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "462",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "463",
+    "ability_id": "1112314",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "463",
+    "ability_id": "1112323",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "463",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "464",
+    "ability_id": "1112316",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "464",
+    "ability_id": "1112324",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "464",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "465",
+    "ability_id": "1112325",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "465",
+    "ability_id": "1112327",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "465",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "466",
+    "ability_id": "1112326",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "466",
+    "ability_id": "1112328",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "466",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "467",
+    "ability_id": "1112313",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "467",
+    "ability_id": "1112314",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "467",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "468",
+    "ability_id": "1112315",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "468",
+    "ability_id": "1112316",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "468",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "469",
+    "ability_id": "1112317",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "469",
+    "ability_id": "1112327",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "469",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "470",
+    "ability_id": "1112318",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "470",
+    "ability_id": "1112328",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "470",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "479",
+    "ability_id": "1112584",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "479",
+    "ability_id": "1112585",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "480",
+    "ability_id": "1111444",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "480",
+    "ability_id": "1112651",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "481",
+    "ability_id": "1111444",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "481",
+    "ability_id": "1112653",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "483",
+    "ability_id": "1112659",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "483",
+    "ability_id": "1112661",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "484",
+    "ability_id": "1112677",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "484",
+    "ability_id": "1112678",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "485",
+    "ability_id": "1112677",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "485",
+    "ability_id": "1112679",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "486",
+    "ability_id": "1112677",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "486",
+    "ability_id": "1112680",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "487",
+    "ability_id": "1112677",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "487",
+    "ability_id": "1112681",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "488",
+    "ability_id": "1112738",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "488",
+    "ability_id": "1112739",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "489",
+    "ability_id": "1112655",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "489",
+    "ability_id": "1112836",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "490",
+    "ability_id": "1112846",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "490",
+    "ability_id": "1112847",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "503",
+    "ability_id": "1111444",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "503",
+    "ability_id": "1112652",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "504",
+    "ability_id": "1113537",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "504",
+    "ability_id": "1113538",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "506",
+    "ability_id": "1112844",
+    "order_index": "1"
+  },
+  {
+    "ability_set_id": "509",
+    "ability_id": "1115273",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "509",
+    "ability_id": "1115274",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "511",
+    "ability_id": "1115309",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "511",
+    "ability_id": "1115312",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "511",
+    "ability_id": "1115313",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "511",
+    "ability_id": "1115314",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "511",
+    "ability_id": "1115320",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "511",
+    "ability_id": "1115327",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "513",
+    "ability_id": "1115480",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "513",
+    "ability_id": "1115610",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "514",
+    "ability_id": "565",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "514",
+    "ability_id": "1115698",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "515",
+    "ability_id": "1112314",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "515",
+    "ability_id": "1116460",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "515",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "516",
+    "ability_id": "1112316",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "516",
+    "ability_id": "1116461",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "516",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "517",
+    "ability_id": "1112327",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "517",
+    "ability_id": "1116462",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "517",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "518",
+    "ability_id": "1112328",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "518",
+    "ability_id": "1116463",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "518",
+    "ability_id": "1116621",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "519",
+    "ability_id": "27",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "519",
+    "ability_id": "1116464",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "520",
+    "ability_id": "27752",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "520",
+    "ability_id": "1116480",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "523",
+    "ability_id": "1116906",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "523",
+    "ability_id": "1116997",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "524",
+    "ability_id": "1116909",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "524",
+    "ability_id": "1116932",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "525",
+    "ability_id": "1116918",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "525",
+    "ability_id": "1117004",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "526",
+    "ability_id": "1116919",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "526",
+    "ability_id": "1117005",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "527",
+    "ability_id": "1113157",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "527",
+    "ability_id": "1116998",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "527",
+    "ability_id": "1116999",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "527",
+    "ability_id": "1117000",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "528",
+    "ability_id": "1117158",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "528",
+    "ability_id": "1117159",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "529",
+    "ability_id": "1117158",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "529",
+    "ability_id": "1117161",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "530",
+    "ability_id": "1117158",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "530",
+    "ability_id": "1117163",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "531",
+    "ability_id": "1117158",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "531",
+    "ability_id": "1117165",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "532",
+    "ability_id": "1117158",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "532",
+    "ability_id": "1117167",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "533",
+    "ability_id": "1117158",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "533",
+    "ability_id": "1117169",
+    "order_index": "0"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "round_id": "13946356862837749",
+    "outfit_id": "15059223035510847",
+    "faction_id": "3",
+    "order": "8",
+    "ranking_parameters": {
+      "MatchRank": "-1",
+      "TotalScore": "102020894",
+      "MatchesPlayed": "3",
+      "Wins": "2",
+      "Losses": "1",
+      "TiebreakerPoints": "894",
+      "GlobalRank": "9"
+    }
+  },
+  {
+    "round_id": "13946356862837749",
+    "outfit_id": "15072256782237752",
+    "faction_id": "2",
+    "order": "9",
+    "ranking_parameters": {
+      "MatchRank": "-1",
+      "TotalScore": "202030870",
+      "MatchesPlayed": "3",
+      "Wins": "3",
+      "Losses": "0",
+      "TiebreakerPoints": "870",
+      "GlobalRank": "10"
+    }
+  },
+  {
+    "round_id": "13946356862837749",
+    "outfit_id": "15051745864712616",
+    "faction_id": "3",
+    "order": "0",
+    "ranking_parameters": {
+      "MatchRank": "-1",
+      "TotalScore": "56",
+      "MatchesPlayed": "1",
+      "Wins": "0",
+      "Losses": "1",
+      "TiebreakerPoints": "56",
+      "GlobalRank": "1"
+    }
+  },
+  {
+    "round_id": "13946356862837749",
+    "outfit_id": "15072256782237896",
+    "faction_id": "1",
+    "order": "1",
+    "ranking_parameters": {
+      "MatchRank": "-1",
+      "TotalScore": "58",
+      "MatchesPlayed": "1",
+      "Wins": "0",
+      "Losses": "1",
+      "TiebreakerPoints": "58",
+      "GlobalRank": "2"
+    }
+  },
+  {
+    "round_id": "13946356862837749",
+    "outfit_id": "15051745864714168",
+    "faction_id": "1",
+    "order": "4",
+    "ranking_parameters": {
+      "MatchRank": "-1",
+      "TotalScore": "118",
+      "MatchesPlayed": "1",
+      "Wins": "0",
+      "Losses": "1",
+      "TiebreakerPoints": "118",
+      "GlobalRank": "5"
+    }
+  },
+  {
+    "round_id": "13946356862837749",
+    "outfit_id": "15072256782237760",
+    "faction_id": "2",
+    "order": "7",
+    "ranking_parameters": {
+      "MatchRank": "-1",
+      "TotalScore": "21020559",
+      "MatchesPlayed": "3",
+      "Wins": "2",
+      "Losses": "1",
+      "TiebreakerPoints": "559",
+      "GlobalRank": "8"
+    }
+  },
+  {
+    "round_id": "13946356862837749",
+    "outfit_id": "15004677881987168",
+    "faction_id": "1",
+    "order": "2",
+    "ranking_parameters": {
+      "MatchRank": "-1",
+      "TotalScore": "60",
+      "MatchesPlayed": "1",
+      "Wins": "0",
+      "Losses": "1",
+      "TiebreakerPoints": "60",
+      "GlobalRank": "3"
+    }
+  },
+  {
+    "round_id": "13946356862837749",
+    "outfit_id": "15004574612455478",
+    "faction_id": "2",
+    "order": "6",
+    "ranking_parameters": {
+      "MatchRank": "-1",
+      "TotalScore": "11010789",
+      "MatchesPlayed": "3",
+      "Wins": "1",
+      "Losses": "2",
+      "TiebreakerPoints": "789",
+      "GlobalRank": "7"
+    }
+  },
+  {
+    "round_id": "13946356862837749",
+    "outfit_id": "15051163074568275",
+    "faction_id": "1",
+    "order": "3",
+    "ranking_parameters": {
+      "MatchRank": "-1",
+      "TotalScore": "62",
+      "MatchesPlayed": "1",
+      "Wins": "0",
+      "Losses": "1",
+      "TiebreakerPoints": "62",
+      "GlobalRank": "4"
+    }
+  },
+  {
+    "round_id": "13946356862837749",
+    "outfit_id": "15072256782237698",
+    "faction_id": "3",
+    "order": "5",
+    "ranking_parameters": {
+      "MatchRank": "-1",
+      "TotalScore": "10170",
+      "MatchesPlayed": "1",
+      "Wins": "1",
+      "Losses": "0",
+      "TiebreakerPoints": "170",
+      "GlobalRank": "6"
+    }
+  }
+]

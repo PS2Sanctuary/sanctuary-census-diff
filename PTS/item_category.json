@@ -1,0 +1,1642 @@
+[
+  {
+    "item_category_id": "2",
+    "name": {
+      "de": "Messer",
+      "en": "Knife",
+      "es": "Cuchillo",
+      "fr": "Couteau",
+      "it": "Coltello",
+      "ko": "근접 무기",
+      "pt": "Faca",
+      "ru": "Нож",
+      "tr": "Bıçak",
+      "zh": "匕首"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "3",
+    "name": {
+      "de": "Pistole",
+      "en": "Pistol",
+      "es": "Pistola",
+      "fr": "Pistolet",
+      "it": "Pistola",
+      "ko": "권총",
+      "pt": "Pistola",
+      "ru": "Пистолет",
+      "tr": "Tabanca",
+      "zh": "手枪"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "4",
+    "name": {
+      "de": "Schrotflinte",
+      "en": "Shotgun",
+      "es": "Escopeta",
+      "fr": "Fusil",
+      "it": "Fucile",
+      "ko": "샷건",
+      "pt": "Espingarda",
+      "ru": "Дробовик",
+      "tr": "Pompalı Tüfek",
+      "zh": "霰弹枪"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "5",
+    "name": {
+      "de": "MP",
+      "en": "SMG",
+      "es": "Subfusil",
+      "fr": "Mitraillette",
+      "it": "Mitra",
+      "ko": "기관 단총",
+      "pt": "SMG",
+      "ru": "Пистолет-пулемет",
+      "tr": "Makineli Tabanca",
+      "zh": "冲锋枪"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "6",
+    "name": {
+      "de": "LMG",
+      "en": "LMG",
+      "es": "Ametralladora ligera",
+      "fr": "Mitrailleuse légère",
+      "it": "Mitragliatrice leggera",
+      "ko": "경기관총",
+      "pt": "Metralhadora Leve",
+      "ru": "Ручной пулемет",
+      "tr": "HMT",
+      "zh": "轻机枪"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "7",
+    "name": {
+      "de": "Sturmgewehr",
+      "en": "Assault Rifle",
+      "es": "Rifle de asalto",
+      "fr": "Fusil d'assaut",
+      "it": "Fucile d'assalto",
+      "ko": "돌격 소총",
+      "pt": "Fuzil de Combate",
+      "ru": "Штурмовая винтовка",
+      "tr": "Taarruz Tüfeği",
+      "zh": "突击步枪"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "8",
+    "name": {
+      "de": "Karabiner",
+      "en": "Carbine",
+      "es": "Carabina",
+      "fr": "Carabine",
+      "it": "Carabina",
+      "ko": "카빈",
+      "pt": "Carabina",
+      "ru": "Карабин",
+      "tr": "Karabina",
+      "zh": "[#CARBINE#]"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "9",
+    "name": {
+      "de": "PA MAX-Einheit (links)",
+      "en": "AV MAX (Left)",
+      "es": "MAX AV (izda.)",
+      "fr": "XAM AV (Gauche)",
+      "it": "AV MAX (sinistra)",
+      "ko": "대전차 맥스 (좌측)",
+      "pt": "MAX AV (Esquerda)",
+      "ru": "ПТ М.А.К.С. (лев.)",
+      "tr": "AV MAX (Left)",
+      "zh": "反载具[#MAX#]（左手）"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "10",
+    "name": {
+      "de": "IA MAX-Einheit (links)",
+      "en": "AI MAX (Left)",
+      "es": "MAX antiinfantería (izda.)",
+      "fr": "XAM IA (Gauche)",
+      "it": "IA MAX (sinistra)",
+      "ko": "대인 맥스 (좌측)",
+      "pt": "MAX AI (Esquerda)",
+      "ru": "ПП М.А.К.С. (лев.)",
+      "tr": "AI MAX (Left)",
+      "zh": "反步兵[#MAX#]（左手）"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "11",
+    "name": {
+      "de": "Scharfschützengewehr",
+      "en": "Sniper Rifle",
+      "es": "Rifle de francotirador",
+      "fr": "Fusil de précision",
+      "it": "Fucile di precisione",
+      "ko": "저격 소총",
+      "pt": "Fuzil de Precisão",
+      "ru": "Снайперская винтовка",
+      "tr": "Keskin Nişancı Tüfeği",
+      "zh": "[#SNIPER_RIFLE#]"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "12",
+    "name": {
+      "de": "Scout-Gewehr",
+      "en": "Scout Rifle",
+      "es": "Rifle Scout",
+      "fr": "Fusil d'éclaireur",
+      "it": "Fucile da ricognizione",
+      "ko": "정찰 소총",
+      "pt": "Fuzil de Patrulha",
+      "ru": "Ружье",
+      "tr": "Gözcü Tüfeği",
+      "zh": "侦察兵步枪"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "13",
+    "name": {
+      "de": "Raketenwerfer",
+      "en": "Rocket Launcher",
+      "es": "Lanzacohetes",
+      "fr": "Lance-roquettes",
+      "it": "Lanciarazzi",
+      "ko": "로켓 런처",
+      "pt": "Lança-Mísseis",
+      "ru": "Гранатомет",
+      "tr": "Roketatar",
+      "zh": "[#ROCKET_LAUNCHER#]"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "14",
+    "name": {
+      "de": "Schwere Waffe",
+      "en": "Heavy Weapon",
+      "es": "Arma pesada",
+      "fr": "Arme lourde",
+      "it": "Arma pesante",
+      "ko": "중포",
+      "pt": "Armamento Pesada",
+      "ru": "Тяжелое оружие",
+      "tr": "Ağır Silah",
+      "zh": "重型武器"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "15",
+    "name": {
+      "de": "MAX-Flammenwerfer",
+      "en": "Flamethrower MAX",
+      "es": "Lanzallamas MAX",
+      "fr": "MAX Lance-flammes",
+      "it": "Lanciafiamme MAX",
+      "ko": "화염방사기 맥스",
+      "pt": "Lança-chamas do MAX",
+      "ru": "Огнемет для М.А.К.С.",
+      "tr": "MAX Alev Silahı",
+      "zh": "[#FLAMETHROWER#][#MAX#]"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "16",
+    "name": {
+      "de": "Flak MAX-Einheit",
+      "en": "Flak MAX",
+      "es": "Cañón antiaéreo MAX",
+      "fr": "XAM de DCA",
+      "it": "Flak MAX",
+      "ko": "방탄 맥스",
+      "pt": "Flak do MAX",
+      "ru": "Полимерная защита для М.А.К.С.",
+      "tr": "MAX Uçaksavar",
+      "zh": "防空[#MAX#]"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "17",
+    "name": {
+      "de": "Granate",
+      "en": "Grenade",
+      "es": "Granada",
+      "fr": "Grenade",
+      "it": "Granata",
+      "ko": "수류탄",
+      "pt": "Granada",
+      "ru": "Граната",
+      "tr": "El Bombası",
+      "zh": "手雷"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "18",
+    "name": {
+      "de": "Sprengstoff",
+      "en": "Explosive",
+      "es": "Explosivo",
+      "fr": "Explosif",
+      "it": "Esplosivo",
+      "ko": "폭발물",
+      "pt": "Explosivo",
+      "ru": "Взрывчатка",
+      "tr": "Patlayıcı",
+      "zh": "炸药"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "19",
+    "name": {
+      "de": "Kampfgewehr",
+      "en": "Battle Rifle",
+      "es": "Rifle de asalto",
+      "fr": "Fusil de combat",
+      "it": "Fucile da battaglia",
+      "ko": "전투 소총",
+      "pt": "Fuzil de Batalha",
+      "ru": "Винтовка",
+      "tr": "Savaş Tüfeği",
+      "zh": "主战步枪"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "20",
+    "name": {
+      "de": "FA MAX-Einheit (rechts)",
+      "en": "AA MAX (Right)",
+      "es": "AA MAX (dcha.)",
+      "fr": "XAM anti-aérien (Droite)",
+      "it": "MAX AA (destra)",
+      "ko": "대공 맥스 (우측)",
+      "pt": "AA MAX (Direita)",
+      "ru": "ПВО М.А.К.С. (прав.)",
+      "tr": "AA MAX (Right)",
+      "zh": "防空[#MAX#]（右手）"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "21",
+    "name": {
+      "de": "PA MAX-Einheit (rechts)",
+      "en": "AV MAX (Right)",
+      "es": "MAX AV (dcha.)",
+      "fr": "XAM AV (Droite)",
+      "it": "AV MAX (destra)",
+      "ko": "대전차 맥스 (우측)",
+      "pt": "AV MAX (Direita)",
+      "ru": "ПТ М.А.К.С. (прав.)",
+      "tr": "AV MAX (Right)",
+      "zh": "反载具[#MAX#]（右手）"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "22",
+    "name": {
+      "de": "IA MAX-Einheit (rechts)",
+      "en": "AI MAX (Right)",
+      "es": "MAX antiinfantería (dcha.)",
+      "fr": "XAM IA (Droite)",
+      "it": "IA MAX (destra)",
+      "ko": "대인 맥스 (우측)",
+      "pt": "MAX AI (Direita)",
+      "ru": "ПП М.А.К.С. (прав.)",
+      "tr": "AI MAX (Right)",
+      "zh": "反步兵[#MAX#]（右手）"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "23",
+    "name": {
+      "de": "FA MAX-Einheit (links)",
+      "en": "AA MAX (Left)",
+      "es": "AA MAX (izda.)",
+      "fr": "XAM anti-aérien (Gauche)",
+      "it": "MAX AA (sinistra)",
+      "ko": "대공 맥스 (좌측)",
+      "pt": "AA MAX (Esquerda)",
+      "ru": "ПВО М.А.К.С. (лев.)",
+      "tr": "AA MAX (Left)",
+      "zh": "防空[#MAX#]（左手）"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "24",
+    "name": {
+      "de": "Armbrust",
+      "en": "Crossbow",
+      "es": "Ballesta",
+      "fr": "Arbalète",
+      "it": "Balestra",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Арбалет",
+      "tr": "Crossbow",
+      "zh": "十字弓"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "99",
+    "name": {
+      "de": "Tarnung",
+      "en": "Camo",
+      "es": "Camuflaje",
+      "fr": "Camouflage",
+      "it": "Mimetica",
+      "ko": "캐모",
+      "pt": "NULL",
+      "ru": "Камуфляж",
+      "tr": "Camo",
+      "zh": "迷彩"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "100",
+    "name": {
+      "de": "Infanterie",
+      "en": "Infantry",
+      "es": "Infantería",
+      "fr": "Infanterie",
+      "it": "Fanteria",
+      "ko": "보병",
+      "pt": "Infantaria",
+      "ru": "Пехота",
+      "tr": "Piyade",
+      "zh": "步兵"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "101",
+    "name": {
+      "de": "Fahrzeuge",
+      "en": "Vehicles",
+      "es": "Vehículos",
+      "fr": "Véhicules",
+      "it": "Veicoli",
+      "ko": "차량",
+      "pt": "Veículos",
+      "ru": "Трансп. средства",
+      "tr": "Araçlar",
+      "zh": "载具"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "102",
+    "name": {
+      "de": "Infanteriewaffen",
+      "en": "Infantry Weapons",
+      "es": "Armas de infantería",
+      "fr": "Armes d'infanterie",
+      "it": "Armi di fanteria",
+      "ko": "보병 무기",
+      "pt": "Armas de Infantaria",
+      "ru": "Оружие для пехоты",
+      "tr": "Piyade Silahları",
+      "zh": "步兵武器"
+    },
+    "parent_category_ids": [
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "103",
+    "name": {
+      "de": "Infanterie-Ausrüstung",
+      "en": "Infantry Gear",
+      "es": "Equipo para infantería",
+      "fr": "Matériel d'infanterie",
+      "it": "Attrezzatura per fanteria",
+      "ko": "보병 기어",
+      "pt": "Material de Infantaria",
+      "ru": "Пехотная экипировка",
+      "tr": "Piyade Teçhizatı",
+      "zh": "步兵装备"
+    },
+    "parent_category_ids": [
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "104",
+    "name": {
+      "de": "Fahrzeugwaffen",
+      "en": "Vehicle Weapons",
+      "es": "Armas para vehículos",
+      "fr": "Armement de véhicule",
+      "it": "Armi dei veicoli",
+      "ko": "차량 무기",
+      "pt": "Armas de Veículo",
+      "ru": "Оружие для техники",
+      "tr": "Araç Silahları",
+      "zh": "载具武器"
+    },
+    "parent_category_ids": [
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "105",
+    "name": {
+      "de": "Fahrzeug-Ausrüstung",
+      "en": "Vehicle Gear",
+      "es": "Equipo para vehículos",
+      "fr": "Équipement de véhicule",
+      "it": "Attrezzatura per veicoli",
+      "ko": "차량 장비",
+      "pt": "Equipamento de Veículo",
+      "ru": "Внешний вид техники",
+      "tr": "Araç Teçhizatı",
+      "zh": "载具装备"
+    },
+    "parent_category_ids": [
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "106",
+    "name": {
+      "de": "Rüstungstarnung",
+      "en": "Armor Camo",
+      "es": "Camuflaje de blindaje",
+      "fr": "Camouflage d'armure",
+      "it": "Mimetizzazione da armatura",
+      "ko": "아머 캐모",
+      "pt": "Camuflagem de Armadura",
+      "ru": "Камуфляж для брони",
+      "tr": "Armor Camo",
+      "zh": "[#ARMOR_CAMO#]"
+    },
+    "parent_category_ids": [
+      "103",
+      "142",
+      "100",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "107",
+    "name": {
+      "de": "Waffentarnung",
+      "en": "Weapon Camo",
+      "es": "Camuflaje de arma",
+      "fr": "Camouflage d'arme",
+      "it": "Mimetizzazione da arma",
+      "ko": "무기 캐모",
+      "pt": "Camuflagem de Arma",
+      "ru": "Камуфляж для оружия",
+      "tr": "Weapon Camo",
+      "zh": "[#WEAPON_CAMO#]"
+    },
+    "parent_category_ids": [
+      "103",
+      "142",
+      "100",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "108",
+    "name": {
+      "de": "Fahrzeugtarnung",
+      "en": "Vehicle Camo",
+      "es": "Camuflaje de vehículo",
+      "fr": "Camouflage Véhicule",
+      "it": "Mimetizzazione da veicolo",
+      "ko": "탑승장비 캐모",
+      "pt": "Camuflagem de Veículo",
+      "ru": "Камуфляж для транспорта",
+      "tr": "Vehicle Camo",
+      "zh": "[#VEHICLE_CAMO#]"
+    },
+    "parent_category_ids": [
+      "105",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "109",
+    "name": {
+      "de": "Flash-Primärwaffe",
+      "en": "Flash Primary Weapon",
+      "es": "Arma principal del Flash",
+      "fr": "Arme principale du Flash",
+      "it": "Arma primaria Flash",
+      "ko": "플래시 주무기",
+      "pt": "Arma Primária do Faísca",
+      "ru": "Основное орудие Flash",
+      "tr": "Flash Primary Weapon",
+      "zh": "Flash第一武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "110",
+    "name": {
+      "de": "Linke Galaxy-Waffe",
+      "en": "Galaxy Left Weapon",
+      "es": "Arma izquierda del Galaxy",
+      "fr": "Arme gauche du Galaxie",
+      "it": "Arma sinistra Galaxy",
+      "ko": "갤럭시 좌측 무기 ",
+      "pt": "Arma Esquerda do Galáxia",
+      "ru": "Левое орудие Galaxy",
+      "tr": "Galaxy Left Weapon",
+      "zh": "Galaxy左侧武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "111",
+    "name": {
+      "de": "Galaxy-Sekundärwaffe",
+      "en": "Galaxy Tail Weapon",
+      "es": "Arma de la cola del Galaxy",
+      "fr": "Arme de queue du Galaxie",
+      "it": "Arma di coda Galaxy",
+      "ko": "갤럭시 후방 무기",
+      "pt": "Arma da Cauda do Galáxia",
+      "ru": "Хвостовое орудие Galaxy",
+      "tr": "Galaxy Tail Weapon",
+      "zh": "Galaxy尾部武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "112",
+    "name": {
+      "de": "Rechte Galaxy-Waffe",
+      "en": "Galaxy Right Weapon",
+      "es": "Arma derecha del Galaxy",
+      "fr": "Arme droite du Galaxie",
+      "it": "Arma destra Galaxy",
+      "ko": "갤럭시 우측 무기",
+      "pt": "Arma Direita do Galáxia",
+      "ru": "Правое орудие Galaxy",
+      "tr": "Galaxy Right Weapon",
+      "zh": "Galaxy右侧武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "113",
+    "name": {
+      "de": "Obere Galaxy-Waffe",
+      "en": "Galaxy Top Weapon",
+      "es": "Arma superior del Galaxy",
+      "fr": "Armement de toit du Galaxie",
+      "it": "Arma dorsale Galaxy",
+      "ko": "갤럭시 상부 무기",
+      "pt": "Arma do Teto do Galáxia",
+      "ru": "Верхнее орудие Galaxy",
+      "tr": "Galaxy Top Weapon",
+      "zh": "Galaxy顶部武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "114",
+    "name": {
+      "de": "Oberer Harasser-Schütze",
+      "en": "Harasser Top Gunner",
+      "es": "Puesto de artillero superior del Harasser",
+      "fr": "Canonnier du dessus de l'Offenseur",
+      "it": "Artigliere dorsale Harasser",
+      "ko": "허래서 탑 거너",
+      "pt": "Artilharia Superior do Pertubador",
+      "ru": "Верхнее орудие Harasser",
+      "tr": "Harasser Top Gunner",
+      "zh": "Harasser顶部机枪"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "115",
+    "name": {
+      "de": "Liberator-Maschinengewehrkuppel",
+      "en": "Liberator Belly Weapon",
+      "es": "Arma de la panza del Liberator",
+      "fr": "Arme de ventre du Libérateur",
+      "it": "Arma ventrale Liberator",
+      "ko": "리버레이터 하부 무기",
+      "pt": "Arma da Fuselagem do Libertador",
+      "ru": "Нижнее орудие Liberator",
+      "tr": "Liberator Belly Weapon",
+      "zh": "Liberator机腹武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "116",
+    "name": {
+      "de": "Liberator-Bugkanone",
+      "en": "Liberator Nose Cannon",
+      "es": "Cañón del morro del Liberator",
+      "fr": "Canon de nez du Libérateur",
+      "it": "Cannone frontale Liberator",
+      "ko": "리버레이터 기수 기관포",
+      "pt": "Canhão Frontal do Libertador",
+      "ru": "Носовое орудие Liberator",
+      "tr": "Liberator Nose Cannon",
+      "zh": "Liberator机首武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "117",
+    "name": {
+      "de": "Liberator-Sekundärwaffe",
+      "en": "Liberator Tail Weapon",
+      "es": "Arma de la cola del Liberator",
+      "fr": "Arme de queue du Libérateur",
+      "it": "Arma di coda Liberator",
+      "ko": "리버레이터 후방 무기",
+      "pt": "Arma da Cauda do Libertador",
+      "ru": "Хвостовое орудие Liberator",
+      "tr": "Liberator Tail Weapon",
+      "zh": "Liberator机位武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "118",
+    "name": {
+      "de": "Lightning-Primärwaffe",
+      "en": "Lightning Primary Weapon ",
+      "es": "Arma principal del Lightning ",
+      "fr": "Arme principale du Foudre",
+      "it": "Arma primaria Lightning",
+      "ko": "라이트닝 주무기",
+      "pt": "Arma Primária do Relâmpago ",
+      "ru": "Основное орудие Lightning",
+      "tr": "Lightning Primary Weapon ",
+      "zh": "Lightning第一武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "119",
+    "name": {
+      "de": "Magrider-Schützenwaffe",
+      "en": "Magrider Gunner Weapon",
+      "es": "Puesto de artillero del Magrider",
+      "fr": "Arme de canonnier de l'Aérochar",
+      "it": "Arma di artiglieria Magrider",
+      "ko": "맥라이더 거너 무기",
+      "pt": "Arma de Artilharia do Magnave",
+      "ru": "Орудие стрелка Magrider",
+      "tr": "Magrider Gunner Weapon",
+      "zh": "Magrider炮手武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "120",
+    "name": {
+      "de": "Magrider-Primärwaffe",
+      "en": "Magrider Primary Weapon",
+      "es": "Arma principal del Magrider",
+      "fr": "Arme principale de l'Aérochar",
+      "it": "Arma primaria Magrider",
+      "ko": "맥라이더 주무기",
+      "pt": "Arma Primária do Magnave",
+      "ru": "Основное орудие Magrider",
+      "tr": "Magrider Primary Weapon",
+      "zh": "Magrider第一武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "121",
+    "name": {
+      "de": "Mosquito-Bugkanone",
+      "en": "Mosquito Nose Cannon",
+      "es": "Cañón del morro del Mosquito",
+      "fr": "Canon de nez du Mosquito",
+      "it": "Cannone frontale Mosquito",
+      "ko": "모스키토 기수 기관포",
+      "pt": "Canhão Frontal do Mosquito",
+      "ru": "Носовое орудие Mosquito",
+      "tr": "Mosquito Nose Cannon",
+      "zh": "Mosquito机首武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "122",
+    "name": {
+      "de": "Mosquito-Flügelbewaffnung",
+      "en": "Mosquito Wing Mount",
+      "es": "Soporte del ala del Mosquito",
+      "fr": "Monture d'aile de Mosquito",
+      "it": "Sotto le ali Mosquito",
+      "ko": "모스키토 날개 탑재",
+      "pt": "Suporte de arma da Asa do Mosquito",
+      "ru": "Крыльевое вооружение Mosquito",
+      "tr": "Mosquito Wing Mount",
+      "zh": "Mosquito挂载武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "123",
+    "name": {
+      "de": "Prowler-Schützenwaffe",
+      "en": "Prowler Gunner Weapon",
+      "es": "Puesto de artillero del Prowler",
+      "fr": "Arme de canonnier de Prédateur",
+      "it": "Arma di artiglieria Prowler",
+      "ko": "프라우러 거너 무기",
+      "pt": "Arma de Artilharia do Espreitador",
+      "ru": "Орудие стрелка Prowler",
+      "tr": "Prowler Gunner Weapon",
+      "zh": "Prowler炮手武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "124",
+    "name": {
+      "de": "Prowler-Primärwaffe",
+      "en": "Prowler Primary Weapon",
+      "es": "Arma principal del Prowler",
+      "fr": "Arme principale du Prédateur",
+      "it": "Arma primaria Prowler",
+      "ko": "프라우러 주무기",
+      "pt": "Arma Primária do Espreitador",
+      "ru": "Основное орудие Prowler",
+      "tr": "Prowler Primary Weapon",
+      "zh": "Prowler第一武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "125",
+    "name": {
+      "de": "Reaver-Bugkanone",
+      "en": "Reaver Nose Cannon",
+      "es": "Cañón del morro del Reaver",
+      "fr": "Canon de nez du Ravageur",
+      "it": "Cannone frontale Reaver",
+      "ko": "리버 기수 기관포",
+      "pt": "Canhão Frontal do Salteador",
+      "ru": "Носовое орудие Reaver",
+      "tr": "Reaver Nose Cannon",
+      "zh": "Reaver机首武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "126",
+    "name": {
+      "de": "Reaver-Flügelbewaffnung",
+      "en": "Reaver Wing Mount",
+      "es": "Soporte del ala del Reaver",
+      "fr": "Monture d'aile de Ravageur",
+      "it": "Sotto le ali Reaver",
+      "ko": "리버 날개 탑재",
+      "pt": "Suporte de arma da Asa do Salteador",
+      "ru": "Крыльевое вооружение Reaver",
+      "tr": "Reaver Wing Mount",
+      "zh": "Reaver挂载武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "127",
+    "name": {
+      "de": "Scythe-Bugkanone",
+      "en": "Scythe Nose Cannon",
+      "es": "Cañón del morro del Scythe",
+      "fr": "Canon de nez de Faucheuse",
+      "it": "Cannone frontale Scythe",
+      "ko": "사이드 기수 기관포",
+      "pt": "Canhão Frontal do Foice",
+      "ru": "Носовое орудие Scythe",
+      "tr": "Scythe Nose Cannon",
+      "zh": "Scythe机首武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "128",
+    "name": {
+      "de": "Scythe-Flügelbewaffnung",
+      "en": "Scythe Wing Mount",
+      "es": "Soporte del ala del Scythe",
+      "fr": "Monture d'aile de Faucheuse",
+      "it": "Sotto le ali Scythe",
+      "ko": "사이드 날개 탑재",
+      "pt": "Suporte de Arma na Asa - Foice",
+      "ru": "Крыльевое вооружение Scythe",
+      "tr": "Scythe Wing Mount",
+      "zh": "Scythe挂载武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "129",
+    "name": {
+      "de": "Sunderer-Frontschütze",
+      "en": "Sunderer Front Gunner",
+      "es": "Puesto de artillero frontal del Sunderer",
+      "fr": "Canonnier avant du Disperseur",
+      "it": "Artigliere frontale Sunderer",
+      "ko": "선더러 전방 거너",
+      "pt": "Artilharia Frontal do Dispersor",
+      "ru": "Переднее орудие Sunderer",
+      "tr": "Sunderer Front Gunner",
+      "zh": "Sunderer前方炮手"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "130",
+    "name": {
+      "de": "Sunderer-Heckschütze",
+      "en": "Sunderer Rear Gunner",
+      "es": "Puesto de artillero trasero del Sunderer",
+      "fr": "Canonnier arrière du Disperseur",
+      "it": "Artigliere di coda Sunderer",
+      "ko": "선더러 후방 거너",
+      "pt": "Artilharia Traseira do Dispersor",
+      "ru": "Заднее орудие Sunderer",
+      "tr": "Sunderer Rear Gunner",
+      "zh": "Sunderer尾部炮手"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "131",
+    "name": {
+      "de": "Vanguard-Schützenwaffe",
+      "en": "Vanguard Gunner Weapon",
+      "es": "Puesto de artillero del Vanguard",
+      "fr": "Arme de canonnier d'Éclaireur",
+      "it": "Arma di artiglieria Vanguard",
+      "ko": "뱅가드 거너 무기",
+      "pt": "Arma de Artilharia do Vanguarda",
+      "ru": "Орудие стрелка",
+      "tr": "Vanguard Gunner Weapon",
+      "zh": "Vanguard炮手武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "132",
+    "name": {
+      "de": "Vanguard-Primärwaffe",
+      "en": "Vanguard Primary Weapon",
+      "es": "Arma principal del Vanguard",
+      "fr": "Arme principale d'Éclaireur",
+      "it": "Arma primaria Vanguard",
+      "ko": "뱅가드 주무기",
+      "pt": "Arma Primária do Vanguarda",
+      "ru": "Основное орудие Vanguard",
+      "tr": "Vanguard Primary Weapon",
+      "zh": "Vanguard第一武器"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "133",
+    "name": {
+      "de": "Implantate",
+      "en": "Implants",
+      "es": "Implantes",
+      "fr": "Implants",
+      "it": "Impianti",
+      "ko": "임플란트",
+      "pt": "Implantes",
+      "ru": "Импланты",
+      "tr": "Implants",
+      "zh": "插件"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "134",
+    "name": {
+      "de": "Konsolidierte Tarnung",
+      "en": "Consolidated Camo",
+      "es": "Camuflaje consolidado",
+      "fr": "Camouflage consolidé",
+      "it": "Mimetica consolidata",
+      "ko": "통합 캐모",
+      "pt": "NULL",
+      "ru": "Общий камуфляж",
+      "tr": "Consolidated Camo",
+      "zh": "团结迷彩"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "135",
+    "name": {
+      "de": "VO-Packs",
+      "en": "VO Packs",
+      "es": "Packs de voz",
+      "fr": "Packs VO",
+      "it": "Pacchetti Voce",
+      "ko": "음성 팩",
+      "pt": "NULL",
+      "ru": "Голосовые пакеты",
+      "tr": "VO Packs",
+      "zh": "语音包"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "136",
+    "name": {
+      "de": "VO-Pack \"Männlich\"",
+      "en": "Male VO Pack",
+      "es": "Pack de voz de hombre",
+      "fr": "Pack VO masculin",
+      "it": "Pacchetto Voce maschile",
+      "ko": "남성 음성 팩",
+      "pt": "NULL",
+      "ru": "Мужской голосовой пакет",
+      "tr": "Male VO Pack",
+      "zh": "[#MALE#]语音包"
+    },
+    "parent_category_ids": [
+      "135"
+    ]
+  },
+  {
+    "item_category_id": "137",
+    "name": {
+      "de": "VO-Pack \"Weiblich\"",
+      "en": "Female VO Pack",
+      "es": "Pack de voz de mujer",
+      "fr": "Pack VO féminin",
+      "it": "Pacchetto Voce femminile",
+      "ko": "여성 음성 팩",
+      "pt": "NULL",
+      "ru": "Женский голосовой пакет",
+      "tr": "Female VO Pack",
+      "zh": "[#FEMALE#]语音包"
+    },
+    "parent_category_ids": [
+      "135"
+    ]
+  },
+  {
+    "item_category_id": "138",
+    "name": {
+      "de": "Valkyrie Bugschütze",
+      "en": "Valkyrie Nose Gunner",
+      "es": "Artillero de morro de Valkyrie",
+      "fr": "Canonnier de nez",
+      "it": "Artigliere frontale Valkyrie",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Носовое орудие Valkyrie",
+      "tr": "NULL",
+      "zh": "Valkyrie机首炮"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "139",
+    "name": {
+      "de": "Infanterie-Fähigkeiten",
+      "en": "Infantry Abilities",
+      "es": "Habilidades de infantería",
+      "fr": "Capacités de l'infanterie",
+      "it": "Abilità di fanteria",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Возможности пехоты",
+      "tr": "NULL",
+      "zh": "步兵能力"
+    },
+    "parent_category_ids": [
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "140",
+    "name": {
+      "de": "Fahrzeug-Fähigkeiten",
+      "en": "Vehicle Abilities",
+      "es": "Habilidades de vehículo",
+      "fr": "Capacités du véhicule",
+      "it": "Abilità dei veicoli",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Возможности техники",
+      "tr": "NULL",
+      "zh": "载具能力"
+    },
+    "parent_category_ids": [
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "141",
+    "name": {
+      "de": "Booster & Hilfsmittel",
+      "en": "Boosts & Utilities",
+      "es": "Potenciadores y herramientas",
+      "fr": "Boosts et Utilitaires",
+      "it": "Potenziamenti e servizi",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Бонусы и услуги",
+      "tr": "Boosts",
+      "zh": "加成与功能"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "142",
+    "name": {
+      "de": "Gemeinsames Emblem",
+      "en": "Consolidated Decal",
+      "es": "Emblema consolidado",
+      "fr": "Décalco Consolidé",
+      "it": "Adesivo consolidato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема «Сплоченность»",
+      "tr": "NULL",
+      "zh": "联合[#DECAL#]"
+    },
+    "parent_category_ids": [
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "143",
+    "name": {
+      "de": "Aufsätze",
+      "en": "Attachments",
+      "es": "Accesorios",
+      "fr": "Accessoires",
+      "it": "Accessori",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Модификаторы",
+      "tr": "NULL",
+      "zh": "配件"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "144",
+    "name": {
+      "de": "FNT-Dachgeschütz",
+      "en": "ANT Top Turret",
+      "es": "Torreta superior para ANT",
+      "fr": "Tourelle haute pour le TNA",
+      "it": "ANT: Torretta superiore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Верхняя турель ANT",
+      "tr": "NULL",
+      "zh": "ANT顶部炮塔"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
+  },
+  {
+    "item_category_id": "145",
+    "name": {
+      "de": "NFNT-Peripherie",
+      "en": "ANT Utility",
+      "es": "Herramientas ANT",
+      "fr": "Utilitaire pour le TNA",
+      "it": "ANT: Utilità",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Разное для ANT",
+      "tr": "NULL",
+      "zh": "ANT功能"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "147",
+    "name": {
+      "de": "Luftkampfwaffe",
+      "en": "Aerial Combat Weapon",
+      "es": "Arma de combate aérea",
+      "fr": "Arme de Combat aérien",
+      "it": "Arma per combattimento aereo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Оружие воздушного боя",
+      "tr": "NULL",
+      "zh": "空战武器"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "148",
+    "name": {
+      "de": "FNT-Erntewerkzeug",
+      "en": "ANT Harvesting Tool",
+      "es": "Herramienta para cosechar ANT",
+      "fr": "Outil de collecte du TNA",
+      "it": "ANT: Strumento raccolta",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Добывающее устройство ANT",
+      "tr": "NULL",
+      "zh": "ANT采集工具"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "157",
+    "name": {
+      "de": "Hybrid-Gewehr",
+      "en": "Hybrid Rifle",
+      "es": "Rifle híbrido",
+      "fr": "Fusil hybride",
+      "it": "Fucile ibrido",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Гибридная винтовка",
+      "tr": "NULL",
+      "zh": "混合步枪"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "207",
+    "name": {
+      "de": "Waffe",
+      "en": "Weapon",
+      "es": "Arma",
+      "fr": "Arme",
+      "it": "Arma",
+      "ko": "무기",
+      "pt": "Arma",
+      "ru": "Оружие",
+      "tr": "Silah",
+      "zh": "武器"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "208",
+    "name": {
+      "de": "Bastion-Verteidigungssystem",
+      "en": "Bastion Point Defense",
+      "es": "Defensa aérea de Bastion",
+      "fr": "Défense de la zone du Bastion",
+      "it": "Difesa Bastion Point",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Точечная оборона Bastion",
+      "tr": "NULL",
+      "zh": "Bastion点防御"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "209",
+    "name": {
+      "de": "Bastion-Bombardement",
+      "en": "Bastion Bombard",
+      "es": "Bombardeo de Bastion",
+      "fr": "Bombarde du Bastion",
+      "it": "Bombarda Bastion",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мортиры Bastion",
+      "tr": "NULL",
+      "zh": "Bastion轰击"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "210",
+    "name": {
+      "de": "Bastion-Waffensystem",
+      "en": "Bastion Weapon System",
+      "es": "Sistema de armas de Bastion",
+      "fr": "Système d'armement du Bastion",
+      "it": "Sistema d'Arma del Bastion",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Оружейная система Bastion",
+      "tr": "NULL",
+      "zh": "Bastion武器系统"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "211",
+    "name": {
+      "de": "Colossus Primärwaffe",
+      "en": "Colossus Primary Weapon",
+      "es": "Arma primaria de Colossus",
+      "fr": "Arme principale du Colossus",
+      "it": "Arma primaria del Colossus",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Основное орудие Colossus",
+      "tr": "NULL",
+      "zh": "Colossus第一武器"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "212",
+    "name": {
+      "de": "Colossus Waffe vorne rechts",
+      "en": "Colossus Front Right Weapon",
+      "es": "Arma frontal derecha de Colossus",
+      "fr": "Arme avant droite du Colossus",
+      "it": "Arma anteriore destra del Colossus",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Правое переднее орудие Colossus",
+      "tr": "NULL",
+      "zh": "Colossus右前方武器"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "213",
+    "name": {
+      "de": "Colossus Waffe vorne links",
+      "en": "Colossus Front Left Weapon",
+      "es": "Arma frontal izquierda de Colossus",
+      "fr": "Arme avant gauche du Colossus",
+      "it": "Arma anteriore sinistra del Colossus",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Левое переднее орудие Colossus",
+      "tr": "NULL",
+      "zh": "Colossus左前方武器"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "214",
+    "name": {
+      "de": "Colossus Waffe hinten rechts",
+      "en": "Colossus Rear Right Weapon",
+      "es": "Arma trasera derecha de Colossus",
+      "fr": "Arme arrière droite du Colossus",
+      "it": "Arma posteriore destra del Colossus",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Правое заднее орудие Colossus",
+      "tr": "NULL",
+      "zh": "Colossus右后方武器"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "215",
+    "name": {
+      "de": "Colossus Waffe hinten links",
+      "en": "Colossus Rear Left Weapon",
+      "es": "Arma trasera izquierda de Colossus",
+      "fr": "Arme arrière gauche du Colossus",
+      "it": "Arma posteriore sinistra del Colossus",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Левое заднее орудие Colossus",
+      "tr": "NULL",
+      "zh": "Colossus左后方武器"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "216",
+    "name": {
+      "de": "Javelin-Primärwaffe",
+      "en": "Javelin Primary Weapon",
+      "es": "Arma primaria de Javelin",
+      "fr": "Arme principale de Javelot",
+      "it": "Arma primaria Javelin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Основное орудие для Javelin",
+      "tr": "NULL",
+      "zh": "Javelin第一武器"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "217",
+    "name": {
+      "de": "Chimera Primärwaffen",
+      "en": "Chimera Primary Weapons",
+      "es": "Armas primarias de Chimera",
+      "fr": "Armes primaires de Chimère",
+      "it": "Armi primarie Chimera",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Основное оружие для Chimera",
+      "tr": "NULL",
+      "zh": "Chimera主武器"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "218",
+    "name": {
+      "de": "Chimera Sekundärwaffen",
+      "en": "Chimera Secondary Weapons",
+      "es": "Armas secundarias de Chimera",
+      "fr": "Armes secondaires de Chimère",
+      "it": "Armi secondarie Chimera",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Дополнительное оружие для Chimera",
+      "tr": "NULL",
+      "zh": "Chimera第二武器"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "219",
+    "name": {
+      "de": "Schwere Armbrust",
+      "en": "Heavy Crossbow",
+      "es": "Ballesta pesada",
+      "fr": "Arbalète lourde",
+      "it": "Balestra pesante",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Тяжелый арбалет",
+      "tr": "NULL",
+      "zh": "重弩"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  },
+  {
+    "item_category_id": "220",
+    "name": {
+      "de": "Amphibien-Gewehr",
+      "en": "Amphibious Rifle",
+      "es": "Rifle anfibio",
+      "fr": "Fusil amphibie",
+      "it": "Fucile anfibio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Подводное ружье",
+      "tr": "NULL",
+      "zh": "两栖步枪"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "221",
+    "name": {
+      "de": "Corsair-Bugturm",
+      "en": "Corsair Front Turret",
+      "es": "Torreta frontal de Corsair",
+      "fr": "Tourelle avant du Corsaire",
+      "it": "Torretta anteriore Corsair",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Фронтальная турель Corsair",
+      "tr": "NULL",
+      "zh": "Corsair前炮台"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "222",
+    "name": {
+      "de": "Corsair-Heckturm",
+      "en": "Corsair Rear Turret",
+      "es": "Torreta trasera de Corsair",
+      "fr": "Tourelle arrière du Corsaire",
+      "it": "Torretta posteriore Corsair",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Задняя турель Corsair",
+      "tr": "NULL",
+      "zh": "Corsair后炮台"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "223",
+    "name": {
+      "de": "Amphibien-Seitenwaffe",
+      "en": "Amphibious Sidearm",
+      "es": "Arma de mano anfibia",
+      "fr": "Arme de poing amphibie",
+      "it": "Arma secondaria anfibia",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Доп. подводное оружие",
+      "tr": "NULL",
+      "zh": "两栖副武器"
+    },
+    "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "224",
+    "name": {
+      "de": "Anti-Wehrmaterial-Gewehr",
+      "en": "Anti-Materiel Rifle",
+      "es": "Rifle antimaterial",
+      "fr": "Fusil antimatériel",
+      "it": "Fucile anti-materiale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Крупнокалиберная винтовка",
+      "tr": "NULL",
+      "zh": "反器材步枪"
+    },
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
+  }
+]

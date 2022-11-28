@@ -1,0 +1,101 @@
+[
+  {
+    "outfit_war_id": "39",
+    "world_id": "101",
+    "title": "NULL",
+    "image_set_id": "806642",
+    "outfit_size_requirement": "5",
+    "outfit_signup_requirement": "5",
+    "start_time": "1661630018",
+    "end_time": "1661665366",
+    "phases": [
+      {
+        "order": "0",
+        "title": {
+          "de": "Anmeldungsphase",
+          "en": "Enlistment Phase",
+          "es": "Fase de alistamiento",
+          "fr": "Phase d'enrôlement",
+          "it": "Fase di arruolamento",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Фаза приема заявок",
+          "tr": "NULL",
+          "zh": "募兵阶段"
+        },
+        "description": {
+          "de": "Melde dich für den nächsten Team-Krieg an!",
+          "en": "Sign up for the next Outfit War!",
+          "es": "¡Inscríbete en la próxima guerra de brigadas!",
+          "fr": "Inscrivez-vous pour la prochaine Guerre d'Unités !",
+          "it": "Iscriviti alla prossima Guerra delle outfit!",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Зарегистрируйтесь для участия в следующей войне подразделений!",
+          "tr": "NULL",
+          "zh": "报名参加下一场军团战争！"
+        },
+        "start_time": "1661687618",
+        "end_time": "1661630196"
+      },
+      {
+        "order": "1",
+        "title": {
+          "de": "Team-Krieg",
+          "en": "Outfit Wars",
+          "es": "Guerra de brigadas",
+          "fr": "Guerres d'Unités",
+          "it": "Guerra delle outfit",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Войны подразделений",
+          "tr": "NULL",
+          "zh": "军团战争"
+        },
+        "description": {
+          "de": "Der Krieg hat begonnen!",
+          "en": "The War Has Begun!",
+          "es": "¡Es la guerra!",
+          "fr": "La guerre a commencé !",
+          "it": "La guerra è iniziata!",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Война началась!",
+          "tr": "NULL",
+          "zh": "战争已经开始！"
+        },
+        "start_time": "1661630196",
+        "end_time": "1661634766"
+      },
+      {
+        "order": "2",
+        "title": {
+          "de": "Kriegsende",
+          "en": "Post-War",
+          "es": "Posguerra",
+          "fr": "Après-guerre",
+          "it": "Dopoguerra",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Послевоенное время",
+          "tr": "NULL",
+          "zh": "战后"
+        },
+        "description": {
+          "de": "Der Krieg ist beendet.",
+          "en": "The War has ended.",
+          "es": "La guerra ha terminado.",
+          "fr": "La Guerre est terminée.",
+          "it": "La guerra è finita",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Война окончена.",
+          "tr": "NULL",
+          "zh": "战争已结束。"
+        },
+        "start_time": "1661634766",
+        "end_time": "1661665366"
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "world_id": "101",
+    "name": {
+      "de": "Test-Server",
+      "en": "Test Server",
+      "es": "Servidor de prueba",
+      "fr": "Serveur de tests",
+      "it": "Test Server",
+      "ko": "테스트 서버",
+      "pt": "Servidor de Teste",
+      "ru": "Тестовый сервер",
+      "tr": "Test Sunucusu",
+      "zh": "测试服务器"
+    },
+    "is_locked": "0",
+    "is_unprivileged_access_allowed": "1"
+  }
+]
