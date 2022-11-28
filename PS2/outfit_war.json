@@ -1,0 +1,567 @@
+[
+  {
+    "outfit_war_id": "35",
+    "world_id": "1",
+    "primary_round_id": "339330750175136104",
+    "title": {
+      "de": "NEXUS SAISON 1",
+      "en": "NEXUS SEASON 1",
+      "es": "TEMPORADA 1 DE NEXO",
+      "fr": "NEXUS - SAISON 1",
+      "it": "NEXUS STAGIONE 1",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "СЕЗОН NEXUS 1",
+      "tr": "NULL",
+      "zh": "NEXUS第1季"
+    },
+    "outfit_size_requirement": "48",
+    "outfit_signup_requirement": "48",
+    "start_time": "1659510000",
+    "end_time": "1672473600",
+    "image_set_id": "806642",
+    "image_id": "93426",
+    "image_path": "/files/ps2/images/static/93426.png",
+    "phases": [
+      {
+        "order": "0",
+        "title": {
+          "de": "Anmeldungsphase",
+          "en": "Enlistment Phase",
+          "es": "Fase de alistamiento",
+          "fr": "Phase d'enrôlement",
+          "it": "Fase di arruolamento",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Фаза приема заявок",
+          "tr": "NULL",
+          "zh": "募兵阶段"
+        },
+        "description": {
+          "de": "Melde dich für den nächsten Team-Krieg an!",
+          "en": "Sign up for the next Outfit War!",
+          "es": "¡Inscríbete en la próxima guerra de brigadas!",
+          "fr": "Inscrivez-vous pour la prochaine Guerre d'Unités !",
+          "it": "Iscriviti alla prossima Guerra delle outfit!",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Зарегистрируйтесь для участия в следующей войне подразделений!",
+          "tr": "NULL",
+          "zh": "报名参加下一场军团战争！"
+        },
+        "start_time": "1659510000",
+        "end_time": "1661756400"
+      },
+      {
+        "order": "1",
+        "title": {
+          "de": "Team-Krieg",
+          "en": "Outfit Wars",
+          "es": "Guerra de brigadas",
+          "fr": "Guerres d'Unités",
+          "it": "Guerra delle outfit",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Войны подразделений",
+          "tr": "NULL",
+          "zh": "军团战争"
+        },
+        "description": {
+          "de": "Der Krieg hat begonnen!",
+          "en": "The War Has Begun!",
+          "es": "¡Es la guerra!",
+          "fr": "La guerre a commencé !",
+          "it": "La guerra è iniziata!",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Война началась!",
+          "tr": "NULL",
+          "zh": "战争已经开始！"
+        },
+        "start_time": "1661756400",
+        "end_time": "1665990000"
+      },
+      {
+        "order": "2",
+        "title": {
+          "de": "Kriegsende",
+          "en": "Post-War",
+          "es": "Posguerra",
+          "fr": "Après-guerre",
+          "it": "Dopoguerra",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Послевоенное время",
+          "tr": "NULL",
+          "zh": "战后"
+        },
+        "description": {
+          "de": "Der Krieg ist beendet.",
+          "en": "The War has ended.",
+          "es": "La guerra ha terminado.",
+          "fr": "La Guerre est terminée.",
+          "it": "La guerra è finita",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Война окончена.",
+          "tr": "NULL",
+          "zh": "战争已结束。"
+        },
+        "start_time": "1665990000",
+        "end_time": "1672473600"
+      }
+    ]
+  },
+  {
+    "outfit_war_id": "34",
+    "world_id": "13",
+    "primary_round_id": "524038850792655688",
+    "title": {
+      "de": "NEXUS SAISON 1",
+      "en": "NEXUS SEASON 1",
+      "es": "TEMPORADA 1 DE NEXO",
+      "fr": "NEXUS - SAISON 1",
+      "it": "NEXUS STAGIONE 1",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "СЕЗОН NEXUS 1",
+      "tr": "NULL",
+      "zh": "NEXUS第1季"
+    },
+    "outfit_size_requirement": "48",
+    "outfit_signup_requirement": "48",
+    "start_time": "1659466800",
+    "end_time": "1672473600",
+    "image_set_id": "806642",
+    "image_id": "93426",
+    "image_path": "/files/ps2/images/static/93426.png",
+    "phases": [
+      {
+        "order": "0",
+        "title": {
+          "de": "Anmeldungsphase",
+          "en": "Enlistment Phase",
+          "es": "Fase de alistamiento",
+          "fr": "Phase d'enrôlement",
+          "it": "Fase di arruolamento",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Фаза приема заявок",
+          "tr": "NULL",
+          "zh": "募兵阶段"
+        },
+        "description": {
+          "de": "Melde dich für den nächsten Team-Krieg an!",
+          "en": "Sign up for the next Outfit War!",
+          "es": "¡Inscríbete en la próxima guerra de brigadas!",
+          "fr": "Inscrivez-vous pour la prochaine Guerre d'Unités !",
+          "it": "Iscriviti alla prossima Guerra delle outfit!",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Зарегистрируйтесь для участия в следующей войне подразделений!",
+          "tr": "NULL",
+          "zh": "报名参加下一场军团战争！"
+        },
+        "start_time": "1659466800",
+        "end_time": "1661713200"
+      },
+      {
+        "order": "1",
+        "title": {
+          "de": "Team-Krieg",
+          "en": "Outfit Wars",
+          "es": "Guerra de brigadas",
+          "fr": "Guerres d'Unités",
+          "it": "Guerra delle outfit",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Войны подразделений",
+          "tr": "NULL",
+          "zh": "军团战争"
+        },
+        "description": {
+          "de": "Der Krieg hat begonnen!",
+          "en": "The War Has Begun!",
+          "es": "¡Es la guerra!",
+          "fr": "La guerre a commencé !",
+          "it": "La guerra è iniziata!",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Война началась!",
+          "tr": "NULL",
+          "zh": "战争已经开始！"
+        },
+        "start_time": "1661713200",
+        "end_time": "1665946800"
+      },
+      {
+        "order": "2",
+        "title": {
+          "de": "Kriegsende",
+          "en": "Post-War",
+          "es": "Posguerra",
+          "fr": "Après-guerre",
+          "it": "Dopoguerra",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Послевоенное время",
+          "tr": "NULL",
+          "zh": "战后"
+        },
+        "description": {
+          "de": "Der Krieg ist beendet.",
+          "en": "The War has ended.",
+          "es": "La guerra ha terminado.",
+          "fr": "La Guerre est terminée.",
+          "it": "La guerra è finita",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Война окончена.",
+          "tr": "NULL",
+          "zh": "战争已结束。"
+        },
+        "start_time": "1665946800",
+        "end_time": "1672473600"
+      }
+    ]
+  },
+  {
+    "outfit_war_id": "37",
+    "world_id": "10",
+    "primary_round_id": "524038850792663803",
+    "title": {
+      "de": "NEXUS SAISON 1",
+      "en": "NEXUS SEASON 1",
+      "es": "TEMPORADA 1 DE NEXO",
+      "fr": "NEXUS - SAISON 1",
+      "it": "NEXUS STAGIONE 1",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "СЕЗОН NEXUS 1",
+      "tr": "NULL",
+      "zh": "NEXUS第1季"
+    },
+    "outfit_size_requirement": "48",
+    "outfit_signup_requirement": "48",
+    "start_time": "1659466800",
+    "end_time": "1672473600",
+    "image_set_id": "806642",
+    "image_id": "93426",
+    "image_path": "/files/ps2/images/static/93426.png",
+    "phases": [
+      {
+        "order": "0",
+        "title": {
+          "de": "Anmeldungsphase",
+          "en": "Enlistment Phase",
+          "es": "Fase de alistamiento",
+          "fr": "Phase d'enrôlement",
+          "it": "Fase di arruolamento",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Фаза приема заявок",
+          "tr": "NULL",
+          "zh": "募兵阶段"
+        },
+        "description": {
+          "de": "Melde dich für den nächsten Team-Krieg an!",
+          "en": "Sign up for the next Outfit War!",
+          "es": "¡Inscríbete en la próxima guerra de brigadas!",
+          "fr": "Inscrivez-vous pour la prochaine Guerre d'Unités !",
+          "it": "Iscriviti alla prossima Guerra delle outfit!",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Зарегистрируйтесь для участия в следующей войне подразделений!",
+          "tr": "NULL",
+          "zh": "报名参加下一场军团战争！"
+        },
+        "start_time": "1659466800",
+        "end_time": "1661713200"
+      },
+      {
+        "order": "1",
+        "title": {
+          "de": "Team-Krieg",
+          "en": "Outfit Wars",
+          "es": "Guerra de brigadas",
+          "fr": "Guerres d'Unités",
+          "it": "Guerra delle outfit",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Войны подразделений",
+          "tr": "NULL",
+          "zh": "军团战争"
+        },
+        "description": {
+          "de": "Der Krieg hat begonnen!",
+          "en": "The War Has Begun!",
+          "es": "¡Es la guerra!",
+          "fr": "La guerre a commencé !",
+          "it": "La guerra è iniziata!",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Война началась!",
+          "tr": "NULL",
+          "zh": "战争已经开始！"
+        },
+        "start_time": "1661713200",
+        "end_time": "1665946800"
+      },
+      {
+        "order": "2",
+        "title": {
+          "de": "Kriegsende",
+          "en": "Post-War",
+          "es": "Posguerra",
+          "fr": "Après-guerre",
+          "it": "Dopoguerra",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Послевоенное время",
+          "tr": "NULL",
+          "zh": "战后"
+        },
+        "description": {
+          "de": "Der Krieg ist beendet.",
+          "en": "The War has ended.",
+          "es": "La guerra ha terminado.",
+          "fr": "La Guerre est terminée.",
+          "it": "La guerra è finita",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Война окончена.",
+          "tr": "NULL",
+          "zh": "战争已结束。"
+        },
+        "start_time": "1665946800",
+        "end_time": "1672473600"
+      }
+    ]
+  },
+  {
+    "outfit_war_id": "36",
+    "world_id": "17",
+    "primary_round_id": "339330750175086918",
+    "title": {
+      "de": "NEXUS SAISON 1",
+      "en": "NEXUS SEASON 1",
+      "es": "TEMPORADA 1 DE NEXO",
+      "fr": "NEXUS - SAISON 1",
+      "it": "NEXUS STAGIONE 1",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "СЕЗОН NEXUS 1",
+      "tr": "NULL",
+      "zh": "NEXUS第1季"
+    },
+    "outfit_size_requirement": "48",
+    "outfit_signup_requirement": "48",
+    "start_time": "1659499200",
+    "end_time": "1672473600",
+    "image_set_id": "806642",
+    "image_id": "93426",
+    "image_path": "/files/ps2/images/static/93426.png",
+    "phases": [
+      {
+        "order": "0",
+        "title": {
+          "de": "Anmeldungsphase",
+          "en": "Enlistment Phase",
+          "es": "Fase de alistamiento",
+          "fr": "Phase d'enrôlement",
+          "it": "Fase di arruolamento",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Фаза приема заявок",
+          "tr": "NULL",
+          "zh": "募兵阶段"
+        },
+        "description": {
+          "de": "Melde dich für den nächsten Team-Krieg an!",
+          "en": "Sign up for the next Outfit War!",
+          "es": "¡Inscríbete en la próxima guerra de brigadas!",
+          "fr": "Inscrivez-vous pour la prochaine Guerre d'Unités !",
+          "it": "Iscriviti alla prossima Guerra delle outfit!",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Зарегистрируйтесь для участия в следующей войне подразделений!",
+          "tr": "NULL",
+          "zh": "报名参加下一场军团战争！"
+        },
+        "start_time": "1659499200",
+        "end_time": "1661745600"
+      },
+      {
+        "order": "1",
+        "title": {
+          "de": "Team-Krieg",
+          "en": "Outfit Wars",
+          "es": "Guerra de brigadas",
+          "fr": "Guerres d'Unités",
+          "it": "Guerra delle outfit",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Войны подразделений",
+          "tr": "NULL",
+          "zh": "军团战争"
+        },
+        "description": {
+          "de": "Der Krieg hat begonnen!",
+          "en": "The War Has Begun!",
+          "es": "¡Es la guerra!",
+          "fr": "La guerre a commencé !",
+          "it": "La guerra è iniziata!",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Война началась!",
+          "tr": "NULL",
+          "zh": "战争已经开始！"
+        },
+        "start_time": "1661745600",
+        "end_time": "1665979200"
+      },
+      {
+        "order": "2",
+        "title": {
+          "de": "Kriegsende",
+          "en": "Post-War",
+          "es": "Posguerra",
+          "fr": "Après-guerre",
+          "it": "Dopoguerra",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Послевоенное время",
+          "tr": "NULL",
+          "zh": "战后"
+        },
+        "description": {
+          "de": "Der Krieg ist beendet.",
+          "en": "The War has ended.",
+          "es": "La guerra ha terminado.",
+          "fr": "La Guerre est terminée.",
+          "it": "La guerra è finita",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Война окончена.",
+          "tr": "NULL",
+          "zh": "战争已结束。"
+        },
+        "start_time": "1665979200",
+        "end_time": "1672473600"
+      }
+    ]
+  },
+  {
+    "outfit_war_id": "38",
+    "world_id": "40",
+    "primary_round_id": "339330910781456605",
+    "title": {
+      "de": "NEXUS SAISON 1",
+      "en": "NEXUS SEASON 1",
+      "es": "TEMPORADA 1 DE NEXO",
+      "fr": "NEXUS - SAISON 1",
+      "it": "NEXUS STAGIONE 1",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "СЕЗОН NEXUS 1",
+      "tr": "NULL",
+      "zh": "NEXUS第1季"
+    },
+    "outfit_size_requirement": "48",
+    "outfit_signup_requirement": "48",
+    "start_time": "1659538800",
+    "end_time": "1672473600",
+    "image_set_id": "806642",
+    "image_id": "93426",
+    "image_path": "/files/ps2/images/static/93426.png",
+    "phases": [
+      {
+        "order": "0",
+        "title": {
+          "de": "Anmeldungsphase",
+          "en": "Enlistment Phase",
+          "es": "Fase de alistamiento",
+          "fr": "Phase d'enrôlement",
+          "it": "Fase di arruolamento",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Фаза приема заявок",
+          "tr": "NULL",
+          "zh": "募兵阶段"
+        },
+        "description": {
+          "de": "Melde dich für den nächsten Team-Krieg an!",
+          "en": "Sign up for the next Outfit War!",
+          "es": "¡Inscríbete en la próxima guerra de brigadas!",
+          "fr": "Inscrivez-vous pour la prochaine Guerre d'Unités !",
+          "it": "Iscriviti alla prossima Guerra delle outfit!",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Зарегистрируйтесь для участия в следующей войне подразделений!",
+          "tr": "NULL",
+          "zh": "报名参加下一场军团战争！"
+        },
+        "start_time": "1659538800",
+        "end_time": "1661785200"
+      },
+      {
+        "order": "1",
+        "title": {
+          "de": "Team-Krieg",
+          "en": "Outfit Wars",
+          "es": "Guerra de brigadas",
+          "fr": "Guerres d'Unités",
+          "it": "Guerra delle outfit",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Войны подразделений",
+          "tr": "NULL",
+          "zh": "军团战争"
+        },
+        "description": {
+          "de": "Der Krieg hat begonnen!",
+          "en": "The War Has Begun!",
+          "es": "¡Es la guerra!",
+          "fr": "La guerre a commencé !",
+          "it": "La guerra è iniziata!",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Война началась!",
+          "tr": "NULL",
+          "zh": "战争已经开始！"
+        },
+        "start_time": "1661785200",
+        "end_time": "1666018800"
+      },
+      {
+        "order": "2",
+        "title": {
+          "de": "Kriegsende",
+          "en": "Post-War",
+          "es": "Posguerra",
+          "fr": "Après-guerre",
+          "it": "Dopoguerra",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Послевоенное время",
+          "tr": "NULL",
+          "zh": "战后"
+        },
+        "description": {
+          "de": "Der Krieg ist beendet.",
+          "en": "The War has ended.",
+          "es": "La guerra ha terminado.",
+          "fr": "La Guerre est terminée.",
+          "it": "La guerra è finita",
+          "ko": "NULL",
+          "pt": "NULL",
+          "ru": "Война окончена.",
+          "tr": "NULL",
+          "zh": "战争已结束。"
+        },
+        "start_time": "1666018800",
+        "end_time": "1672473600"
+      }
+    ]
+  }
+]

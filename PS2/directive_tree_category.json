@@ -1,0 +1,156 @@
+[
+  {
+    "directive_tree_category_id": "3",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Infanterie",
+      "en": "Infantry",
+      "es": "Infantería",
+      "fr": "Infanterie",
+      "it": "Fanteria",
+      "ko": "보병",
+      "pt": "Infantaria",
+      "ru": "Пехота",
+      "tr": "Piyade",
+      "zh": "步兵"
+    },
+    "display_order": "2"
+  },
+  {
+    "directive_tree_category_id": "11",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Spezialisierung",
+      "en": "Specialty",
+      "es": "Especiales",
+      "fr": "Spécialité",
+      "it": "Specialità",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Специализация",
+      "tr": "NULL",
+      "zh": "专长"
+    },
+    "display_order": "9"
+  },
+  {
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeuge",
+      "en": "Vehicles",
+      "es": "Vehículos",
+      "fr": "Véhicules",
+      "it": "Veicoli",
+      "ko": "차량",
+      "pt": "Veículos",
+      "ru": "Трансп. средства",
+      "tr": "Araçlar",
+      "zh": "载具"
+    },
+    "display_order": "3"
+  },
+  {
+    "directive_tree_category_id": "5",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Strategisch",
+      "en": "Strategic",
+      "es": "Estratégico",
+      "fr": "Stratégique",
+      "it": "Strategico",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Стратегические",
+      "tr": "Strategic",
+      "zh": "战略"
+    },
+    "display_order": "8"
+  },
+  {
+    "directive_tree_category_id": "7",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Waffen",
+      "en": "Weapons",
+      "es": "Armas",
+      "fr": "Armes",
+      "it": "Armi",
+      "ko": "무기",
+      "pt": "Armas",
+      "ru": "Оружие",
+      "tr": "Silahlar",
+      "zh": "武器"
+    },
+    "display_order": "6"
+  },
+  {
+    "directive_tree_category_id": "8",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Events",
+      "en": "Events",
+      "es": "Eventos",
+      "fr": "Événements",
+      "it": "Eventi",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "События",
+      "tr": "NULL",
+      "zh": "事件"
+    },
+    "display_order": "10"
+  },
+  {
+    "directive_tree_category_id": "17",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Sammlungen",
+      "en": "Collections",
+      "es": "Colecciones",
+      "fr": "Collections",
+      "it": "Collezioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Коллекции",
+      "tr": "NULL",
+      "zh": "收藏"
+    },
+    "display_order": "50"
+  }
+]

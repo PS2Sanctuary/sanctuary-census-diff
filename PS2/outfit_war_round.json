@@ -1,0 +1,317 @@
+[
+  {
+    "outfit_war_id": "35",
+    "primary_round_id": "339330750175136104",
+    "round_id": "339330750175136105",
+    "order": "0",
+    "stage": "Qualifier",
+    "start_time": "1661756400",
+    "end_time": "1662361200"
+  },
+  {
+    "outfit_war_id": "35",
+    "primary_round_id": "339330750175136104",
+    "round_id": "339330750175136106",
+    "order": "1",
+    "stage": "Qualifier",
+    "start_time": "1662361200",
+    "end_time": "1662966000"
+  },
+  {
+    "outfit_war_id": "35",
+    "primary_round_id": "339330750175136104",
+    "round_id": "339330750175136107",
+    "order": "2",
+    "stage": "Qualifier",
+    "start_time": "1662966000",
+    "end_time": "1663570800"
+  },
+  {
+    "outfit_war_id": "35",
+    "primary_round_id": "339330750175136104",
+    "round_id": "339330750175136108",
+    "order": "3",
+    "stage": "Qualifier",
+    "start_time": "1663570800",
+    "end_time": "1664175600"
+  },
+  {
+    "outfit_war_id": "35",
+    "primary_round_id": "339330750175136104",
+    "round_id": "339330750175136109",
+    "order": "4",
+    "stage": "Playoff",
+    "start_time": "1664175600",
+    "end_time": "1664780400"
+  },
+  {
+    "outfit_war_id": "35",
+    "primary_round_id": "339330750175136104",
+    "round_id": "339330750175136110",
+    "order": "5",
+    "stage": "Playoff",
+    "start_time": "1664780400",
+    "end_time": "1665385200"
+  },
+  {
+    "outfit_war_id": "35",
+    "primary_round_id": "339330750175136104",
+    "round_id": "339330750175136111",
+    "order": "6",
+    "stage": "Final",
+    "start_time": "1665385200",
+    "end_time": "1665990000"
+  },
+  {
+    "outfit_war_id": "37",
+    "primary_round_id": "524038850792663803",
+    "round_id": "524038850792663804",
+    "order": "0",
+    "stage": "Qualifier",
+    "start_time": "1661713200",
+    "end_time": "1662318000"
+  },
+  {
+    "outfit_war_id": "37",
+    "primary_round_id": "524038850792663803",
+    "round_id": "524038850792663805",
+    "order": "1",
+    "stage": "Qualifier",
+    "start_time": "1662318000",
+    "end_time": "1662922800"
+  },
+  {
+    "outfit_war_id": "37",
+    "primary_round_id": "524038850792663803",
+    "round_id": "524038850792663806",
+    "order": "2",
+    "stage": "Qualifier",
+    "start_time": "1662922800",
+    "end_time": "1663527600"
+  },
+  {
+    "outfit_war_id": "37",
+    "primary_round_id": "524038850792663803",
+    "round_id": "524038850792663807",
+    "order": "3",
+    "stage": "Qualifier",
+    "start_time": "1663527600",
+    "end_time": "1664132400"
+  },
+  {
+    "outfit_war_id": "37",
+    "primary_round_id": "524038850792663803",
+    "round_id": "524038850792663808",
+    "order": "4",
+    "stage": "Playoff",
+    "start_time": "1664132400",
+    "end_time": "1664737200"
+  },
+  {
+    "outfit_war_id": "37",
+    "primary_round_id": "524038850792663803",
+    "round_id": "524038850792663809",
+    "order": "5",
+    "stage": "Playoff",
+    "start_time": "1664737200",
+    "end_time": "1665342000"
+  },
+  {
+    "outfit_war_id": "37",
+    "primary_round_id": "524038850792663803",
+    "round_id": "524038850792663810",
+    "order": "6",
+    "stage": "Final",
+    "start_time": "1665342000",
+    "end_time": "1665946800"
+  },
+  {
+    "outfit_war_id": "34",
+    "primary_round_id": "524038850792655688",
+    "round_id": "524038850792655689",
+    "order": "0",
+    "stage": "Qualifier",
+    "start_time": "1661713200",
+    "end_time": "1662318000"
+  },
+  {
+    "outfit_war_id": "34",
+    "primary_round_id": "524038850792655688",
+    "round_id": "524038850792655690",
+    "order": "1",
+    "stage": "Qualifier",
+    "start_time": "1662318000",
+    "end_time": "1662922800"
+  },
+  {
+    "outfit_war_id": "34",
+    "primary_round_id": "524038850792655688",
+    "round_id": "524038850792655691",
+    "order": "2",
+    "stage": "Qualifier",
+    "start_time": "1662922800",
+    "end_time": "1663527600"
+  },
+  {
+    "outfit_war_id": "34",
+    "primary_round_id": "524038850792655688",
+    "round_id": "524038850792655692",
+    "order": "3",
+    "stage": "Qualifier",
+    "start_time": "1663527600",
+    "end_time": "1664132400"
+  },
+  {
+    "outfit_war_id": "34",
+    "primary_round_id": "524038850792655688",
+    "round_id": "524038850792655693",
+    "order": "4",
+    "stage": "Playoff",
+    "start_time": "1664132400",
+    "end_time": "1664737200"
+  },
+  {
+    "outfit_war_id": "34",
+    "primary_round_id": "524038850792655688",
+    "round_id": "524038850792655694",
+    "order": "5",
+    "stage": "Playoff",
+    "start_time": "1664737200",
+    "end_time": "1665342000"
+  },
+  {
+    "outfit_war_id": "34",
+    "primary_round_id": "524038850792655688",
+    "round_id": "524038850792655695",
+    "order": "6",
+    "stage": "Final",
+    "start_time": "1665342000",
+    "end_time": "1665946800"
+  },
+  {
+    "outfit_war_id": "36",
+    "primary_round_id": "339330750175086918",
+    "round_id": "339330750175086919",
+    "order": "0",
+    "stage": "Qualifier",
+    "start_time": "1661745600",
+    "end_time": "1662350400"
+  },
+  {
+    "outfit_war_id": "36",
+    "primary_round_id": "339330750175086918",
+    "round_id": "339330750175086920",
+    "order": "1",
+    "stage": "Qualifier",
+    "start_time": "1662350400",
+    "end_time": "1662955200"
+  },
+  {
+    "outfit_war_id": "36",
+    "primary_round_id": "339330750175086918",
+    "round_id": "339330750175086921",
+    "order": "2",
+    "stage": "Qualifier",
+    "start_time": "1662955200",
+    "end_time": "1663560000"
+  },
+  {
+    "outfit_war_id": "36",
+    "primary_round_id": "339330750175086918",
+    "round_id": "339330750175086922",
+    "order": "3",
+    "stage": "Qualifier",
+    "start_time": "1663560000",
+    "end_time": "1664164800"
+  },
+  {
+    "outfit_war_id": "36",
+    "primary_round_id": "339330750175086918",
+    "round_id": "339330750175086923",
+    "order": "4",
+    "stage": "Playoff",
+    "start_time": "1664164800",
+    "end_time": "1664769600"
+  },
+  {
+    "outfit_war_id": "36",
+    "primary_round_id": "339330750175086918",
+    "round_id": "339330750175086924",
+    "order": "5",
+    "stage": "Playoff",
+    "start_time": "1664769600",
+    "end_time": "1665374400"
+  },
+  {
+    "outfit_war_id": "36",
+    "primary_round_id": "339330750175086918",
+    "round_id": "339330750175086925",
+    "order": "6",
+    "stage": "Final",
+    "start_time": "1665374400",
+    "end_time": "1665979200"
+  },
+  {
+    "outfit_war_id": "38",
+    "primary_round_id": "339330910781456605",
+    "round_id": "339330910781456606",
+    "order": "0",
+    "stage": "Qualifier",
+    "start_time": "1661785200",
+    "end_time": "1662390000"
+  },
+  {
+    "outfit_war_id": "38",
+    "primary_round_id": "339330910781456605",
+    "round_id": "339330910781456607",
+    "order": "1",
+    "stage": "Qualifier",
+    "start_time": "1662390000",
+    "end_time": "1662994800"
+  },
+  {
+    "outfit_war_id": "38",
+    "primary_round_id": "339330910781456605",
+    "round_id": "339330910781456608",
+    "order": "2",
+    "stage": "Qualifier",
+    "start_time": "1662994800",
+    "end_time": "1663599600"
+  },
+  {
+    "outfit_war_id": "38",
+    "primary_round_id": "339330910781456605",
+    "round_id": "339330910781456609",
+    "order": "3",
+    "stage": "Qualifier",
+    "start_time": "1663599600",
+    "end_time": "1664204400"
+  },
+  {
+    "outfit_war_id": "38",
+    "primary_round_id": "339330910781456605",
+    "round_id": "339330910781456610",
+    "order": "4",
+    "stage": "Playoff",
+    "start_time": "1664204400",
+    "end_time": "1664809200"
+  },
+  {
+    "outfit_war_id": "38",
+    "primary_round_id": "339330910781456605",
+    "round_id": "339330910781456611",
+    "order": "5",
+    "stage": "Playoff",
+    "start_time": "1664809200",
+    "end_time": "1665414000"
+  },
+  {
+    "outfit_war_id": "38",
+    "primary_round_id": "339330910781456605",
+    "round_id": "339330910781456612",
+    "order": "6",
+    "stage": "Final",
+    "start_time": "1665414000",
+    "end_time": "1666018800"
+  }
+]

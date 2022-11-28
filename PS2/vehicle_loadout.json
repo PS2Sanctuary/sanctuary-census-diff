@@ -1,0 +1,1381 @@
+[
+  {
+    "loadout_id": "1",
+    "vehicle_id": "1",
+    "faction_id": "1",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "2",
+    "vehicle_id": "1",
+    "faction_id": "2",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "3",
+    "vehicle_id": "1",
+    "faction_id": "3",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "4",
+    "vehicle_id": "2",
+    "faction_id": "1",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "5",
+    "vehicle_id": "2",
+    "faction_id": "2",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "6",
+    "vehicle_id": "2",
+    "faction_id": "3",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "7",
+    "vehicle_id": "3",
+    "faction_id": "1",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "8",
+    "vehicle_id": "3",
+    "faction_id": "2",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "9",
+    "vehicle_id": "3",
+    "faction_id": "3",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "10",
+    "vehicle_id": "4",
+    "faction_id": "1",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "14",
+    "vehicle_id": "5",
+    "faction_id": "2",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "18",
+    "vehicle_id": "6",
+    "faction_id": "3",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "19",
+    "vehicle_id": "7",
+    "faction_id": "1",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "23",
+    "vehicle_id": "8",
+    "faction_id": "2",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "27",
+    "vehicle_id": "9",
+    "faction_id": "3",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "28",
+    "vehicle_id": "10",
+    "faction_id": "1",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "29",
+    "vehicle_id": "10",
+    "faction_id": "2",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "30",
+    "vehicle_id": "10",
+    "faction_id": "3",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "31",
+    "vehicle_id": "11",
+    "faction_id": "1",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "32",
+    "vehicle_id": "11",
+    "faction_id": "2",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "33",
+    "vehicle_id": "11",
+    "faction_id": "3",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "34",
+    "vehicle_id": "100",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "35",
+    "vehicle_id": "100",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "36",
+    "vehicle_id": "100",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "37",
+    "vehicle_id": "101",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "38",
+    "vehicle_id": "101",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "39",
+    "vehicle_id": "101",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "40",
+    "vehicle_id": "100",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "41",
+    "vehicle_id": "150",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "42",
+    "vehicle_id": "150",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "43",
+    "vehicle_id": "150",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "44",
+    "vehicle_id": "150",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "45",
+    "vehicle_id": "151",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "46",
+    "vehicle_id": "151",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "47",
+    "vehicle_id": "151",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "48",
+    "vehicle_id": "151",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "49",
+    "vehicle_id": "101",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "50",
+    "vehicle_id": "102",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "51",
+    "vehicle_id": "102",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "52",
+    "vehicle_id": "102",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "53",
+    "vehicle_id": "102",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "54",
+    "vehicle_id": "12",
+    "faction_id": "1",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "55",
+    "vehicle_id": "12",
+    "faction_id": "2",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "56",
+    "vehicle_id": "12",
+    "faction_id": "3",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "57",
+    "vehicle_id": "1013",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "58",
+    "vehicle_id": "14",
+    "faction_id": "1",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "59",
+    "vehicle_id": "14",
+    "faction_id": "2",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "60",
+    "vehicle_id": "14",
+    "faction_id": "3",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "62",
+    "vehicle_id": "160",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "63",
+    "vehicle_id": "160",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "64",
+    "vehicle_id": "160",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "66",
+    "vehicle_id": "161",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "67",
+    "vehicle_id": "161",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "68",
+    "vehicle_id": "161",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "70",
+    "vehicle_id": "162",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "71",
+    "vehicle_id": "162",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "72",
+    "vehicle_id": "162",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "325",
+    "vehicle_id": "1105",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "326",
+    "vehicle_id": "2002",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "327",
+    "vehicle_id": "2002",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "328",
+    "vehicle_id": "2002",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "329",
+    "vehicle_id": "2002",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "334",
+    "vehicle_id": "103",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "335",
+    "vehicle_id": "103",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "336",
+    "vehicle_id": "103",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "337",
+    "vehicle_id": "104",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "338",
+    "vehicle_id": "104",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "339",
+    "vehicle_id": "104",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "340",
+    "vehicle_id": "105",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "341",
+    "vehicle_id": "105",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "342",
+    "vehicle_id": "105",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "343",
+    "vehicle_id": "15",
+    "faction_id": "1",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "344",
+    "vehicle_id": "15",
+    "faction_id": "2",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "345",
+    "vehicle_id": "15",
+    "faction_id": "3",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "346",
+    "vehicle_id": "163",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "347",
+    "vehicle_id": "163",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "348",
+    "vehicle_id": "163",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "349",
+    "vehicle_id": "2006",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "350",
+    "vehicle_id": "2006",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "351",
+    "vehicle_id": "2006",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "352",
+    "vehicle_id": "2007",
+    "faction_id": "1",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "353",
+    "vehicle_id": "2009",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "354",
+    "vehicle_id": "2009",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "355",
+    "vehicle_id": "2009",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "356",
+    "vehicle_id": "2009",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "370",
+    "vehicle_id": "2021",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "374",
+    "vehicle_id": "2021",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "375",
+    "vehicle_id": "2021",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "376",
+    "vehicle_id": "2025",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "388",
+    "vehicle_id": "2036",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "389",
+    "vehicle_id": "1",
+    "faction_id": "4",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "390",
+    "vehicle_id": "2",
+    "faction_id": "4",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "391",
+    "vehicle_id": "3",
+    "faction_id": "4",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "392",
+    "vehicle_id": "12",
+    "faction_id": "4",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "394",
+    "vehicle_id": "102",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "395",
+    "vehicle_id": "15",
+    "faction_id": "4",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "396",
+    "vehicle_id": "10",
+    "faction_id": "4",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "397",
+    "vehicle_id": "11",
+    "faction_id": "4",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "398",
+    "vehicle_id": "14",
+    "faction_id": "4",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "400",
+    "vehicle_id": "2039",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "401",
+    "vehicle_id": "2039",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "402",
+    "vehicle_id": "2039",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "403",
+    "vehicle_id": "103",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "404",
+    "vehicle_id": "2040",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "405",
+    "vehicle_id": "2040",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "406",
+    "vehicle_id": "2040",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "415",
+    "vehicle_id": "162",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "416",
+    "vehicle_id": "161",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "417",
+    "vehicle_id": "160",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "423",
+    "vehicle_id": "101",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "432",
+    "vehicle_id": "2021",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "433",
+    "vehicle_id": "163",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "434",
+    "vehicle_id": "2040",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "497",
+    "vehicle_id": "2033",
+    "faction_id": "4",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "498",
+    "vehicle_id": "2007",
+    "faction_id": "2",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "499",
+    "vehicle_id": "2007",
+    "faction_id": "3",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "500",
+    "vehicle_id": "2007",
+    "faction_id": "4",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "501",
+    "vehicle_id": "2019",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "502",
+    "vehicle_id": "2019",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "503",
+    "vehicle_id": "2019",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "504",
+    "vehicle_id": "2019",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "505",
+    "vehicle_id": "2122",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "506",
+    "vehicle_id": "2122",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "507",
+    "vehicle_id": "2123",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "508",
+    "vehicle_id": "2123",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "509",
+    "vehicle_id": "2124",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "510",
+    "vehicle_id": "2124",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "511",
+    "vehicle_id": "1013",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "512",
+    "vehicle_id": "1013",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "513",
+    "vehicle_id": "1013",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "518",
+    "vehicle_id": "2128",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "519",
+    "vehicle_id": "2128",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "520",
+    "vehicle_id": "2128",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "521",
+    "vehicle_id": "2128",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "522",
+    "vehicle_id": "2130",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "523",
+    "vehicle_id": "2130",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "524",
+    "vehicle_id": "2130",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "525",
+    "vehicle_id": "2130",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "526",
+    "vehicle_id": "2131",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "527",
+    "vehicle_id": "2131",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "528",
+    "vehicle_id": "2131",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "529",
+    "vehicle_id": "2131",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "531",
+    "vehicle_id": "2132",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "532",
+    "vehicle_id": "2132",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "533",
+    "vehicle_id": "2132",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "534",
+    "vehicle_id": "2132",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "535",
+    "vehicle_id": "2133",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "536",
+    "vehicle_id": "2133",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "537",
+    "vehicle_id": "2133",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "538",
+    "vehicle_id": "2133",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "539",
+    "vehicle_id": "2134",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "540",
+    "vehicle_id": "2134",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "541",
+    "vehicle_id": "2134",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "542",
+    "vehicle_id": "2134",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "543",
+    "vehicle_id": "2135",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "544",
+    "vehicle_id": "2135",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "545",
+    "vehicle_id": "2135",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "546",
+    "vehicle_id": "2135",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "551",
+    "vehicle_id": "2033",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "552",
+    "vehicle_id": "2033",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "553",
+    "vehicle_id": "2033",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "554",
+    "vehicle_id": "13",
+    "faction_id": "1",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "555",
+    "vehicle_id": "13",
+    "faction_id": "2",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "556",
+    "vehicle_id": "13",
+    "faction_id": "3",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "557",
+    "vehicle_id": "13",
+    "faction_id": "4",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "558",
+    "vehicle_id": "2006",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "559",
+    "vehicle_id": "2136",
+    "faction_id": "4",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "560",
+    "vehicle_id": "2137",
+    "faction_id": "4",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "565",
+    "vehicle_id": "2139",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "566",
+    "vehicle_id": "2139",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "567",
+    "vehicle_id": "2139",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "568",
+    "vehicle_id": "2139",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "569",
+    "vehicle_id": "2141",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "570",
+    "vehicle_id": "2141",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "571",
+    "vehicle_id": "2141",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "572",
+    "vehicle_id": "2141",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "573",
+    "vehicle_id": "2140",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "574",
+    "vehicle_id": "2140",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "575",
+    "vehicle_id": "2140",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "576",
+    "vehicle_id": "2140",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "577",
+    "vehicle_id": "2142",
+    "faction_id": "3",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "578",
+    "vehicle_id": "2039",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "579",
+    "vehicle_id": "2143",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "580",
+    "vehicle_id": "2143",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "581",
+    "vehicle_id": "2143",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "582",
+    "vehicle_id": "2010",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "583",
+    "vehicle_id": "2010",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "584",
+    "vehicle_id": "2010",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "585",
+    "vehicle_id": "2010",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "586",
+    "vehicle_id": "2125",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "587",
+    "vehicle_id": "2125",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "588",
+    "vehicle_id": "2125",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "589",
+    "vehicle_id": "2125",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "1"
+  },
+  {
+    "loadout_id": "590",
+    "vehicle_id": "2142",
+    "faction_id": "2",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "591",
+    "vehicle_id": "2142",
+    "faction_id": "1",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "592",
+    "vehicle_id": "2142",
+    "faction_id": "4",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "593",
+    "vehicle_id": "2144",
+    "faction_id": "0",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  }
+]

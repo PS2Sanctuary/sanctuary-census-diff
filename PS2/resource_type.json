@@ -1,0 +1,249 @@
+[
+  {
+    "resource_type_id": "1",
+    "description": "Health",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "2",
+    "description": "Mana",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "3",
+    "description": "Metal",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "4",
+    "description": "Energy",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "5",
+    "description": "Nanites",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "6",
+    "description": "Auraxium",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "7",
+    "description": "Fuel",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "8",
+    "description": "Shield",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "9",
+    "description": "HeavyShield",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "58",
+    "code_name": "NULL",
+    "name": {
+      "de": "Kortium",
+      "en": "Cortium",
+      "es": "Cortium",
+      "fr": "Cortium",
+      "it": "Cortium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Cortium",
+      "tr": "NULL",
+      "zh": "Cortium"
+    },
+    "image_set_id": "379",
+    "image_id": "1099",
+    "image_path": "/files/ps2/images/static/1099.png"
+  },
+  {
+    "resource_type_id": "65",
+    "description": "TRVCR",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "66",
+    "description": "NCVCR",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "67",
+    "description": "VSVCR",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "96",
+    "description": "VSMGR",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "97",
+    "description": "NCMGR",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "98",
+    "description": "TRMGR",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "99",
+    "description": "ChargingWarpgates",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "100",
+    "description": "EventTimer",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "105",
+    "description": "WraithCloak",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "146",
+    "description": "Proximity",
+    "name": {
+      "de": "Umgebung",
+      "en": "Proximity",
+      "es": "Proximidad",
+      "fr": "Proximité",
+      "it": "Prossimità",
+      "ko": "근접",
+      "pt": "Proximidade",
+      "ru": "Дистанция",
+      "tr": "Yakınlık",
+      "zh": "邻近"
+    },
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "147",
+    "description": "Vector",
+    "name": {
+      "de": "Vector",
+      "en": "Vector",
+      "es": "Vector",
+      "fr": "Vector",
+      "it": "Vettore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Vector",
+      "tr": "NULL",
+      "zh": "Vector"
+    },
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "150",
+    "code_name": "NULL",
+    "name": {
+      "de": "Darius-Schildstärke",
+      "en": "Darius Shield Strength",
+      "es": "Potencia del escudo Darius",
+      "fr": "Puissance du bouclier Darius",
+      "it": "Potenza dello scudo Darius",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Прочность щитов Darius",
+      "tr": "NULL",
+      "zh": "铁血护盾强度"
+    },
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "153",
+    "code_name": "NULL",
+    "name": {
+      "de": "Prioritätsziel",
+      "en": "High Value Target",
+      "es": "Objetivo valioso",
+      "fr": "Cible importante",
+      "it": "Obiettivo di alto valore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Особо ценная цель",
+      "tr": "NULL",
+      "zh": "高价值目标"
+    },
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "154",
+    "description": "ResourceThrust",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  }
+]
