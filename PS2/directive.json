@@ -113023,903 +113023,6 @@
     "image_path": "/files/ps2/images/static/79645.png"
   },
   {
-    "directive_id": "4990",
-    "directive_tree_id": "115",
-    "directive_tier_id": "1",
-    "factions": [
-      "4"
-    ],
-    "name": {
-      "de": "SR-100 \"Dawnbreaker\"",
-      "en": "SR-100 \"Dawnbreaker\"",
-      "es": "SR-100 \"Rompealba\"",
-      "fr": "SR-100 \"Dawnbreaker\"",
-      "it": "SR-100 \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "SR-100 «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "SR-100 “破晓者”"
-    },
-    "description": {
-      "de": "10 Feinde getötet",
-      "en": "10 Enemies Killed",
-      "es": "10 enemigos muertos",
-      "fr": "10 ennemis tués",
-      "it": "10 nemici uccisi",
-      "ko": "적군 10명 사살",
-      "pt": "10 Inimigos Abatidos",
-      "ru": "Убить 10 врагов",
-      "tr": "10 Düşman Öldürüldü",
-      "zh": "杀敌10人"
-    },
-    "image_set_id": "1564",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4998",
-    "directive_tree_id": "115",
-    "directive_tier_id": "1",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-66 \"Alchemist\" Punisher",
-      "en": "NS-66 \"Alchemist\" Punisher",
-      "es": "NS-66 Punisher \"Alquimista\"",
-      "fr": "NS-66 \"Alchimiste\" Punisher",
-      "it": "NS-66 \"Alchemist\" Punisher",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-66 «‎Alchemist» Punisher",
-      "tr": "NULL",
-      "zh": "NS-66“炼金术士”惩罚者"
-    },
-    "description": {
-      "de": "10 Feinde getötet",
-      "en": "10 Enemies Killed",
-      "es": "10 enemigos muertos",
-      "fr": "10 ennemis tués",
-      "it": "10 nemici uccisi",
-      "ko": "적군 10명 사살",
-      "pt": "10 Inimigos Abatidos",
-      "ru": "Убить 10 врагов",
-      "tr": "10 Düşman Öldürüldü",
-      "zh": "杀敌10人"
-    },
-    "image_set_id": "1564",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5006",
-    "directive_tree_id": "115",
-    "directive_tier_id": "1",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-30 \"Gungnir\" Vandal",
-      "en": "NS-30 \"Gungnir\" Vandal",
-      "es": "NS-30 Vandal \"Gungnir\"",
-      "fr": "NS-30 \"Gungnir\" Vandal",
-      "it": "NS-30 Vandal \"Gungnir\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-30 Vandal «Гунгнир»",
-      "tr": "NULL",
-      "zh": "NS-30 \"Gungnir\" Vandal"
-    },
-    "description": {
-      "de": "10 Feinde getötet",
-      "en": "10 Enemies Killed",
-      "es": "10 enemigos muertos",
-      "fr": "10 ennemis tués",
-      "it": "10 nemici uccisi",
-      "ko": "적군 10명 사살",
-      "pt": "10 Inimigos Abatidos",
-      "ru": "Убить 10 врагов",
-      "tr": "10 Düşman Öldürüldü",
-      "zh": "杀敌10人"
-    },
-    "image_set_id": "1564",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5014",
-    "directive_tree_id": "115",
-    "directive_tier_id": "4",
-    "factions": [
-      "4"
-    ],
-    "name": {
-      "de": "CT-150 \"Fafnir\" Cyclops",
-      "en": "CT-150 \"Fafnir\" Cyclops",
-      "es": "CT-150 Cyclops \"Fafnir\"",
-      "fr": "CT-150 \"Fafnir\" Cyclope",
-      "it": "CT-150 Cyclops \"Fafnir\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "CT-150 Cyclops «Фафнир»",
-      "tr": "NULL",
-      "zh": "CT-150 \"Fafnir\" Cyclops"
-    },
-    "description": {
-      "de": "1000 Feinde getötet",
-      "en": "1000 Enemies Killed",
-      "es": "1000 enemigos muertos",
-      "fr": "1\u00A0000 ennemis tués",
-      "it": "1000 nemici uccisi",
-      "ko": "적군 1000명 사살",
-      "pt": "1000 Inimigos Abatidos",
-      "ru": "Убить 1000 врагов",
-      "tr": "1000 Düşman Öldürüldü",
-      "zh": "杀敌1000人"
-    },
-    "image_set_id": "1567",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4994",
-    "directive_tree_id": "115",
-    "directive_tier_id": "1",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-R3 \"Dawnstinger\" Swarm",
-      "en": "NS-R3 \"Dawnstinger\" Swarm",
-      "es": "NS-R3 \"Aguijón del alba\" Swarm",
-      "fr": "NS-R3 \"Dawnstinger\" Swarm",
-      "it": "NS-R3 \"Dawnstinger\" Swarm",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-R3 «‎Dawnstinger» Swarm",
-      "tr": "NULL",
-      "zh": "NS-R3“破晓之刺”Swarm"
-    },
-    "description": {
-      "de": "10 Feinde getötet",
-      "en": "10 Enemies Killed",
-      "es": "10 enemigos muertos",
-      "fr": "10 ennemis tués",
-      "it": "10 nemici uccisi",
-      "ko": "적군 10명 사살",
-      "pt": "10 Inimigos Abatidos",
-      "ru": "Убить 10 врагов",
-      "tr": "10 Düşman Öldürüldü",
-      "zh": "杀敌10人"
-    },
-    "image_set_id": "1564",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5002",
-    "directive_tree_id": "115",
-    "directive_tier_id": "4",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Stormbringer",
-      "en": "Stormbringer",
-      "es": "Stormbringer",
-      "fr": "Portetempête",
-      "it": "Stormbringer",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Stormbringer",
-      "tr": "NULL",
-      "zh": "暴风使者"
-    },
-    "description": {
-      "de": "1000 Feinde getötet",
-      "en": "1000 Enemies Killed",
-      "es": "1000 enemigos muertos",
-      "fr": "1\u00A0000 ennemis tués",
-      "it": "1000 nemici uccisi",
-      "ko": "적군 1000명 사살",
-      "pt": "1000 Inimigos Abatidos",
-      "ru": "Убить 1000 врагов",
-      "tr": "1000 Düşman Öldürüldü",
-      "zh": "杀敌1000人"
-    },
-    "image_set_id": "1567",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4975",
-    "directive_tree_id": "115",
-    "directive_tier_id": "2",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-66 \"Alchemist\" Punisher",
-      "en": "NS-66 \"Alchemist\" Punisher",
-      "es": "NS-66 Punisher \"Alquimista\"",
-      "fr": "NS-66 \"Alchimiste\" Punisher",
-      "it": "NS-66 \"Alchemist\" Punisher",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-66 «‎Alchemist» Punisher",
-      "tr": "NULL",
-      "zh": "NS-66“炼金术士”惩罚者"
-    },
-    "description": {
-      "de": "50 Feinde getötet",
-      "en": "50 Enemies Killed",
-      "es": "50 enemigos muertos",
-      "fr": "50 ennemis tués",
-      "it": "50 nemici uccisi",
-      "ko": "적군 50명 사살",
-      "pt": "50 Inimigos Abatidos",
-      "ru": "Убить 50 врагов",
-      "tr": "50 Düşman Öldürüldü",
-      "zh": "杀敌50人"
-    },
-    "image_set_id": "1565",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4991",
-    "directive_tree_id": "115",
-    "directive_tier_id": "2",
-    "factions": [
-      "4"
-    ],
-    "name": {
-      "de": "SR-100 \"Dawnbreaker\"",
-      "en": "SR-100 \"Dawnbreaker\"",
-      "es": "SR-100 \"Rompealba\"",
-      "fr": "SR-100 \"Dawnbreaker\"",
-      "it": "SR-100 \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "SR-100 «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "SR-100 “破晓者”"
-    },
-    "description": {
-      "de": "50 Feinde getötet",
-      "en": "50 Enemies Killed",
-      "es": "50 enemigos muertos",
-      "fr": "50 ennemis tués",
-      "it": "50 nemici uccisi",
-      "ko": "적군 50명 사살",
-      "pt": "50 Inimigos Abatidos",
-      "ru": "Убить 50 врагов",
-      "tr": "50 Düşman Öldürüldü",
-      "zh": "杀敌50人"
-    },
-    "image_set_id": "1565",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4999",
-    "directive_tree_id": "115",
-    "directive_tier_id": "1",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Stormbringer",
-      "en": "Stormbringer",
-      "es": "Stormbringer",
-      "fr": "Portetempête",
-      "it": "Stormbringer",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Stormbringer",
-      "tr": "NULL",
-      "zh": "暴风使者"
-    },
-    "description": {
-      "de": "10 Feinde getötet",
-      "en": "10 Enemies Killed",
-      "es": "10 enemigos muertos",
-      "fr": "10 ennemis tués",
-      "it": "10 nemici uccisi",
-      "ko": "적군 10명 사살",
-      "pt": "10 Inimigos Abatidos",
-      "ru": "Убить 10 врагов",
-      "tr": "10 Düşman Öldürüldü",
-      "zh": "杀敌10人"
-    },
-    "image_set_id": "1564",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5007",
-    "directive_tree_id": "115",
-    "directive_tier_id": "2",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS \"Fenrirs Maul\" Annihilator",
-      "en": "NS \"Fenrir's Maw\" Annihilator",
-      "es": "NS Annihilator \"Fauces de Fenrir\"",
-      "fr": "Annihilateur \"Gueule de Fenrir\" NS",
-      "it": "NS Annihilator \"Fauci di Fenrir\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS Annihilator «Пасть Фенрира»",
-      "tr": "NULL",
-      "zh": "NS \"Fenrir's Maw\" Annihilator"
-    },
-    "description": {
-      "de": "50 Feinde getötet",
-      "en": "50 Enemies Killed",
-      "es": "50 enemigos muertos",
-      "fr": "50 ennemis tués",
-      "it": "50 nemici uccisi",
-      "ko": "적군 50명 사살",
-      "pt": "50 Inimigos Abatidos",
-      "ru": "Убить 50 врагов",
-      "tr": "50 Düşman Öldürüldü",
-      "zh": "杀敌50人"
-    },
-    "image_set_id": "1565",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4995",
-    "directive_tree_id": "115",
-    "directive_tier_id": "2",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-R3 \"Dawnstinger\" Swarm",
-      "en": "NS-R3 \"Dawnstinger\" Swarm",
-      "es": "NS-R3 \"Aguijón del alba\" Swarm",
-      "fr": "NS-R3 \"Dawnstinger\" Swarm",
-      "it": "NS-R3 \"Dawnstinger\" Swarm",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-R3 «‎Dawnstinger» Swarm",
-      "tr": "NULL",
-      "zh": "NS-R3“破晓之刺”Swarm"
-    },
-    "description": {
-      "de": "50 Feinde getötet",
-      "en": "50 Enemies Killed",
-      "es": "50 enemigos muertos",
-      "fr": "50 ennemis tués",
-      "it": "50 nemici uccisi",
-      "ko": "적군 50명 사살",
-      "pt": "50 Inimigos Abatidos",
-      "ru": "Убить 50 врагов",
-      "tr": "50 Düşman Öldürüldü",
-      "zh": "杀敌50人"
-    },
-    "image_set_id": "1565",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5003",
-    "directive_tree_id": "115",
-    "directive_tier_id": "2",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-30 \"Gungnir\" Vandal",
-      "en": "NS-30 \"Gungnir\" Vandal",
-      "es": "NS-30 Vandal \"Gungnir\"",
-      "fr": "NS-30 \"Gungnir\" Vandal",
-      "it": "NS-30 Vandal \"Gungnir\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-30 Vandal «Гунгнир»",
-      "tr": "NULL",
-      "zh": "NS-30 \"Gungnir\" Vandal"
-    },
-    "description": {
-      "de": "50 Feinde getötet",
-      "en": "50 Enemies Killed",
-      "es": "50 enemigos muertos",
-      "fr": "50 ennemis tués",
-      "it": "50 nemici uccisi",
-      "ko": "적군 50명 사살",
-      "pt": "50 Inimigos Abatidos",
-      "ru": "Убить 50 врагов",
-      "tr": "50 Düşman Öldürüldü",
-      "zh": "杀敌50人"
-    },
-    "image_set_id": "1565",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4976",
-    "directive_tree_id": "115",
-    "directive_tier_id": "3",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-66 \"Alchemist\" Punisher",
-      "en": "NS-66 \"Alchemist\" Punisher",
-      "es": "NS-66 Punisher \"Alquimista\"",
-      "fr": "NS-66 \"Alchimiste\" Punisher",
-      "it": "NS-66 \"Alchemist\" Punisher",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-66 «‎Alchemist» Punisher",
-      "tr": "NULL",
-      "zh": "NS-66“炼金术士”惩罚者"
-    },
-    "description": {
-      "de": "100 Feinde getötet",
-      "en": "100 Enemies Killed",
-      "es": "100 enemigos muertos",
-      "fr": "100 ennemis tués",
-      "it": "100 nemici uccisi",
-      "ko": "적 100명 사살",
-      "pt": "100 Inimigos Abatidos",
-      "ru": "Убить 100 врагов",
-      "tr": "100 Düşman Öldürüldü",
-      "zh": "杀敌100人"
-    },
-    "image_set_id": "1566",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4992",
-    "directive_tree_id": "115",
-    "directive_tier_id": "3",
-    "factions": [
-      "4"
-    ],
-    "name": {
-      "de": "SR-100 \"Dawnbreaker\"",
-      "en": "SR-100 \"Dawnbreaker\"",
-      "es": "SR-100 \"Rompealba\"",
-      "fr": "SR-100 \"Dawnbreaker\"",
-      "it": "SR-100 \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "SR-100 «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "SR-100 “破晓者”"
-    },
-    "description": {
-      "de": "100 Feinde getötet",
-      "en": "100 Enemies Killed",
-      "es": "100 enemigos muertos",
-      "fr": "100 ennemis tués",
-      "it": "100 nemici uccisi",
-      "ko": "적 100명 사살",
-      "pt": "100 Inimigos Abatidos",
-      "ru": "Убить 100 врагов",
-      "tr": "100 Düşman Öldürüldü",
-      "zh": "杀敌100人"
-    },
-    "image_set_id": "1566",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5000",
-    "directive_tree_id": "115",
-    "directive_tier_id": "2",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Stormbringer",
-      "en": "Stormbringer",
-      "es": "Stormbringer",
-      "fr": "Portetempête",
-      "it": "Stormbringer",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Stormbringer",
-      "tr": "NULL",
-      "zh": "暴风使者"
-    },
-    "description": {
-      "de": "50 Feinde getötet",
-      "en": "50 Enemies Killed",
-      "es": "50 enemigos muertos",
-      "fr": "50 ennemis tués",
-      "it": "50 nemici uccisi",
-      "ko": "적군 50명 사살",
-      "pt": "50 Inimigos Abatidos",
-      "ru": "Убить 50 врагов",
-      "tr": "50 Düşman Öldürüldü",
-      "zh": "杀敌50人"
-    },
-    "image_set_id": "1565",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5008",
-    "directive_tree_id": "115",
-    "directive_tier_id": "3",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS \"Fenrirs Maul\" Annihilator",
-      "en": "NS \"Fenrir's Maw\" Annihilator",
-      "es": "NS Annihilator \"Fauces de Fenrir\"",
-      "fr": "Annihilateur \"Gueule de Fenrir\" NS",
-      "it": "NS Annihilator \"Fauci di Fenrir\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS Annihilator «Пасть Фенрира»",
-      "tr": "NULL",
-      "zh": "NS \"Fenrir's Maw\" Annihilator"
-    },
-    "description": {
-      "de": "100 Feinde getötet",
-      "en": "100 Enemies Killed",
-      "es": "100 enemigos muertos",
-      "fr": "100 ennemis tués",
-      "it": "100 nemici uccisi",
-      "ko": "적 100명 사살",
-      "pt": "100 Inimigos Abatidos",
-      "ru": "Убить 100 врагов",
-      "tr": "100 Düşman Öldürüldü",
-      "zh": "杀敌100人"
-    },
-    "image_set_id": "1566",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4996",
-    "directive_tree_id": "115",
-    "directive_tier_id": "3",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-R3 \"Dawnstinger\" Swarm",
-      "en": "NS-R3 \"Dawnstinger\" Swarm",
-      "es": "NS-R3 \"Aguijón del alba\" Swarm",
-      "fr": "NS-R3 \"Dawnstinger\" Swarm",
-      "it": "NS-R3 \"Dawnstinger\" Swarm",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-R3 «‎Dawnstinger» Swarm",
-      "tr": "NULL",
-      "zh": "NS-R3“破晓之刺”Swarm"
-    },
-    "description": {
-      "de": "100 Feinde getötet",
-      "en": "100 Enemies Killed",
-      "es": "100 enemigos muertos",
-      "fr": "100 ennemis tués",
-      "it": "100 nemici uccisi",
-      "ko": "적 100명 사살",
-      "pt": "100 Inimigos Abatidos",
-      "ru": "Убить 100 врагов",
-      "tr": "100 Düşman Öldürüldü",
-      "zh": "杀敌100人"
-    },
-    "image_set_id": "1566",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5004",
-    "directive_tree_id": "115",
-    "directive_tier_id": "3",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-30 \"Gungnir\" Vandal",
-      "en": "NS-30 \"Gungnir\" Vandal",
-      "es": "NS-30 Vandal \"Gungnir\"",
-      "fr": "NS-30 \"Gungnir\" Vandal",
-      "it": "NS-30 Vandal \"Gungnir\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-30 Vandal «Гунгнир»",
-      "tr": "NULL",
-      "zh": "NS-30 \"Gungnir\" Vandal"
-    },
-    "description": {
-      "de": "100 Feinde getötet",
-      "en": "100 Enemies Killed",
-      "es": "100 enemigos muertos",
-      "fr": "100 ennemis tués",
-      "it": "100 nemici uccisi",
-      "ko": "적 100명 사살",
-      "pt": "100 Inimigos Abatidos",
-      "ru": "Убить 100 врагов",
-      "tr": "100 Düşman Öldürüldü",
-      "zh": "杀敌100人"
-    },
-    "image_set_id": "1566",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4977",
-    "directive_tree_id": "115",
-    "directive_tier_id": "4",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-66 \"Alchemist\" Punisher",
-      "en": "NS-66 \"Alchemist\" Punisher",
-      "es": "NS-66 Punisher \"Alquimista\"",
-      "fr": "NS-66 \"Alchimiste\" Punisher",
-      "it": "NS-66 \"Alchemist\" Punisher",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-66 «‎Alchemist» Punisher",
-      "tr": "NULL",
-      "zh": "NS-66“炼金术士”惩罚者"
-    },
-    "description": {
-      "de": "1000 Feinde getötet",
-      "en": "1000 Enemies Killed",
-      "es": "1000 enemigos muertos",
-      "fr": "1\u00A0000 ennemis tués",
-      "it": "1000 nemici uccisi",
-      "ko": "적군 1000명 사살",
-      "pt": "1000 Inimigos Abatidos",
-      "ru": "Убить 1000 врагов",
-      "tr": "1000 Düşman Öldürüldü",
-      "zh": "杀敌1000人"
-    },
-    "image_set_id": "1567",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4993",
-    "directive_tree_id": "115",
-    "directive_tier_id": "4",
-    "factions": [
-      "4"
-    ],
-    "name": {
-      "de": "SR-100 \"Dawnbreaker\"",
-      "en": "SR-100 \"Dawnbreaker\"",
-      "es": "SR-100 \"Rompealba\"",
-      "fr": "SR-100 \"Dawnbreaker\"",
-      "it": "SR-100 \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "SR-100 «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "SR-100 “破晓者”"
-    },
-    "description": {
-      "de": "1000 Feinde getötet",
-      "en": "1000 Enemies Killed",
-      "es": "1000 enemigos muertos",
-      "fr": "1\u00A0000 ennemis tués",
-      "it": "1000 nemici uccisi",
-      "ko": "적군 1000명 사살",
-      "pt": "1000 Inimigos Abatidos",
-      "ru": "Убить 1000 врагов",
-      "tr": "1000 Düşman Öldürüldü",
-      "zh": "杀敌1000人"
-    },
-    "image_set_id": "1567",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5001",
-    "directive_tree_id": "115",
-    "directive_tier_id": "3",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Stormbringer",
-      "en": "Stormbringer",
-      "es": "Stormbringer",
-      "fr": "Portetempête",
-      "it": "Stormbringer",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Stormbringer",
-      "tr": "NULL",
-      "zh": "暴风使者"
-    },
-    "description": {
-      "de": "100 Feinde getötet",
-      "en": "100 Enemies Killed",
-      "es": "100 enemigos muertos",
-      "fr": "100 ennemis tués",
-      "it": "100 nemici uccisi",
-      "ko": "적 100명 사살",
-      "pt": "100 Inimigos Abatidos",
-      "ru": "Убить 100 врагов",
-      "tr": "100 Düşman Öldürüldü",
-      "zh": "杀敌100人"
-    },
-    "image_set_id": "1566",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5009",
-    "directive_tree_id": "115",
-    "directive_tier_id": "4",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS \"Fenrirs Maul\" Annihilator",
-      "en": "NS \"Fenrir's Maw\" Annihilator",
-      "es": "NS Annihilator \"Fauces de Fenrir\"",
-      "fr": "Annihilateur \"Gueule de Fenrir\" NS",
-      "it": "NS Annihilator \"Fauci di Fenrir\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS Annihilator «Пасть Фенрира»",
-      "tr": "NULL",
-      "zh": "NS \"Fenrir's Maw\" Annihilator"
-    },
-    "description": {
-      "de": "1000 Feinde getötet",
-      "en": "1000 Enemies Killed",
-      "es": "1000 enemigos muertos",
-      "fr": "1\u00A0000 ennemis tués",
-      "it": "1000 nemici uccisi",
-      "ko": "적군 1000명 사살",
-      "pt": "1000 Inimigos Abatidos",
-      "ru": "Убить 1000 врагов",
-      "tr": "1000 Düşman Öldürüldü",
-      "zh": "杀敌1000人"
-    },
-    "image_set_id": "1567",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4997",
-    "directive_tree_id": "115",
-    "directive_tier_id": "4",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-R3 \"Dawnstinger\" Swarm",
-      "en": "NS-R3 \"Dawnstinger\" Swarm",
-      "es": "NS-R3 \"Aguijón del alba\" Swarm",
-      "fr": "NS-R3 \"Dawnstinger\" Swarm",
-      "it": "NS-R3 \"Dawnstinger\" Swarm",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-R3 «‎Dawnstinger» Swarm",
-      "tr": "NULL",
-      "zh": "NS-R3“破晓之刺”Swarm"
-    },
-    "description": {
-      "de": "1000 Feinde getötet",
-      "en": "1000 Enemies Killed",
-      "es": "1000 enemigos muertos",
-      "fr": "1\u00A0000 ennemis tués",
-      "it": "1000 nemici uccisi",
-      "ko": "적군 1000명 사살",
-      "pt": "1000 Inimigos Abatidos",
-      "ru": "Убить 1000 врагов",
-      "tr": "1000 Düşman Öldürüldü",
-      "zh": "杀敌1000人"
-    },
-    "image_set_id": "1567",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5005",
-    "directive_tree_id": "115",
-    "directive_tier_id": "4",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-30 \"Gungnir\" Vandal",
-      "en": "NS-30 \"Gungnir\" Vandal",
-      "es": "NS-30 Vandal \"Gungnir\"",
-      "fr": "NS-30 \"Gungnir\" Vandal",
-      "it": "NS-30 Vandal \"Gungnir\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-30 Vandal «Гунгнир»",
-      "tr": "NULL",
-      "zh": "NS-30 \"Gungnir\" Vandal"
-    },
-    "description": {
-      "de": "1000 Feinde getötet",
-      "en": "1000 Enemies Killed",
-      "es": "1000 enemigos muertos",
-      "fr": "1\u00A0000 ennemis tués",
-      "it": "1000 nemici uccisi",
-      "ko": "적군 1000명 사살",
-      "pt": "1000 Inimigos Abatidos",
-      "ru": "Убить 1000 врагов",
-      "tr": "1000 Düşman Öldürüldü",
-      "zh": "杀敌1000人"
-    },
-    "image_set_id": "1567",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
     "directive_id": "5043",
     "directive_tree_id": "97",
     "directive_tier_id": "1",
@@ -114198,146 +113301,6 @@
     "image_set_id": "1567",
     "image_id": "79611",
     "image_path": "/files/ps2/images/static/79611.png"
-  },
-  {
-    "directive_id": "4986",
-    "directive_tree_id": "115",
-    "directive_tier_id": "1",
-    "factions": [
-      "1"
-    ],
-    "name": {
-      "de": "XM98 \"Dawnbreaker\"",
-      "en": "XM98 \"Dawnbreaker\"",
-      "es": "XM98 \"Rompealba\"",
-      "fr": "XM98 \"Dawnbreaker\"",
-      "it": "XM98 \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "XM98 «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "XM98 “破晓者”"
-    },
-    "description": {
-      "de": "10 Feinde getötet",
-      "en": "10 Enemies Killed",
-      "es": "10 enemigos muertos",
-      "fr": "10 ennemis tués",
-      "it": "10 nemici uccisi",
-      "ko": "적군 10명 사살",
-      "pt": "10 Inimigos Abatidos",
-      "ru": "Убить 10 врагов",
-      "tr": "10 Düşman Öldürüldü",
-      "zh": "杀敌10人"
-    },
-    "image_set_id": "1564",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4987",
-    "directive_tree_id": "115",
-    "directive_tier_id": "2",
-    "factions": [
-      "1"
-    ],
-    "name": {
-      "de": "XM98 \"Dawnbreaker\"",
-      "en": "XM98 \"Dawnbreaker\"",
-      "es": "XM98 \"Rompealba\"",
-      "fr": "XM98 \"Dawnbreaker\"",
-      "it": "XM98 \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "XM98 «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "XM98 “破晓者”"
-    },
-    "description": {
-      "de": "50 Feinde getötet",
-      "en": "50 Enemies Killed",
-      "es": "50 enemigos muertos",
-      "fr": "50 ennemis tués",
-      "it": "50 nemici uccisi",
-      "ko": "적군 50명 사살",
-      "pt": "50 Inimigos Abatidos",
-      "ru": "Убить 50 врагов",
-      "tr": "50 Düşman Öldürüldü",
-      "zh": "杀敌50人"
-    },
-    "image_set_id": "1565",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4988",
-    "directive_tree_id": "115",
-    "directive_tier_id": "3",
-    "factions": [
-      "1"
-    ],
-    "name": {
-      "de": "XM98 \"Dawnbreaker\"",
-      "en": "XM98 \"Dawnbreaker\"",
-      "es": "XM98 \"Rompealba\"",
-      "fr": "XM98 \"Dawnbreaker\"",
-      "it": "XM98 \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "XM98 «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "XM98 “破晓者”"
-    },
-    "description": {
-      "de": "100 Feinde getötet",
-      "en": "100 Enemies Killed",
-      "es": "100 enemigos muertos",
-      "fr": "100 ennemis tués",
-      "it": "100 nemici uccisi",
-      "ko": "적 100명 사살",
-      "pt": "100 Inimigos Abatidos",
-      "ru": "Убить 100 врагов",
-      "tr": "100 Düşman Öldürüldü",
-      "zh": "杀敌100人"
-    },
-    "image_set_id": "1566",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4989",
-    "directive_tree_id": "115",
-    "directive_tier_id": "4",
-    "factions": [
-      "1"
-    ],
-    "name": {
-      "de": "XM98 \"Dawnbreaker\"",
-      "en": "XM98 \"Dawnbreaker\"",
-      "es": "XM98 \"Rompealba\"",
-      "fr": "XM98 \"Dawnbreaker\"",
-      "it": "XM98 \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "XM98 «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "XM98 “破晓者”"
-    },
-    "description": {
-      "de": "1000 Feinde getötet",
-      "en": "1000 Enemies Killed",
-      "es": "1000 enemigos muertos",
-      "fr": "1\u00A0000 ennemis tués",
-      "it": "1000 nemici uccisi",
-      "ko": "적군 1000명 사살",
-      "pt": "1000 Inimigos Abatidos",
-      "ru": "Убить 1000 врагов",
-      "tr": "1000 Düşman Öldürüldü",
-      "zh": "杀敌1000人"
-    },
-    "image_set_id": "1567",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
   },
   {
     "directive_id": "5091",
@@ -114620,146 +113583,6 @@
     "image_path": "/files/ps2/images/static/79611.png"
   },
   {
-    "directive_id": "4978",
-    "directive_tree_id": "115",
-    "directive_tier_id": "1",
-    "factions": [
-      "3"
-    ],
-    "name": {
-      "de": "M77-B \"Dawnbreaker\"",
-      "en": "M77-B \"Dawnbreaker\"",
-      "es": "M77-B \"Rompealba\"",
-      "fr": "M77-B \"Dawnbreaker\"",
-      "it": "M77-B \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "M77-B «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "M77-B “破晓者”"
-    },
-    "description": {
-      "de": "10 Feinde getötet",
-      "en": "10 Enemies Killed",
-      "es": "10 enemigos muertos",
-      "fr": "10 ennemis tués",
-      "it": "10 nemici uccisi",
-      "ko": "적군 10명 사살",
-      "pt": "10 Inimigos Abatidos",
-      "ru": "Убить 10 врагов",
-      "tr": "10 Düşman Öldürüldü",
-      "zh": "杀敌10人"
-    },
-    "image_set_id": "1564",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4979",
-    "directive_tree_id": "115",
-    "directive_tier_id": "2",
-    "factions": [
-      "3"
-    ],
-    "name": {
-      "de": "M77-B \"Dawnbreaker\"",
-      "en": "M77-B \"Dawnbreaker\"",
-      "es": "M77-B \"Rompealba\"",
-      "fr": "M77-B \"Dawnbreaker\"",
-      "it": "M77-B \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "M77-B «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "M77-B “破晓者”"
-    },
-    "description": {
-      "de": "50 Feinde getötet",
-      "en": "50 Enemies Killed",
-      "es": "50 enemigos muertos",
-      "fr": "50 ennemis tués",
-      "it": "50 nemici uccisi",
-      "ko": "적군 50명 사살",
-      "pt": "50 Inimigos Abatidos",
-      "ru": "Убить 50 врагов",
-      "tr": "50 Düşman Öldürüldü",
-      "zh": "杀敌50人"
-    },
-    "image_set_id": "1565",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4980",
-    "directive_tree_id": "115",
-    "directive_tier_id": "3",
-    "factions": [
-      "3"
-    ],
-    "name": {
-      "de": "M77-B \"Dawnbreaker\"",
-      "en": "M77-B \"Dawnbreaker\"",
-      "es": "M77-B \"Rompealba\"",
-      "fr": "M77-B \"Dawnbreaker\"",
-      "it": "M77-B \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "M77-B «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "M77-B “破晓者”"
-    },
-    "description": {
-      "de": "100 Feinde getötet",
-      "en": "100 Enemies Killed",
-      "es": "100 enemigos muertos",
-      "fr": "100 ennemis tués",
-      "it": "100 nemici uccisi",
-      "ko": "적 100명 사살",
-      "pt": "100 Inimigos Abatidos",
-      "ru": "Убить 100 врагов",
-      "tr": "100 Düşman Öldürüldü",
-      "zh": "杀敌100人"
-    },
-    "image_set_id": "1566",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4981",
-    "directive_tree_id": "115",
-    "directive_tier_id": "4",
-    "factions": [
-      "3"
-    ],
-    "name": {
-      "de": "M77-B \"Dawnbreaker\"",
-      "en": "M77-B \"Dawnbreaker\"",
-      "es": "M77-B \"Rompealba\"",
-      "fr": "M77-B \"Dawnbreaker\"",
-      "it": "M77-B \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "M77-B «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "M77-B “破晓者”"
-    },
-    "description": {
-      "de": "1000 Feinde getötet",
-      "en": "1000 Enemies Killed",
-      "es": "1000 enemigos muertos",
-      "fr": "1\u00A0000 ennemis tués",
-      "it": "1000 nemici uccisi",
-      "ko": "적군 1000명 사살",
-      "pt": "1000 Inimigos Abatidos",
-      "ru": "Убить 1000 врагов",
-      "tr": "1000 Düşman Öldürüldü",
-      "zh": "杀敌1000人"
-    },
-    "image_set_id": "1567",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
     "directive_id": "5039",
     "directive_tree_id": "39",
     "directive_tier_id": "1",
@@ -115038,146 +113861,6 @@
     "image_set_id": "1567",
     "image_id": "79611",
     "image_path": "/files/ps2/images/static/79611.png"
-  },
-  {
-    "directive_id": "4982",
-    "directive_tree_id": "115",
-    "directive_tier_id": "1",
-    "factions": [
-      "2"
-    ],
-    "name": {
-      "de": "NC14 \"Dawnbreaker\"",
-      "en": "NC14 \"Dawnbreaker\"",
-      "es": "NC14 \"Rompealba\"",
-      "fr": "NC14 \"Dawnbreaker\"",
-      "it": "NC14 \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NC14 «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "NC14 “破晓者”"
-    },
-    "description": {
-      "de": "10 Feinde getötet",
-      "en": "10 Enemies Killed",
-      "es": "10 enemigos muertos",
-      "fr": "10 ennemis tués",
-      "it": "10 nemici uccisi",
-      "ko": "적군 10명 사살",
-      "pt": "10 Inimigos Abatidos",
-      "ru": "Убить 10 врагов",
-      "tr": "10 Düşman Öldürüldü",
-      "zh": "杀敌10人"
-    },
-    "image_set_id": "1564",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4983",
-    "directive_tree_id": "115",
-    "directive_tier_id": "2",
-    "factions": [
-      "2"
-    ],
-    "name": {
-      "de": "NC14 \"Dawnbreaker\"",
-      "en": "NC14 \"Dawnbreaker\"",
-      "es": "NC14 \"Rompealba\"",
-      "fr": "NC14 \"Dawnbreaker\"",
-      "it": "NC14 \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NC14 «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "NC14 “破晓者”"
-    },
-    "description": {
-      "de": "50 Feinde getötet",
-      "en": "50 Enemies Killed",
-      "es": "50 enemigos muertos",
-      "fr": "50 ennemis tués",
-      "it": "50 nemici uccisi",
-      "ko": "적군 50명 사살",
-      "pt": "50 Inimigos Abatidos",
-      "ru": "Убить 50 врагов",
-      "tr": "50 Düşman Öldürüldü",
-      "zh": "杀敌50人"
-    },
-    "image_set_id": "1565",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4984",
-    "directive_tree_id": "115",
-    "directive_tier_id": "3",
-    "factions": [
-      "2"
-    ],
-    "name": {
-      "de": "NC14 \"Dawnbreaker\"",
-      "en": "NC14 \"Dawnbreaker\"",
-      "es": "NC14 \"Rompealba\"",
-      "fr": "NC14 \"Dawnbreaker\"",
-      "it": "NC14 \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NC14 «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "NC14 “破晓者”"
-    },
-    "description": {
-      "de": "100 Feinde getötet",
-      "en": "100 Enemies Killed",
-      "es": "100 enemigos muertos",
-      "fr": "100 ennemis tués",
-      "it": "100 nemici uccisi",
-      "ko": "적 100명 사살",
-      "pt": "100 Inimigos Abatidos",
-      "ru": "Убить 100 врагов",
-      "tr": "100 Düşman Öldürüldü",
-      "zh": "杀敌100人"
-    },
-    "image_set_id": "1566",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "4985",
-    "directive_tree_id": "115",
-    "directive_tier_id": "4",
-    "factions": [
-      "2"
-    ],
-    "name": {
-      "de": "NC14 \"Dawnbreaker\"",
-      "en": "NC14 \"Dawnbreaker\"",
-      "es": "NC14 \"Rompealba\"",
-      "fr": "NC14 \"Dawnbreaker\"",
-      "it": "NC14 \"Dawnbreaker\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NC14 «‎Dawnbreaker»",
-      "tr": "NULL",
-      "zh": "NC14 “破晓者”"
-    },
-    "description": {
-      "de": "1000 Feinde getötet",
-      "en": "1000 Enemies Killed",
-      "es": "1000 enemigos muertos",
-      "fr": "1\u00A0000 ennemis tués",
-      "it": "1000 nemici uccisi",
-      "ko": "적군 1000명 사살",
-      "pt": "1000 Inimigos Abatidos",
-      "ru": "Убить 1000 врагов",
-      "tr": "1000 Düşman Öldürüldü",
-      "zh": "杀敌1000人"
-    },
-    "image_set_id": "1567",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
   },
   {
     "directive_id": "5015",
@@ -116372,301 +115055,6 @@
     "image_path": "NULL"
   },
   {
-    "directive_id": "5010",
-    "directive_tree_id": "115",
-    "directive_tier_id": "1",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS \"Fenrirs Maul\" Annihilator",
-      "en": "NS \"Fenrir's Maw\" Annihilator",
-      "es": "NS Annihilator \"Fauces de Fenrir\"",
-      "fr": "Annihilateur \"Gueule de Fenrir\" NS",
-      "it": "NS Annihilator \"Fauci di Fenrir\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS Annihilator «Пасть Фенрира»",
-      "tr": "NULL",
-      "zh": "NS \"Fenrir's Maw\" Annihilator"
-    },
-    "description": {
-      "de": "10 Feinde getötet",
-      "en": "10 Enemies Killed",
-      "es": "10 enemigos muertos",
-      "fr": "10 ennemis tués",
-      "it": "10 nemici uccisi",
-      "ko": "적군 10명 사살",
-      "pt": "10 Inimigos Abatidos",
-      "ru": "Убить 10 врагов",
-      "tr": "10 Düşman Öldürüldü",
-      "zh": "杀敌10人"
-    },
-    "image_set_id": "1564",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5135",
-    "directive_tree_id": "115",
-    "directive_tier_id": "1",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-11A Frontline",
-      "en": "NS-11A Frontline",
-      "es": "NS-11A Frontline",
-      "fr": "NS-11A Frontline",
-      "it": "NS-11A Frontline",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-11A Frontline",
-      "tr": "NULL",
-      "zh": "NS-11A前线"
-    },
-    "description": {
-      "de": "10 Feinde getötet",
-      "en": "10 Enemies Killed",
-      "es": "10 enemigos muertos",
-      "fr": "10 ennemis tués",
-      "it": "10 nemici uccisi",
-      "ko": "적 10명 사살",
-      "pt": "10 Inimigos Abatidos",
-      "ru": "Убить 10 врагов",
-      "tr": "10 Düşman Öldürüldü",
-      "zh": "杀敌10人"
-    },
-    "image_set_id": "1564",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5011",
-    "directive_tree_id": "115",
-    "directive_tier_id": "1",
-    "factions": [
-      "4"
-    ],
-    "name": {
-      "de": "CT-150 \"Fafnir\" Cyclops",
-      "en": "CT-150 \"Fafnir\" Cyclops",
-      "es": "CT-150 Cyclops \"Fafnir\"",
-      "fr": "CT-150 \"Fafnir\" Cyclope",
-      "it": "CT-150 Cyclops \"Fafnir\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "CT-150 Cyclops «Фафнир»",
-      "tr": "NULL",
-      "zh": "CT-150 \"Fafnir\" Cyclops"
-    },
-    "description": {
-      "de": "10 Feinde getötet",
-      "en": "10 Enemies Killed",
-      "es": "10 enemigos muertos",
-      "fr": "10 ennemis tués",
-      "it": "10 nemici uccisi",
-      "ko": "적군 10명 사살",
-      "pt": "10 Inimigos Abatidos",
-      "ru": "Убить 10 врагов",
-      "tr": "10 Düşman Öldürüldü",
-      "zh": "杀敌10人"
-    },
-    "image_set_id": "1564",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5136",
-    "directive_tree_id": "115",
-    "directive_tier_id": "2",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-11A Frontline",
-      "en": "NS-11A Frontline",
-      "es": "NS-11A Frontline",
-      "fr": "NS-11A Frontline",
-      "it": "NS-11A Frontline",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-11A Frontline",
-      "tr": "NULL",
-      "zh": "NS-11A前线"
-    },
-    "description": {
-      "de": "50 Feinde getötet",
-      "en": "50 Enemies Killed",
-      "es": "50 enemigos muertos",
-      "fr": "50 ennemis tués",
-      "it": "50 nemici uccisi",
-      "ko": "적 50명 사살",
-      "pt": "50 Inimigos Abatidos",
-      "ru": "Убить 50 врагов",
-      "tr": "50 Düşman Öldürüldü",
-      "zh": "杀敌50人"
-    },
-    "image_set_id": "1565",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5012",
-    "directive_tree_id": "115",
-    "directive_tier_id": "2",
-    "factions": [
-      "4"
-    ],
-    "name": {
-      "de": "CT-150 \"Fafnir\" Cyclops",
-      "en": "CT-150 \"Fafnir\" Cyclops",
-      "es": "CT-150 Cyclops \"Fafnir\"",
-      "fr": "CT-150 \"Fafnir\" Cyclope",
-      "it": "CT-150 Cyclops \"Fafnir\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "CT-150 Cyclops «Фафнир»",
-      "tr": "NULL",
-      "zh": "CT-150 \"Fafnir\" Cyclops"
-    },
-    "description": {
-      "de": "50 Feinde getötet",
-      "en": "50 Enemies Killed",
-      "es": "50 enemigos muertos",
-      "fr": "50 ennemis tués",
-      "it": "50 nemici uccisi",
-      "ko": "적군 50명 사살",
-      "pt": "50 Inimigos Abatidos",
-      "ru": "Убить 50 врагов",
-      "tr": "50 Düşman Öldürüldü",
-      "zh": "杀敌50人"
-    },
-    "image_set_id": "1565",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5137",
-    "directive_tree_id": "115",
-    "directive_tier_id": "3",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-11A Frontline",
-      "en": "NS-11A Frontline",
-      "es": "NS-11A Frontline",
-      "fr": "NS-11A Frontline",
-      "it": "NS-11A Frontline",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-11A Frontline",
-      "tr": "NULL",
-      "zh": "NS-11A前线"
-    },
-    "description": {
-      "de": "100 Feinde getötet",
-      "en": "100 Enemies Killed",
-      "es": "100 enemigos muertos",
-      "fr": "100 ennemis tués",
-      "it": "100 nemici uccisi",
-      "ko": "적 100명 사살",
-      "pt": "100 Inimigos Abatidos",
-      "ru": "Убить 100 врагов",
-      "tr": "100 Düşman Öldürüldü",
-      "zh": "杀敌100人"
-    },
-    "image_set_id": "1566",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5013",
-    "directive_tree_id": "115",
-    "directive_tier_id": "3",
-    "factions": [
-      "4"
-    ],
-    "name": {
-      "de": "CT-150 \"Fafnir\" Cyclops",
-      "en": "CT-150 \"Fafnir\" Cyclops",
-      "es": "CT-150 Cyclops \"Fafnir\"",
-      "fr": "CT-150 \"Fafnir\" Cyclope",
-      "it": "CT-150 Cyclops \"Fafnir\"",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "CT-150 Cyclops «Фафнир»",
-      "tr": "NULL",
-      "zh": "CT-150 \"Fafnir\" Cyclops"
-    },
-    "description": {
-      "de": "100 Feinde getötet",
-      "en": "100 Enemies Killed",
-      "es": "100 enemigos muertos",
-      "fr": "100 ennemis tués",
-      "it": "100 nemici uccisi",
-      "ko": "적 100명 사살",
-      "pt": "100 Inimigos Abatidos",
-      "ru": "Убить 100 врагов",
-      "tr": "100 Düşman Öldürüldü",
-      "zh": "杀敌100人"
-    },
-    "image_set_id": "1566",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_id": "5138",
-    "directive_tree_id": "115",
-    "directive_tier_id": "4",
-    "factions": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "NS-11A Frontline",
-      "en": "NS-11A Frontline",
-      "es": "NS-11A Frontline",
-      "fr": "NS-11A Frontline",
-      "it": "NS-11A Frontline",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-11A Frontline",
-      "tr": "NULL",
-      "zh": "NS-11A前线"
-    },
-    "description": {
-      "de": "1000 Feinde getötet",
-      "en": "1000 Enemies Killed",
-      "es": "1000 enemigos muertos",
-      "fr": "1\u00A0000 ennemis tués",
-      "it": "1000 nemici uccisi",
-      "ko": "적군 1000명 사살",
-      "pt": "1000 Inimigos Abatidos",
-      "ru": "Убить 1000 врагов",
-      "tr": "1000 Düşman Öldürüldü",
-      "zh": "杀敌1000人"
-    },
-    "image_set_id": "1567",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
     "directive_id": "5115",
     "directive_tree_id": "114",
     "directive_tier_id": "1",
@@ -116819,7 +115207,1234 @@
     "image_path": "NULL"
   },
   {
-    "directive_id": "5123",
+    "directive_id": "5167",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-R3 \"Dawnstinger\" Swarm",
+      "en": "NS-R3 \"Dawnstinger\" Swarm",
+      "es": "NS-R3 \"Aguijón del alba\" Swarm",
+      "fr": "NS-R3 \"Dawnstinger\" Swarm",
+      "it": "NS-R3 \"Dawnstinger\" Swarm",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-R3 «‎Dawnstinger» Swarm",
+      "tr": "NULL",
+      "zh": "NS-R3“破晓之刺”Swarm"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5183",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "CT-150 \"Fafnir\" Cyclops",
+      "en": "CT-150 \"Fafnir\" Cyclops",
+      "es": "CT-150 Cyclops \"Fafnir\"",
+      "fr": "CT-150 \"Fafnir\" Cyclope",
+      "it": "CT-150 Cyclops \"Fafnir\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "CT-150 Cyclops «Фафнир»",
+      "tr": "NULL",
+      "zh": "CT-150 \"Fafnir\" Cyclops"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5207",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-66 \"Alchemist\" Punisher",
+      "en": "NS-66 \"Alchemist\" Punisher",
+      "es": "NS-66 Punisher \"Alquimista\"",
+      "fr": "NS-66 \"Alchimiste\" Punisher",
+      "it": "NS-66 \"Alchemist\" Punisher",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-66 «‎Alchemist» Punisher",
+      "tr": "NULL",
+      "zh": "NS-66“炼金术士”惩罚者"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5215",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Stormbringer",
+      "en": "Stormbringer",
+      "es": "Stormbringer",
+      "fr": "Portetempête",
+      "it": "Stormbringer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Stormbringer",
+      "tr": "NULL",
+      "zh": "暴风使者"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5187",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS \"Fenrirs Maul\" Annihilator",
+      "en": "NS \"Fenrir's Maw\" Annihilator",
+      "es": "NS Annihilator \"Fauces de Fenrir\"",
+      "fr": "Annihilateur \"Gueule de Fenrir\" NS",
+      "it": "NS Annihilator \"Fauci di Fenrir\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS Annihilator «Пасть Фенрира»",
+      "tr": "NULL",
+      "zh": "NS \"Fenrir's Maw\" Annihilator"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5195",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "SR-100 \"Dawnbreaker\"",
+      "en": "SR-100 \"Dawnbreaker\"",
+      "es": "SR-100 \"Rompealba\"",
+      "fr": "SR-100 \"Dawnbreaker\"",
+      "it": "SR-100 \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "SR-100 «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "SR-100 “破晓者”"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5211",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-30 \"Gungnir\" Vandal",
+      "en": "NS-30 \"Gungnir\" Vandal",
+      "es": "NS-30 Vandal \"Gungnir\"",
+      "fr": "NS-30 \"Gungnir\" Vandal",
+      "it": "NS-30 Vandal \"Gungnir\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-30 Vandal «Гунгнир»",
+      "tr": "NULL",
+      "zh": "NS-30 \"Gungnir\" Vandal"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5219",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-11A Frontline",
+      "en": "NS-11A Frontline",
+      "es": "NS-11A Frontline",
+      "fr": "NS-11A Frontline",
+      "it": "NS-11A Frontline",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-11A Frontline",
+      "tr": "NULL",
+      "zh": "NS-11A前线"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5168",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-R3 \"Dawnstinger\" Swarm",
+      "en": "NS-R3 \"Dawnstinger\" Swarm",
+      "es": "NS-R3 \"Aguijón del alba\" Swarm",
+      "fr": "NS-R3 \"Dawnstinger\" Swarm",
+      "it": "NS-R3 \"Dawnstinger\" Swarm",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-R3 «‎Dawnstinger» Swarm",
+      "tr": "NULL",
+      "zh": "NS-R3“破晓之刺”Swarm"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5184",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "CT-150 \"Fafnir\" Cyclops",
+      "en": "CT-150 \"Fafnir\" Cyclops",
+      "es": "CT-150 Cyclops \"Fafnir\"",
+      "fr": "CT-150 \"Fafnir\" Cyclope",
+      "it": "CT-150 Cyclops \"Fafnir\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "CT-150 Cyclops «Фафнир»",
+      "tr": "NULL",
+      "zh": "CT-150 \"Fafnir\" Cyclops"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5208",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-66 \"Alchemist\" Punisher",
+      "en": "NS-66 \"Alchemist\" Punisher",
+      "es": "NS-66 Punisher \"Alquimista\"",
+      "fr": "NS-66 \"Alchimiste\" Punisher",
+      "it": "NS-66 \"Alchemist\" Punisher",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-66 «‎Alchemist» Punisher",
+      "tr": "NULL",
+      "zh": "NS-66“炼金术士”惩罚者"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5216",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Stormbringer",
+      "en": "Stormbringer",
+      "es": "Stormbringer",
+      "fr": "Portetempête",
+      "it": "Stormbringer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Stormbringer",
+      "tr": "NULL",
+      "zh": "暴风使者"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5188",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS \"Fenrirs Maul\" Annihilator",
+      "en": "NS \"Fenrir's Maw\" Annihilator",
+      "es": "NS Annihilator \"Fauces de Fenrir\"",
+      "fr": "Annihilateur \"Gueule de Fenrir\" NS",
+      "it": "NS Annihilator \"Fauci di Fenrir\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS Annihilator «Пасть Фенрира»",
+      "tr": "NULL",
+      "zh": "NS \"Fenrir's Maw\" Annihilator"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5196",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "SR-100 \"Dawnbreaker\"",
+      "en": "SR-100 \"Dawnbreaker\"",
+      "es": "SR-100 \"Rompealba\"",
+      "fr": "SR-100 \"Dawnbreaker\"",
+      "it": "SR-100 \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "SR-100 «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "SR-100 “破晓者”"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5212",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-30 \"Gungnir\" Vandal",
+      "en": "NS-30 \"Gungnir\" Vandal",
+      "es": "NS-30 Vandal \"Gungnir\"",
+      "fr": "NS-30 \"Gungnir\" Vandal",
+      "it": "NS-30 Vandal \"Gungnir\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-30 Vandal «Гунгнир»",
+      "tr": "NULL",
+      "zh": "NS-30 \"Gungnir\" Vandal"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5220",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-11A Frontline",
+      "en": "NS-11A Frontline",
+      "es": "NS-11A Frontline",
+      "fr": "NS-11A Frontline",
+      "it": "NS-11A Frontline",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-11A Frontline",
+      "tr": "NULL",
+      "zh": "NS-11A前线"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5169",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-R3 \"Dawnstinger\" Swarm",
+      "en": "NS-R3 \"Dawnstinger\" Swarm",
+      "es": "NS-R3 \"Aguijón del alba\" Swarm",
+      "fr": "NS-R3 \"Dawnstinger\" Swarm",
+      "it": "NS-R3 \"Dawnstinger\" Swarm",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-R3 «‎Dawnstinger» Swarm",
+      "tr": "NULL",
+      "zh": "NS-R3“破晓之刺”Swarm"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5185",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "CT-150 \"Fafnir\" Cyclops",
+      "en": "CT-150 \"Fafnir\" Cyclops",
+      "es": "CT-150 Cyclops \"Fafnir\"",
+      "fr": "CT-150 \"Fafnir\" Cyclope",
+      "it": "CT-150 Cyclops \"Fafnir\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "CT-150 Cyclops «Фафнир»",
+      "tr": "NULL",
+      "zh": "CT-150 \"Fafnir\" Cyclops"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5209",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-66 \"Alchemist\" Punisher",
+      "en": "NS-66 \"Alchemist\" Punisher",
+      "es": "NS-66 Punisher \"Alquimista\"",
+      "fr": "NS-66 \"Alchimiste\" Punisher",
+      "it": "NS-66 \"Alchemist\" Punisher",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-66 «‎Alchemist» Punisher",
+      "tr": "NULL",
+      "zh": "NS-66“炼金术士”惩罚者"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5217",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Stormbringer",
+      "en": "Stormbringer",
+      "es": "Stormbringer",
+      "fr": "Portetempête",
+      "it": "Stormbringer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Stormbringer",
+      "tr": "NULL",
+      "zh": "暴风使者"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5189",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS \"Fenrirs Maul\" Annihilator",
+      "en": "NS \"Fenrir's Maw\" Annihilator",
+      "es": "NS Annihilator \"Fauces de Fenrir\"",
+      "fr": "Annihilateur \"Gueule de Fenrir\" NS",
+      "it": "NS Annihilator \"Fauci di Fenrir\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS Annihilator «Пасть Фенрира»",
+      "tr": "NULL",
+      "zh": "NS \"Fenrir's Maw\" Annihilator"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5197",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "SR-100 \"Dawnbreaker\"",
+      "en": "SR-100 \"Dawnbreaker\"",
+      "es": "SR-100 \"Rompealba\"",
+      "fr": "SR-100 \"Dawnbreaker\"",
+      "it": "SR-100 \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "SR-100 «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "SR-100 “破晓者”"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5213",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-30 \"Gungnir\" Vandal",
+      "en": "NS-30 \"Gungnir\" Vandal",
+      "es": "NS-30 Vandal \"Gungnir\"",
+      "fr": "NS-30 \"Gungnir\" Vandal",
+      "it": "NS-30 Vandal \"Gungnir\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-30 Vandal «Гунгнир»",
+      "tr": "NULL",
+      "zh": "NS-30 \"Gungnir\" Vandal"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5221",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-11A Frontline",
+      "en": "NS-11A Frontline",
+      "es": "NS-11A Frontline",
+      "fr": "NS-11A Frontline",
+      "it": "NS-11A Frontline",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-11A Frontline",
+      "tr": "NULL",
+      "zh": "NS-11A前线"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5170",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-R3 \"Dawnstinger\" Swarm",
+      "en": "NS-R3 \"Dawnstinger\" Swarm",
+      "es": "NS-R3 \"Aguijón del alba\" Swarm",
+      "fr": "NS-R3 \"Dawnstinger\" Swarm",
+      "it": "NS-R3 \"Dawnstinger\" Swarm",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-R3 «‎Dawnstinger» Swarm",
+      "tr": "NULL",
+      "zh": "NS-R3“破晓之刺”Swarm"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5186",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "CT-150 \"Fafnir\" Cyclops",
+      "en": "CT-150 \"Fafnir\" Cyclops",
+      "es": "CT-150 Cyclops \"Fafnir\"",
+      "fr": "CT-150 \"Fafnir\" Cyclope",
+      "it": "CT-150 Cyclops \"Fafnir\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "CT-150 Cyclops «Фафнир»",
+      "tr": "NULL",
+      "zh": "CT-150 \"Fafnir\" Cyclops"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5210",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-66 \"Alchemist\" Punisher",
+      "en": "NS-66 \"Alchemist\" Punisher",
+      "es": "NS-66 Punisher \"Alquimista\"",
+      "fr": "NS-66 \"Alchimiste\" Punisher",
+      "it": "NS-66 \"Alchemist\" Punisher",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-66 «‎Alchemist» Punisher",
+      "tr": "NULL",
+      "zh": "NS-66“炼金术士”惩罚者"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5218",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Stormbringer",
+      "en": "Stormbringer",
+      "es": "Stormbringer",
+      "fr": "Portetempête",
+      "it": "Stormbringer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Stormbringer",
+      "tr": "NULL",
+      "zh": "暴风使者"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5190",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS \"Fenrirs Maul\" Annihilator",
+      "en": "NS \"Fenrir's Maw\" Annihilator",
+      "es": "NS Annihilator \"Fauces de Fenrir\"",
+      "fr": "Annihilateur \"Gueule de Fenrir\" NS",
+      "it": "NS Annihilator \"Fauci di Fenrir\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS Annihilator «Пасть Фенрира»",
+      "tr": "NULL",
+      "zh": "NS \"Fenrir's Maw\" Annihilator"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5198",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "SR-100 \"Dawnbreaker\"",
+      "en": "SR-100 \"Dawnbreaker\"",
+      "es": "SR-100 \"Rompealba\"",
+      "fr": "SR-100 \"Dawnbreaker\"",
+      "it": "SR-100 \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "SR-100 «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "SR-100 “破晓者”"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5214",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-30 \"Gungnir\" Vandal",
+      "en": "NS-30 \"Gungnir\" Vandal",
+      "es": "NS-30 Vandal \"Gungnir\"",
+      "fr": "NS-30 \"Gungnir\" Vandal",
+      "it": "NS-30 Vandal \"Gungnir\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-30 Vandal «Гунгнир»",
+      "tr": "NULL",
+      "zh": "NS-30 \"Gungnir\" Vandal"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5222",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-11A Frontline",
+      "en": "NS-11A Frontline",
+      "es": "NS-11A Frontline",
+      "fr": "NS-11A Frontline",
+      "it": "NS-11A Frontline",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-11A Frontline",
+      "tr": "NULL",
+      "zh": "NS-11A前线"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5191",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "XM98 \"Dawnbreaker\"",
+      "en": "XM98 \"Dawnbreaker\"",
+      "es": "XM98 \"Rompealba\"",
+      "fr": "XM98 \"Dawnbreaker\"",
+      "it": "XM98 \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "XM98 «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "XM98 “破晓者”"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5179",
     "directive_tree_id": "115",
     "directive_tier_id": "1",
     "factions": [
@@ -116854,7 +116469,42 @@
     "image_path": "/files/ps2/images/static/79737.png"
   },
   {
-    "directive_id": "5124",
+    "directive_id": "5192",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "XM98 \"Dawnbreaker\"",
+      "en": "XM98 \"Dawnbreaker\"",
+      "es": "XM98 \"Rompealba\"",
+      "fr": "XM98 \"Dawnbreaker\"",
+      "it": "XM98 \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "XM98 «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "XM98 “破晓者”"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5180",
     "directive_tree_id": "115",
     "directive_tier_id": "2",
     "factions": [
@@ -116889,7 +116539,42 @@
     "image_path": "/files/ps2/images/static/79737.png"
   },
   {
-    "directive_id": "5125",
+    "directive_id": "5193",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "XM98 \"Dawnbreaker\"",
+      "en": "XM98 \"Dawnbreaker\"",
+      "es": "XM98 \"Rompealba\"",
+      "fr": "XM98 \"Dawnbreaker\"",
+      "it": "XM98 \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "XM98 «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "XM98 “破晓者”"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5181",
     "directive_tree_id": "115",
     "directive_tier_id": "3",
     "factions": [
@@ -116924,7 +116609,42 @@
     "image_path": "/files/ps2/images/static/79737.png"
   },
   {
-    "directive_id": "5126",
+    "directive_id": "5194",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "XM98 \"Dawnbreaker\"",
+      "en": "XM98 \"Dawnbreaker\"",
+      "es": "XM98 \"Rompealba\"",
+      "fr": "XM98 \"Dawnbreaker\"",
+      "it": "XM98 \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "XM98 «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "XM98 “破晓者”"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5182",
     "directive_tree_id": "115",
     "directive_tier_id": "4",
     "factions": [
@@ -116959,7 +116679,7 @@
     "image_path": "/files/ps2/images/static/79737.png"
   },
   {
-    "directive_id": "5127",
+    "directive_id": "5175",
     "directive_tree_id": "115",
     "directive_tier_id": "1",
     "factions": [
@@ -116994,7 +116714,42 @@
     "image_path": "/files/ps2/images/static/79737.png"
   },
   {
-    "directive_id": "5128",
+    "directive_id": "5203",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "M77-B \"Dawnbreaker\"",
+      "en": "M77-B \"Dawnbreaker\"",
+      "es": "M77-B \"Rompealba\"",
+      "fr": "M77-B \"Dawnbreaker\"",
+      "it": "M77-B \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "M77-B «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "M77-B “破晓者”"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5176",
     "directive_tree_id": "115",
     "directive_tier_id": "2",
     "factions": [
@@ -117029,7 +116784,42 @@
     "image_path": "/files/ps2/images/static/79737.png"
   },
   {
-    "directive_id": "5129",
+    "directive_id": "5204",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "M77-B \"Dawnbreaker\"",
+      "en": "M77-B \"Dawnbreaker\"",
+      "es": "M77-B \"Rompealba\"",
+      "fr": "M77-B \"Dawnbreaker\"",
+      "it": "M77-B \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "M77-B «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "M77-B “破晓者”"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5177",
     "directive_tree_id": "115",
     "directive_tier_id": "3",
     "factions": [
@@ -117064,7 +116854,42 @@
     "image_path": "/files/ps2/images/static/79737.png"
   },
   {
-    "directive_id": "5130",
+    "directive_id": "5205",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "M77-B \"Dawnbreaker\"",
+      "en": "M77-B \"Dawnbreaker\"",
+      "es": "M77-B \"Rompealba\"",
+      "fr": "M77-B \"Dawnbreaker\"",
+      "it": "M77-B \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "M77-B «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "M77-B “破晓者”"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5178",
     "directive_tree_id": "115",
     "directive_tier_id": "4",
     "factions": [
@@ -117099,7 +116924,77 @@
     "image_path": "/files/ps2/images/static/79737.png"
   },
   {
-    "directive_id": "5131",
+    "directive_id": "5206",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "M77-B \"Dawnbreaker\"",
+      "en": "M77-B \"Dawnbreaker\"",
+      "es": "M77-B \"Rompealba\"",
+      "fr": "M77-B \"Dawnbreaker\"",
+      "it": "M77-B \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "M77-B «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "M77-B “破晓者”"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5199",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "NC14 \"Dawnbreaker\"",
+      "en": "NC14 \"Dawnbreaker\"",
+      "es": "NC14 \"Rompealba\"",
+      "fr": "NC14 \"Dawnbreaker\"",
+      "it": "NC14 \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NC14 «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "NC14 “破晓者”"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5171",
     "directive_tree_id": "115",
     "directive_tier_id": "1",
     "factions": [
@@ -117134,7 +117029,42 @@
     "image_path": "/files/ps2/images/static/79737.png"
   },
   {
-    "directive_id": "5132",
+    "directive_id": "5200",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "NC14 \"Dawnbreaker\"",
+      "en": "NC14 \"Dawnbreaker\"",
+      "es": "NC14 \"Rompealba\"",
+      "fr": "NC14 \"Dawnbreaker\"",
+      "it": "NC14 \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NC14 «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "NC14 “破晓者”"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5172",
     "directive_tree_id": "115",
     "directive_tier_id": "2",
     "factions": [
@@ -117169,7 +117099,42 @@
     "image_path": "/files/ps2/images/static/79737.png"
   },
   {
-    "directive_id": "5133",
+    "directive_id": "5201",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "NC14 \"Dawnbreaker\"",
+      "en": "NC14 \"Dawnbreaker\"",
+      "es": "NC14 \"Rompealba\"",
+      "fr": "NC14 \"Dawnbreaker\"",
+      "it": "NC14 \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NC14 «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "NC14 “破晓者”"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5173",
     "directive_tree_id": "115",
     "directive_tier_id": "3",
     "factions": [
@@ -117204,7 +117169,42 @@
     "image_path": "/files/ps2/images/static/79737.png"
   },
   {
-    "directive_id": "5134",
+    "directive_id": "5202",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "NC14 \"Dawnbreaker\"",
+      "en": "NC14 \"Dawnbreaker\"",
+      "es": "NC14 \"Rompealba\"",
+      "fr": "NC14 \"Dawnbreaker\"",
+      "it": "NC14 \"Dawnbreaker\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NC14 «‎Dawnbreaker»",
+      "tr": "NULL",
+      "zh": "NC14 “破晓者”"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5174",
     "directive_tree_id": "115",
     "directive_tier_id": "4",
     "factions": [
