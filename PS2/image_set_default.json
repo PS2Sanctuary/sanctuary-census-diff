@@ -80654,5 +80654,45 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/95714.png"
+  },
+  {
+    "image_set_id": "807474",
+    "image_id": "95717",
+    "description": "icon_Weapon_Common_SweetTooth",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95717.png"
+  },
+  {
+    "image_set_id": "807475",
+    "image_id": "95729",
+    "description": "icon_Helmet_Common_Male_All_Snowblind",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95729.png"
+  },
+  {
+    "image_set_id": "807476",
+    "image_id": "95720",
+    "description": "icon_Vehicle_Common_Buggy_Attachment_SnowblindArmor001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95720.png"
+  },
+  {
+    "image_set_id": "807477",
+    "image_id": "95726",
+    "description": "icon_Vehicle_Common_Quad_Attachment_SnowblindArmor001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95726.png"
+  },
+  {
+    "image_set_id": "807478",
+    "image_id": "95723",
+    "description": "icon_Vehicle_Common_Buggy_Attachment_SnowblindTires001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95723.png"
   }
 ]
