@@ -13303,5 +13303,15 @@
     "fire_group_id": "80938",
     "fire_mode_id": "81317",
     "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "80939",
+    "fire_mode_id": "81329",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "80940",
+    "fire_mode_id": "81330",
+    "fire_mode_index": "0"
   }
 ]
