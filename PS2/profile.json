@@ -59,6 +59,8 @@
       "tr": "Casus",
       "zh": "[#INFILTRATOR#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "67",
     "image_id": "204",
     "image_path": "/files/ps2/images/static/204.png"
@@ -91,6 +93,8 @@
       "tr": "Hafif Taarruz",
       "zh": "[#LIGHT_ASSAULT#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "8",
     "image_id": "62",
     "image_path": "/files/ps2/images/static/62.png"
@@ -123,6 +127,8 @@
       "tr": "Sıhhıyeci",
       "zh": "[#COMBAT_MEDIC#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "9",
     "image_id": "65",
     "image_path": "/files/ps2/images/static/65.png"
@@ -155,6 +161,8 @@
       "tr": "Mühendis",
       "zh": "[#Engineer#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "66",
     "image_id": "201",
     "image_path": "/files/ps2/images/static/201.png"
@@ -187,6 +195,8 @@
       "tr": "Ağır Taarruz",
       "zh": "[#HEAVY_ASSAULT#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "7",
     "image_id": "59",
     "image_path": "/files/ps2/images/static/59.png"
@@ -219,6 +229,8 @@
       "tr": "MAX",
       "zh": "[#MAX#]"
     },
+    "camera_height": "1.7",
+    "crouch_camera_height": "0.95",
     "image_set_id": "68",
     "image_id": "207",
     "image_path": "/files/ps2/images/static/207.png"
@@ -283,6 +295,8 @@
       "tr": "Casus",
       "zh": "[#INFILTRATOR#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "67",
     "image_id": "204",
     "image_path": "/files/ps2/images/static/204.png"
@@ -315,6 +329,8 @@
       "tr": "Hafif Taarruz",
       "zh": "[#LIGHT_ASSAULT#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "8",
     "image_id": "62",
     "image_path": "/files/ps2/images/static/62.png"
@@ -347,6 +363,8 @@
       "tr": "Sıhhıyeci",
       "zh": "[#COMBAT_MEDIC#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "9",
     "image_id": "65",
     "image_path": "/files/ps2/images/static/65.png"
@@ -379,6 +397,8 @@
       "tr": "Mühendis",
       "zh": "[#Engineer#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "66",
     "image_id": "201",
     "image_path": "/files/ps2/images/static/201.png"
@@ -411,6 +431,8 @@
       "tr": "Ağır Taarruz",
       "zh": "[#HEAVY_ASSAULT#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "7",
     "image_id": "59",
     "image_path": "/files/ps2/images/static/59.png"
@@ -443,6 +465,8 @@
       "tr": "MAX",
       "zh": "[#MAX#]"
     },
+    "camera_height": "1.7",
+    "crouch_camera_height": "0.95",
     "image_set_id": "68",
     "image_id": "207",
     "image_path": "/files/ps2/images/static/207.png"
@@ -475,6 +499,8 @@
       "tr": "Casus",
       "zh": "[#INFILTRATOR#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "67",
     "image_id": "204",
     "image_path": "/files/ps2/images/static/204.png"
@@ -507,6 +533,8 @@
       "tr": "Hafif Taarruz",
       "zh": "[#LIGHT_ASSAULT#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "8",
     "image_id": "62",
     "image_path": "/files/ps2/images/static/62.png"
@@ -539,6 +567,8 @@
       "tr": "Sıhhıyeci",
       "zh": "[#COMBAT_MEDIC#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "9",
     "image_id": "65",
     "image_path": "/files/ps2/images/static/65.png"
@@ -571,6 +601,8 @@
       "tr": "Mühendis",
       "zh": "[#Engineer#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "66",
     "image_id": "201",
     "image_path": "/files/ps2/images/static/201.png"
@@ -603,6 +635,8 @@
       "tr": "Ağır Taarruz",
       "zh": "[#HEAVY_ASSAULT#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "7",
     "image_id": "59",
     "image_path": "/files/ps2/images/static/59.png"
@@ -635,6 +669,8 @@
       "tr": "MAX",
       "zh": "[#MAX#]"
     },
+    "camera_height": "1.7",
+    "crouch_camera_height": "0.95",
     "image_set_id": "68",
     "image_id": "207",
     "image_path": "/files/ps2/images/static/207.png"
@@ -667,6 +703,8 @@
       "tr": "Şimşek, sürücüyü ve bir yolcuyu cephe hattına çabuk ulaştırabilen bir ATV aracıdır. Yolcu arkada otururken kişisel ekipmanlarından çoğunu kullanabilir.",
       "zh": "Flash是一种高速载具，可以迅速地将驾驶员和乘客送往前线。后座上的搭乘者可以在乘坐时使用大多数他所携带的个人装备。"
     },
+    "camera_height": "0.5",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -699,6 +737,8 @@
       "tr": "APC hafif bir askeri nakil aracıdır. Aynı zamanda cephane erzak noktası işlevi de görür.",
       "zh": "APC是一种轻型运兵车。它也可以提供弹药补给。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -731,6 +771,8 @@
       "tr": "Yıldırım, hafif bir tek kişilik tanktır. Yıldırım, uçak-savar ve zırh-savar rollerinde kullanılmak üzere farklı tip taretler ile donatılabilinir.",
       "zh": "Lightning是一种轻便的单人坦克，可以加装各种类型的炮塔，执行防空或反装甲任务。"
     },
+    "camera_height": "2.5",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -763,6 +805,8 @@
       "tr": "Tacizci, tüm imparatorlukların kullanabileceği üç kişilik bir buggy aracıdır. Sürücü ve nişancı kokpitin içinde oturur; üçüncü yolcu ise buggy aracının arkasındadır ve kendi silahlarını kullanabilir.",
       "zh": "Harasser是一种轻便的三人吉普，专门用于执行运输任务和实施突击战。司机和炮手都位于驾驶室内。第三搭乘者则就座于吉普的后方，方便其操控安装在后座上的装备。"
     },
+    "camera_height": "3.5",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -795,6 +839,8 @@
       "tr": "Valkyrie Vehicle Description",
       "zh": "Valkyrie是一种可供六人乘坐的载具，用于近距离空中支援与运输。机组成员包括一名飞行员、一名前方炮手，以及机舱中的四位搭乘者。机舱中的搭乘者在飞行过程中可以使用各自的单人设施。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -827,6 +873,8 @@
       "tr": "Süvari, sadece Vanu Hükümdarlığı'nda mevcut olan orta sınıf bir tanktır. Süvari, havada durma özellikleri sayesinde yanlara dönüş kabiliyetine ve farklı tip arazilerde diğer tanklara göre daha fazla tırmanma özelliğine sahiptir.",
       "zh": "Magrider是Vanu Sovereignty特有的悬浮式坦克。悬浮技术可以让它在其他坦克无法通行的地表进行转向或爬坡。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -859,6 +907,8 @@
       "tr": "Sinsi, sadece Terran Cumhuriyeti'nde mevcut olan orta sınıf bir tanktır. Yüksek hızlara çabuk çıkabilir ve ikiz topları ile diğer tanklara göre daha ağır hasat verme kabiliyetine sahiptir.",
       "zh": "Prowler是Terran Republic特有的坦克，用途非常广泛。它有着更高的峰值速度，同时双管火炮杀伤敌人的速度也比其他各种坦克更快。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -891,6 +941,8 @@
       "tr": "Öncü, sadece Yeni Birleşim'de mevcut olan orta sınıf bir tanktır. Öncü, diğer tanklara kıyasla ön tarafı daha ağır bir zırha sahiptir ama bu özellik hızından feragat ettirmektedir.",
       "zh": "Vanguard是New Conglomerate的中型坦克。Vanguard有着最厚实的正面装甲，但也付出了移动速度上的代价。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -923,6 +975,8 @@
       "tr": "Gök Muhafızı, düşman hava araçlarını düşürmek için tasarlanmış bir yer aracıdır.",
       "zh": "Skyguard是一种专门用来攻击敌方空中载具的地面载具。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -955,6 +1009,8 @@
       "tr": "Yarıcı, 12 asker taşıyabilme özelliğine sahip büyük bir asker nakil aracıdır. Aynı zamanda gezici bir ekipman terminali, araç tamiri ya da araç mühimmat ikmali gibi farklı işlevlere de sahiptir.",
       "zh": "Sunderer装甲运兵车是一种大型运兵车，可以搭乘12名士兵。同时它还可以配备多种支援功能，比如移动重生站、载具维修，或者为其他载具提供弹药。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -987,6 +1043,8 @@
       "tr": "Tırpan, sadece Vanu Hükümdarlığı'nda mevcut olan tek kişi tarafından kullanılan bir hava üstünlüğü uçağıdır. Vanu teknolojisi, Tırpan'ın havada kalırken ve alçalırken daha dengeli olmasını sağlar.",
       "zh": "Scythe是Vanu Sovereignty独有的单人飞行器，性能超群，采用了Vanu Sovereignty科技，在悬停和减速时更加稳定。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -1019,6 +1077,8 @@
       "tr": "Sivrisinek, yalnızca Terran Cumhuriyeti tarafından kullanılan, kişisel hava üstünlüğüne sahip bir hava aracıdır. Yıllarca süren geliştirmeler sayesinde bu uçak, imparatorluk hava araçları arasındaki en hızlı ve en çevik hava aracı olmuştur.",
       "zh": "Mosquito是Terran Republic独有的、性能超群的单人飞行器。数十年的不断改进，造就了这款速度最灵敏、最便捷的阵营专属飞行器。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -1051,6 +1111,8 @@
       "tr": "Yağmacı, yalnızca Yeni Birleşim tarafından kullanılan kişisel hava üstünlüğüne sahip bir hava aracıdır. Büyük motorlarındaki Afterburner kapasitesinin güçlü motorlarla birleşmesi sayesinde bu uçak, imparatorluğun en iyi dalış hızına ulaşan hava aracıdır.",
       "zh": "Reaver是New Conglomerate独有的单人战斗机。它配备有强劲的引擎，推进器的容量很高，是各阵营的专有战斗机中飞行速度最快的。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -1083,6 +1145,8 @@
       "tr": "Kurtarıcı, üç kişilik bir savaş helikopteridir. Bombardıman silahı yer hedeflerine karşı çok güçlüdür ve kuyruk silahı düşman savaşçılarını paramparça eder.",
       "zh": "Liberator是一种能供三人乘坐的武装直升机。它的轰炸武器对地面目标有着强大的威力，同时还配置了尾部机枪，可以应付敌人的战斗机。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -1115,6 +1179,8 @@
       "tr": "Galaksi, 11 askeri taşıyabilen bir hava nakil aracıdır. Savunma amacıyla ya da saldırı aracı olarak kullanılabilen dört silah yuvasına sahiptir.",
       "zh": "Galaxy是一种空中运输单位，可以空投最多11名士兵。它有四个炮位，可用于自身防御，也可装备成为武装炮舰。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -2389,6 +2455,8 @@
       "tr": "NULL",
       "zh": "ANT原型[#DESCRIPTION#]"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "802789",
     "image_id": "84726",
     "image_path": "/files/ps2/images/static/84726.png"
@@ -3778,6 +3846,8 @@
       "zh": "雪人士兵"
     },
     "description": "NULL",
+    "camera_height": "0.5",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -3799,6 +3869,8 @@
       "zh": "奥拉西斯圣诞树"
     },
     "description": "NULL",
+    "camera_height": "0.5",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -3820,6 +3892,8 @@
       "zh": "Colossus"
     },
     "description": "NULL",
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -3852,6 +3926,8 @@
       "tr": "Şimşek, sürücüyü ve bir yolcuyu cephe hattına çabuk ulaştırabilen bir ATV aracıdır. Yolcu arkada otururken kişisel ekipmanlarından çoğunu kullanabilir.",
       "zh": "Flash是一种高速载具，可以迅速地将驾驶员和乘客送往前线。后座上的搭乘者可以在乘坐时使用大多数他所携带的个人装备。"
     },
+    "camera_height": "0.5",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -3904,6 +3980,8 @@
       "zh": "Bastion舰队航母"
     },
     "description": "NULL",
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -4178,6 +4256,8 @@
       "tr": "Casus",
       "zh": "[#INFILTRATOR#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "67",
     "image_id": "204",
     "image_path": "/files/ps2/images/static/204.png"
@@ -4210,6 +4290,8 @@
       "tr": "Hafif Taarruz",
       "zh": "[#LIGHT_ASSAULT#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "8",
     "image_id": "62",
     "image_path": "/files/ps2/images/static/62.png"
@@ -4242,6 +4324,8 @@
       "tr": "Sıhhıyeci",
       "zh": "[#COMBAT_MEDIC#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "9",
     "image_id": "65",
     "image_path": "/files/ps2/images/static/65.png"
@@ -4274,6 +4358,8 @@
       "tr": "Mühendis",
       "zh": "[#Engineer#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "66",
     "image_id": "201",
     "image_path": "/files/ps2/images/static/201.png"
@@ -4306,6 +4392,8 @@
       "tr": "Ağır Taarruz",
       "zh": "[#HEAVY_ASSAULT#]"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "7",
     "image_id": "59",
     "image_path": "/files/ps2/images/static/59.png"
@@ -4370,6 +4458,8 @@
       "tr": "NULL",
       "zh": "一种具有悬停能力的实验性侦察载具，它可以快速穿越各种地形。"
     },
+    "camera_height": "0.5",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -4465,6 +4555,8 @@
       "zh": "运送者原型"
     },
     "description": "NULL",
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "802789",
     "image_id": "84726",
     "image_path": "/files/ps2/images/static/84726.png"
@@ -4497,6 +4589,8 @@
       "tr": "NULL",
       "zh": "这是瓦尔基里的原型配置，可以采集和存放Cortium。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -4560,6 +4654,8 @@
       "tr": "NULL",
       "zh": "背叛者"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "68",
     "image_id": "207",
     "image_path": "/files/ps2/images/static/207.png"
@@ -4724,6 +4820,8 @@
       "tr": "Şimşek, sürücüyü ve bir yolcuyu cephe hattına çabuk ulaştırabilen bir ATV aracıdır. Yolcu arkada otururken kişisel ekipmanlarından çoğunu kullanabilir.",
       "zh": "Flash是一种高速载具，可以迅速地将驾驶员和乘客送往前线。后座上的搭乘者可以在乘坐时使用大多数他所携带的个人装备。"
     },
+    "camera_height": "0.5",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -4922,6 +5020,8 @@
       "tr": "NULL",
       "zh": "一种具有悬停能力的实验性侦察载具，它可以快速穿越各种地形。"
     },
+    "camera_height": "0.5",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -5100,6 +5200,8 @@
       "tr": "NULL",
       "zh": "Dervish是一架重型战斗机。飞行员操控前置轻型武器，第二机枪手操控一个顶部炮塔，阻挡敌人的飞行器，并对目标施加额外的压力。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -5256,6 +5358,8 @@
       "tr": "NULL",
       "zh": "Chimera以运动车轮取代履带，提升了通过崎岖地段的机动性。最多可额外搭载四名无蓬座位乘客，并配有驾驶员操控的主炮和前向的副炮塔。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "NULL",
     "image_id": "NULL",
     "image_path": "NULL"
@@ -5298,6 +5402,8 @@
       "tr": "Galaksi, 11 askeri taşıyabilen bir hava nakil aracıdır. Savunma amacıyla ya da saldırı aracı olarak kullanılabilen dört silah yuvasına sahiptir.",
       "zh": "Galaxy是一种空中运输单位，可以空投最多11名士兵。它有四个炮位，可用于自身防御，也可装备成为武装炮舰。"
     },
+    "camera_height": "1.6",
+    "crouch_camera_height": "0.95",
     "image_set_id": "13537",
     "image_id": "14984",
     "image_path": "/files/ps2/images/static/14984.png"
@@ -5350,6 +5456,8 @@
       "tr": "Galaksi, 11 askeri taşıyabilen bir hava nakil aracıdır. Savunma amacıyla ya da saldırı aracı olarak kullanılabilen dört silah yuvasına sahiptir.",
       "zh": "Galaxy是一种空中运输单位，可以空投最多11名士兵。它有四个炮位，可用于自身防御，也可装备成为武装炮舰。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
@@ -5392,6 +5500,8 @@
       "tr": "NULL",
       "zh": "Corsair突击艇配备了两个炮手炮台，最多可运载8名士兵。载具最后一排的5个座位配备了投射装置，可以将人员安全地投射至战场之中。"
     },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
     "image_set_id": "92",
     "image_id": "256",
     "image_path": "/files/ps2/images/static/256.png"
