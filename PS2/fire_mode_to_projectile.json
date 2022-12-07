@@ -9078,5 +9078,29 @@
   {
     "fire_mode_id": "81330",
     "projectile_id": "80604"
+  },
+  {
+    "fire_mode_id": "81331",
+    "projectile_id": "80605"
+  },
+  {
+    "fire_mode_id": "81332",
+    "projectile_id": "80605"
+  },
+  {
+    "fire_mode_id": "81333",
+    "projectile_id": "80605"
+  },
+  {
+    "fire_mode_id": "81334",
+    "projectile_id": "80605"
+  },
+  {
+    "fire_mode_id": "81335",
+    "projectile_id": "80606"
+  },
+  {
+    "fire_mode_id": "81336",
+    "projectile_id": "80606"
   }
 ]

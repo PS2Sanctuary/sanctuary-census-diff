@@ -4601,5 +4601,185 @@
     "image_set_id": "14276",
     "image_id": "79645",
     "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "6189",
+    "item_id": "77893",
+    "name": {
+      "de": "250 ZERTS",
+      "en": "250 Certs",
+      "es": "250 Certs",
+      "fr": "250 Accréditations",
+      "it": "250 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "250 сертификатов",
+      "tr": "NULL",
+      "zh": "250证书点"
+    },
+    "quantity": "1",
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6189",
+    "item_id": "6008741",
+    "name": {
+      "de": "NSA-Weihnachtsmütze",
+      "en": "NSO Holiday Hat",
+      "es": "Sombrero festivo NSO",
+      "fr": "Chapeau des fêtes d'ANS",
+      "it": "Cappello natalizio NSO",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Праздничная шапка NSO",
+      "tr": "NULL",
+      "zh": "NSO节日帽"
+    },
+    "quantity": "1",
+    "image_set_id": "806222",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6190",
+    "item_id": "6008708",
+    "name": {
+      "de": "500 ISO-4",
+      "en": "500 ISO-4",
+      "es": "500 ISO-4",
+      "fr": "500 ISO-4",
+      "it": "500 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 ISO-4",
+      "tr": "NULL",
+      "zh": "500 ISO-4"
+    },
+    "quantity": "1",
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6191",
+    "item_id": "6009830",
+    "name": {
+      "de": "1000 ISO-4",
+      "en": "1000 ISO-4",
+      "es": "1000 de ISO-4",
+      "fr": "1000 ISO-4",
+      "it": "1000 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "1000 ISO-4",
+      "tr": "NULL",
+      "zh": "1000\u00A0ISO-4"
+    },
+    "quantity": "1",
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6192",
+    "item_id": "6014460",
+    "name": {
+      "de": "Titel: Fröhlich",
+      "en": "Title: Joyous",
+      "es": "Título: Feliz",
+      "fr": "Titre\u00A0: Joyeux",
+      "it": "Titolo: Felice",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: Радостный",
+      "tr": "NULL",
+      "zh": "头衔：欣喜"
+    },
+    "quantity": "1",
+    "image_set_id": "93047",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6192",
+    "item_id": "6014459",
+    "name": {
+      "de": "Tarnung \"Lebkuchen\"",
+      "en": "Gingerbread Camo",
+      "es": "Camuflaje de jengibre",
+      "fr": "Camo : Pain d'épices",
+      "it": "Mimetica Pan di zenzero",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Пряничный человечек»",
+      "tr": "NULL",
+      "zh": "姜饼人迷彩"
+    },
+    "quantity": "1",
+    "image_set_id": "807479",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6189",
+    "item_id": "802576",
+    "name": {
+      "de": "Vanu-Weihnachtshut",
+      "en": "Vanu Holiday Hat",
+      "es": "Sombrero navideño de Vanu",
+      "fr": "Chapeau des fêtes Vanu",
+      "it": "Cappello natalizio Vanu",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Новогодняя шапка VS",
+      "tr": "NULL",
+      "zh": "Vanu节日帽子"
+    },
+    "quantity": "1",
+    "image_set_id": "93055",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6189",
+    "item_id": "802575",
+    "name": {
+      "de": "Terranischer Weihnachtshut",
+      "en": "Terran Holiday Hat",
+      "es": "Sombrero navideño de la República Terran",
+      "fr": "Chapeau des fêtes Terran",
+      "it": "Cappello natalizio Terrestre",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Новогодняя шапка Terran",
+      "tr": "NULL",
+      "zh": "地球节日帽子"
+    },
+    "quantity": "1",
+    "image_set_id": "93057",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6189",
+    "item_id": "802574",
+    "name": {
+      "de": "Konglomerat-Weihnachtshut",
+      "en": "Conglomerate Holiday Hat",
+      "es": "Sombrero navideño del Conglomerado",
+      "fr": "Chapeau des fêtes du Conglomérat",
+      "it": "Cappello natalizio del Conglomerato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Новогодняя шапка НК",
+      "tr": "NULL",
+      "zh": "联邦节日帽子"
+    },
+    "quantity": "1",
+    "image_set_id": "93059",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

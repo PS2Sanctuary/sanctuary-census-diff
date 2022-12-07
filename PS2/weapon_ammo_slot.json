@@ -13536,5 +13536,40 @@
     "clip_size": "1",
     "capacity": "1",
     "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78766",
+    "weapon_slot_index": "0",
+    "clip_size": "35",
+    "capacity": "210",
+    "clip_model_name": "WeaponAttachment_Common_Clip_AssaultRifle001.adr"
+  },
+  {
+    "weapon_id": "78766",
+    "weapon_slot_index": "1",
+    "clip_size": "0",
+    "capacity": "0",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78766",
+    "weapon_slot_index": "2",
+    "clip_size": "1",
+    "capacity": "2",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78766",
+    "weapon_slot_index": "3",
+    "clip_size": "1",
+    "capacity": "3",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78767",
+    "weapon_slot_index": "0",
+    "clip_size": "55",
+    "capacity": "275",
+    "clip_model_name": "Weapon_Common_Skins_Attachments_Snowblind_Magazine_LMG_001.adr"
   }
 ]
