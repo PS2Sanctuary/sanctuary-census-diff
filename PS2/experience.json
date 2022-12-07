@@ -36893,5 +36893,62 @@
     },
     "xp": "100",
     "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2139",
+    "award_type_id": "116",
+    "description": "Hack Overload",
+    "localized_description": {
+      "de": "Hacking-Überladung",
+      "en": "Hack Overload",
+      "es": "Hack Overload",
+      "fr": "Surcharge de piratage",
+      "it": "Sovraccarico manomissione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Перегрузка при взломе",
+      "tr": "NULL",
+      "zh": "破解过载"
+    },
+    "xp": "50",
+    "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2140",
+    "award_type_id": "117",
+    "description": "Counter Hack Overload",
+    "localized_description": {
+      "de": "Hacking-Überladung abwehren",
+      "en": "Counter Hack Overload",
+      "es": "Counter Hack Overload",
+      "fr": "Contrer la surcharge de piratage",
+      "it": "Sovraccarico contro-manomissione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Противодействие перегрузке при взломе",
+      "tr": "NULL",
+      "zh": "反破解过载"
+    },
+    "xp": "50",
+    "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2141",
+    "award_type_id": "118",
+    "description": "Hack Overload Complete",
+    "localized_description": {
+      "de": "Hacking-Überladung abgeschlossen",
+      "en": "Hack Overload Complete",
+      "es": "Hack Overload Complete",
+      "fr": "Surcharge de piratage terminée",
+      "it": "Sovraccarico manomissione completato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Перегрузка при взломе завершена",
+      "tr": "NULL",
+      "zh": "破解过载已完成"
+    },
+    "xp": "50",
+    "is_notable_event": "0"
   }
 ]
