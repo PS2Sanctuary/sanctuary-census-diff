@@ -9028,10 +9028,6 @@
     "projectile_id": "80603"
   },
   {
-    "fire_mode_id": "81307",
-    "projectile_id": "80357"
-  },
-  {
     "fire_mode_id": "81317",
     "projectile_id": "70013"
   },
@@ -9070,5 +9066,41 @@
   {
     "fire_mode_id": "81328",
     "projectile_id": "80602"
+  },
+  {
+    "fire_mode_id": "81307",
+    "projectile_id": "80596"
+  },
+  {
+    "fire_mode_id": "81329",
+    "projectile_id": "80604"
+  },
+  {
+    "fire_mode_id": "81330",
+    "projectile_id": "80604"
+  },
+  {
+    "fire_mode_id": "81331",
+    "projectile_id": "80605"
+  },
+  {
+    "fire_mode_id": "81332",
+    "projectile_id": "80605"
+  },
+  {
+    "fire_mode_id": "81333",
+    "projectile_id": "80605"
+  },
+  {
+    "fire_mode_id": "81334",
+    "projectile_id": "80605"
+  },
+  {
+    "fire_mode_id": "81335",
+    "projectile_id": "80606"
+  },
+  {
+    "fire_mode_id": "81336",
+    "projectile_id": "80606"
   }
 ]

@@ -730,7 +730,7 @@
       "zh": "Hunter's Blind"
     },
     "facility_type_id": "15",
-    "facility_type": "Unknown",
+    "facility_type": "Small Outpost (CTF)",
     "location_x": "-1767.462",
     "location_y": "-12.75825",
     "location_z": "68.10875"
@@ -1052,7 +1052,7 @@
       "zh": "Drexler堡垒"
     },
     "facility_type_id": "14",
-    "facility_type": "Unknown",
+    "facility_type": "Large Outpost (CTF)",
     "location_x": "-739.2179",
     "location_y": "29.67773",
     "location_z": "-1772.752"
@@ -1512,7 +1512,7 @@
       "zh": "Naum沼泽营地"
     },
     "facility_type_id": "15",
-    "facility_type": "Unknown",
+    "facility_type": "Small Outpost (CTF)",
     "location_x": "2115.026",
     "location_y": "14.3377",
     "location_z": "-1108.963"
@@ -1627,7 +1627,7 @@
       "zh": "Hurakan安全存储点"
     },
     "facility_type_id": "15",
-    "facility_type": "Unknown",
+    "facility_type": "Small Outpost (CTF)",
     "location_x": "-77.25874",
     "location_y": "112.5849",
     "location_z": "-773.0132"
@@ -1742,7 +1742,7 @@
       "zh": "Ixtab水处理厂"
     },
     "facility_type_id": "15",
-    "facility_type": "Unknown",
+    "facility_type": "Small Outpost (CTF)",
     "location_x": "-178.5421",
     "location_y": "60.07989",
     "location_z": "1324.977"
@@ -2294,7 +2294,7 @@
       "zh": "Wokuk瞭望塔"
     },
     "facility_type_id": "15",
-    "facility_type": "Unknown",
+    "facility_type": "Small Outpost (CTF)",
     "location_x": "-1862.503",
     "location_y": "68.97098",
     "location_z": "-1696.952"
@@ -2363,7 +2363,7 @@
       "zh": "Splitpeak山口"
     },
     "facility_type_id": "14",
-    "facility_type": "Unknown",
+    "facility_type": "Large Outpost (CTF)",
     "location_x": "-719.2085",
     "location_y": "159.57",
     "location_z": "1922.303"
@@ -2455,7 +2455,7 @@
       "zh": "西部哨所瞭望塔"
     },
     "facility_type_id": "14",
-    "facility_type": "Unknown",
+    "facility_type": "Large Outpost (CTF)",
     "location_x": "-1052.092",
     "location_y": "76.26325",
     "location_z": "-1927.831"
@@ -2800,7 +2800,7 @@
       "zh": "Crux指挥中心"
     },
     "facility_type_id": "14",
-    "facility_type": "Unknown",
+    "facility_type": "Large Outpost (CTF)",
     "location_x": "1017.313",
     "location_y": "79.40578",
     "location_z": "864.8842"
@@ -2846,7 +2846,7 @@
       "zh": "Bastion"
     },
     "facility_type_id": "14",
-    "facility_type": "Unknown",
+    "facility_type": "Large Outpost (CTF)",
     "location_x": "464.033",
     "location_y": "116.5065",
     "location_z": "-417.8023"
@@ -2869,7 +2869,7 @@
       "zh": "Shrouded空路"
     },
     "facility_type_id": "15",
-    "facility_type": "Unknown",
+    "facility_type": "Small Outpost (CTF)",
     "location_x": "-27.3433",
     "location_y": "67.91031",
     "location_z": "-3011.437"
@@ -3743,7 +3743,7 @@
       "zh": "Onatha西南大门"
     },
     "facility_type_id": "15",
-    "facility_type": "Unknown",
+    "facility_type": "Small Outpost (CTF)",
     "location_x": "249.2107",
     "location_y": "71.22619",
     "location_z": "2565.091"
@@ -4456,7 +4456,7 @@
       "zh": "Indar遗迹挖掘场"
     },
     "facility_type_id": "14",
-    "facility_type": "Unknown",
+    "facility_type": "Large Outpost (CTF)",
     "location_x": "999.1142",
     "location_y": "106.0155",
     "location_z": "-2385.058"
@@ -4502,7 +4502,7 @@
       "zh": "J908撞击点"
     },
     "facility_type_id": "14",
-    "facility_type": "Unknown",
+    "facility_type": "Large Outpost (CTF)",
     "location_x": "1112.449",
     "location_y": "-86.38023",
     "location_z": "48.47856"
@@ -6043,7 +6043,7 @@
       "zh": "Mattherson's Triumph"
     },
     "facility_type_id": "14",
-    "facility_type": "Unknown",
+    "facility_type": "Large Outpost (CTF)",
     "location_x": "161.4596",
     "location_y": "125.3721",
     "location_z": "-785.2059"
@@ -6319,7 +6319,7 @@
       "zh": "Spral Oasis"
     },
     "facility_type_id": "17",
-    "facility_type": "Unknown",
+    "facility_type": "Construction Outpost (CTF)",
     "location_x": "-1454.66",
     "location_y": "82.26",
     "location_z": "1098.23"
@@ -6388,7 +6388,7 @@
       "zh": "Shattered Warpgate"
     },
     "facility_type_id": "0",
-    "facility_type": "Unknown",
+    "facility_type": "NULL",
     "location_x": "NULL",
     "location_y": "NULL",
     "location_z": "NULL"
@@ -6457,7 +6457,7 @@
       "zh": "横贯线"
     },
     "facility_type_id": "15",
-    "facility_type": "Unknown",
+    "facility_type": "Small Outpost (CTF)",
     "location_x": "311.3915",
     "location_y": "64.40758",
     "location_z": "-1349.821"
@@ -6572,7 +6572,7 @@
       "zh": "Andvari兵营"
     },
     "facility_type_id": "15",
-    "facility_type": "Unknown",
+    "facility_type": "Small Outpost (CTF)",
     "location_x": "458.4646",
     "location_y": "102.1348",
     "location_z": "-2380.4"
@@ -6894,7 +6894,7 @@
       "zh": "Andvari南部水库"
     },
     "facility_type_id": "15",
-    "facility_type": "Unknown",
+    "facility_type": "Small Outpost (CTF)",
     "location_x": "-349.21",
     "location_y": "100.75",
     "location_z": "-2356.23"
@@ -6917,7 +6917,7 @@
       "zh": "Elli塔楼"
     },
     "facility_type_id": "15",
-    "facility_type": "Unknown",
+    "facility_type": "Small Outpost (CTF)",
     "location_x": "-1730.97",
     "location_y": "84.17827",
     "location_z": "242.9768"
@@ -6963,7 +6963,7 @@
       "zh": "Baldur"
     },
     "facility_type_id": "16",
-    "facility_type": "Unknown",
+    "facility_type": "Amp Station (CTF)",
     "location_x": "-828.2235",
     "location_y": "121.1476",
     "location_z": "-559.6824"
@@ -7124,7 +7124,7 @@
       "zh": "The Wash"
     },
     "facility_type_id": "0",
-    "facility_type": "Unknown",
+    "facility_type": "NULL",
     "location_x": "NULL",
     "location_y": "NULL",
     "location_z": "NULL"
@@ -7147,7 +7147,7 @@
       "zh": "Jord"
     },
     "facility_type_id": "16",
-    "facility_type": "Unknown",
+    "facility_type": "Amp Station (CTF)",
     "location_x": "-440.2296",
     "location_y": "156.2466",
     "location_z": "1150.347"
@@ -7216,7 +7216,7 @@
       "zh": "Astira Hydroelectric"
     },
     "facility_type_id": "15",
-    "facility_type": "Unknown",
+    "facility_type": "Small Outpost (CTF)",
     "location_x": "-77.77892",
     "location_y": "95.32577",
     "location_z": "-624.747"
@@ -7239,7 +7239,7 @@
       "zh": "Oshur: Inner: NW: Waterbase 01"
     },
     "facility_type_id": "0",
-    "facility_type": "Unknown",
+    "facility_type": "NULL",
     "location_x": "NULL",
     "location_y": "NULL",
     "location_z": "NULL"
@@ -7837,7 +7837,7 @@
       "zh": "Oshur辽阔边疆"
     },
     "facility_type_id": "0",
-    "facility_type": "Unknown",
+    "facility_type": "NULL",
     "location_x": "NULL",
     "location_y": "NULL",
     "location_z": "NULL"
@@ -7998,7 +7998,7 @@
       "zh": "Seapost M6"
     },
     "facility_type_id": "0",
-    "facility_type": "Unknown",
+    "facility_type": "NULL",
     "location_x": "NULL",
     "location_y": "NULL",
     "location_z": "NULL"
@@ -8090,7 +8090,7 @@
       "zh": "Seapost J13"
     },
     "facility_type_id": "0",
-    "facility_type": "Unknown",
+    "facility_type": "NULL",
     "location_x": "NULL",
     "location_y": "NULL",
     "location_z": "NULL"
@@ -8205,7 +8205,7 @@
       "zh": "Seapost C7"
     },
     "facility_type_id": "0",
-    "facility_type": "Unknown",
+    "facility_type": "NULL",
     "location_x": "NULL",
     "location_y": "NULL",
     "location_z": "NULL"
@@ -8251,7 +8251,7 @@
       "zh": "Seapost E5"
     },
     "facility_type_id": "0",
-    "facility_type": "Unknown",
+    "facility_type": "NULL",
     "location_x": "NULL",
     "location_y": "NULL",
     "location_z": "NULL"

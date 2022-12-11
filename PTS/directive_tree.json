@@ -1321,5 +1321,41 @@
     "image_set_id": "0",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "directive_tree_id": "117",
+    "directive_tree_category_id": "8",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": {
+      "de": "Auraximas 2022",
+      "en": "Auraximas 2022",
+      "es": "Auraxidad 2022",
+      "fr": "Auraximas 2022",
+      "it": "Auraximas 2022",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Новый год 2022",
+      "tr": "NULL",
+      "zh": "2022年奥拉西斯圣诞"
+    },
+    "description": {
+      "de": "Verfügbar bis 1. Januar",
+      "en": "Available through January 1",
+      "es": "Disponible hasta el 1 de enero",
+      "fr": "Disponible jusqu'au 1 janvier",
+      "it": "Disponibile fino al 1° gennaio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Доступно до 1 января",
+      "tr": "NULL",
+      "zh": "活动持续至1月1日"
+    },
+    "image_set_id": "0",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]
