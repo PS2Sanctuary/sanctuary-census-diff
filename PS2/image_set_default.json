@@ -80998,5 +80998,13 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/95849.png"
+  },
+  {
+    "image_set_id": "807520",
+    "image_id": "95855",
+    "description": "icon_Vehicle_Common_Quad_Attachment_MountainCarver001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95855.png"
   }
 ]

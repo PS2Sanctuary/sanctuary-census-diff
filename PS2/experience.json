@@ -36901,7 +36901,7 @@
     "localized_description": {
       "de": "Hacking-Überladung",
       "en": "Hack Overload",
-      "es": "Hack Overload",
+      "es": "Sobrecarga de pirateo",
       "fr": "Surcharge de piratage",
       "it": "Sovraccarico manomissione",
       "ko": "NULL",
@@ -36920,7 +36920,7 @@
     "localized_description": {
       "de": "Hacking-Überladung abwehren",
       "en": "Counter Hack Overload",
-      "es": "Counter Hack Overload",
+      "es": "Sobrecarga de contrapirateo",
       "fr": "Contrer la surcharge de piratage",
       "it": "Sovraccarico contro-manomissione",
       "ko": "NULL",
@@ -36939,7 +36939,7 @@
     "localized_description": {
       "de": "Hacking-Überladung abgeschlossen",
       "en": "Hack Overload Complete",
-      "es": "Hack Overload Complete",
+      "es": "Sobrecarga de pirateo completada",
       "fr": "Surcharge de piratage terminée",
       "it": "Sovraccarico manomissione completato",
       "ko": "NULL",
