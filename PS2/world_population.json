@@ -1,0 +1,57 @@
+[
+  {
+    "world_id": "1",
+    "last_updated": "1671883530",
+    "total": "147",
+    "population": {
+      "VS": "41",
+      "NC": "65",
+      "TR": "41",
+      "NSO": "0"
+    }
+  },
+  {
+    "world_id": "13",
+    "last_updated": "1671883508",
+    "total": "441",
+    "population": {
+      "VS": "151",
+      "NC": "140",
+      "TR": "150",
+      "NSO": "0"
+    }
+  },
+  {
+    "world_id": "10",
+    "last_updated": "1671883563",
+    "total": "462",
+    "population": {
+      "VS": "141",
+      "NC": "177",
+      "TR": "144",
+      "NSO": "0"
+    }
+  },
+  {
+    "world_id": "40",
+    "last_updated": "1671883540",
+    "total": "590",
+    "population": {
+      "VS": "188",
+      "NC": "212",
+      "TR": "189",
+      "NSO": "1"
+    }
+  },
+  {
+    "world_id": "17",
+    "last_updated": "1671883520",
+    "total": "122",
+    "population": {
+      "VS": "47",
+      "NC": "42",
+      "TR": "33",
+      "NSO": "0"
+    }
+  }
+]

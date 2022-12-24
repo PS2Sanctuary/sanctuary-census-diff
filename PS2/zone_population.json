@@ -1,0 +1,578 @@
+[
+  {
+    "world_id": "1",
+    "zone_id": "2",
+    "zone_instance": "0",
+    "last_updated": "1671883530",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "1",
+    "zone_id": "8",
+    "zone_instance": "0",
+    "last_updated": "1671883530",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "1",
+    "zone_id": "344",
+    "zone_instance": "0",
+    "last_updated": "1671883530",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "1",
+    "zone_id": "97",
+    "zone_instance": "0",
+    "last_updated": "1671883530",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "1",
+    "zone_id": "98",
+    "zone_instance": "0",
+    "last_updated": "1671883530",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "13",
+    "zone_id": "4",
+    "zone_instance": "0",
+    "last_updated": "1671883508",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "13",
+    "zone_id": "2",
+    "zone_instance": "0",
+    "last_updated": "1671883508",
+    "total": "712",
+    "population": {
+      "VS": "245",
+      "NC": "228",
+      "TR": "239"
+    }
+  },
+  {
+    "world_id": "13",
+    "zone_id": "97",
+    "zone_instance": "0",
+    "last_updated": "1671883508",
+    "total": "1",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "1"
+    }
+  },
+  {
+    "world_id": "13",
+    "zone_id": "98",
+    "zone_instance": "0",
+    "last_updated": "1671883508",
+    "total": "2",
+    "population": {
+      "VS": "2",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "13",
+    "zone_id": "344",
+    "zone_instance": "0",
+    "last_updated": "1671883508",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "13",
+    "zone_id": "8",
+    "zone_instance": "0",
+    "last_updated": "1671883508",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "13",
+    "zone_id": "6",
+    "zone_instance": "0",
+    "last_updated": "1671883508",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "13",
+    "zone_id": "364",
+    "zone_instance": "2454",
+    "last_updated": "1671883407",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "10",
+    "zone_id": "4",
+    "zone_instance": "0",
+    "last_updated": "1671883563",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "10",
+    "zone_id": "98",
+    "zone_instance": "0",
+    "last_updated": "1671883563",
+    "total": "1",
+    "population": {
+      "VS": "1",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "10",
+    "zone_id": "6",
+    "zone_instance": "0",
+    "last_updated": "1671883563",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "10",
+    "zone_id": "2",
+    "zone_instance": "0",
+    "last_updated": "1671883563",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "10",
+    "zone_id": "97",
+    "zone_instance": "0",
+    "last_updated": "1671883563",
+    "total": "2",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "2"
+    }
+  },
+  {
+    "world_id": "10",
+    "zone_id": "8",
+    "zone_instance": "0",
+    "last_updated": "1671883563",
+    "total": "717",
+    "population": {
+      "VS": "230",
+      "NC": "250",
+      "TR": "237"
+    }
+  },
+  {
+    "world_id": "10",
+    "zone_id": "344",
+    "zone_instance": "0",
+    "last_updated": "1671883563",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "40",
+    "zone_id": "8",
+    "zone_instance": "0",
+    "last_updated": "1671883540",
+    "total": "713",
+    "population": {
+      "VS": "228",
+      "NC": "250",
+      "TR": "235"
+    }
+  },
+  {
+    "world_id": "40",
+    "zone_id": "2",
+    "zone_instance": "0",
+    "last_updated": "1671883540",
+    "total": "6",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "6"
+    }
+  },
+  {
+    "world_id": "40",
+    "zone_id": "344",
+    "zone_instance": "0",
+    "last_updated": "1671883540",
+    "total": "2",
+    "population": {
+      "VS": "0",
+      "NC": "2",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "40",
+    "zone_id": "97",
+    "zone_instance": "0",
+    "last_updated": "1671883540",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "40",
+    "zone_id": "4",
+    "zone_instance": "0",
+    "last_updated": "1671883540",
+    "total": "71",
+    "population": {
+      "VS": "24",
+      "NC": "23",
+      "TR": "24"
+    }
+  },
+  {
+    "world_id": "40",
+    "zone_id": "98",
+    "zone_instance": "0",
+    "last_updated": "1671883540",
+    "total": "7",
+    "population": {
+      "VS": "7",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "40",
+    "zone_id": "6",
+    "zone_instance": "0",
+    "last_updated": "1671883540",
+    "total": "3",
+    "population": {
+      "VS": "2",
+      "NC": "1",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "40",
+    "zone_id": "364",
+    "zone_instance": "463",
+    "last_updated": "1671883383",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "17",
+    "zone_id": "4",
+    "zone_instance": "0",
+    "last_updated": "1671883520",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "17",
+    "zone_id": "344",
+    "zone_instance": "0",
+    "last_updated": "1671883520",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "17",
+    "zone_id": "96",
+    "zone_instance": "0",
+    "last_updated": "1671883520",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "17",
+    "zone_id": "2",
+    "zone_instance": "0",
+    "last_updated": "1671883520",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "17",
+    "zone_id": "8",
+    "zone_instance": "0",
+    "last_updated": "1671883520",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "17",
+    "zone_id": "97",
+    "zone_instance": "0",
+    "last_updated": "1671883520",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "17",
+    "zone_id": "98",
+    "zone_instance": "0",
+    "last_updated": "1671883520",
+    "total": "2",
+    "population": {
+      "VS": "2",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "17",
+    "zone_id": "6",
+    "zone_instance": "0",
+    "last_updated": "1671883520",
+    "total": "109",
+    "population": {
+      "VS": "43",
+      "NC": "35",
+      "TR": "31"
+    }
+  },
+  {
+    "world_id": "13",
+    "zone_id": "96",
+    "zone_instance": "0",
+    "last_updated": "1671883407",
+    "total": "1",
+    "population": {
+      "VS": "0",
+      "NC": "1",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "13",
+    "zone_id": "364",
+    "zone_instance": "2451",
+    "last_updated": "1671883407",
+    "total": "0",
+    "population": {
+      "VS": "-1",
+      "NC": "1",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "13",
+    "zone_id": "364",
+    "zone_instance": "2452",
+    "last_updated": "1671883407",
+    "total": "0",
+    "population": {
+      "VS": "-1",
+      "NC": "1",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "13",
+    "zone_id": "364",
+    "zone_instance": "2453",
+    "last_updated": "1671883407",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "13",
+    "zone_id": "364",
+    "zone_instance": "2455",
+    "last_updated": "1671883407",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "1",
+    "zone_id": "96",
+    "zone_instance": "0",
+    "last_updated": "1671883530",
+    "total": "2",
+    "population": {
+      "VS": "0",
+      "NC": "2",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "1",
+    "zone_id": "4",
+    "zone_instance": "0",
+    "last_updated": "1671883530",
+    "total": "124",
+    "population": {
+      "VS": "36",
+      "NC": "51",
+      "TR": "37"
+    }
+  },
+  {
+    "world_id": "1",
+    "zone_id": "6",
+    "zone_instance": "0",
+    "last_updated": "1671883530",
+    "total": "9",
+    "population": {
+      "VS": "2",
+      "NC": "4",
+      "TR": "3"
+    }
+  },
+  {
+    "world_id": "1",
+    "zone_id": "364",
+    "zone_instance": "1287",
+    "last_updated": "1671883407",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "1",
+      "TR": "-1"
+    }
+  },
+  {
+    "world_id": "10",
+    "zone_id": "96",
+    "zone_instance": "0",
+    "last_updated": "1671883563",
+    "total": "4",
+    "population": {
+      "VS": "0",
+      "NC": "4",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "40",
+    "zone_id": "96",
+    "zone_instance": "0",
+    "last_updated": "1671883540",
+    "total": "2",
+    "population": {
+      "VS": "0",
+      "NC": "2",
+      "TR": "0"
+    }
+  },
+  {
+    "world_id": "40",
+    "zone_id": "364",
+    "zone_instance": "465",
+    "last_updated": "1671883540",
+    "total": "0",
+    "population": {
+      "VS": "0",
+      "NC": "0",
+      "TR": "0"
+    }
+  }
+]
