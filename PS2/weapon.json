@@ -1322,6 +1322,7 @@
   {
     "weapon_id": "48",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -1344,6 +1345,7 @@
   {
     "weapon_id": "50",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -1366,6 +1368,7 @@
   {
     "weapon_id": "51",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -1388,6 +1391,7 @@
   {
     "weapon_id": "52",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -1476,6 +1480,7 @@
   {
     "weapon_id": "74",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -1498,6 +1503,7 @@
   {
     "weapon_id": "75",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -1916,6 +1922,7 @@
   {
     "weapon_id": "93",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -1938,6 +1945,7 @@
   {
     "weapon_id": "94",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -1960,6 +1968,7 @@
   {
     "weapon_id": "95",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -1982,6 +1991,7 @@
   {
     "weapon_id": "96",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -2004,6 +2014,7 @@
   {
     "weapon_id": "97",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -3192,6 +3203,7 @@
   {
     "weapon_id": "206",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -3214,6 +3226,7 @@
   {
     "weapon_id": "207",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -5172,6 +5185,7 @@
   {
     "weapon_id": "380",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -5194,6 +5208,7 @@
   {
     "weapon_id": "381",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -5216,6 +5231,7 @@
   {
     "weapon_id": "382",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -12421,6 +12437,7 @@
   {
     "weapon_id": "650",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -12630,6 +12647,7 @@
   {
     "weapon_id": "658",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -12652,6 +12670,7 @@
   {
     "weapon_id": "659",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -12674,6 +12693,7 @@
   {
     "weapon_id": "660",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -12740,6 +12760,7 @@
   {
     "weapon_id": "663",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -12762,6 +12783,7 @@
   {
     "weapon_id": "664",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -12784,6 +12806,7 @@
   {
     "weapon_id": "665",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -13763,6 +13786,7 @@
   {
     "weapon_id": "6050",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -18075,6 +18099,7 @@
   {
     "weapon_id": "7546",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -18097,6 +18122,7 @@
   {
     "weapon_id": "7547",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -18119,6 +18145,7 @@
   {
     "weapon_id": "7548",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -18141,6 +18168,7 @@
   {
     "weapon_id": "7549",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -18163,6 +18191,7 @@
   {
     "weapon_id": "7550",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -18515,6 +18544,7 @@
   {
     "weapon_id": "7566",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -18537,6 +18567,7 @@
   {
     "weapon_id": "7567",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -18559,6 +18590,7 @@
   {
     "weapon_id": "7568",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -18581,6 +18613,7 @@
   {
     "weapon_id": "7569",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -23168,6 +23201,7 @@
   {
     "weapon_id": "50051",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -23190,6 +23224,7 @@
   {
     "weapon_id": "50558",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -23366,6 +23401,7 @@
   {
     "weapon_id": "70004",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -23388,6 +23424,7 @@
   {
     "weapon_id": "70005",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -23410,6 +23447,7 @@
   {
     "weapon_id": "70006",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -23894,6 +23932,7 @@
   {
     "weapon_id": "70022",
     "weapon_group_id": "5000",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -23916,6 +23955,7 @@
   {
     "weapon_id": "70023",
     "weapon_group_id": "5000",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -23938,6 +23978,7 @@
   {
     "weapon_id": "70024",
     "weapon_group_id": "5000",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -24180,6 +24221,7 @@
   {
     "weapon_id": "70032",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -24202,6 +24244,7 @@
   {
     "weapon_id": "70033",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -24224,6 +24267,7 @@
   {
     "weapon_id": "70034",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -24246,6 +24290,7 @@
   {
     "weapon_id": "70035",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -24268,6 +24313,7 @@
   {
     "weapon_id": "70036",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -26094,6 +26140,7 @@
   {
     "weapon_id": "77868",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -26149,6 +26196,7 @@
   {
     "weapon_id": "77870",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -26204,6 +26252,7 @@
   {
     "weapon_id": "77872",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -26259,6 +26308,7 @@
   {
     "weapon_id": "77874",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -26314,6 +26364,7 @@
   {
     "weapon_id": "77876",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -26369,6 +26420,7 @@
   {
     "weapon_id": "77878",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -26765,6 +26817,7 @@
   {
     "weapon_id": "77897",
     "weapon_group_id": "77897",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -26787,6 +26840,7 @@
   {
     "weapon_id": "77898",
     "weapon_group_id": "77898",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -26809,6 +26863,7 @@
   {
     "weapon_id": "77899",
     "weapon_group_id": "77899",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -30406,6 +30461,7 @@
   {
     "weapon_id": "78049",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -30428,6 +30484,7 @@
   {
     "weapon_id": "78050",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -30450,6 +30507,7 @@
   {
     "weapon_id": "78051",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -30472,6 +30530,7 @@
   {
     "weapon_id": "78052",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -31341,6 +31400,7 @@
   {
     "weapon_id": "78088",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -31363,6 +31423,7 @@
   {
     "weapon_id": "78089",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -31385,6 +31446,7 @@
   {
     "weapon_id": "78090",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -32210,6 +32272,7 @@
   {
     "weapon_id": "78123",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "100",
     "unequip_ms": "100",
     "to_iron_sights_ms": "50",
@@ -32265,6 +32328,7 @@
   {
     "weapon_id": "78126",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -32287,6 +32351,7 @@
   {
     "weapon_id": "78127",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -32309,6 +32374,7 @@
   {
     "weapon_id": "78128",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -32331,6 +32397,7 @@
   {
     "weapon_id": "78129",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -32683,6 +32750,7 @@
   {
     "weapon_id": "78142",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -32771,6 +32839,7 @@
   {
     "weapon_id": "78147",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -32859,6 +32928,7 @@
   {
     "weapon_id": "78151",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "100",
     "unequip_ms": "100",
     "to_iron_sights_ms": "50",
@@ -33706,6 +33776,7 @@
   {
     "weapon_id": "78186",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -33728,6 +33799,7 @@
   {
     "weapon_id": "78187",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -33750,6 +33822,7 @@
   {
     "weapon_id": "78188",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -33959,6 +34032,7 @@
   {
     "weapon_id": "78199",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "100",
     "unequip_ms": "100",
     "to_iron_sights_ms": "50",
@@ -34630,6 +34704,7 @@
   {
     "weapon_id": "78248",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -35081,6 +35156,7 @@
   {
     "weapon_id": "78263",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -35103,6 +35179,7 @@
   {
     "weapon_id": "78264",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -35125,6 +35202,7 @@
   {
     "weapon_id": "78265",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -35312,6 +35390,7 @@
   {
     "weapon_id": "78271",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -35334,6 +35413,7 @@
   {
     "weapon_id": "78272",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -36423,6 +36503,7 @@
   {
     "weapon_id": "78308",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "100",
     "unequip_ms": "100",
     "to_iron_sights_ms": "50",
@@ -37204,6 +37285,7 @@
   {
     "weapon_id": "78333",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -37633,6 +37715,7 @@
   {
     "weapon_id": "78351",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -37655,6 +37738,7 @@
   {
     "weapon_id": "78352",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -37677,6 +37761,7 @@
   {
     "weapon_id": "78353",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -37699,6 +37784,7 @@
   {
     "weapon_id": "78354",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -38722,6 +38808,7 @@
   {
     "weapon_id": "78401",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -39283,6 +39370,7 @@
   {
     "weapon_id": "78423",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "0",
@@ -39371,6 +39459,7 @@
   {
     "weapon_id": "78426",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -39690,6 +39779,7 @@
   {
     "weapon_id": "78436",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -39712,6 +39802,7 @@
   {
     "weapon_id": "78437",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -39734,6 +39825,7 @@
   {
     "weapon_id": "78438",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -39756,6 +39848,7 @@
   {
     "weapon_id": "78441",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -39778,6 +39871,7 @@
   {
     "weapon_id": "78445",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -39800,6 +39894,7 @@
   {
     "weapon_id": "78448",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -41472,6 +41567,7 @@
   {
     "weapon_id": "78503",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -41681,6 +41777,7 @@
   {
     "weapon_id": "78510",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -41725,6 +41822,7 @@
   {
     "weapon_id": "78512",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "0",
     "unequip_ms": "0",
     "to_iron_sights_ms": "0",
@@ -41769,6 +41867,7 @@
   {
     "weapon_id": "78514",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -41791,6 +41890,7 @@
   {
     "weapon_id": "78515",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -41912,6 +42012,7 @@
   {
     "weapon_id": "78519",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -41934,6 +42035,7 @@
   {
     "weapon_id": "78520",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -41956,6 +42058,7 @@
   {
     "weapon_id": "78521",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "400",
     "unequip_ms": "250",
     "to_iron_sights_ms": "500",
@@ -42231,6 +42334,7 @@
   {
     "weapon_id": "78530",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -43397,6 +43501,7 @@
   {
     "weapon_id": "78572",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -43419,6 +43524,7 @@
   {
     "weapon_id": "78575",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -44585,6 +44691,7 @@
   {
     "weapon_id": "78619",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -45641,6 +45748,7 @@
   {
     "weapon_id": "78652",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -45663,6 +45771,7 @@
   {
     "weapon_id": "78653",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -45685,6 +45794,7 @@
   {
     "weapon_id": "78654",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -45707,6 +45817,7 @@
   {
     "weapon_id": "78655",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "450",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -46081,6 +46192,7 @@
   {
     "weapon_id": "78669",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -46169,6 +46281,7 @@
   {
     "weapon_id": "78672",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "100",
     "unequip_ms": "100",
     "to_iron_sights_ms": "50",
@@ -46389,6 +46502,7 @@
   {
     "weapon_id": "78679",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -46774,6 +46888,7 @@
   {
     "weapon_id": "78692",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -46796,6 +46911,7 @@
   {
     "weapon_id": "78693",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -46818,6 +46934,7 @@
   {
     "weapon_id": "78694",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "600",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -46906,6 +47023,7 @@
   {
     "weapon_id": "78698",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
@@ -46928,6 +47046,7 @@
   {
     "weapon_id": "78699",
     "weapon_group_id": "NULL",
+    "equip_needs_ammo": "1",
     "equip_ms": "250",
     "unequip_ms": "250",
     "to_iron_sights_ms": "150",
