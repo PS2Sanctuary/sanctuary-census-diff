@@ -118605,5 +118605,157 @@
     "image_set_id": "803460",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "directive_id": "5239",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Grabenspaten",
+      "en": "Trench Shovel",
+      "es": "Pala de cavar trincheras",
+      "fr": "Pelle à tranchée",
+      "it": "Pala da trincea",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Траншейная лопата",
+      "tr": "NULL",
+      "zh": "壕沟铲"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5240",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Grabenspaten",
+      "en": "Trench Shovel",
+      "es": "Pala de cavar trincheras",
+      "fr": "Pelle à tranchée",
+      "it": "Pala da trincea",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Траншейная лопата",
+      "tr": "NULL",
+      "zh": "壕沟铲"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5241",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Grabenspaten",
+      "en": "Trench Shovel",
+      "es": "Pala de cavar trincheras",
+      "fr": "Pelle à tranchée",
+      "it": "Pala da trincea",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Траншейная лопата",
+      "tr": "NULL",
+      "zh": "壕沟铲"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5242",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Grabenspaten",
+      "en": "Trench Shovel",
+      "es": "Pala de cavar trincheras",
+      "fr": "Pelle à tranchée",
+      "it": "Pala da trincea",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Траншейная лопата",
+      "tr": "NULL",
+      "zh": "壕沟铲"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
   }
 ]
