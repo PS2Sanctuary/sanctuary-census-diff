@@ -20,7 +20,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1355.88",
     "location_y": "47.42969",
-    "location_z": "-3052.788"
+    "location_z": "-3052.788",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4133",
@@ -43,7 +45,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-2562.811",
     "location_y": "21.8301",
-    "location_z": "1386.953"
+    "location_z": "1386.953",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "4261",
@@ -66,7 +70,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2011.422",
     "location_y": "63.11737",
-    "location_z": "-657.8187"
+    "location_z": "-657.8187",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4102",
@@ -89,7 +95,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1324.95",
     "location_y": "58.01372",
-    "location_z": "-2389.168"
+    "location_z": "-2389.168",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4230",
@@ -135,7 +143,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-793.7712",
     "location_y": "18.64989",
-    "location_z": "1706.592"
+    "location_z": "1706.592",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "4262",
@@ -158,7 +168,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2036.46",
     "location_y": "2.174717",
-    "location_z": "1951.483"
+    "location_z": "1951.483",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4103",
@@ -181,7 +193,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2112.503",
     "location_y": "77.0633",
-    "location_z": "-2229.821"
+    "location_z": "-2229.821",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4104",
@@ -204,7 +218,9 @@
     "facility_type": "Small Outpost",
     "location_x": "982.7468",
     "location_y": "40.17625",
-    "location_z": "-1631.166"
+    "location_z": "-1631.166",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4105",
@@ -227,7 +243,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2626.842",
     "location_y": "3.797127",
-    "location_z": "-723.8876"
+    "location_z": "-723.8876",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4106",
@@ -250,7 +268,9 @@
     "facility_type": "Small Outpost",
     "location_x": "3185.979",
     "location_y": "26.20848",
-    "location_z": "-186.0505"
+    "location_z": "-186.0505",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4170",
@@ -273,7 +293,9 @@
     "facility_type": "Bio Lab",
     "location_x": "1135.101",
     "location_y": "119.9432",
-    "location_z": "-143.7333"
+    "location_z": "-143.7333",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "4107",
@@ -296,7 +318,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2841.119",
     "location_y": "28.64579",
-    "location_z": "1325.563"
+    "location_z": "1325.563",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4171",
@@ -319,7 +343,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1170.853",
     "location_y": "90.21292",
-    "location_z": "373.6869"
+    "location_z": "373.6869",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4108",
@@ -342,7 +368,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2033.715",
     "location_y": "61.56718",
-    "location_z": "1261.743"
+    "location_z": "1261.743",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4172",
@@ -365,7 +393,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1473.683",
     "location_y": "133.369",
-    "location_z": "-313.8972"
+    "location_z": "-313.8972",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4109",
@@ -388,7 +418,9 @@
     "facility_type": "Small Outpost",
     "location_x": "857.3224",
     "location_y": "43.2776",
-    "location_z": "1359.799"
+    "location_z": "1359.799",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4173",
@@ -411,7 +443,9 @@
     "facility_type": "Small Outpost",
     "location_x": "786.3189",
     "location_y": "122.1681",
-    "location_z": "-154.3891"
+    "location_z": "-154.3891",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4110",
@@ -434,7 +468,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1518.862",
     "location_y": "5.892097",
-    "location_z": "2428.438"
+    "location_z": "2428.438",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4111",
@@ -457,7 +493,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2333.234",
     "location_y": "76.58478",
-    "location_z": "2645.741"
+    "location_z": "2645.741",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4112",
@@ -480,7 +518,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1120.911",
     "location_y": "58.97974",
-    "location_z": "2761.887"
+    "location_z": "2761.887",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4240",
@@ -526,7 +566,9 @@
     "facility_type": "Small Outpost",
     "location_x": "36.74343",
     "location_y": "41.34005",
-    "location_z": "-3262.866"
+    "location_z": "-3262.866",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4114",
@@ -549,7 +591,9 @@
     "facility_type": "Small Outpost",
     "location_x": "342.7441",
     "location_y": "9.031357",
-    "location_z": "-1818.297"
+    "location_z": "-1818.297",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4115",
@@ -572,7 +616,9 @@
     "facility_type": "Small Outpost",
     "location_x": "517.051",
     "location_y": "160.4547",
-    "location_z": "-475.1586"
+    "location_z": "-475.1586",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4116",
@@ -595,7 +641,9 @@
     "facility_type": "Small Outpost",
     "location_x": "887.6013",
     "location_y": "106.307",
-    "location_z": "779.0043"
+    "location_z": "779.0043",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4180",
@@ -618,7 +666,9 @@
     "facility_type": "Bio Lab",
     "location_x": "-2159.799",
     "location_y": "5.424654",
-    "location_z": "-1355.342"
+    "location_z": "-1355.342",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "4117",
@@ -641,7 +691,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1317.243",
     "location_y": "16.85356",
-    "location_z": "-2450.562"
+    "location_z": "-2450.562",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4181",
@@ -664,7 +716,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2028.893",
     "location_y": "20.78772",
-    "location_z": "-1681.812"
+    "location_z": "-1681.812",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4118",
@@ -687,7 +741,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1492.96",
     "location_y": "3.906586",
-    "location_z": "-1933.5"
+    "location_z": "-1933.5",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4182",
@@ -710,7 +766,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1897.288",
     "location_y": "36.90087",
-    "location_z": "-1248.184"
+    "location_z": "-1248.184",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4119",
@@ -733,7 +791,9 @@
     "facility_type": "Small Outpost (CTF)",
     "location_x": "-1767.462",
     "location_y": "-12.75825",
-    "location_z": "68.10875"
+    "location_z": "68.10875",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4183",
@@ -756,7 +816,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2085.203",
     "location_y": "27.46079",
-    "location_z": "-1020.36"
+    "location_z": "-1020.36",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4120",
@@ -779,7 +841,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-663.1986",
     "location_y": "137.8467",
-    "location_z": "-293.3634"
+    "location_z": "-293.3634",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4121",
@@ -802,7 +866,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1536.903",
     "location_y": "34.40091",
-    "location_z": "922.0722"
+    "location_z": "922.0722",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4122",
@@ -825,7 +891,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-574.2111",
     "location_y": "25.78734",
-    "location_z": "2919.94"
+    "location_z": "2919.94",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4250",
@@ -871,7 +939,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1139.473",
     "location_y": "4",
-    "location_z": "2551.879"
+    "location_z": "2551.879",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4124",
@@ -894,7 +964,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2822.829",
     "location_y": "12.4129",
-    "location_z": "-741.7515"
+    "location_z": "-741.7515",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4125",
@@ -917,7 +989,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2580.367",
     "location_y": "20.73209",
-    "location_z": "143.9012"
+    "location_z": "143.9012",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4126",
@@ -940,7 +1014,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-3205.175",
     "location_y": "15.59608",
-    "location_z": "743.1317"
+    "location_z": "743.1317",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4190",
@@ -963,7 +1039,9 @@
     "facility_type": "Bio Lab",
     "location_x": "486.8584",
     "location_y": "14.89789",
-    "location_z": "2781.841"
+    "location_z": "2781.841",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "4127",
@@ -986,7 +1064,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2571.105",
     "location_y": "58.47634",
-    "location_z": "1894.895"
+    "location_z": "1894.895",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4191",
@@ -1009,7 +1089,9 @@
     "facility_type": "Small Outpost",
     "location_x": "725.937",
     "location_y": "14",
-    "location_z": "2436.851"
+    "location_z": "2436.851",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4130",
@@ -1032,7 +1114,9 @@
     "facility_type": "Large Outpost",
     "location_x": "698.7863",
     "location_y": "117.2206",
-    "location_z": "-2960.46"
+    "location_z": "-2960.46",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "4131",
@@ -1055,7 +1139,9 @@
     "facility_type": "Large Outpost (CTF)",
     "location_x": "-739.2179",
     "location_y": "29.67773",
-    "location_z": "-1772.752"
+    "location_z": "-1772.752",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "4132",
@@ -1078,7 +1164,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-1339.238",
     "location_y": "7.860434",
-    "location_z": "-803.3466"
+    "location_z": "-803.3466",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "4260",
@@ -1101,7 +1189,9 @@
     "facility_type": "Small Outpost",
     "location_x": "803.317",
     "location_y": "17.26058",
-    "location_z": "-2392.678"
+    "location_z": "-2392.678",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4135",
@@ -1124,7 +1214,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-3.031891",
     "location_y": "22.12843",
-    "location_z": "1848.096"
+    "location_z": "1848.096",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "4263",
@@ -1147,7 +1239,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1348.853",
     "location_y": "0.2717934",
-    "location_z": "-1608.503"
+    "location_z": "-1608.503",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4136",
@@ -1170,7 +1264,9 @@
     "facility_type": "Large Outpost",
     "location_x": "2442.044",
     "location_y": "11.60689",
-    "location_z": "1869.857"
+    "location_z": "1869.857",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "4264",
@@ -1193,7 +1289,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2088.809",
     "location_y": "27.60736",
-    "location_z": "745.2189"
+    "location_z": "745.2189",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4200",
@@ -1216,7 +1314,9 @@
     "facility_type": "Tech Plant",
     "location_x": "-677.6385",
     "location_y": "9.643489",
-    "location_z": "-2805.934"
+    "location_z": "-2805.934",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "4137",
@@ -1239,7 +1339,9 @@
     "facility_type": "Large Outpost",
     "location_x": "2281.435",
     "location_y": "29.48964",
-    "location_z": "-221.0779"
+    "location_z": "-221.0779",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "4265",
@@ -1262,7 +1364,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-321.5656",
     "location_y": "2.881757",
-    "location_z": "2037.027"
+    "location_z": "2037.027",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4201",
@@ -1285,7 +1389,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1026.51",
     "location_y": "11.56948",
-    "location_z": "-3025.609"
+    "location_z": "-3025.609",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4138",
@@ -1308,7 +1414,9 @@
     "facility_type": "Large Outpost",
     "location_x": "1528.477",
     "location_y": "37.65943",
-    "location_z": "-1014.045"
+    "location_z": "-1014.045",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "4266",
@@ -1331,7 +1439,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1620.034",
     "location_y": "17.86942",
-    "location_z": "-1832.038"
+    "location_z": "-1832.038",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4202",
@@ -1354,7 +1464,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-410.7588",
     "location_y": "42.3",
-    "location_z": "-3181.961"
+    "location_z": "-3181.961",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4139",
@@ -1377,7 +1489,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-15.67515",
     "location_y": "157.9806",
-    "location_z": "22.43514"
+    "location_z": "22.43514",
+    "outfit_resource_reward_type_description": "Polystellarite",
+    "outfit_resource_reward_amount": "2"
   },
   {
     "map_region_id": "4267",
@@ -1400,7 +1514,9 @@
     "facility_type": "Small Outpost",
     "location_x": "882.1007",
     "location_y": "9.599091",
-    "location_z": "-1344.736"
+    "location_z": "-1344.736",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4140",
@@ -1423,7 +1539,9 @@
     "facility_type": "Amp Station",
     "location_x": "2397.268",
     "location_y": "16.10193",
-    "location_z": "-1478.351"
+    "location_z": "-1478.351",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "4268",
@@ -1446,7 +1564,9 @@
     "facility_type": "Small Outpost",
     "location_x": "518.8907",
     "location_y": "47.37925",
-    "location_z": "1281.232"
+    "location_z": "1281.232",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4141",
@@ -1469,7 +1589,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2642.908",
     "location_y": "39.10121",
-    "location_z": "-1183.002"
+    "location_z": "-1183.002",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4269",
@@ -1492,7 +1614,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1318.172",
     "location_y": "2.920121",
-    "location_z": "1897.608"
+    "location_z": "1897.608",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4142",
@@ -1515,7 +1639,9 @@
     "facility_type": "Small Outpost (CTF)",
     "location_x": "2115.026",
     "location_y": "14.3377",
-    "location_z": "-1108.963"
+    "location_z": "-1108.963",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4270",
@@ -1538,7 +1664,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1158.351",
     "location_y": "0.4849286",
-    "location_z": "-278.4248"
+    "location_z": "-278.4248",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4143",
@@ -1561,7 +1689,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2263.15",
     "location_y": "15.91239",
-    "location_z": "-1828.472"
+    "location_z": "-1828.472",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4271",
@@ -1584,7 +1714,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2268.66",
     "location_y": "42.8756",
-    "location_z": "-207.0165"
+    "location_z": "-207.0165",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4150",
@@ -1607,7 +1739,9 @@
     "facility_type": "Amp Station",
     "location_x": "-404.0651",
     "location_y": "73.75275",
-    "location_z": "-1007.791"
+    "location_z": "-1007.791",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "4151",
@@ -1630,7 +1764,9 @@
     "facility_type": "Small Outpost (CTF)",
     "location_x": "-77.25874",
     "location_y": "112.5849",
-    "location_z": "-773.0132"
+    "location_z": "-773.0132",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4152",
@@ -1653,7 +1789,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-302.0181",
     "location_y": "82.09375",
-    "location_z": "-1320.16"
+    "location_z": "-1320.16",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4153",
@@ -1676,7 +1814,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-703.9125",
     "location_y": "70.34908",
-    "location_z": "-1212.7"
+    "location_z": "-1212.7",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4160",
@@ -1699,7 +1839,9 @@
     "facility_type": "Amp Station",
     "location_x": "-469.0049",
     "location_y": "55.88142",
-    "location_z": "1003.755"
+    "location_z": "1003.755",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "4161",
@@ -1722,7 +1864,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-478.7307",
     "location_y": "80.71923",
-    "location_z": "753.8644"
+    "location_z": "753.8644",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4162",
@@ -1745,7 +1889,9 @@
     "facility_type": "Small Outpost (CTF)",
     "location_x": "-178.5421",
     "location_y": "60.07989",
-    "location_z": "1324.977"
+    "location_z": "1324.977",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4163",
@@ -1768,7 +1914,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-774.3772",
     "location_y": "86.84877",
-    "location_z": "1192.519"
+    "location_z": "1192.519",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4192",
@@ -1791,7 +1939,9 @@
     "facility_type": "Small Outpost",
     "location_x": "473.9089",
     "location_y": "-37.46881",
-    "location_z": "2276.472"
+    "location_z": "2276.472",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4193",
@@ -1814,7 +1964,9 @@
     "facility_type": "Small Outpost",
     "location_x": "266.6301",
     "location_y": "14.48802",
-    "location_z": "2678.566"
+    "location_z": "2678.566",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4203",
@@ -1837,7 +1989,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-853.4761",
     "location_y": "25.77377",
-    "location_z": "-2508.433"
+    "location_z": "-2508.433",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4210",
@@ -1860,7 +2014,9 @@
     "facility_type": "Tech Plant",
     "location_x": "-1873.173",
     "location_y": "17.78925",
-    "location_z": "2161.547"
+    "location_z": "2161.547",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "4211",
@@ -1883,7 +2039,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1462.456",
     "location_y": "31.17031",
-    "location_z": "2030.324"
+    "location_z": "2030.324",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4212",
@@ -1906,7 +2064,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1843.732",
     "location_y": "19.26804",
-    "location_z": "2496.869"
+    "location_z": "2496.869",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4213",
@@ -1929,7 +2089,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2238.982",
     "location_y": "10.10089",
-    "location_z": "2257.801"
+    "location_z": "2257.801",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4220",
@@ -1952,7 +2114,9 @@
     "facility_type": "Tech Plant",
     "location_x": "2970.179",
     "location_y": "12.7552",
-    "location_z": "661.3818"
+    "location_z": "661.3818",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "4221",
@@ -1975,7 +2139,9 @@
     "facility_type": "Small Outpost",
     "location_x": "3088.505",
     "location_y": "2.633946",
-    "location_z": "446.0441"
+    "location_z": "446.0441",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4222",
@@ -1998,7 +2164,9 @@
     "facility_type": "Small Outpost",
     "location_x": "3097.351",
     "location_y": "7.239565",
-    "location_z": "961.715"
+    "location_z": "961.715",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "4223",
@@ -2021,7 +2189,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2707.071",
     "location_y": "9.482571",
-    "location_z": "442.2849"
+    "location_z": "442.2849",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6001",
@@ -2067,7 +2237,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-1903.561",
     "location_y": "97.40333",
-    "location_z": "1515.283"
+    "location_z": "1515.283",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "6337",
@@ -2090,7 +2262,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-825.85",
     "location_y": "64.8",
-    "location_z": "2755.04"
+    "location_z": "2755.04",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "6113",
@@ -2113,7 +2287,9 @@
     "facility_type": "Bio Lab",
     "location_x": "396.2593",
     "location_y": "60.55414",
-    "location_z": "2793.945"
+    "location_z": "2793.945",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "6305",
@@ -2136,7 +2312,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2243.761",
     "location_y": "63.05737",
-    "location_z": "-2881.062"
+    "location_z": "-2881.062",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6002",
@@ -2205,7 +2383,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2511.082",
     "location_y": "71.16142",
-    "location_z": "-1486.359"
+    "location_z": "-1486.359",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6101",
@@ -2228,7 +2408,9 @@
     "facility_type": "Amp Station",
     "location_x": "1305.858",
     "location_y": "63.48737",
-    "location_z": "-2355.519"
+    "location_z": "-2355.519",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "6357",
@@ -2251,7 +2433,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1472.988",
     "location_y": "51.14082",
-    "location_z": "-2188.334"
+    "location_z": "-2188.334",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6102",
@@ -2274,7 +2458,9 @@
     "facility_type": "Bio Lab",
     "location_x": "1649.284",
     "location_y": "68.14789",
-    "location_z": "-507.8147"
+    "location_z": "-507.8147",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "6358",
@@ -2297,7 +2483,9 @@
     "facility_type": "Small Outpost (CTF)",
     "location_x": "-1862.503",
     "location_y": "68.97098",
-    "location_z": "-1696.952"
+    "location_z": "-1696.952",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6103",
@@ -2320,7 +2508,9 @@
     "facility_type": "Tech Plant",
     "location_x": "-81.14149",
     "location_y": "70.90156",
-    "location_z": "-1841.458"
+    "location_z": "-1841.458",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "6359",
@@ -2343,7 +2533,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1500.634",
     "location_y": "82.49603",
-    "location_z": "-810.6841"
+    "location_z": "-810.6841",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6207",
@@ -2366,7 +2558,9 @@
     "facility_type": "Large Outpost (CTF)",
     "location_x": "-719.2085",
     "location_y": "159.57",
-    "location_z": "1922.303"
+    "location_z": "1922.303",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "6335",
@@ -2389,7 +2583,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-174.4951",
     "location_y": "410.9159",
-    "location_z": "-205.4788"
+    "location_z": "-205.4788",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6111",
@@ -2412,7 +2608,9 @@
     "facility_type": "Amp Station",
     "location_x": "2311.401",
     "location_y": "60.57977",
-    "location_z": "1190.187"
+    "location_z": "1190.187",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "6303",
@@ -2435,7 +2633,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2803.24",
     "location_y": "69.49533",
-    "location_z": "2206.654"
+    "location_z": "2206.654",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6208",
@@ -2458,7 +2658,9 @@
     "facility_type": "Large Outpost (CTF)",
     "location_x": "-1052.092",
     "location_y": "76.26325",
-    "location_z": "-1927.831"
+    "location_z": "-1927.831",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "6336",
@@ -2481,7 +2683,9 @@
     "facility_type": "Small Outpost",
     "location_x": "111.9536",
     "location_y": "53.68392",
-    "location_z": "3104.444"
+    "location_z": "3104.444",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6112",
@@ -2504,7 +2708,9 @@
     "facility_type": "Tech Plant",
     "location_x": "231.5659",
     "location_y": "68.71807",
-    "location_z": "1317.272"
+    "location_z": "1317.272",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "6304",
@@ -2527,7 +2733,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2767.351",
     "location_y": "68.24565",
-    "location_z": "1635.56"
+    "location_z": "1635.56",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6121",
@@ -2550,7 +2758,9 @@
     "facility_type": "Amp Station",
     "location_x": "-1969.289",
     "location_y": "60.35016",
-    "location_z": "-2140.142"
+    "location_z": "-2140.142",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "6313",
@@ -2573,7 +2783,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1298.538",
     "location_y": "195.6728",
-    "location_z": "1337.164"
+    "location_z": "1337.164",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6201",
@@ -2596,7 +2808,9 @@
     "facility_type": "Large Outpost",
     "location_x": "1969.765",
     "location_y": "107.6747",
-    "location_z": "-1211.691"
+    "location_z": "-1211.691",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "6329",
@@ -2619,7 +2833,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-0.2529182",
     "location_y": "437.4346",
-    "location_z": "197.5412"
+    "location_z": "197.5412",
+    "outfit_resource_reward_type_description": "Polystellarite",
+    "outfit_resource_reward_amount": "2"
   },
   {
     "map_region_id": "6122",
@@ -2642,7 +2858,9 @@
     "facility_type": "Tech Plant",
     "location_x": "-1807.569",
     "location_y": "70.96169",
-    "location_z": "-485.8504"
+    "location_z": "-485.8504",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "6314",
@@ -2665,7 +2883,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1254.88",
     "location_y": "67.90269",
-    "location_z": "2178.21"
+    "location_z": "2178.21",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6202",
@@ -2688,7 +2908,9 @@
     "facility_type": "Large Outpost",
     "location_x": "2073.251",
     "location_y": "68.41122",
-    "location_z": "377.3658"
+    "location_z": "377.3658",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "6330",
@@ -2711,7 +2933,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2371.836",
     "location_y": "70.52534",
-    "location_z": "-92.30911"
+    "location_z": "-92.30911",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6123",
@@ -2734,7 +2958,9 @@
     "facility_type": "Bio Lab",
     "location_x": "-1555.773",
     "location_y": "56.75604",
-    "location_z": "2338.206"
+    "location_z": "2338.206",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "6203",
@@ -2757,7 +2983,9 @@
     "facility_type": "Large Outpost",
     "location_x": "1180.593",
     "location_y": "121.2793",
-    "location_z": "2952.214"
+    "location_z": "2952.214",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "6331",
@@ -2780,7 +3008,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2736.126",
     "location_y": "67.05572",
-    "location_z": "444.4475"
+    "location_z": "444.4475",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6204",
@@ -2803,7 +3033,9 @@
     "facility_type": "Large Outpost (CTF)",
     "location_x": "1017.313",
     "location_y": "79.40578",
-    "location_z": "864.8842"
+    "location_z": "864.8842",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "6332",
@@ -2826,7 +3058,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1671.805",
     "location_y": "66.54297",
-    "location_z": "48.44933"
+    "location_z": "48.44933",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6205",
@@ -2849,7 +3083,9 @@
     "facility_type": "Large Outpost (CTF)",
     "location_x": "464.033",
     "location_y": "116.5065",
-    "location_z": "-417.8023"
+    "location_z": "-417.8023",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "6333",
@@ -2872,7 +3108,9 @@
     "facility_type": "Small Outpost (CTF)",
     "location_x": "-27.3433",
     "location_y": "67.91031",
-    "location_z": "-3011.437"
+    "location_z": "-3011.437",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6301",
@@ -2895,7 +3133,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2798.046",
     "location_y": "69.81474",
-    "location_z": "-1162.959"
+    "location_z": "-1162.959",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6206",
@@ -2918,7 +3158,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-1212.781",
     "location_y": "115.553",
-    "location_z": "471.7204"
+    "location_z": "471.7204",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "6334",
@@ -2941,7 +3183,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-431.2554",
     "location_y": "63.17447",
-    "location_z": "-2945.247"
+    "location_z": "-2945.247",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6302",
@@ -2964,7 +3208,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2856.104",
     "location_y": "61.52412",
-    "location_z": "-123.6518"
+    "location_z": "-123.6518",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6306",
@@ -2987,7 +3233,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2023.971",
     "location_y": "79.17107",
-    "location_z": "-1834.286"
+    "location_z": "-1834.286",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6307",
@@ -3010,7 +3258,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1001.049",
     "location_y": "72.76028",
-    "location_z": "136.0251"
+    "location_z": "136.0251",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6308",
@@ -3033,7 +3283,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1703.29",
     "location_y": "82.99309",
-    "location_z": "2051.148"
+    "location_z": "2051.148",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6309",
@@ -3056,7 +3308,9 @@
     "facility_type": "Small Outpost",
     "location_x": "416.5043",
     "location_y": "84.83411",
-    "location_z": "-2993.408"
+    "location_z": "-2993.408",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6310",
@@ -3079,7 +3333,9 @@
     "facility_type": "Small Outpost",
     "location_x": "214.0281",
     "location_y": "144.6853",
-    "location_z": "-2501.914"
+    "location_z": "-2501.914",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6311",
@@ -3102,7 +3358,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1314.221",
     "location_y": "174.7702",
-    "location_z": "-1249.747"
+    "location_z": "-1249.747",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6312",
@@ -3125,7 +3383,9 @@
     "facility_type": "Small Outpost",
     "location_x": "389.078",
     "location_y": "135.7378",
-    "location_z": "-1228.158"
+    "location_z": "-1228.158",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6316",
@@ -3148,7 +3408,9 @@
     "facility_type": "Small Outpost",
     "location_x": "399.0562",
     "location_y": "220.3928",
-    "location_z": "255.8834"
+    "location_z": "255.8834",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6317",
@@ -3171,7 +3433,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-43.08704",
     "location_y": "133.3072",
-    "location_z": "2139.275"
+    "location_z": "2139.275",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6318",
@@ -3194,7 +3458,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-308.5739",
     "location_y": "53.90104",
-    "location_z": "2818.731"
+    "location_z": "2818.731",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6319",
@@ -3217,7 +3483,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-852",
     "location_y": "74",
-    "location_z": "-674"
+    "location_z": "-674",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6320",
@@ -3240,7 +3508,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-683.22",
     "location_y": "98",
-    "location_z": "1129.03"
+    "location_z": "1129.03",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6324",
@@ -3263,7 +3533,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1775",
     "location_y": "135",
-    "location_z": "560"
+    "location_z": "560",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6325",
@@ -3286,7 +3558,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2738.894",
     "location_y": "71.67953",
-    "location_z": "-333.6521"
+    "location_z": "-333.6521",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6326",
@@ -3309,7 +3583,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2479.385",
     "location_y": "99.76041",
-    "location_z": "1771.31"
+    "location_z": "1771.31",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6328",
@@ -3332,7 +3608,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-636.2422",
     "location_y": "270.5836",
-    "location_z": "201.2439"
+    "location_z": "201.2439",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6338",
@@ -3355,7 +3633,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2194.523",
     "location_y": "149.2797",
-    "location_z": "404.7572"
+    "location_z": "404.7572",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6339",
@@ -3378,7 +3658,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1710.37",
     "location_y": "66.54083",
-    "location_z": "-2951.368"
+    "location_z": "-2951.368",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6340",
@@ -3401,7 +3683,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1385.954",
     "location_y": "55.79652",
-    "location_z": "-2679.652"
+    "location_z": "-2679.652",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6341",
@@ -3424,7 +3708,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1181.261",
     "location_y": "62.94173",
-    "location_z": "-2013.717"
+    "location_z": "-2013.717",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6342",
@@ -3447,7 +3733,9 @@
     "facility_type": "Small Outpost",
     "location_x": "993.9549",
     "location_y": "113.9564",
-    "location_z": "-2661.926"
+    "location_z": "-2661.926",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6343",
@@ -3470,7 +3758,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1866.518",
     "location_y": "71.25444",
-    "location_z": "-704.0261"
+    "location_z": "-704.0261",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6344",
@@ -3493,7 +3783,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1896.223",
     "location_y": "71.75116",
-    "location_z": "-323.2818"
+    "location_z": "-323.2818",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6345",
@@ -3516,7 +3808,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1298.991",
     "location_y": "77.44673",
-    "location_z": "-485.3488"
+    "location_z": "-485.3488",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6346",
@@ -3539,7 +3833,9 @@
     "facility_type": "Small Outpost",
     "location_x": "323.4717",
     "location_y": "111.4194",
-    "location_z": "-1853.602"
+    "location_z": "-1853.602",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6347",
@@ -3562,7 +3858,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-363.9206",
     "location_y": "79.55724",
-    "location_z": "-1408.11"
+    "location_z": "-1408.11",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6348",
@@ -3585,7 +3883,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2217.729",
     "location_y": "78.24179",
-    "location_z": "807.8386"
+    "location_z": "807.8386",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6349",
@@ -3608,7 +3908,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2718.543",
     "location_y": "52.01323",
-    "location_z": "973.1425"
+    "location_z": "973.1425",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6350",
@@ -3631,7 +3933,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2329.646",
     "location_y": "92.06395",
-    "location_z": "1554.971"
+    "location_z": "1554.971",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6351",
@@ -3654,7 +3958,9 @@
     "facility_type": "Small Outpost",
     "location_x": "644.1072",
     "location_y": "73.21175",
-    "location_z": "1072.033"
+    "location_z": "1072.033",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6352",
@@ -3677,7 +3983,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-267.638",
     "location_y": "96.61694",
-    "location_z": "1739.855"
+    "location_z": "1739.855",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6353",
@@ -3700,7 +4008,9 @@
     "facility_type": "Small Outpost",
     "location_x": "748.659",
     "location_y": "82.07648",
-    "location_z": "2726.789"
+    "location_z": "2726.789",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6354",
@@ -3723,7 +4033,9 @@
     "facility_type": "Small Outpost",
     "location_x": "607.3582",
     "location_y": "80.27196",
-    "location_z": "3095.885"
+    "location_z": "3095.885",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6355",
@@ -3746,7 +4058,9 @@
     "facility_type": "Small Outpost (CTF)",
     "location_x": "249.2107",
     "location_y": "71.22619",
-    "location_z": "2565.091"
+    "location_z": "2565.091",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6356",
@@ -3769,7 +4083,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1497.875",
     "location_y": "63.0921",
-    "location_z": "-2574.82"
+    "location_z": "-2574.82",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6360",
@@ -3792,7 +4108,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1499.432",
     "location_y": "75.62875",
-    "location_z": "-43.05492"
+    "location_z": "-43.05492",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6361",
@@ -3815,7 +4133,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1481.091",
     "location_y": "127.8263",
-    "location_z": "2101.383"
+    "location_z": "2101.383",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6362",
@@ -3838,7 +4158,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1250.951",
     "location_y": "55.88232",
-    "location_z": "2542.862"
+    "location_z": "2542.862",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "6363",
@@ -3861,7 +4183,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1891.449",
     "location_y": "63.58",
-    "location_z": "2488.154"
+    "location_z": "2488.154",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18204",
@@ -3884,7 +4208,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-559.74",
     "location_y": "68.37",
-    "location_z": "-2602.2"
+    "location_z": "-2602.2",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "2101",
@@ -3907,7 +4233,9 @@
     "facility_type": "Tech Plant",
     "location_x": "-585.2266",
     "location_y": "397.9207",
-    "location_z": "-2547.084"
+    "location_z": "-2547.084",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "2421",
@@ -3930,7 +4258,9 @@
     "facility_type": "Small Outpost",
     "location_x": "721",
     "location_y": "176",
-    "location_z": "688"
+    "location_z": "688",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2102",
@@ -3953,7 +4283,9 @@
     "facility_type": "Tech Plant",
     "location_x": "1810.618",
     "location_y": "110.9223",
-    "location_z": "1514.764"
+    "location_z": "1514.764",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "2422",
@@ -3976,7 +4308,9 @@
     "facility_type": "Small Outpost",
     "location_x": "333",
     "location_y": "353",
-    "location_z": "1063"
+    "location_z": "1063",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2103",
@@ -3999,7 +4333,9 @@
     "facility_type": "Bio Lab",
     "location_x": "-383",
     "location_y": "443",
-    "location_z": "-845"
+    "location_z": "-845",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "2104",
@@ -4022,7 +4358,9 @@
     "facility_type": "Bio Lab",
     "location_x": "2381.5",
     "location_y": "52.75031",
-    "location_z": "-2045.004"
+    "location_z": "-2045.004",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "2105",
@@ -4045,7 +4383,9 @@
     "facility_type": "Amp Station",
     "location_x": "-2384.115",
     "location_y": "471.3849",
-    "location_z": "-1148.466"
+    "location_z": "-1148.466",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "2425",
@@ -4068,7 +4408,9 @@
     "facility_type": "Small Outpost",
     "location_x": "212.0564",
     "location_y": "354.459",
-    "location_z": "2426.673"
+    "location_z": "2426.673",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2201",
@@ -4114,7 +4456,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-361.6654",
     "location_y": "467.2095",
-    "location_z": "-1215.664"
+    "location_z": "-1215.664",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2106",
@@ -4137,7 +4481,9 @@
     "facility_type": "Bio Lab",
     "location_x": "-508.1153",
     "location_y": "398.8315",
-    "location_z": "2456.425"
+    "location_z": "2456.425",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "2202",
@@ -4183,7 +4529,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-5.060028",
     "location_y": "418.7823",
-    "location_z": "-956.0814"
+    "location_z": "-956.0814",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2107",
@@ -4206,7 +4554,9 @@
     "facility_type": "Amp Station",
     "location_x": "1416",
     "location_y": "151",
-    "location_z": "-1181"
+    "location_z": "-1181",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "2427",
@@ -4229,7 +4579,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-964.9065",
     "location_y": "472.8452",
-    "location_z": "-1314.808"
+    "location_z": "-1314.808",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2203",
@@ -4275,7 +4627,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-560.3248",
     "location_y": "450.3234",
-    "location_z": "-675.1423"
+    "location_z": "-675.1423",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2108",
@@ -4298,7 +4652,9 @@
     "facility_type": "Tech Plant",
     "location_x": "-1937",
     "location_y": "226",
-    "location_z": "810"
+    "location_z": "810",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "2428",
@@ -4321,7 +4677,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1323.312",
     "location_y": "508.7589",
-    "location_z": "-1660.741"
+    "location_z": "-1660.741",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2109",
@@ -4344,7 +4702,9 @@
     "facility_type": "Amp Station",
     "location_x": "-432.539",
     "location_y": "204.8415",
-    "location_z": "1126.246"
+    "location_z": "1126.246",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "2301",
@@ -4367,7 +4727,9 @@
     "facility_type": "Large Outpost",
     "location_x": "2507.058",
     "location_y": "75.89171",
-    "location_z": "-786.6351"
+    "location_z": "-786.6351",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "2429",
@@ -4390,7 +4752,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1395",
     "location_y": "473",
-    "location_z": "-1306"
+    "location_z": "-1306",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2302",
@@ -4413,7 +4777,9 @@
     "facility_type": "Large Outpost",
     "location_x": "2705",
     "location_y": "49",
-    "location_z": "1537"
+    "location_z": "1537",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "2430",
@@ -4436,7 +4802,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-831.6672",
     "location_y": "411.1585",
-    "location_z": "-470.3383"
+    "location_z": "-470.3383",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2303",
@@ -4459,7 +4827,9 @@
     "facility_type": "Large Outpost (CTF)",
     "location_x": "999.1142",
     "location_y": "106.0155",
-    "location_z": "-2385.058"
+    "location_z": "-2385.058",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "2431",
@@ -4482,7 +4852,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1233.524",
     "location_y": "432.925",
-    "location_z": "-49.67825"
+    "location_z": "-49.67825",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2304",
@@ -4505,7 +4877,9 @@
     "facility_type": "Large Outpost (CTF)",
     "location_x": "1112.449",
     "location_y": "-86.38023",
-    "location_z": "48.47856"
+    "location_z": "48.47856",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "2305",
@@ -4528,7 +4902,9 @@
     "facility_type": "Large Outpost",
     "location_x": "224.6381",
     "location_y": "391.722",
-    "location_z": "1949.769"
+    "location_z": "1949.769",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "2433",
@@ -4551,7 +4927,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1239.864",
     "location_y": "223.815",
-    "location_z": "964.7891"
+    "location_z": "964.7891",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2306",
@@ -4574,7 +4952,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-130.915",
     "location_y": "392.0261",
-    "location_z": "305.3803"
+    "location_z": "305.3803",
+    "outfit_resource_reward_type_description": "Polystellarite",
+    "outfit_resource_reward_amount": "2"
   },
   {
     "map_region_id": "2402",
@@ -4597,7 +4977,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2934.292",
     "location_y": "52.79778",
-    "location_z": "-903.3533"
+    "location_z": "-903.3533",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2307",
@@ -4620,7 +5002,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-790.4251",
     "location_y": "399.289",
-    "location_z": "277.3607"
+    "location_z": "277.3607",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "2308",
@@ -4643,7 +5027,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-1339.236",
     "location_y": "472.7753",
-    "location_z": "-2194.354"
+    "location_z": "-2194.354",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "2436",
@@ -4666,7 +5052,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-230.4564",
     "location_y": "400.6332",
-    "location_z": "1722.342"
+    "location_z": "1722.342",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2404",
@@ -4689,7 +5077,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2397.959",
     "location_y": "53.69984",
-    "location_z": "-2380.916"
+    "location_z": "-2380.916",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2309",
@@ -4712,7 +5102,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-1143.912",
     "location_y": "485.0154",
-    "location_z": "-839.8052"
+    "location_z": "-839.8052",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "2437",
@@ -4735,7 +5127,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-996.366",
     "location_y": "319.0157",
-    "location_z": "2001.285"
+    "location_z": "2001.285",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2405",
@@ -4758,7 +5152,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1849.328",
     "location_y": "74.10452",
-    "location_z": "-2381.742"
+    "location_z": "-2381.742",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2310",
@@ -4781,7 +5177,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-1763.053",
     "location_y": "487.4618",
-    "location_z": "-391.5453"
+    "location_z": "-391.5453",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "2438",
@@ -4804,7 +5202,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2320.438",
     "location_y": "479.6564",
-    "location_z": "-1903.4"
+    "location_z": "-1903.4",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2406",
@@ -4827,7 +5227,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1795.966",
     "location_y": "93.4028",
-    "location_z": "-1616.926"
+    "location_z": "-1616.926",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2311",
@@ -4850,7 +5252,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-1579.101",
     "location_y": "256.757",
-    "location_z": "1651.754"
+    "location_z": "1651.754",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "2407",
@@ -4873,7 +5277,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1257.533",
     "location_y": "155.6823",
-    "location_z": "-1896.411"
+    "location_z": "-1896.411",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2312",
@@ -4896,7 +5302,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-1571.195",
     "location_y": "321.0607",
-    "location_z": "2100.946"
+    "location_z": "2100.946",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "2440",
@@ -4919,7 +5327,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2804",
     "location_y": "508",
-    "location_z": "-1689"
+    "location_z": "-1689",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2408",
@@ -4942,7 +5352,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2545.194",
     "location_y": "46.09861",
-    "location_z": "-1248.234"
+    "location_z": "-1248.234",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2313",
@@ -4965,7 +5377,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-2218.261",
     "location_y": "260.0384",
-    "location_z": "1761.455"
+    "location_z": "1761.455",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "2409",
@@ -4988,7 +5402,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1867.873",
     "location_y": "108.6257",
-    "location_z": "-590.8013"
+    "location_z": "-590.8013",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2410",
@@ -5011,7 +5427,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1813",
     "location_y": "138",
-    "location_z": "80"
+    "location_z": "80",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2411",
@@ -5034,7 +5452,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2470.576",
     "location_y": "61.86317",
-    "location_z": "1036.436"
+    "location_z": "1036.436",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2412",
@@ -5057,7 +5477,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1331.585",
     "location_y": "116.2792",
-    "location_z": "1028.919"
+    "location_z": "1028.919",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2413",
@@ -5080,7 +5502,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2434.537",
     "location_y": "56.01078",
-    "location_z": "1957.294"
+    "location_z": "1957.294",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2414",
@@ -5103,7 +5527,9 @@
     "facility_type": "Large Outpost",
     "location_x": "857.9293",
     "location_y": "165.5995",
-    "location_z": "2376.406"
+    "location_z": "2376.406",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "2415",
@@ -5126,7 +5552,9 @@
     "facility_type": "Small Outpost",
     "location_x": "681.0026",
     "location_y": "337.2547",
-    "location_z": "-1420.115"
+    "location_z": "-1420.115",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2416",
@@ -5149,7 +5577,9 @@
     "facility_type": "Large Outpost",
     "location_x": "153.999",
     "location_y": "223.4447",
-    "location_z": "-2312.848"
+    "location_z": "-2312.848",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "2418",
@@ -5172,7 +5602,9 @@
     "facility_type": "Small Outpost",
     "location_x": "622.4543",
     "location_y": "195.643",
-    "location_z": "-432.4564"
+    "location_z": "-432.4564",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2419",
@@ -5195,7 +5627,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-130.8944",
     "location_y": "368.3495",
-    "location_z": "-103.9548"
+    "location_z": "-103.9548",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2420",
@@ -5218,7 +5652,9 @@
     "facility_type": "Small Outpost",
     "location_x": "284.217",
     "location_y": "213.7224",
-    "location_z": "84.64059"
+    "location_z": "84.64059",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2443",
@@ -5241,7 +5677,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2663.466",
     "location_y": "460.6049",
-    "location_z": "390.4332"
+    "location_z": "390.4332",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2447",
@@ -5264,7 +5702,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2300.645",
     "location_y": "234.445",
-    "location_z": "2160.578"
+    "location_z": "2160.578",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2448",
@@ -5287,7 +5727,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1929.104",
     "location_y": "292.2917",
-    "location_z": "2305.955"
+    "location_z": "2305.955",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2449",
@@ -5310,7 +5752,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1393.313",
     "location_y": "306.9437",
-    "location_z": "2643.841"
+    "location_z": "2643.841",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2453",
@@ -5333,7 +5777,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1768.703",
     "location_y": "508.1644",
-    "location_z": "-1731.421"
+    "location_z": "-1731.421",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2454",
@@ -5356,7 +5802,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2441.974",
     "location_y": "483.8967",
-    "location_z": "-1574.938"
+    "location_z": "-1574.938",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2455",
@@ -5379,7 +5827,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1993.015",
     "location_y": "473.8811",
-    "location_z": "-1133.28"
+    "location_z": "-1133.28",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2456",
@@ -5402,7 +5852,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1936.085",
     "location_y": "470.64",
-    "location_z": "-663.5451"
+    "location_z": "-663.5451",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2460",
@@ -5425,7 +5877,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1633.907",
     "location_y": "82.78875",
-    "location_z": "1717.878"
+    "location_z": "1717.878",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2461",
@@ -5448,7 +5902,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1945.304",
     "location_y": "68.48983",
-    "location_z": "1942.448"
+    "location_z": "1942.448",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18205",
@@ -5471,7 +5927,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-2031.734",
     "location_y": "460.8119",
-    "location_z": "-92.17429"
+    "location_z": "-92.17429",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "2462",
@@ -5494,7 +5952,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1754.547",
     "location_y": "108.93",
-    "location_z": "1221.427"
+    "location_z": "1221.427",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18206",
@@ -5517,7 +5977,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "1385.08",
     "location_y": "71.12402",
-    "location_z": "2591.217"
+    "location_z": "2591.217",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "2463",
@@ -5540,7 +6002,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1605.565",
     "location_y": "214.7612",
-    "location_z": "899.3584"
+    "location_z": "899.3584",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18207",
@@ -5563,7 +6027,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "601.0114",
     "location_y": "111.8857",
-    "location_z": "-2407.583"
+    "location_z": "-2407.583",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "2464",
@@ -5586,7 +6052,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2139.936",
     "location_y": "214.6887",
-    "location_z": "1037.409"
+    "location_z": "1037.409",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2465",
@@ -5609,7 +6077,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1710.768",
     "location_y": "225.063",
-    "location_z": "658.5409"
+    "location_z": "658.5409",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2466",
@@ -5632,7 +6102,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-314.9844",
     "location_y": "398.7197",
-    "location_z": "2772.19"
+    "location_z": "2772.19",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2467",
@@ -5655,7 +6127,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-242.8177",
     "location_y": "401.4805",
-    "location_z": "2293.439"
+    "location_z": "2293.439",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2468",
@@ -5678,7 +6152,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-749.2546",
     "location_y": "395.0005",
-    "location_z": "2480.463"
+    "location_z": "2480.463",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2469",
@@ -5701,7 +6177,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-625.7628",
     "location_y": "228.084",
-    "location_z": "1472.189"
+    "location_z": "1472.189",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2470",
@@ -5724,7 +6202,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-419.6224",
     "location_y": "211.3201",
-    "location_z": "721.2118"
+    "location_z": "721.2118",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2471",
@@ -5747,7 +6227,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-97.41706",
     "location_y": "206.6847",
-    "location_z": "1239.215"
+    "location_z": "1239.215",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2472",
@@ -5770,7 +6252,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2747.486",
     "location_y": "33.14049",
-    "location_z": "-2088.378"
+    "location_z": "-2088.378",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2473",
@@ -5793,7 +6277,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1998.1",
     "location_y": "70.20764",
-    "location_z": "-2106.456"
+    "location_z": "-2106.456",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2474",
@@ -5816,7 +6302,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-606.1251",
     "location_y": "491.8159",
-    "location_z": "-2164.26"
+    "location_z": "-2164.26",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2475",
@@ -5839,7 +6327,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-867.6741",
     "location_y": "401.0405",
-    "location_z": "-2744.415"
+    "location_z": "-2744.415",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2476",
@@ -5862,7 +6352,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-925.6928",
     "location_y": "457.6323",
-    "location_z": "-2214.31"
+    "location_z": "-2214.31",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2477",
@@ -5885,7 +6377,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1280.267",
     "location_y": "147.7859",
-    "location_z": "-1618.84"
+    "location_z": "-1618.84",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2478",
@@ -5908,7 +6402,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1049.64",
     "location_y": "150.5795",
-    "location_z": "-1139.729"
+    "location_z": "-1139.729",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "2479",
@@ -5931,7 +6427,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1405.415",
     "location_y": "181.273",
-    "location_z": "-864.2726"
+    "location_z": "-864.2726",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18372",
@@ -6000,7 +6498,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1369.664",
     "location_y": "76.02497",
-    "location_z": "-2438.761"
+    "location_z": "-2438.761",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18033",
@@ -6023,7 +6523,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1130.017",
     "location_y": "22.80325",
-    "location_z": "9.949173"
+    "location_z": "9.949173",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18017",
@@ -6046,7 +6548,9 @@
     "facility_type": "Large Outpost (CTF)",
     "location_x": "161.4596",
     "location_y": "125.3721",
-    "location_z": "-785.2059"
+    "location_z": "-785.2059",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18209",
@@ -6069,7 +6573,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-342.5693",
     "location_y": "117.1061",
-    "location_z": "-1751.917"
+    "location_z": "-1751.917",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18002",
@@ -6092,7 +6598,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1511.381",
     "location_y": "80.96583",
-    "location_z": "-1661.209"
+    "location_z": "-1661.209",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18034",
@@ -6115,7 +6623,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1470.94",
     "location_y": "4.942247",
-    "location_z": "-939.5569"
+    "location_z": "-939.5569",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18018",
@@ -6138,7 +6648,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "2612.332",
     "location_y": "84.41334",
-    "location_z": "1121.946"
+    "location_z": "1121.946",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18210",
@@ -6161,7 +6673,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "757.12",
     "location_y": "139.73",
-    "location_z": "-407.94"
+    "location_z": "-407.94",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18003",
@@ -6184,7 +6698,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2265.325",
     "location_y": "107.0744",
-    "location_z": "-687.7246"
+    "location_z": "-687.7246",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18067",
@@ -6207,7 +6723,9 @@
     "facility_type": "Small Outpost",
     "location_x": "723.092",
     "location_y": "130.515",
-    "location_z": "60.08346"
+    "location_z": "60.08346",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18004",
@@ -6230,7 +6748,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1431.57",
     "location_y": "123.9783",
-    "location_z": "-501.5452"
+    "location_z": "-501.5452",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18068",
@@ -6253,7 +6773,9 @@
     "facility_type": "Small Outpost",
     "location_x": "716.0898",
     "location_y": "102.7103",
-    "location_z": "986.1397"
+    "location_z": "986.1397",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18036",
@@ -6276,7 +6798,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-839.5956",
     "location_y": "32.10573",
-    "location_z": "-2175.328"
+    "location_z": "-2175.328",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18005",
@@ -6299,7 +6823,9 @@
     "facility_type": "Containment Site",
     "location_x": "1099.279",
     "location_y": "135.9144",
-    "location_z": "409.8246"
+    "location_z": "409.8246",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18261",
@@ -6322,7 +6848,9 @@
     "facility_type": "Construction Outpost (CTF)",
     "location_x": "-1454.66",
     "location_y": "82.26",
-    "location_z": "1098.23"
+    "location_z": "1098.23",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18037",
@@ -6345,7 +6873,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1604.49",
     "location_y": "42.64167",
-    "location_z": "-2181.709"
+    "location_z": "-2181.709",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18006",
@@ -6368,7 +6898,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "1871.567",
     "location_y": "71.16946",
-    "location_z": "1174.458"
+    "location_z": "1174.458",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18262",
@@ -6414,7 +6946,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-1181.333",
     "location_y": "43.25488",
-    "location_z": "1897.884"
+    "location_z": "1897.884",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18007",
@@ -6437,7 +6971,9 @@
     "facility_type": "Large Outpost",
     "location_x": "915.4762",
     "location_y": "12.00377",
-    "location_z": "1883.58"
+    "location_z": "1883.58",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18008",
@@ -6460,7 +6996,9 @@
     "facility_type": "Small Outpost (CTF)",
     "location_x": "311.3915",
     "location_y": "64.40758",
-    "location_z": "-1349.821"
+    "location_z": "-1349.821",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18010",
@@ -6483,7 +7021,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-477.7838",
     "location_y": "123.2229",
-    "location_z": "-1071.929"
+    "location_z": "-1071.929",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18011",
@@ -6506,7 +7046,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1711.926",
     "location_y": "17.19081",
-    "location_z": "-370.127"
+    "location_z": "-370.127",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18013",
@@ -6529,7 +7071,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-750.882",
     "location_y": "73.2487",
-    "location_z": "2838.586"
+    "location_z": "2838.586",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18014",
@@ -6552,7 +7096,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1904.355",
     "location_y": "112.771",
-    "location_z": "648.9725"
+    "location_z": "648.9725",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18046",
@@ -6575,7 +7121,9 @@
     "facility_type": "Small Outpost (CTF)",
     "location_x": "458.4646",
     "location_y": "102.1348",
-    "location_z": "-2380.4"
+    "location_z": "-2380.4",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18015",
@@ -6598,7 +7146,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1216.208",
     "location_y": "78.38409",
-    "location_z": "2576.946"
+    "location_z": "2576.946",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18016",
@@ -6621,7 +7171,9 @@
     "facility_type": "Large Outpost",
     "location_x": "1003.725",
     "location_y": "103.55",
-    "location_z": "-2011.889"
+    "location_z": "-2011.889",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18208",
@@ -6644,7 +7196,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-694.31",
     "location_y": "25.4",
-    "location_z": "1670.95"
+    "location_z": "1670.95",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18019",
@@ -6667,7 +7221,9 @@
     "facility_type": "Large Outpost",
     "location_x": "220.3131",
     "location_y": "120.4251",
-    "location_z": "590.7097"
+    "location_z": "590.7097",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18020",
@@ -6690,7 +7246,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-688.1417",
     "location_y": "113.9208",
-    "location_z": "124.2897"
+    "location_z": "124.2897",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18022",
@@ -6713,7 +7271,9 @@
     "facility_type": "Containment Site",
     "location_x": "82",
     "location_y": "112",
-    "location_z": "-2490"
+    "location_z": "-2490",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18024",
@@ -6736,7 +7296,9 @@
     "facility_type": "Amp Station",
     "location_x": "1123.68",
     "location_y": "146.75",
-    "location_z": "-1020.97"
+    "location_z": "-1020.97",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18025",
@@ -6759,7 +7321,9 @@
     "facility_type": "Tech Plant",
     "location_x": "70.71258",
     "location_y": "139.8272",
-    "location_z": "-80.92983"
+    "location_z": "-80.92983",
+    "outfit_resource_reward_type_description": "Polystellarite",
+    "outfit_resource_reward_amount": "2"
   },
   {
     "map_region_id": "18027",
@@ -6782,7 +7346,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-40.15068",
     "location_y": "59.4545",
-    "location_z": "1964.311"
+    "location_z": "1964.311",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18028",
@@ -6805,7 +7371,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-1953.992",
     "location_y": "83.76463",
-    "location_z": "2135.37"
+    "location_z": "2135.37",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18029",
@@ -6874,7 +7442,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-342.9638",
     "location_y": "168.7661",
-    "location_z": "524.3127"
+    "location_z": "524.3127",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18048",
@@ -6897,7 +7467,9 @@
     "facility_type": "Small Outpost (CTF)",
     "location_x": "-349.21",
     "location_y": "100.75",
-    "location_z": "-2356.23"
+    "location_z": "-2356.23",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18049",
@@ -6916,11 +7488,13 @@
       "tr": "Elli Tower",
       "zh": "Elli塔楼"
     },
-    "facility_type_id": "15",
-    "facility_type": "Small Outpost (CTF)",
+    "facility_type_id": "6",
+    "facility_type": "Small Outpost",
     "location_x": "-1730.97",
     "location_y": "84.17827",
-    "location_z": "242.9768"
+    "location_z": "242.9768",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18058",
@@ -6943,7 +7517,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2416.213",
     "location_y": "88.19893",
-    "location_z": "-211.8569"
+    "location_z": "-211.8569",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18250",
@@ -6966,7 +7542,9 @@
     "facility_type": "Amp Station (CTF)",
     "location_x": "-828.2235",
     "location_y": "121.1476",
-    "location_z": "-559.6824"
+    "location_z": "-559.6824",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18059",
@@ -6989,7 +7567,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2578.249",
     "location_y": "36.13608",
-    "location_z": "304.5212"
+    "location_z": "304.5212",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18251",
@@ -7012,7 +7592,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "1342.113",
     "location_y": "24.76406",
-    "location_z": "2176.018"
+    "location_z": "2176.018",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18060",
@@ -7035,7 +7617,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1860.761",
     "location_y": "123.973",
-    "location_z": "-42.99902"
+    "location_z": "-42.99902",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18252",
@@ -7058,7 +7642,9 @@
     "facility_type": "Containment Site",
     "location_x": "-2047.06",
     "location_y": "103.53",
-    "location_z": "1556.34"
+    "location_z": "1556.34",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18062",
@@ -7104,7 +7690,9 @@
     "facility_type": "Small Outpost",
     "location_x": "310.7213",
     "location_y": "120.9679",
-    "location_z": "1348.024"
+    "location_z": "1348.024",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18249",
@@ -7150,7 +7738,9 @@
     "facility_type": "Amp Station (CTF)",
     "location_x": "-440.2296",
     "location_y": "156.2466",
-    "location_z": "1150.347"
+    "location_z": "1150.347",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18371",
@@ -7196,7 +7786,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-388.2071",
     "location_y": "104.9659",
-    "location_z": "179.0138"
+    "location_z": "179.0138",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18264",
@@ -7219,7 +7811,9 @@
     "facility_type": "Small Outpost (CTF)",
     "location_x": "-77.77892",
     "location_y": "95.32577",
-    "location_z": "-624.747"
+    "location_z": "-624.747",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18328",
@@ -7265,7 +7859,9 @@
     "facility_type": "Small Outpost",
     "location_x": "344.6868",
     "location_y": "141.1339",
-    "location_z": "-44.9972"
+    "location_z": "-44.9972",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18329",
@@ -7288,7 +7884,9 @@
     "facility_type": "Seapost",
     "location_x": "1753.768",
     "location_y": "63.11947",
-    "location_z": "730.6242"
+    "location_z": "730.6242",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18266",
@@ -7311,7 +7909,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-648.1004",
     "location_y": "85.29546",
-    "location_z": "-1005.545"
+    "location_z": "-1005.545",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18330",
@@ -7334,7 +7934,9 @@
     "facility_type": "Seapost",
     "location_x": "-641.0547",
     "location_y": "59.46105",
-    "location_z": "1457.195"
+    "location_z": "1457.195",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18267",
@@ -7357,7 +7959,9 @@
     "facility_type": "Interlink Facility",
     "location_x": "-542.6041",
     "location_y": "152.6555",
-    "location_z": "-1496.091"
+    "location_z": "-1496.091",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18331",
@@ -7380,7 +7984,9 @@
     "facility_type": "Seapost",
     "location_x": "-1684.616",
     "location_y": "59.28022",
-    "location_z": "1491.646"
+    "location_z": "1491.646",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18268",
@@ -7403,7 +8009,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-232.1133",
     "location_y": "105.8672",
-    "location_z": "-1430.166"
+    "location_z": "-1430.166",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18269",
@@ -7426,7 +8034,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1048.934",
     "location_y": "100.4429",
-    "location_z": "-1629.705"
+    "location_z": "-1629.705",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18270",
@@ -7449,7 +8059,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-709.4533",
     "location_y": "143.8211",
-    "location_z": "-2171.245"
+    "location_z": "-2171.245",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18271",
@@ -7472,7 +8084,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-386.5371",
     "location_y": "120.8029",
-    "location_z": "1114.843"
+    "location_z": "1114.843",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18272",
@@ -7495,7 +8109,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-758.4912",
     "location_y": "115.3207",
-    "location_z": "881.5787"
+    "location_z": "881.5787",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18273",
@@ -7518,7 +8134,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-1140.793",
     "location_y": "124.632",
-    "location_z": "508.2936"
+    "location_z": "508.2936",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18274",
@@ -7541,7 +8159,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-332.9899",
     "location_y": "117.0004",
-    "location_z": "634.0948"
+    "location_z": "634.0948",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18275",
@@ -7564,7 +8184,9 @@
     "facility_type": "Interlink Facility",
     "location_x": "-1240.419",
     "location_y": "163.11",
-    "location_z": "1423.281"
+    "location_z": "1423.281",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18276",
@@ -7587,7 +8209,9 @@
     "facility_type": "Small Outpost",
     "location_x": "971.4791",
     "location_y": "148.497",
-    "location_z": "303.6563"
+    "location_z": "303.6563",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18277",
@@ -7610,7 +8234,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1120.782",
     "location_y": "128.7428",
-    "location_z": "-224.7163"
+    "location_z": "-224.7163",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18278",
@@ -7633,7 +8259,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "1435.755",
     "location_y": "75.87589",
-    "location_z": "-163.0333"
+    "location_z": "-163.0333",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18279",
@@ -7656,7 +8284,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "798.5482",
     "location_y": "53.09901",
-    "location_z": "689.5516"
+    "location_z": "689.5516",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18343",
@@ -7679,7 +8309,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-185.9929",
     "location_y": "131.749",
-    "location_z": "-2597.929"
+    "location_z": "-2597.929",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18280",
@@ -7702,7 +8334,9 @@
     "facility_type": "Interlink Facility",
     "location_x": "1488.983",
     "location_y": "129.6976",
-    "location_z": "301.0826"
+    "location_z": "301.0826",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18344",
@@ -7725,7 +8359,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-2020.088",
     "location_y": "113.9409",
-    "location_z": "75.05101"
+    "location_z": "75.05101",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18281",
@@ -7748,7 +8384,9 @@
     "facility_type": "Small Outpost",
     "location_x": "402.2295",
     "location_y": "132.3452",
-    "location_z": "-2580.796"
+    "location_z": "-2580.796",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18282",
@@ -7771,7 +8409,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-823.1804",
     "location_y": "179.8329",
-    "location_z": "-2778.746"
+    "location_z": "-2778.746",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18346",
@@ -7794,7 +8434,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-381.0081",
     "location_y": "47.22458",
-    "location_z": "-519.2697"
+    "location_z": "-519.2697",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18283",
@@ -7817,7 +8459,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-1207.701",
     "location_y": "156.2111",
-    "location_z": "-2570.101"
+    "location_z": "-2570.101",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18347",
@@ -7863,7 +8507,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1588.945",
     "location_y": "110.8255",
-    "location_z": "-2076.203"
+    "location_z": "-2076.203",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18285",
@@ -7886,7 +8532,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-1522.509",
     "location_y": "157.3425",
-    "location_z": "-1369.563"
+    "location_z": "-1369.563",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18286",
@@ -7909,7 +8557,9 @@
     "facility_type": "Interlink Facility",
     "location_x": "-2051.873",
     "location_y": "187.2922",
-    "location_z": "-593.2458"
+    "location_z": "-593.2458",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18287",
@@ -7932,7 +8582,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-1850.98",
     "location_y": "153.0711",
-    "location_z": "527.9398"
+    "location_z": "527.9398",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18351",
@@ -7955,7 +8607,9 @@
     "facility_type": "Seapost",
     "location_x": "1740.343",
     "location_y": "76.02881",
-    "location_z": "1556.667"
+    "location_z": "1556.667",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18288",
@@ -7978,7 +8632,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-2394.977",
     "location_y": "130.8406",
-    "location_z": "1156.29"
+    "location_z": "1156.29",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18352",
@@ -8024,7 +8680,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-2410.425",
     "location_y": "134.2782",
-    "location_z": "1435.602"
+    "location_z": "1435.602",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18353",
@@ -8047,7 +8705,9 @@
     "facility_type": "Seapost",
     "location_x": "-130.9575",
     "location_y": "73.2737",
-    "location_z": "2470.739"
+    "location_z": "2470.739",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18290",
@@ -8070,7 +8730,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-1740.145",
     "location_y": "116.1496",
-    "location_z": "2165.526"
+    "location_z": "2165.526",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18354",
@@ -8116,7 +8778,9 @@
     "facility_type": "Small Outpost",
     "location_x": "-598.8274",
     "location_y": "174.9263",
-    "location_z": "1962.872"
+    "location_z": "1962.872",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18292",
@@ -8139,7 +8803,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-903.4184",
     "location_y": "58.58082",
-    "location_z": "1828.76"
+    "location_z": "1828.76",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18356",
@@ -8162,7 +8828,9 @@
     "facility_type": "Seapost",
     "location_x": "-2011.505",
     "location_y": "64.40298",
-    "location_z": "-1595.313"
+    "location_z": "-1595.313",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18293",
@@ -8185,7 +8853,9 @@
     "facility_type": "Small Outpost",
     "location_x": "479.267",
     "location_y": "184.3639",
-    "location_z": "2340.539"
+    "location_z": "2340.539",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18357",
@@ -8231,7 +8901,9 @@
     "facility_type": "Interlink Facility",
     "location_x": "1141.546",
     "location_y": "168.0844",
-    "location_z": "1994.984"
+    "location_z": "1994.984",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18358",
@@ -8277,7 +8949,9 @@
     "facility_type": "Large Outpost",
     "location_x": "1196.986",
     "location_y": "187.2996",
-    "location_z": "1079.018"
+    "location_z": "1079.018",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18359",
@@ -8300,7 +8974,9 @@
     "facility_type": "Seapost",
     "location_x": "2137.521",
     "location_y": "63.73962",
-    "location_z": "-730.7429"
+    "location_z": "-730.7429",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18296",
@@ -8323,7 +8999,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2329.087",
     "location_y": "139.8854",
-    "location_z": "1056.979"
+    "location_z": "1056.979",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18360",
@@ -8346,7 +9024,9 @@
     "facility_type": "Seapost",
     "location_x": "-1401.133",
     "location_y": "66.18295",
-    "location_z": "110.0268"
+    "location_z": "110.0268",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18297",
@@ -8369,7 +9049,9 @@
     "facility_type": "Large Outpost",
     "location_x": "2060.398",
     "location_y": "133.455",
-    "location_z": "537.5415"
+    "location_z": "537.5415",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18361",
@@ -8392,7 +9074,9 @@
     "facility_type": "Seapost",
     "location_x": "-1354.49",
     "location_y": "64.47218",
-    "location_z": "-924.156"
+    "location_z": "-924.156",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18298",
@@ -8415,7 +9099,9 @@
     "facility_type": "Small Outpost",
     "location_x": "2288.571",
     "location_y": "117.7652",
-    "location_z": "95.03036"
+    "location_z": "95.03036",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18299",
@@ -8438,7 +9124,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "1654.332",
     "location_y": "110.6788",
-    "location_z": "-728.0424"
+    "location_z": "-728.0424",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18300",
@@ -8461,7 +9149,9 @@
     "facility_type": "Interlink Facility",
     "location_x": "1388.214",
     "location_y": "157.2215",
-    "location_z": "-1761.865"
+    "location_z": "-1761.865",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18301",
@@ -8484,7 +9174,9 @@
     "facility_type": "Small Outpost",
     "location_x": "941.3618",
     "location_y": "65.02477",
-    "location_z": "-2250.606"
+    "location_z": "-2250.606",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18302",
@@ -8507,7 +9199,9 @@
     "facility_type": "Large Outpost",
     "location_x": "-1449.924",
     "location_y": "181.6669",
-    "location_z": "2487.479"
+    "location_z": "2487.479",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18303",
@@ -8599,7 +9293,9 @@
     "facility_type": "Trident",
     "location_x": "569.9388",
     "location_y": "297.4773",
-    "location_z": "-1287.73"
+    "location_z": "-1287.73",
+    "outfit_resource_reward_type_description": "Polystellarite",
+    "outfit_resource_reward_amount": "1"
   },
   {
     "map_region_id": "18308",
@@ -8622,7 +9318,9 @@
     "facility_type": "Trident",
     "location_x": "305.173",
     "location_y": "308.7958",
-    "location_z": "1234.573"
+    "location_z": "1234.573",
+    "outfit_resource_reward_type_description": "Polystellarite",
+    "outfit_resource_reward_amount": "1"
   },
   {
     "map_region_id": "18309",
@@ -8645,7 +9343,9 @@
     "facility_type": "Trident",
     "location_x": "-1299.012",
     "location_y": "314.915",
-    "location_z": "-411.4696"
+    "location_z": "-411.4696",
+    "outfit_resource_reward_type_description": "Polystellarite",
+    "outfit_resource_reward_amount": "1"
   },
   {
     "map_region_id": "18362",
@@ -8668,7 +9368,9 @@
     "facility_type": "Seapost",
     "location_x": "-755.6732",
     "location_y": "63.42257",
-    "location_z": "-486.1945"
+    "location_z": "-486.1945",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18363",
@@ -8691,7 +9393,9 @@
     "facility_type": "Seapost",
     "location_x": "113.405",
     "location_y": "64.14633",
-    "location_z": "-971.9489"
+    "location_z": "-971.9489",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18364",
@@ -8714,7 +9418,9 @@
     "facility_type": "Seapost",
     "location_x": "139.621",
     "location_y": "63.94428",
-    "location_z": "-2124.002"
+    "location_z": "-2124.002",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18365",
@@ -8737,7 +9443,9 @@
     "facility_type": "Seapost",
     "location_x": "1123.265",
     "location_y": "62.71637",
-    "location_z": "-669.2636"
+    "location_z": "-669.2636",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18366",
@@ -8760,7 +9468,9 @@
     "facility_type": "Seapost",
     "location_x": "756.8112",
     "location_y": "65.77058",
-    "location_z": "967.9155"
+    "location_z": "967.9155",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18367",
@@ -8783,7 +9493,9 @@
     "facility_type": "Seapost",
     "location_x": "351.357",
     "location_y": "64.24567",
-    "location_z": "1739.926"
+    "location_z": "1739.926",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18368",
@@ -8806,7 +9518,9 @@
     "facility_type": "Seapost",
     "location_x": "72.0034",
     "location_y": "64.15845",
-    "location_z": "713.2847"
+    "location_z": "713.2847",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18369",
@@ -8829,7 +9543,9 @@
     "facility_type": "Construction Outpost",
     "location_x": "-108.05",
     "location_y": "20.94",
-    "location_z": "-243.7"
+    "location_z": "-243.7",
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18370",
@@ -8852,7 +9568,9 @@
     "facility_type": "Small Outpost",
     "location_x": "1612.34",
     "location_y": "147.69",
-    "location_z": "-1334.77"
+    "location_z": "-1334.77",
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18254",

@@ -81006,5 +81006,133 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/95855.png"
+  },
+  {
+    "image_set_id": "807521",
+    "image_id": "95858",
+    "description": "icon_Weapon_Common_Shovel01",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95858.png"
+  },
+  {
+    "image_set_id": "807522",
+    "image_id": "95861",
+    "description": "icon_Vehicle_Common_Sunderer_Attachment_CargoNetting01_Bumper",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95861.png"
+  },
+  {
+    "image_set_id": "807523",
+    "image_id": "95864",
+    "description": "icon_Vehicle_Common_Sunderer_Attachment_CargoNetting01_Chassis",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95864.png"
+  },
+  {
+    "image_set_id": "807524",
+    "image_id": "95867",
+    "description": "icon_Vehicle_Common_Shared_Attachment_CargoNetting01_Tires",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95867.png"
+  },
+  {
+    "image_set_id": "807525",
+    "image_id": "95870",
+    "description": "icon_Vehicle_Common_Buggy_Attachment_CargoNetting01_Bumper",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95870.png"
+  },
+  {
+    "image_set_id": "807526",
+    "image_id": "95873",
+    "description": "icon_Vehicle_Common_Buggy_Attachment_CargoNetting01_Chassis",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95873.png"
+  },
+  {
+    "image_set_id": "807528",
+    "image_id": "95874",
+    "description": "Codex_FacilityFeatures_ConduitRepository",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95874.png"
+  },
+  {
+    "image_set_id": "807529",
+    "image_id": "95875",
+    "description": "Codex_FacilityFeatures_ConduitPodium",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95875.png"
+  },
+  {
+    "image_set_id": "807530",
+    "image_id": "95876",
+    "description": "profileBackground_ChineseNewYear_Rabbit_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95876.png"
+  },
+  {
+    "image_set_id": "807531",
+    "image_id": "95882",
+    "description": "icon_Profile_Background_ChineseNewYear_Rabbit_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95882.png"
+  },
+  {
+    "image_set_id": "807532",
+    "image_id": "95877",
+    "description": "Icon_Decal_ChineseNewYear_Rabbit_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95877.png"
+  },
+  {
+    "image_set_id": "807533",
+    "image_id": "95884",
+    "description": "Icon_Bundle_ChineseNewYear_Rabbit_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95884.png"
+  },
+  {
+    "image_set_id": "807534",
+    "image_id": "95889",
+    "description": "icon_camo_CandyPowder_NS",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95889.png"
+  },
+  {
+    "image_set_id": "807535",
+    "image_id": "95892",
+    "description": "icon_camo_CandyPowder_VS",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95892.png"
+  },
+  {
+    "image_set_id": "807536",
+    "image_id": "95895",
+    "description": "icon_camo_CandyPowder_TR",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95895.png"
+  },
+  {
+    "image_set_id": "807537",
+    "image_id": "95898",
+    "description": "icon_camo_CandyPowder_NC",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95898.png"
   }
 ]

@@ -8073,8 +8073,8 @@
   {
     "weapon_id": "77915",
     "weapon_slot_index": "0",
-    "clip_size": "0",
-    "capacity": "0",
+    "clip_size": "999",
+    "capacity": "9999",
     "clip_model_name": "NULL"
   },
   {
@@ -8703,22 +8703,22 @@
   {
     "weapon_id": "78028",
     "weapon_slot_index": "0",
-    "clip_size": "0",
-    "capacity": "0",
+    "clip_size": "999",
+    "capacity": "9999",
     "clip_model_name": "NULL"
   },
   {
     "weapon_id": "78029",
     "weapon_slot_index": "0",
-    "clip_size": "0",
-    "capacity": "0",
+    "clip_size": "999",
+    "capacity": "9999",
     "clip_model_name": "NULL"
   },
   {
     "weapon_id": "78030",
     "weapon_slot_index": "0",
-    "clip_size": "0",
-    "capacity": "0",
+    "clip_size": "999",
+    "capacity": "9999",
     "clip_model_name": "NULL"
   },
   {
@@ -8864,8 +8864,8 @@
   {
     "weapon_id": "78048",
     "weapon_slot_index": "0",
-    "clip_size": "0",
-    "capacity": "0",
+    "clip_size": "999",
+    "capacity": "9999",
     "clip_model_name": "NULL"
   },
   {
@@ -10285,8 +10285,8 @@
   {
     "weapon_id": "78294",
     "weapon_slot_index": "0",
-    "clip_size": "0",
-    "capacity": "0",
+    "clip_size": "999",
+    "capacity": "9999",
     "clip_model_name": "NULL"
   },
   {
@@ -13571,5 +13571,12 @@
     "clip_size": "55",
     "capacity": "275",
     "clip_model_name": "Weapon_Common_Skins_Attachments_Snowblind_Magazine_LMG_001.adr"
+  },
+  {
+    "weapon_id": "78768",
+    "weapon_slot_index": "0",
+    "clip_size": "1",
+    "capacity": "1",
+    "clip_model_name": "NULL"
   }
 ]
