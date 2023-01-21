@@ -1,5 +1,41 @@
 [
   {
+    "zone_id": "364",
+    "facility_id_a": "400319",
+    "facility_id_b": "400321",
+    "description": "Tutorial2 - Training Outpost Echo to "
+  },
+  {
+    "zone_id": "364",
+    "facility_id_a": "400319",
+    "facility_id_b": "400322",
+    "description": "Tutorial2 - Training Outpost Echo to Substation Coral"
+  },
+  {
+    "zone_id": "364",
+    "facility_id_a": "400319",
+    "facility_id_b": "400323",
+    "description": "Tutorial2 - Training Outpost Echo to "
+  },
+  {
+    "zone_id": "364",
+    "facility_id_a": "400320",
+    "facility_id_b": "400319",
+    "description": "Tutorial2 -  to Training Outpost Echo"
+  },
+  {
+    "zone_id": "364",
+    "facility_id_a": "400321",
+    "facility_id_b": "400322",
+    "description": "Tutorial2 -  to Substation Coral"
+  },
+  {
+    "zone_id": "364",
+    "facility_id_a": "400322",
+    "facility_id_b": "400324",
+    "description": "Tutorial2 - Substation Coral to Training Amp Station"
+  },
+  {
     "zone_id": "10",
     "facility_id_a": "310510",
     "facility_id_b": "310500",
