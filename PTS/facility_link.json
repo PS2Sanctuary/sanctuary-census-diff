@@ -1,1563 +1,21 @@
 [
   {
-    "zone_id": "2",
-    "facility_id_a": "208",
-    "facility_id_b": "5300",
-    "description": "Indar - Alkali Mining Supply to Camp Connery"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "209",
-    "facility_id_b": "208",
-    "description": "Indar - Crater Firing Range to Alkali Mining Supply"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "213",
-    "facility_id_b": "400131",
-    "description": "Indar - Howling Pass Checkpoint to Sunken Relay Station"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "205000",
-    "facility_id_b": "205001",
-    "description": "Amerish - Ikanam to Ikanam Motor Pool"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "205000",
-    "facility_id_b": "205002",
-    "description": "Amerish - Ikanam to Ikanam Garrison"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "205000",
-    "facility_id_b": "205003",
-    "description": "Amerish - Ikanam to Ikanam Triage Station"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "206000",
-    "facility_id_b": "206001",
-    "description": "Amerish - Heyoka to Heyoka Armory"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "207000",
-    "facility_id_b": "207001",
-    "description": "Amerish - Sungrey to Sungrey West Gate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "207000",
-    "facility_id_b": "207003",
-    "description": "Amerish - Sungrey to Sungrey Overwatch"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "208000",
-    "facility_id_b": "208002",
-    "description": "Amerish - Mekala to Mekala's Auxiliary Compound"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "209000",
-    "facility_id_b": "209002",
-    "description": "Amerish - Onatha to East Onatha Comm. Array"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "207",
-    "facility_id_b": "3810",
-    "description": "Indar - Benson Construction to Saurva Data Storage"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "210000",
-    "facility_id_b": "210003",
-    "description": "Amerish - Wokuk to Wokuk Watchtower"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "211000",
-    "facility_id_b": "211002",
-    "description": "Amerish - Tumas to Tumas Cargo Facility"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "212000",
-    "facility_id_b": "212002",
-    "description": "Amerish - Xelas to Xelas North Gate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "213000",
-    "facility_id_b": "205001",
-    "description": "Amerish - LithCorp Secure Mine to Ikanam Motor Pool"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "214000",
-    "facility_id_b": "222060",
-    "description": "Amerish - The NC Arsenal to AuraxiCom Network Hub"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "215000",
-    "facility_id_b": "209001",
-    "description": "Amerish - Crux Mining Operation to Onatha North Gate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "217000",
-    "facility_id_b": "222060",
-    "description": "Amerish - The Bastion to AuraxiCom Network Hub"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "218000",
-    "facility_id_b": "211002",
-    "description": "Amerish - Auraxis Firearms Corp. to Tumas Cargo Facility"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "219000",
-    "facility_id_b": "222160",
-    "description": "Amerish - Splitpeak Pass to East Hills Checkpoint"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "220000",
-    "facility_id_b": "210002",
-    "description": "Amerish - West Pass Watchtower to Wokuk Shipping Dock"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "220000",
-    "facility_id_b": "222180",
-    "description": "Amerish - West Pass Watchtower to Chimney Rock Depot"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "220000",
-    "facility_id_b": "400129",
-    "description": "Amerish - West Pass Watchtower to Cobalt Geological Outpost"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "221000",
-    "facility_id_b": "222250",
-    "description": "Amerish - Granite Valley Garrison to The Auraxian Cryobank"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222000",
-    "facility_id_b": "213000",
-    "description": "Amerish - Stoneridge Reserve to LithCorp Secure Mine"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222010",
-    "facility_id_b": "222310",
-    "description": "Amerish - North Grove Post to Moss Ravine"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222020",
-    "facility_id_b": "222030",
-    "description": "Amerish - Jagged Lance Mine to Hidden Ridge Mining"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222030",
-    "facility_id_b": "207003",
-    "description": "Amerish - Hidden Ridge Mining to Sungrey Overwatch"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222040",
-    "facility_id_b": "222050",
-    "description": "Amerish - SolTech Charging Station to Deserted Mineshaft"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222050",
-    "facility_id_b": "222100",
-    "description": "Amerish - Deserted Mineshaft to West Foothills Airdock"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222080",
-    "facility_id_b": "204003",
-    "description": "Amerish - Genudine Physics Lab to Kwahtee Mountain Complex"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222090",
-    "facility_id_b": "204002",
-    "description": "Amerish - Cobalt Communications to Kwahtee Fortress"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222100",
-    "facility_id_b": "217000",
-    "description": "Amerish - West Foothills Airdock to The Bastion"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222110",
-    "facility_id_b": "217000",
-    "description": "Amerish - DeepCore Geolab to The Bastion"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222130",
-    "facility_id_b": "201000",
-    "description": "Amerish - Shadespire Farms to Amerish Eastern Warpgate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222150",
-    "facility_id_b": "216000",
-    "description": "Amerish - Rockslide Outlook to Crux Headquarters"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222150",
-    "facility_id_b": "222350",
-    "description": "Amerish - Rockslide Outlook to LithCorp Central"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222170",
-    "facility_id_b": "222360",
-    "description": "Amerish - Silver Valley Arsenal to Eastshore Training Camp"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222180",
-    "facility_id_b": "211001",
-    "description": "Amerish - Chimney Rock Depot to Tumas Skylance Battery"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222190",
-    "facility_id_b": "218000",
-    "description": "Amerish - AuraxiCom Substation to Auraxis Firearms Corp."
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222220",
-    "facility_id_b": "222240",
-    "description": "Amerish - Torremar Storage Yard to Aramax Chemical Co."
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222230",
-    "facility_id_b": "222380",
-    "description": "Amerish - Highroads Station to Barrik Electrical Station"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222240",
-    "facility_id_b": "222380",
-    "description": "Amerish - Aramax Chemical Co. to Barrik Electrical Station"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222270",
-    "facility_id_b": "218000",
-    "description": "Amerish - Raven Landing to Auraxis Firearms Corp."
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222270",
-    "facility_id_b": "222350",
-    "description": "Amerish - Raven Landing to LithCorp Central"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222300",
-    "facility_id_b": "205002",
-    "description": "Amerish - LithCorp Fortress to Ikanam Garrison"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222320",
-    "facility_id_b": "205003",
-    "description": "Amerish - The Auger to Ikanam Triage Station"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222340",
-    "facility_id_b": "210001",
-    "description": "Amerish - The Scarfield Reliquary to Wokuk Ecological Preserve"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222350",
-    "facility_id_b": "222280",
-    "description": "Amerish - LithCorp Central to The Ascent"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222380",
-    "facility_id_b": "203000",
-    "description": "Amerish - Barrik Electrical Station to Amerish Southern Warpgate"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "230000",
-    "facility_id_b": "258000",
-    "description": "Esamir - Palos Solar Array to Esamir Northern Warpgate"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "231000",
-    "facility_id_b": "232000",
-    "description": "Esamir - Crystal Ridge Comm Array to Haven Outpost"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "231000",
-    "facility_id_b": "258000",
-    "description": "Esamir - Crystal Ridge Comm Array to Esamir Northern Warpgate"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "232000",
-    "facility_id_b": "258000",
-    "description": "Esamir - Haven Outpost to Esamir Northern Warpgate"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "234000",
-    "facility_id_b": "244620",
-    "description": "Esamir - Mani Containment Site to The Rink"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "235000",
-    "facility_id_b": "247000",
-    "description": "Esamir - Stillwater Watch to Northpoint Ruins"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "237000",
-    "facility_id_b": "246000",
-    "description": "Esamir - The Traverse to Mattherson's Triumph"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "240000",
-    "facility_id_b": "244300",
-    "description": "Esamir - Old Shore Checkpoint to Frostbite Harbor"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "240000",
-    "facility_id_b": "259000",
-    "description": "Esamir - Old Shore Checkpoint to Esamir Southern Warpgate"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "243000",
-    "facility_id_b": "400328",
-    "description": "Esamir - Elli Forest Pass to Spral Oasis"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244000",
-    "facility_id_b": "257000",
-    "description": "Esamir - Frostfall Overlook to Ymir"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244100",
-    "facility_id_b": "249000",
-    "description": "Esamir - Echo Valley Substation to Waterson's Redemption"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244200",
-    "facility_id_b": "252010",
-    "description": "Esamir - Bridge-ward to Elli Tower"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244500",
-    "facility_id_b": "251030",
-    "description": "Esamir - Jaeger's Fist to Andvari South Bank"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244600",
-    "facility_id_b": "244300",
-    "description": "Esamir - Two Stone Beach to Frostbite Harbor"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244600",
-    "facility_id_b": "259000",
-    "description": "Esamir - Two Stone Beach to Esamir Southern Warpgate"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244610",
-    "facility_id_b": "234000",
-    "description": "Esamir - Rime Analytics to Mani Containment Site"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244620",
-    "facility_id_b": "248000",
-    "description": "Esamir - The Rink to Saerro Listening Post"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "245000",
-    "facility_id_b": "237000",
-    "description": "Esamir - Snowshear Fort to The Traverse"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "248000",
-    "facility_id_b": "244610",
-    "description": "Esamir - Saerro Listening Post to Rime Analytics"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "253000",
-    "facility_id_b": "237000",
-    "description": "Esamir - Freyr to The Traverse"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "254000",
-    "facility_id_b": "246000",
-    "description": "Esamir - Eisa to Mattherson's Triumph"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "254000",
-    "facility_id_b": "249000",
-    "description": "Esamir - Eisa to Waterson's Redemption"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "255020",
-    "facility_id_b": "247000",
-    "description": "Esamir - Steelshore Reconstruction to Northpoint Ruins"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "255030",
-    "facility_id_b": "255020",
-    "description": "Esamir - Esper Research Station to Steelshore Reconstruction"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "256000",
-    "facility_id_b": "242000",
-    "description": "Esamir - Nott Communications to Eastwake Harborage"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "256000",
-    "facility_id_b": "260000",
-    "description": "Esamir - Nott Communications to Esamir Eastern Warpgate"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "260000",
-    "facility_id_b": "236000",
-    "description": "Esamir - Esamir Eastern Warpgate to Grey Heron Shipping"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "260004",
-    "facility_id_b": "201000",
-    "description": "Amerish - Amerish ARX Reserve to Amerish Eastern Warpgate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "260004",
-    "facility_id_b": "222130",
-    "description": "Amerish - Amerish ARX Reserve to Shadespire Farms"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "261000",
-    "facility_id_b": "262000",
-    "description": "Hossin - Sharpe's Run to Edgewater Overlook"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "261000",
-    "facility_id_b": "308000",
-    "description": "Hossin - Sharpe's Run to Hossin Western Warpgate"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "262000",
-    "facility_id_b": "308000",
-    "description": "Hossin - Edgewater Overlook to Hossin Western Warpgate"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "263000",
-    "facility_id_b": "299030",
-    "description": "Hossin - Last Hold to Naum Forward Barracks"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "204",
-    "facility_id_b": "5100",
-    "description": "Indar - Helios Solar, Inc. to Indar Excavation Site"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "205",
-    "facility_id_b": "207",
-    "description": "Indar - Alkali Shipping to Benson Construction"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "205",
-    "facility_id_b": "3820",
-    "description": "Indar - Alkali Shipping to Saurva South Fortress"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "206",
-    "facility_id_b": "3210",
-    "description": "Indar - CoraMed Labs to Dahaka Uplink Hub"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "206",
-    "facility_id_b": "5100",
-    "description": "Indar - CoraMed Labs to Indar Excavation Site"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "210000",
-    "facility_id_b": "210001",
-    "description": "Amerish - Wokuk to Wokuk Ecological Preserve"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222050",
-    "facility_id_b": "200000",
-    "description": "Amerish - Deserted Mineshaft to Amerish Western Warpgate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "209000",
-    "facility_id_b": "209003",
-    "description": "Amerish - Onatha to Onatha Southwest Gate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "211000",
-    "facility_id_b": "211001",
-    "description": "Amerish - Tumas to Tumas Skylance Battery"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "212000",
-    "facility_id_b": "212001",
-    "description": "Amerish - Xelas to Xelas West Air Dock"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "212000",
-    "facility_id_b": "212003",
-    "description": "Amerish - Xelas to Xelas South Bridge"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "214000",
-    "facility_id_b": "207001",
-    "description": "Amerish - The NC Arsenal to Sungrey West Gate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "214000",
-    "facility_id_b": "222320",
-    "description": "Amerish - The NC Arsenal to The Auger"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "216000",
-    "facility_id_b": "208001",
-    "description": "Amerish - Crux Headquarters to Mekala Cart Mining"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "217000",
-    "facility_id_b": "222350",
-    "description": "Amerish - The Bastion to LithCorp Central"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "219000",
-    "facility_id_b": "212001",
-    "description": "Amerish - Splitpeak Pass to Xelas West Air Dock"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "219000",
-    "facility_id_b": "222190",
-    "description": "Amerish - Splitpeak Pass to AuraxiCom Substation"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "221000",
-    "facility_id_b": "212003",
-    "description": "Amerish - Granite Valley Garrison to Xelas South Bridge"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222000",
-    "facility_id_b": "200000",
-    "description": "Amerish - Stoneridge Reserve to Amerish Western Warpgate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222010",
-    "facility_id_b": "222300",
-    "description": "Amerish - North Grove Post to LithCorp Fortress"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222020",
-    "facility_id_b": "201000",
-    "description": "Amerish - Jagged Lance Mine to Amerish Eastern Warpgate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222020",
-    "facility_id_b": "260004",
-    "description": "Amerish - Jagged Lance Mine to Amerish ARX Reserve"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222040",
-    "facility_id_b": "200000",
-    "description": "Amerish - SolTech Charging Station to Amerish Western Warpgate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222040",
-    "facility_id_b": "222290",
-    "description": "Amerish - SolTech Charging Station to SolTech Gorge"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222050",
-    "facility_id_b": "222000",
-    "description": "Amerish - Deserted Mineshaft to Stoneridge Reserve"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222060",
-    "facility_id_b": "216000",
-    "description": "Amerish - AuraxiCom Network Hub to Crux Headquarters"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222080",
-    "facility_id_b": "222330",
-    "description": "Amerish - Genudine Physics Lab to Shrouded Skyway"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222090",
-    "facility_id_b": "400129",
-    "description": "Amerish - Cobalt Communications to Cobalt Geological Outpost"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222110",
-    "facility_id_b": "206001",
-    "description": "Amerish - DeepCore Geolab to Heyoka Armory"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222120",
-    "facility_id_b": "216000",
-    "description": "Amerish - Blackshard Tungsten Mine to Crux Headquarters"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222130",
-    "facility_id_b": "215000",
-    "description": "Amerish - Shadespire Farms to Crux Mining Operation"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222150",
-    "facility_id_b": "222280",
-    "description": "Amerish - Rockslide Outlook to The Ascent"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222160",
-    "facility_id_b": "209003",
-    "description": "Amerish - East Hills Checkpoint to Onatha Southwest Gate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222180",
-    "facility_id_b": "206002",
-    "description": "Amerish - Chimney Rock Depot to Heyoka Chemical Lab"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222190",
-    "facility_id_b": "208002",
-    "description": "Amerish - AuraxiCom Substation to Mekala's Auxiliary Compound"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222220",
-    "facility_id_b": "210003",
-    "description": "Amerish - Torremar Storage Yard to Wokuk Watchtower"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222230",
-    "facility_id_b": "218000",
-    "description": "Amerish - Highroads Station to Auraxis Firearms Corp."
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222240",
-    "facility_id_b": "203000",
-    "description": "Amerish - Aramax Chemical Co. to Amerish Southern Warpgate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222250",
-    "facility_id_b": "203000",
-    "description": "Amerish - The Auraxian Cryobank to Amerish Southern Warpgate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222270",
-    "facility_id_b": "222280",
-    "description": "Amerish - Raven Landing to The Ascent"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222290",
-    "facility_id_b": "204001",
-    "description": "Amerish - SolTech Gorge to Kwahtee West Pass"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222310",
-    "facility_id_b": "207002",
-    "description": "Amerish - Moss Ravine to Sungrey Power Hub"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222330",
-    "facility_id_b": "222340",
-    "description": "Amerish - Shrouded Skyway to The Scarfield Reliquary"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222340",
-    "facility_id_b": "400129",
-    "description": "Amerish - The Scarfield Reliquary to Cobalt Geological Outpost"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222360",
-    "facility_id_b": "209002",
-    "description": "Amerish - Eastshore Training Camp to East Onatha Comm. Array"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "222380",
-    "facility_id_b": "222250",
-    "description": "Amerish - Barrik Electrical Station to The Auraxian Cryobank"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "231000",
-    "facility_id_b": "230000",
-    "description": "Esamir - Crystal Ridge Comm Array to Palos Solar Array"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "231000",
-    "facility_id_b": "253000",
-    "description": "Esamir - Crystal Ridge Comm Array to Freyr"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "232000",
-    "facility_id_b": "255010",
-    "description": "Esamir - Haven Outpost to Steelshore Processing"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "234000",
-    "facility_id_b": "235000",
-    "description": "Esamir - Mani Containment Site to Stillwater Watch"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "234000",
-    "facility_id_b": "255030",
-    "description": "Esamir - Mani Containment Site to Esper Research Station"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "235000",
-    "facility_id_b": "400315",
-    "description": "Esamir - Stillwater Watch to Vidar Observation Site"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "239000",
-    "facility_id_b": "246000",
-    "description": "Esamir - Pale Canyon Chemical to Mattherson's Triumph"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "240000",
-    "facility_id_b": "252010",
-    "description": "Esamir - Old Shore Checkpoint to Elli Tower"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "243000",
-    "facility_id_b": "252010",
-    "description": "Esamir - Elli Forest Pass to Elli Tower"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244000",
-    "facility_id_b": "242000",
-    "description": "Esamir - Frostfall Overlook to Eastwake Harborage"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244100",
-    "facility_id_b": "248000",
-    "description": "Esamir - Echo Valley Substation to Saerro Listening Post"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244200",
-    "facility_id_b": "249000",
-    "description": "Esamir - Bridge-ward to Waterson's Redemption"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244300",
-    "facility_id_b": "259000",
-    "description": "Esamir - Frostbite Harbor to Esamir Southern Warpgate"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244500",
-    "facility_id_b": "400134",
-    "description": "Esamir - Jaeger's Fist to Tapp Waystation"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244600",
-    "facility_id_b": "244500",
-    "description": "Esamir - Two Stone Beach to Jaeger's Fist"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244610",
-    "facility_id_b": "233000",
-    "description": "Esamir - Rime Analytics to Aurora Materials Lab"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244620",
-    "facility_id_b": "236000",
-    "description": "Esamir - The Rink to Grey Heron Shipping"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "245000",
-    "facility_id_b": "230000",
-    "description": "Esamir - Snowshear Fort to Palos Solar Array"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "245000",
-    "facility_id_b": "251010",
-    "description": "Esamir - Snowshear Fort to Andvari Barracks"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "253000",
-    "facility_id_b": "233000",
-    "description": "Esamir - Freyr to Aurora Materials Lab"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "254000",
-    "facility_id_b": "244610",
-    "description": "Esamir - Eisa to Rime Analytics"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "254000",
-    "facility_id_b": "248000",
-    "description": "Esamir - Eisa to Saerro Listening Post"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "255010",
-    "facility_id_b": "255020",
-    "description": "Esamir - Steelshore Processing to Steelshore Reconstruction"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "255030",
-    "facility_id_b": "233000",
-    "description": "Esamir - Esper Research Station to Aurora Materials Lab"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "256000",
-    "facility_id_b": "256030",
-    "description": "Esamir - Nott Communications to Genudine Gardens"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "256030",
-    "facility_id_b": "248000",
-    "description": "Esamir - Genudine Gardens to Saerro Listening Post"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "260000",
-    "facility_id_b": "242000",
-    "description": "Esamir - Esamir Eastern Warpgate to Eastwake Harborage"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "260004",
-    "facility_id_b": "222120",
-    "description": "Amerish - Amerish ARX Reserve to Blackshard Tungsten Mine"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "260010",
-    "facility_id_b": "400328",
-    "description": "Esamir - Terran BL-4 Crash Site to Spral Oasis"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "261000",
-    "facility_id_b": "289000",
-    "description": "Hossin - Sharpe's Run to Genudine Holographics"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "262000",
-    "facility_id_b": "287070",
-    "description": "Hossin - Edgewater Overlook to Fort Liberty"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "263000",
-    "facility_id_b": "262000",
-    "description": "Hossin - Last Hold to Edgewater Overlook"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "263000",
-    "facility_id_b": "308000",
-    "description": "Hossin - Last Hold to Hossin Western Warpgate"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "264000",
-    "facility_id_b": "287070",
-    "description": "Hossin - Wainwright Armory to Fort Liberty"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "265000",
-    "facility_id_b": "266000",
-    "description": "Hossin - The Offal Pit to Kessel's Crossing"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "265000",
-    "facility_id_b": "299010",
-    "description": "Hossin - The Offal Pit to Naum Ravine Overpass"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "267000",
-    "facility_id_b": "295000",
-    "description": "Hossin - Hossin BioChem, Inc. to Matsuda Genetics"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "268000",
-    "facility_id_b": "269000",
-    "description": "Hossin - VEX BioLogics to Bunker J993"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "268000",
-    "facility_id_b": "296000",
-    "description": "Hossin - VEX BioLogics to Hayd Skydock"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "269000",
-    "facility_id_b": "287100",
-    "description": "Hossin - Bunker J993 to Construction Site Omega"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "270000",
-    "facility_id_b": "287100",
-    "description": "Hossin - Fallbridge Chemical to Construction Site Omega"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "271000",
-    "facility_id_b": "270000",
-    "description": "Hossin - Halcyon Watch to Fallbridge Chemical"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "271000",
-    "facility_id_b": "309000",
-    "description": "Hossin - Halcyon Watch to Hossin Eastern Warpgate"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "273000",
-    "facility_id_b": "289000",
-    "description": "Hossin - OMR Terraforming to Genudine Holographics"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "274000",
-    "facility_id_b": "290000",
-    "description": "Hossin - Iron Quay to Fort Drexler"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "275000",
-    "facility_id_b": "298000",
-    "description": "Hossin - Broken Vale Garrison to Nason's Defiance"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "276000",
-    "facility_id_b": "287090",
-    "description": "Hossin - Woodman ASE Labs to Mossridge Command Center"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "276000",
-    "facility_id_b": "301010",
-    "description": "Hossin - Woodman ASE Labs to Ixtab Power Regulation"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "277000",
-    "facility_id_b": "278000",
-    "description": "Hossin - Johari Cove to Roothouse Distillery"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "278000",
-    "facility_id_b": "303010",
-    "description": "Hossin - Roothouse Distillery to Bitol Stockpile"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "279000",
-    "facility_id_b": "287110",
-    "description": "Hossin - Hunter's Blind to Outpost Lambda"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "280000",
-    "facility_id_b": "287110",
-    "description": "Hossin - Gourney Dam to Outpost Lambda"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "280000",
-    "facility_id_b": "301010",
-    "description": "Hossin - Gourney Dam to Ixtab Power Regulation"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "281000",
-    "facility_id_b": "293000",
-    "description": "Hossin - SRP Hydroponics, Inc. to Genesis Terraforming Plant"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "282000",
-    "facility_id_b": "287060",
-    "description": "Hossin - The Ziggurat to Eastern Substation"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "284000",
-    "facility_id_b": "285000",
-    "description": "Hossin - Whispering Pass to SRP Nanite Relay Station"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "284000",
-    "facility_id_b": "310000",
-    "description": "Hossin - Whispering Pass to Hossin Southern Warpgate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "205002",
-    "facility_id_b": "222320",
-    "description": "Amerish - Ikanam Garrison to The Auger"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "206000",
-    "facility_id_b": "206002",
-    "description": "Amerish - Heyoka to Heyoka Chemical Lab"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "207000",
-    "facility_id_b": "207002",
-    "description": "Amerish - Sungrey to Sungrey Power Hub"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "208000",
-    "facility_id_b": "208001",
-    "description": "Amerish - Mekala to Mekala Cart Mining"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "209000",
-    "facility_id_b": "209001",
-    "description": "Amerish - Onatha to Onatha North Gate"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "210000",
-    "facility_id_b": "210002",
-    "description": "Amerish - Wokuk to Wokuk Shipping Dock"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "266000",
-    "facility_id_b": "307010",
-    "description": "Hossin - Kessel's Crossing to Chac Fusion Lab"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "267000",
-    "facility_id_b": "307020",
-    "description": "Hossin - Hossin BioChem, Inc. to Chac Water Purification"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "268000",
-    "facility_id_b": "287030",
-    "description": "Hossin - VEX BioLogics to Construction Site Gamma"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "269000",
-    "facility_id_b": "287090",
-    "description": "Hossin - Bunker J993 to Mossridge Command Center"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "270000",
-    "facility_id_b": "272000",
-    "description": "Hossin - Fallbridge Chemical to Bridgewater Shipping Yard"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "270000",
-    "facility_id_b": "309000",
-    "description": "Hossin - Fallbridge Chemical to Hossin Eastern Warpgate"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "265000",
-    "facility_id_b": "287020",
-    "description": "Hossin - The Offal Pit to Construction Site Beta"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "271000",
-    "facility_id_b": "295000",
-    "description": "Hossin - Halcyon Watch to Matsuda Genetics"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "272000",
-    "facility_id_b": "309000",
-    "description": "Hossin - Bridgewater Shipping Yard to Hossin Eastern Warpgate"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "274000",
-    "facility_id_b": "287010",
-    "description": "Hossin - Iron Quay to Construction Site Alpha"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "275000",
-    "facility_id_b": "287080",
-    "description": "Hossin - Broken Vale Garrison to Construction Site Epsilon"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "275000",
-    "facility_id_b": "302030",
-    "description": "Hossin - Broken Vale Garrison to Acan Southern Labs"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "276000",
-    "facility_id_b": "298000",
-    "description": "Hossin - Woodman ASE Labs to Nason's Defiance"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "276000",
-    "facility_id_b": "302030",
-    "description": "Hossin - Woodman ASE Labs to Acan Southern Labs"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "278000",
-    "facility_id_b": "287040",
-    "description": "Hossin - Roothouse Distillery to Takkon Storage"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "279000",
-    "facility_id_b": "281000",
-    "description": "Hossin - Hunter's Blind to SRP Hydroponics, Inc."
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "279000",
-    "facility_id_b": "287120",
-    "description": "Hossin - Hunter's Blind to Construction Site Sigma"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "280000",
-    "facility_id_b": "298000",
-    "description": "Hossin - Gourney Dam to Nason's Defiance"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "281000",
-    "facility_id_b": "287050",
-    "description": "Hossin - SRP Hydroponics, Inc. to Construction Site Zeta"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "282000",
-    "facility_id_b": "283000",
-    "description": "Hossin - The Ziggurat to Nettlemire Gardens"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "283000",
-    "facility_id_b": "306020",
-    "description": "Hossin - Nettlemire Gardens to Mulac Foundry"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "284000",
-    "facility_id_b": "303030",
-    "description": "Hossin - Whispering Pass to Bitol Eastern Depot"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "285000",
-    "facility_id_b": "287120",
-    "description": "Hossin - SRP Nanite Relay Station to Construction Site Sigma"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "286000",
-    "facility_id_b": "285000",
-    "description": "Hossin - Four Fingers to SRP Nanite Relay Station"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "286000",
-    "facility_id_b": "310000",
-    "description": "Hossin - Four Fingers to Hossin Southern Warpgate"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "287000",
-    "facility_id_b": "306030",
-    "description": "Hossin - Kestral Watch to Mulac Purification Site"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "290000",
-    "facility_id_b": "287040",
-    "description": "Hossin - Fort Drexler to Takkon Storage"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "291000",
-    "facility_id_b": "287110",
-    "description": "Hossin - Cairn Station to Outpost Lambda"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "300010",
-    "facility_id_b": "280000",
-    "description": "Hossin - Hurakan Secure Storage to Gourney Dam"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "300020",
-    "facility_id_b": "290000",
-    "description": "Hossin - Hurakan Western Pass to Fort Drexler"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "300030",
-    "facility_id_b": "291000",
-    "description": "Hossin - Hurakan Southern Depot to Cairn Station"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "301000",
-    "facility_id_b": "301010",
-    "description": "Hossin - Ixtab to Ixtab Power Regulation"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "301000",
-    "facility_id_b": "301030",
-    "description": "Hossin - Ixtab to Ixtab Southern Pass"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "302000",
-    "facility_id_b": "302020",
-    "description": "Hossin - Acan to Acan Data Hub"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "303000",
-    "facility_id_b": "303010",
-    "description": "Hossin - Bitol to Bitol Stockpile"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "303000",
-    "facility_id_b": "303030",
-    "description": "Hossin - Bitol to Bitol Eastern Depot"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "303020",
-    "facility_id_b": "291000",
-    "description": "Hossin - Bitol Northern Outpost to Cairn Station"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "304010",
-    "facility_id_b": "272000",
-    "description": "Hossin - Zotz North Garden to Bridgewater Shipping Yard"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "304010",
-    "facility_id_b": "304020",
-    "description": "Hossin - Zotz North Garden to Zotz Arboretum"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "304020",
-    "facility_id_b": "304000",
-    "description": "Hossin - Zotz Arboretum to Zotz"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "304030",
-    "facility_id_b": "282000",
-    "description": "Hossin - Zotz Agriculture Lab to The Ziggurat"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "305010",
-    "facility_id_b": "277000",
-    "description": "Hossin - Ghanan Southern Crossing to Johari Cove"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "305020",
-    "facility_id_b": "273000",
-    "description": "Hossin - Ghanan Research Labs to OMR Terraforming"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "305030",
-    "facility_id_b": "290000",
-    "description": "Hossin - Ghanan Eastern Gatehouse to Fort Drexler"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "306000",
-    "facility_id_b": "306010",
-    "description": "Hossin - Mulac to Mulac Pass"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "306000",
-    "facility_id_b": "306030",
-    "description": "Hossin - Mulac to Mulac Purification Site"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "307000",
-    "facility_id_b": "307020",
-    "description": "Hossin - Chac to Chac Water Purification"
-  },
-  {
-    "zone_id": "10",
-    "facility_id_a": "310510",
-    "facility_id_b": "310500",
-    "description": "Nexus - SO3 to SouthTower"
-  },
-  {
-    "zone_id": "10",
-    "facility_id_a": "310530",
-    "facility_id_b": "310510",
-    "description": "Nexus - IceCave to SO3"
-  },
-  {
-    "zone_id": "10",
-    "facility_id_a": "310540",
-    "facility_id_b": "310590",
-    "description": "Nexus - SO1 to NorthTower"
-  },
-  {
-    "zone_id": "10",
-    "facility_id_a": "310570",
-    "facility_id_b": "310600",
-    "description": "Nexus - WG.SW to Home.West"
-  },
-  {
-    "zone_id": "10",
-    "facility_id_a": "310590",
-    "facility_id_b": "310550",
-    "description": "Nexus - NorthTower to SO2"
-  },
-  {
-    "zone_id": "10",
-    "facility_id_a": "310600",
-    "facility_id_b": "310540",
-    "description": "Nexus - Home.West to SO1"
-  },
-  {
-    "zone_id": "10",
-    "facility_id_a": "310610",
-    "facility_id_b": "310550",
-    "description": "Nexus - Home.East to SO2"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "400128",
-    "facility_id_b": "212002",
-    "description": "Amerish - Solus Nature Annex to Xelas North Gate"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "400130",
-    "facility_id_b": "5700",
-    "description": "Indar - Berjess Overlook to Regent Rock Garrison"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "400132",
-    "facility_id_b": "5100",
-    "description": "Indar - Lowland Trading Post to Indar Excavation Site"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400134",
-    "facility_id_b": "239000",
-    "description": "Esamir - Tapp Waystation to Pale Canyon Chemical"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400135",
-    "facility_id_b": "246000",
-    "description": "Esamir - Untapped Reservoir to Mattherson's Triumph"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400314",
-    "facility_id_b": "244300",
-    "description": "Esamir - Baldur to Frostbite Harbor"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400315",
-    "facility_id_b": "236000",
-    "description": "Esamir - Vidar Observation Site to Grey Heron Shipping"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400317",
-    "facility_id_b": "400133",
-    "description": "Esamir - Jord to BL-4 Recovery Point"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400326",
-    "facility_id_b": "251030",
-    "description": "Esamir - Andvari Containment Site to Andvari South Bank"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400327",
-    "facility_id_b": "243000",
-    "description": "Esamir - Ymir Containment Site to Elli Forest Pass"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400327",
-    "facility_id_b": "260010",
-    "description": "Esamir - Ymir Containment Site to Terran BL-4 Crash Site"
+    "zone_id": "344",
+    "facility_id_a": "400329",
+    "facility_id_b": "400331",
+    "description": "Oshur - Mirror Bay Watchtower to Pommel Gardens"
   },
   {
     "zone_id": "344",
     "facility_id_a": "400329",
     "facility_id_b": "400339",
     "description": "Oshur - Mirror Bay Watchtower to Centri Mining Operation"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400329",
+    "facility_id_b": "400340",
+    "description": "Oshur - Mirror Bay Watchtower to Mirror Bay Checkpoint"
   },
   {
     "zone_id": "344",
@@ -1579,309 +37,9 @@
   },
   {
     "zone_id": "344",
-    "facility_id_a": "400335",
-    "facility_id_b": "400351",
-    "description": "Oshur - Outpost Kalis to High Ridge Security"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "201",
-    "facility_id_b": "5300",
-    "description": "Indar - Indar Waste Treatment to Camp Connery"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "203",
-    "facility_id_b": "204",
-    "description": "Indar - Saurva Overflow Depot to Helios Solar, Inc."
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "209",
-    "facility_id_b": "210",
-    "description": "Indar - Crater Firing Range to Alkali Storage"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "211",
-    "facility_id_b": "4410",
-    "description": "Indar - Briggs Laboratories to Mao Southwest Gate"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "212",
-    "facility_id_b": "5500",
-    "description": "Indar - NS Refinery to Camp Waterson"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "213",
-    "facility_id_b": "224",
-    "description": "Indar - Howling Pass Checkpoint to NS Material Storage"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "264000",
-    "facility_id_b": "274000",
-    "description": "Hossin - Wainwright Armory to Iron Quay"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "264000",
-    "facility_id_b": "287080",
-    "description": "Hossin - Wainwright Armory to Construction Site Epsilon"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "230",
-    "facility_id_b": "400130",
-    "description": "Indar - XenoTech Labs to Berjess Overlook"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "6500",
-    "facility_id_b": "7020",
-    "description": "Indar - The Stronghold to Tawrich Tower"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "285000",
-    "facility_id_b": "310000",
-    "description": "Hossin - SRP Nanite Relay Station to Hossin Southern Warpgate"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "286000",
-    "facility_id_b": "292000",
-    "description": "Hossin - Four Fingers to Southgate Checkpoint"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "287000",
-    "facility_id_b": "292000",
-    "description": "Hossin - Kestral Watch to Southgate Checkpoint"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "289000",
-    "facility_id_b": "287010",
-    "description": "Hossin - Genudine Holographics to Construction Site Alpha"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "291000",
-    "facility_id_b": "287040",
-    "description": "Hossin - Cairn Station to Takkon Storage"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "292000",
-    "facility_id_b": "287050",
-    "description": "Hossin - Southgate Checkpoint to Construction Site Zeta"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "293000",
-    "facility_id_b": "301030",
-    "description": "Hossin - Genesis Terraforming Plant to Ixtab Southern Pass"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "294000",
-    "facility_id_b": "287060",
-    "description": "Hossin - Bravata PMC Compound to Eastern Substation"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "294000",
-    "facility_id_b": "301020",
-    "description": "Hossin - Bravata PMC Compound to Ixtab Water Purification"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "296000",
-    "facility_id_b": "287020",
-    "description": "Hossin - Hayd Skydock to Construction Site Beta"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "229",
-    "facility_id_b": "6100",
-    "description": "Indar - Snake Ravine Lookout to Crossroads Watchtower"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "235",
-    "facility_id_b": "5900",
-    "description": "Indar - Rust Mesa Lookout to Crimson Bluff Tower"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "296000",
-    "facility_id_b": "307030",
-    "description": "Hossin - Hayd Skydock to Chac Intel Hub"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "305010",
-    "facility_id_b": "305000",
-    "description": "Hossin - Ghanan Southern Crossing to Ghanan"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "305020",
-    "facility_id_b": "305000",
-    "description": "Hossin - Ghanan Research Labs to Ghanan"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "305030",
-    "facility_id_b": "305000",
-    "description": "Hossin - Ghanan Eastern Gatehouse to Ghanan"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "306000",
-    "facility_id_b": "306020",
-    "description": "Hossin - Mulac to Mulac Foundry"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "307000",
-    "facility_id_b": "307010",
-    "description": "Hossin - Chac to Chac Fusion Lab"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "307000",
-    "facility_id_b": "307030",
-    "description": "Hossin - Chac to Chac Intel Hub"
-  },
-  {
-    "zone_id": "10",
-    "facility_id_a": "310520",
-    "facility_id_b": "310500",
-    "description": "Nexus - SO4 to SouthTower"
-  },
-  {
-    "zone_id": "10",
-    "facility_id_a": "310530",
-    "facility_id_b": "310520",
-    "description": "Nexus - IceCave to SO4"
-  },
-  {
-    "zone_id": "10",
-    "facility_id_a": "310560",
-    "facility_id_b": "310610",
-    "description": "Nexus - WG.NE to Home.East"
-  },
-  {
-    "zone_id": "10",
-    "facility_id_a": "310590",
-    "facility_id_b": "310530",
-    "description": "Nexus - NorthTower to IceCave"
-  },
-  {
-    "zone_id": "10",
-    "facility_id_a": "310600",
-    "facility_id_b": "310510",
-    "description": "Nexus - Home.West to SO3"
-  },
-  {
-    "zone_id": "10",
-    "facility_id_a": "310610",
-    "facility_id_b": "310520",
-    "description": "Nexus - Home.East to SO4"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "400128",
-    "facility_id_b": "222170",
-    "description": "Amerish - Solus Nature Annex to Silver Valley Arsenal"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "400132",
-    "facility_id_b": "215",
-    "description": "Indar - Lowland Trading Post to Quartz Ridge Camp"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400133",
-    "facility_id_b": "260010",
-    "description": "Esamir - BL-4 Recovery Point to Terran BL-4 Crash Site"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400135",
-    "facility_id_b": "244610",
-    "description": "Esamir - Untapped Reservoir to Rime Analytics"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400314",
-    "facility_id_b": "239000",
-    "description": "Esamir - Baldur to Pale Canyon Chemical"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400314",
-    "facility_id_b": "249000",
-    "description": "Esamir - Baldur to Waterson's Redemption"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400317",
-    "facility_id_b": "244100",
-    "description": "Esamir - Jord to Echo Valley Substation"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400326",
-    "facility_id_b": "251010",
-    "description": "Esamir - Andvari Containment Site to Andvari Barracks"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400326",
-    "facility_id_b": "400134",
-    "description": "Esamir - Andvari Containment Site to Tapp Waystation"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400327",
-    "facility_id_b": "257000",
-    "description": "Esamir - Ymir Containment Site to Ymir"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400329",
-    "facility_id_b": "400331",
-    "description": "Oshur - Mirror Bay Watchtower to Pommel Gardens"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400329",
-    "facility_id_b": "400340",
-    "description": "Oshur - Mirror Bay Watchtower to Mirror Bay Checkpoint"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400390",
-    "facility_id_b": "400362",
-    "description": "Oshur - Seapost J5 to Palaso Supply Depot"
-  },
-  {
-    "zone_id": "344",
     "facility_id_a": "400332",
     "facility_id_b": "400407",
     "description": "Oshur - Centri Import Hub to Wakerift Beachhead"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400391",
-    "facility_id_b": "400358",
-    "description": "Oshur - Seapost K10 to South Viridian Beachhead"
   },
   {
     "zone_id": "344",
@@ -1897,9 +55,21 @@
   },
   {
     "zone_id": "344",
+    "facility_id_a": "400334",
+    "facility_id_b": "400416",
+    "description": "Oshur - Ligalai Station to Seapost D8 - Collapse"
+  },
+  {
+    "zone_id": "344",
     "facility_id_a": "400335",
     "facility_id_b": "400333",
     "description": "Oshur - Outpost Kalis to Binusilan Interlink"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400335",
+    "facility_id_b": "400351",
+    "description": "Oshur - Outpost Kalis to High Ridge Security"
   },
   {
     "zone_id": "344",
@@ -1912,138 +82,6 @@
     "facility_id_a": "400337",
     "facility_id_b": "400338",
     "description": "Oshur - Viridian Genetics Lab to Viridian Decontamination"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400341",
-    "facility_id_b": "400358",
-    "description": "Oshur - Pilay Interlink to South Viridian Beachhead"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400346",
-    "facility_id_b": "400331",
-    "description": "Oshur - Gildad Cliffs to Pommel Gardens"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400342",
-    "facility_id_b": "400331",
-    "description": "Oshur - Lamplight Security to Pommel Gardens"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400342",
-    "facility_id_b": "400346",
-    "description": "Oshur - Lamplight Security to Gildad Cliffs"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400346",
-    "facility_id_b": "400344",
-    "description": "Oshur - Gildad Cliffs to Wavecrest Beachhead"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400345",
-    "facility_id_b": "400343",
-    "description": "Oshur - Anat Interlink to Hopeswell Beachhead"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400347",
-    "facility_id_b": "400404",
-    "description": "Oshur - Sage R&D Labs to Veridad Pass"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400348",
-    "facility_id_b": "400349",
-    "description": "Oshur - Tannae Power to Hunter's Ravine"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400348",
-    "facility_id_b": "400404",
-    "description": "Oshur - Tannae Power to Veridad Pass"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400349",
-    "facility_id_b": "400350",
-    "description": "Oshur - Hunter's Ravine to K&H Tech Station"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400351",
-    "facility_id_b": "400352",
-    "description": "Oshur - High Ridge Security to Dekat Interlink"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400353",
-    "facility_id_b": "400354",
-    "description": "Oshur - Astira Solar Station to Southpeak Meadows"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400353",
-    "facility_id_b": "400392",
-    "description": "Oshur - Astira Solar Station to Seapost K12"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400356",
-    "facility_id_b": "400392",
-    "description": "Oshur - Remnant Cove to Seapost K12"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "213",
-    "facility_id_b": "4430",
-    "description": "Indar - Howling Pass Checkpoint to Mao Southeast Gate"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "214",
-    "facility_id_b": "4020",
-    "description": "Indar - Indar Comm. Array to Allatum Broadcast Hub"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "217",
-    "facility_id_b": "3230",
-    "description": "Indar - Seabed Listening Post to Dahaka Southern Post"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "219",
-    "facility_id_b": "218",
-    "description": "Indar - Ceres Hydroponics to Ti Alloys, Inc."
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "220",
-    "facility_id_b": "211",
-    "description": "Indar - Galaxy Solar Plant to Briggs Laboratories"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "221",
-    "facility_id_b": "6200",
-    "description": "Indar - The Palisade to The Crown"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "226",
-    "facility_id_b": "7530",
-    "description": "Indar - NS Secure Data Lab to Hvar Physics Lab"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "228",
-    "facility_id_b": "252",
-    "description": "Indar - Ayani Labs to Ceres Farms"
   },
   {
     "zone_id": "344",
@@ -2065,9 +103,45 @@
   },
   {
     "zone_id": "344",
+    "facility_id_a": "400339",
+    "facility_id_b": "400412",
+    "description": "Oshur - Centri Mining Operation to Seapost I11 - Stones"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400341",
+    "facility_id_b": "400358",
+    "description": "Oshur - Pilay Interlink to South Viridian Beachhead"
+  },
+  {
+    "zone_id": "344",
     "facility_id_a": "400341",
     "facility_id_b": "400392",
     "description": "Oshur - Pilay Interlink to Seapost K12"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400342",
+    "facility_id_b": "400331",
+    "description": "Oshur - Lamplight Security to Pommel Gardens"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400342",
+    "facility_id_b": "400343",
+    "description": "Oshur - Lamplight Security to Hopeswell Beachhead"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400342",
+    "facility_id_b": "400346",
+    "description": "Oshur - Lamplight Security to Gildad Cliffs"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400345",
+    "facility_id_b": "400343",
+    "description": "Oshur - Anat Interlink to Hopeswell Beachhead"
   },
   {
     "zone_id": "344",
@@ -2077,15 +151,75 @@
   },
   {
     "zone_id": "344",
+    "facility_id_a": "400346",
+    "facility_id_b": "400331",
+    "description": "Oshur - Gildad Cliffs to Pommel Gardens"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400346",
+    "facility_id_b": "400344",
+    "description": "Oshur - Gildad Cliffs to Wavecrest Beachhead"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400347",
+    "facility_id_b": "400404",
+    "description": "Oshur - Sage R&D Labs to Veridad Pass"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400347",
+    "facility_id_b": "400416",
+    "description": "Oshur - Sage R&D Labs to Seapost D8 - Collapse"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400348",
+    "facility_id_b": "400349",
+    "description": "Oshur - Tannae Power to Hunter's Ravine"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400348",
+    "facility_id_b": "400404",
+    "description": "Oshur - Tannae Power to Veridad Pass"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400349",
+    "facility_id_b": "400350",
+    "description": "Oshur - Hunter's Ravine to K&H Tech Station"
+  },
+  {
+    "zone_id": "344",
     "facility_id_a": "400350",
     "facility_id_b": "400351",
     "description": "Oshur - K&H Tech Station to High Ridge Security"
   },
   {
     "zone_id": "344",
+    "facility_id_a": "400351",
+    "facility_id_b": "400352",
+    "description": "Oshur - High Ridge Security to Dekat Interlink"
+  },
+  {
+    "zone_id": "344",
     "facility_id_a": "400352",
     "facility_id_b": "400405",
     "description": "Oshur - Dekat Interlink to Solstice Pass"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400353",
+    "facility_id_b": "400354",
+    "description": "Oshur - Astira Solar Station to Southpeak Meadows"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400353",
+    "facility_id_b": "400392",
+    "description": "Oshur - Astira Solar Station to Seapost K12"
   },
   {
     "zone_id": "344",
@@ -2113,6 +247,18 @@
   },
   {
     "zone_id": "344",
+    "facility_id_a": "400356",
+    "facility_id_b": "400392",
+    "description": "Oshur - Remnant Cove to Seapost K12"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400357",
+    "facility_id_b": "400358",
+    "description": "Oshur - Viridian East Terrace to South Viridian Beachhead"
+  },
+  {
+    "zone_id": "344",
     "facility_id_a": "400357",
     "facility_id_b": "400359",
     "description": "Oshur - Viridian East Terrace to Terran Genetics Inc."
@@ -2122,6 +268,18 @@
     "facility_id_a": "400359",
     "facility_id_b": "400360",
     "description": "Oshur - Terran Genetics Inc. to Sibo Interlink"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400360",
+    "facility_id_b": "400361",
+    "description": "Oshur - Sibo Interlink to Wellerman Watch"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400361",
+    "facility_id_b": "400344",
+    "description": "Oshur - Wellerman Watch to Wavecrest Beachhead"
   },
   {
     "zone_id": "344",
@@ -2161,24 +319,6 @@
   },
   {
     "zone_id": "344",
-    "facility_id_a": "400370",
-    "facility_id_b": "400362",
-    "description": "Oshur - Oshur Northeast Flotilla to Palaso Supply Depot"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400357",
-    "facility_id_b": "400358",
-    "description": "Oshur - Viridian East Terrace to South Viridian Beachhead"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400360",
-    "facility_id_b": "400361",
-    "description": "Oshur - Sibo Interlink to Wellerman Watch"
-  },
-  {
-    "zone_id": "344",
     "facility_id_a": "400367",
     "facility_id_b": "400347",
     "description": "Oshur - Nascent Shipping and Storage to Sage R&D Labs"
@@ -2188,804 +328,6 @@
     "facility_id_a": "400368",
     "facility_id_b": "400358",
     "description": "Oshur - Emerald Arboretum to South Viridian Beachhead"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "215",
-    "facility_id_b": "214",
-    "description": "Indar - Quartz Ridge Camp to Indar Comm. Array"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "219",
-    "facility_id_b": "217",
-    "description": "Indar - Ceres Hydroponics to Seabed Listening Post"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "219",
-    "facility_id_b": "220",
-    "description": "Indar - Ceres Hydroponics to Galaxy Solar Plant"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "221",
-    "facility_id_b": "211",
-    "description": "Indar - The Palisade to Briggs Laboratories"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "224",
-    "facility_id_b": "3620",
-    "description": "Indar - NS Material Storage to Rashnu Watchtower"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "256000",
-    "facility_id_b": "236000",
-    "description": "Esamir - Nott Communications to Grey Heron Shipping"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "5900",
-    "facility_id_b": "221",
-    "description": "Indar - Crimson Bluff Tower to The Palisade"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "5900",
-    "facility_id_b": "118020",
-    "description": "Indar - Crimson Bluff Tower to Zurvan Storage Yard"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "6000",
-    "facility_id_b": "252",
-    "description": "Indar - Indar Bay Point to Ceres Farms"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "6100",
-    "facility_id_b": "7010",
-    "description": "Indar - Crossroads Watchtower to Tawrich Depot"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "6200",
-    "facility_id_b": "219",
-    "description": "Indar - The Crown to Ceres Hydroponics"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "6200",
-    "facility_id_b": "118010",
-    "description": "Indar - The Crown to Zurvan Pump Station"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "6400",
-    "facility_id_b": "247",
-    "description": "Indar - Feldspar Canyon Base to Old Auraxium Mines"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "7000",
-    "facility_id_b": "7020",
-    "description": "Indar - Tawrich to Tawrich Tower"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "7020",
-    "facility_id_b": "232",
-    "description": "Indar - Tawrich Tower to Gravel Pass"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "7500",
-    "facility_id_b": "7510",
-    "description": "Indar - Hvar to Hvar Western Post"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "7500",
-    "facility_id_b": "7530",
-    "description": "Indar - Hvar to Hvar Physics Lab"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "7520",
-    "facility_id_b": "215",
-    "description": "Indar - Hvar Databank to Quartz Ridge Camp"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "7801",
-    "facility_id_b": "201",
-    "description": "Indar - Indar Northern Warpgate to Indar Waste Treatment"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "7801",
-    "facility_id_b": "210",
-    "description": "Indar - Indar Northern Warpgate to Alkali Storage"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "118000",
-    "facility_id_b": "118020",
-    "description": "Indar - Zurvan to Zurvan Storage Yard"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "118030",
-    "facility_id_b": "236",
-    "description": "Indar - Zurvan Network Complex to The Old Stockpile"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "120000",
-    "facility_id_b": "252",
-    "description": "Indar - Indar Western Warpgate to Ceres Farms"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "204000",
-    "facility_id_b": "204001",
-    "description": "Amerish - Kwahtee to Kwahtee West Pass"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "204000",
-    "facility_id_b": "204003",
-    "description": "Amerish - Kwahtee to Kwahtee Mountain Complex"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "227",
-    "facility_id_b": "228",
-    "description": "Indar - Highlands Solar Station to Ayani Labs"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "228",
-    "facility_id_b": "5800",
-    "description": "Indar - Ayani Labs to Vanu Archives"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "230",
-    "facility_id_b": "5700",
-    "description": "Indar - XenoTech Labs to Regent Rock Garrison"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "232",
-    "facility_id_b": "118010",
-    "description": "Indar - Gravel Pass to Zurvan Pump Station"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "236",
-    "facility_id_b": "235",
-    "description": "Indar - The Old Stockpile to Rust Mesa Lookout"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "237",
-    "facility_id_b": "252",
-    "description": "Indar - Ceres Biotech to Ceres Farms"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "242",
-    "facility_id_b": "7030",
-    "description": "Indar - Scarred Mesa Skydock to Tawrich Recycling"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "246",
-    "facility_id_b": "247",
-    "description": "Indar - Copper Ravine Station to Old Auraxium Mines"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "247",
-    "facility_id_b": "248",
-    "description": "Indar - Old Auraxium Mines to Valley Storage Yard"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3201",
-    "facility_id_b": "3210",
-    "description": "Indar - Dahaka to Dahaka Uplink Hub"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3201",
-    "facility_id_b": "3230",
-    "description": "Indar - Dahaka to Dahaka Southern Post"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3220",
-    "facility_id_b": "5200",
-    "description": "Indar - Dahaka Pump Station to J908 Impact Site"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3400",
-    "facility_id_b": "3410",
-    "description": "Indar - Peris to Peris Barracks"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3400",
-    "facility_id_b": "3430",
-    "description": "Indar - Peris to Peris Eastern Grove"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3420",
-    "facility_id_b": "5800",
-    "description": "Indar - Peris Field Tower to Vanu Archives"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3601",
-    "facility_id_b": "3620",
-    "description": "Indar - Rashnu to Rashnu Watchtower"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3610",
-    "facility_id_b": "235",
-    "description": "Indar - Rashnu Cavern to Rust Mesa Lookout"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3801",
-    "facility_id_b": "3810",
-    "description": "Indar - Saurva to Saurva Data Storage"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4001",
-    "facility_id_b": "4010",
-    "description": "Indar - Allatum to Allatum Research Lab"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4001",
-    "facility_id_b": "4030",
-    "description": "Indar - Allatum to Allatum Botany Wing"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4010",
-    "facility_id_b": "4030",
-    "description": "Indar - Allatum Research Lab to Allatum Botany Wing"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4030",
-    "facility_id_b": "218",
-    "description": "Indar - Allatum Botany Wing to Ti Alloys, Inc."
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4401",
-    "facility_id_b": "4410",
-    "description": "Indar - Mao to Mao Southwest Gate"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4401",
-    "facility_id_b": "4430",
-    "description": "Indar - Mao to Mao Southeast Gate"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4420",
-    "facility_id_b": "400131",
-    "description": "Indar - Mao Watchtower to Sunken Relay Station"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4801",
-    "facility_id_b": "246",
-    "description": "Indar - Indar Eastern Warpgate to Copper Ravine Station"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4801",
-    "facility_id_b": "248",
-    "description": "Indar - Indar Eastern Warpgate to Valley Storage Yard"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "5200",
-    "facility_id_b": "220",
-    "description": "Indar - J908 Impact Site to Galaxy Solar Plant"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "5700",
-    "facility_id_b": "3430",
-    "description": "Indar - Regent Rock Garrison to Peris Eastern Grove"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "6000",
-    "facility_id_b": "227",
-    "description": "Indar - Indar Bay Point to Highlands Solar Station"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "6100",
-    "facility_id_b": "230",
-    "description": "Indar - Crossroads Watchtower to XenoTech Labs"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "6200",
-    "facility_id_b": "218",
-    "description": "Indar - The Crown to Ti Alloys, Inc."
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "6200",
-    "facility_id_b": "6100",
-    "description": "Indar - The Crown to Crossroads Watchtower"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "6300",
-    "facility_id_b": "7030",
-    "description": "Indar - Arroyo Torre Station to Tawrich Recycling"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "6400",
-    "facility_id_b": "6500",
-    "description": "Indar - Feldspar Canyon Base to The Stronghold"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "7000",
-    "facility_id_b": "7010",
-    "description": "Indar - Tawrich to Tawrich Depot"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "7000",
-    "facility_id_b": "7030",
-    "description": "Indar - Tawrich to Tawrich Recycling"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "7020",
-    "facility_id_b": "7010",
-    "description": "Indar - Tawrich Tower to Tawrich Depot"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "7500",
-    "facility_id_b": "7520",
-    "description": "Indar - Hvar to Hvar Databank"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "7510",
-    "facility_id_b": "6000",
-    "description": "Indar - Hvar Western Post to Indar Bay Point"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "7520",
-    "facility_id_b": "7530",
-    "description": "Indar - Hvar Databank to Hvar Physics Lab"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "7801",
-    "facility_id_b": "209",
-    "description": "Indar - Indar Northern Warpgate to Crater Firing Range"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "118000",
-    "facility_id_b": "118010",
-    "description": "Indar - Zurvan to Zurvan Pump Station"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "118000",
-    "facility_id_b": "118030",
-    "description": "Indar - Zurvan to Zurvan Network Complex"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "120000",
-    "facility_id_b": "237",
-    "description": "Indar - Indar Western Warpgate to Ceres Biotech"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "120000",
-    "facility_id_b": "6000",
-    "description": "Indar - Indar Western Warpgate to Indar Bay Point"
-  },
-  {
-    "zone_id": "6",
-    "facility_id_a": "204000",
-    "facility_id_b": "204002",
-    "description": "Amerish - Kwahtee to Kwahtee Fortress"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "236",
-    "facility_id_b": "6400",
-    "description": "Indar - The Old Stockpile to Feldspar Canyon Base"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "239",
-    "facility_id_b": "237",
-    "description": "Indar - Highlands Substation to Ceres Biotech"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "242",
-    "facility_id_b": "400130",
-    "description": "Indar - Scarred Mesa Skydock to Berjess Overlook"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "246",
-    "facility_id_b": "6300",
-    "description": "Indar - Copper Ravine Station to Arroyo Torre Station"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "248",
-    "facility_id_b": "3630",
-    "description": "Indar - Valley Storage Yard to Rashnu Southern Pass"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3201",
-    "facility_id_b": "3220",
-    "description": "Indar - Dahaka to Dahaka Pump Station"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3210",
-    "facility_id_b": "205",
-    "description": "Indar - Dahaka Uplink Hub to Alkali Shipping"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3230",
-    "facility_id_b": "214",
-    "description": "Indar - Dahaka Southern Post to Indar Comm. Array"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3400",
-    "facility_id_b": "3420",
-    "description": "Indar - Peris to Peris Field Tower"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3410",
-    "facility_id_b": "239",
-    "description": "Indar - Peris Barracks to Highlands Substation"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3601",
-    "facility_id_b": "3610",
-    "description": "Indar - Rashnu to Rashnu Cavern"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3601",
-    "facility_id_b": "3630",
-    "description": "Indar - Rashnu to Rashnu Southern Pass"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3610",
-    "facility_id_b": "3620",
-    "description": "Indar - Rashnu Cavern to Rashnu Watchtower"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3801",
-    "facility_id_b": "203",
-    "description": "Indar - Saurva to Saurva Overflow Depot"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3801",
-    "facility_id_b": "3820",
-    "description": "Indar - Saurva to Saurva South Fortress"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4001",
-    "facility_id_b": "4020",
-    "description": "Indar - Allatum to Allatum Broadcast Hub"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4010",
-    "facility_id_b": "226",
-    "description": "Indar - Allatum Research Lab to NS Secure Data Lab"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4030",
-    "facility_id_b": "229",
-    "description": "Indar - Allatum Botany Wing to Snake Ravine Lookout"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4401",
-    "facility_id_b": "4420",
-    "description": "Indar - Mao to Mao Watchtower"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4420",
-    "facility_id_b": "212",
-    "description": "Indar - Mao Watchtower to NS Refinery"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4430",
-    "facility_id_b": "4420",
-    "description": "Indar - Mao Southeast Gate to Mao Watchtower"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "4801",
-    "facility_id_b": "247",
-    "description": "Indar - Indar Eastern Warpgate to Old Auraxium Mines"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "5200",
-    "facility_id_b": "209",
-    "description": "Indar - J908 Impact Site to Crater Firing Range"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "5300",
-    "facility_id_b": "207",
-    "description": "Indar - Camp Connery to Benson Construction"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "5500",
-    "facility_id_b": "210",
-    "description": "Indar - Camp Waterson to Alkali Storage"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "5800",
-    "facility_id_b": "229",
-    "description": "Indar - Vanu Archives to Snake Ravine Lookout"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "5900",
-    "facility_id_b": "224",
-    "description": "Indar - Crimson Bluff Tower to NS Material Storage"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "293000",
-    "facility_id_b": "287060",
-    "description": "Hossin - Genesis Terraforming Plant to Eastern Substation"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "293000",
-    "facility_id_b": "306010",
-    "description": "Hossin - Genesis Terraforming Plant to Mulac Pass"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "294000",
-    "facility_id_b": "287090",
-    "description": "Hossin - Bravata PMC Compound to Mossridge Command Center"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "295000",
-    "facility_id_b": "287030",
-    "description": "Hossin - Matsuda Genetics to Construction Site Gamma"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "296000",
-    "facility_id_b": "302010",
-    "description": "Hossin - Hayd Skydock to East Acan Storage Depot"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "297000",
-    "facility_id_b": "287020",
-    "description": "Hossin - Hatcher Airstation to Construction Site Beta"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "297000",
-    "facility_id_b": "299020",
-    "description": "Hossin - Hatcher Airstation to Naum Marsh Compound"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "299000",
-    "facility_id_b": "299020",
-    "description": "Hossin - Naum to Naum Marsh Compound"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "299010",
-    "facility_id_b": "299000",
-    "description": "Hossin - Naum Ravine Overpass to Naum"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "297000",
-    "facility_id_b": "287080",
-    "description": "Hossin - Hatcher Airstation to Construction Site Epsilon"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "297000",
-    "facility_id_b": "302020",
-    "description": "Hossin - Hatcher Airstation to Acan Data Hub"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "299000",
-    "facility_id_b": "299030",
-    "description": "Hossin - Naum to Naum Forward Barracks"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "300010",
-    "facility_id_b": "275000",
-    "description": "Hossin - Hurakan Secure Storage to Broken Vale Garrison"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "300010",
-    "facility_id_b": "300000",
-    "description": "Hossin - Hurakan Secure Storage to Hurakan"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "300020",
-    "facility_id_b": "300000",
-    "description": "Hossin - Hurakan Western Pass to Hurakan"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "300030",
-    "facility_id_b": "300000",
-    "description": "Hossin - Hurakan Southern Depot to Hurakan"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "301000",
-    "facility_id_b": "301020",
-    "description": "Hossin - Ixtab to Ixtab Water Purification"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "302000",
-    "facility_id_b": "302010",
-    "description": "Hossin - Acan to East Acan Storage Depot"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "302000",
-    "facility_id_b": "302030",
-    "description": "Hossin - Acan to Acan Southern Labs"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "303000",
-    "facility_id_b": "303020",
-    "description": "Hossin - Bitol to Bitol Northern Outpost"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "303020",
-    "facility_id_b": "303030",
-    "description": "Hossin - Bitol Northern Outpost to Bitol Eastern Depot"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "304010",
-    "facility_id_b": "304000",
-    "description": "Hossin - Zotz North Garden to Zotz"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "304020",
-    "facility_id_b": "294000",
-    "description": "Hossin - Zotz Arboretum to Bravata PMC Compound"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "304030",
-    "facility_id_b": "304000",
-    "description": "Hossin - Zotz Agriculture Lab to Zotz"
-  },
-  {
-    "zone_id": "4",
-    "facility_id_a": "302020",
-    "facility_id_b": "302010",
-    "description": "Hossin - Acan Data Hub to East Acan Storage Depot"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3810",
-    "facility_id_b": "203",
-    "description": "Indar - Saurva Data Storage to Saurva Overflow Depot"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "244000",
-    "facility_id_b": "260010",
-    "description": "Esamir - Frostfall Overlook to Terran BL-4 Crash Site"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400134",
-    "facility_id_b": "237000",
-    "description": "Esamir - Tapp Waystation to The Traverse"
-  },
-  {
-    "zone_id": "8",
-    "facility_id_a": "400328",
-    "facility_id_b": "400317",
-    "description": "Esamir - Spral Oasis to Jord"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400334",
-    "facility_id_b": "400416",
-    "description": "Oshur - Ligalai Station to Seapost D8 - Collapse"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400339",
-    "facility_id_b": "400412",
-    "description": "Oshur - Centri Mining Operation to Seapost I11 - Stones"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400342",
-    "facility_id_b": "400343",
-    "description": "Oshur - Lamplight Security to Hopeswell Beachhead"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400347",
-    "facility_id_b": "400416",
-    "description": "Oshur - Sage R&D Labs to Seapost D8 - Collapse"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400361",
-    "facility_id_b": "400344",
-    "description": "Oshur - Wellerman Watch to Wavecrest Beachhead"
   },
   {
     "zone_id": "344",
@@ -2998,6 +340,12 @@
     "facility_id_a": "400369",
     "facility_id_b": "400367",
     "description": "Oshur - Oshur Northwest Flotilla to Nascent Shipping and Storage"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400370",
+    "facility_id_b": "400362",
+    "description": "Oshur - Oshur Northeast Flotilla to Palaso Supply Depot"
   },
   {
     "zone_id": "344",
@@ -3016,6 +364,18 @@
     "facility_id_a": "400371",
     "facility_id_b": "400405",
     "description": "Oshur - Oshur South Flotilla to Solstice Pass"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400390",
+    "facility_id_b": "400362",
+    "description": "Oshur - Seapost J5 to Palaso Supply Depot"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400391",
+    "facility_id_b": "400358",
+    "description": "Oshur - Seapost K10 to South Viridian Beachhead"
   },
   {
     "zone_id": "344",
@@ -3246,6 +606,2586 @@
     "description": "Oshur - HMS Technologies to Imbanon Interlink"
   },
   {
+    "zone_id": "8",
+    "facility_id_a": "230000",
+    "facility_id_b": "258000",
+    "description": "Esamir - Palos Solar Array to Esamir Northern Warpgate"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "231000",
+    "facility_id_b": "230000",
+    "description": "Esamir - Crystal Ridge Comm Array to Palos Solar Array"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "231000",
+    "facility_id_b": "232000",
+    "description": "Esamir - Crystal Ridge Comm Array to Haven Outpost"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "231000",
+    "facility_id_b": "253000",
+    "description": "Esamir - Crystal Ridge Comm Array to Freyr"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "231000",
+    "facility_id_b": "258000",
+    "description": "Esamir - Crystal Ridge Comm Array to Esamir Northern Warpgate"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "232000",
+    "facility_id_b": "255010",
+    "description": "Esamir - Haven Outpost to Steelshore Processing"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "232000",
+    "facility_id_b": "258000",
+    "description": "Esamir - Haven Outpost to Esamir Northern Warpgate"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "234000",
+    "facility_id_b": "235000",
+    "description": "Esamir - Mani Containment Site to Stillwater Watch"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "234000",
+    "facility_id_b": "244620",
+    "description": "Esamir - Mani Containment Site to The Rink"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "234000",
+    "facility_id_b": "255030",
+    "description": "Esamir - Mani Containment Site to Esper Research Station"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "235000",
+    "facility_id_b": "247000",
+    "description": "Esamir - Stillwater Watch to Northpoint Ruins"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "235000",
+    "facility_id_b": "400315",
+    "description": "Esamir - Stillwater Watch to Vidar Observation Site"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "237000",
+    "facility_id_b": "246000",
+    "description": "Esamir - The Traverse to Mattherson's Triumph"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "239000",
+    "facility_id_b": "246000",
+    "description": "Esamir - Pale Canyon Chemical to Mattherson's Triumph"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "240000",
+    "facility_id_b": "244300",
+    "description": "Esamir - Old Shore Checkpoint to Frostbite Harbor"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "240000",
+    "facility_id_b": "252010",
+    "description": "Esamir - Old Shore Checkpoint to Elli Tower"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "240000",
+    "facility_id_b": "259000",
+    "description": "Esamir - Old Shore Checkpoint to Esamir Southern Warpgate"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "243000",
+    "facility_id_b": "252010",
+    "description": "Esamir - Elli Forest Pass to Elli Tower"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "243000",
+    "facility_id_b": "400328",
+    "description": "Esamir - Elli Forest Pass to Spral Oasis"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244000",
+    "facility_id_b": "242000",
+    "description": "Esamir - Frostfall Overlook to Eastwake Harborage"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244000",
+    "facility_id_b": "257000",
+    "description": "Esamir - Frostfall Overlook to Ymir"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244000",
+    "facility_id_b": "260010",
+    "description": "Esamir - Frostfall Overlook to Terran BL-4 Crash Site"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244100",
+    "facility_id_b": "248000",
+    "description": "Esamir - Echo Valley Substation to Saerro Listening Post"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244100",
+    "facility_id_b": "249000",
+    "description": "Esamir - Echo Valley Substation to Waterson's Redemption"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244200",
+    "facility_id_b": "249000",
+    "description": "Esamir - Bridge-ward to Waterson's Redemption"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244200",
+    "facility_id_b": "252010",
+    "description": "Esamir - Bridge-ward to Elli Tower"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244300",
+    "facility_id_b": "259000",
+    "description": "Esamir - Frostbite Harbor to Esamir Southern Warpgate"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244500",
+    "facility_id_b": "251030",
+    "description": "Esamir - Jaeger's Fist to Andvari South Bank"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244500",
+    "facility_id_b": "400134",
+    "description": "Esamir - Jaeger's Fist to Tapp Waystation"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244600",
+    "facility_id_b": "244300",
+    "description": "Esamir - Two Stone Beach to Frostbite Harbor"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244600",
+    "facility_id_b": "244500",
+    "description": "Esamir - Two Stone Beach to Jaeger's Fist"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244600",
+    "facility_id_b": "259000",
+    "description": "Esamir - Two Stone Beach to Esamir Southern Warpgate"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244610",
+    "facility_id_b": "233000",
+    "description": "Esamir - Rime Analytics to Aurora Materials Lab"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244610",
+    "facility_id_b": "234000",
+    "description": "Esamir - Rime Analytics to Mani Containment Site"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244620",
+    "facility_id_b": "236000",
+    "description": "Esamir - The Rink to Grey Heron Shipping"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "244620",
+    "facility_id_b": "248000",
+    "description": "Esamir - The Rink to Saerro Listening Post"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "245000",
+    "facility_id_b": "230000",
+    "description": "Esamir - Snowshear Fort to Palos Solar Array"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "245000",
+    "facility_id_b": "237000",
+    "description": "Esamir - Snowshear Fort to The Traverse"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "245000",
+    "facility_id_b": "251010",
+    "description": "Esamir - Snowshear Fort to Andvari Barracks"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "248000",
+    "facility_id_b": "244610",
+    "description": "Esamir - Saerro Listening Post to Rime Analytics"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "253000",
+    "facility_id_b": "233000",
+    "description": "Esamir - Freyr to Aurora Materials Lab"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "253000",
+    "facility_id_b": "237000",
+    "description": "Esamir - Freyr to The Traverse"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "254000",
+    "facility_id_b": "244610",
+    "description": "Esamir - Eisa to Rime Analytics"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "254000",
+    "facility_id_b": "246000",
+    "description": "Esamir - Eisa to Mattherson's Triumph"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "254000",
+    "facility_id_b": "248000",
+    "description": "Esamir - Eisa to Saerro Listening Post"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "254000",
+    "facility_id_b": "249000",
+    "description": "Esamir - Eisa to Waterson's Redemption"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "255010",
+    "facility_id_b": "255020",
+    "description": "Esamir - Steelshore Processing to Steelshore Reconstruction"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "255020",
+    "facility_id_b": "247000",
+    "description": "Esamir - Steelshore Reconstruction to Northpoint Ruins"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "255030",
+    "facility_id_b": "233000",
+    "description": "Esamir - Esper Research Station to Aurora Materials Lab"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "255030",
+    "facility_id_b": "255020",
+    "description": "Esamir - Esper Research Station to Steelshore Reconstruction"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "256000",
+    "facility_id_b": "236000",
+    "description": "Esamir - Nott Communications to Grey Heron Shipping"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "256000",
+    "facility_id_b": "242000",
+    "description": "Esamir - Nott Communications to Eastwake Harborage"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "256000",
+    "facility_id_b": "256030",
+    "description": "Esamir - Nott Communications to Genudine Gardens"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "256000",
+    "facility_id_b": "260000",
+    "description": "Esamir - Nott Communications to Esamir Eastern Warpgate"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "256030",
+    "facility_id_b": "248000",
+    "description": "Esamir - Genudine Gardens to Saerro Listening Post"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "260000",
+    "facility_id_b": "236000",
+    "description": "Esamir - Esamir Eastern Warpgate to Grey Heron Shipping"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "260000",
+    "facility_id_b": "242000",
+    "description": "Esamir - Esamir Eastern Warpgate to Eastwake Harborage"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "260010",
+    "facility_id_b": "400328",
+    "description": "Esamir - Terran BL-4 Crash Site to Spral Oasis"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400133",
+    "facility_id_b": "260010",
+    "description": "Esamir - BL-4 Recovery Point to Terran BL-4 Crash Site"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400134",
+    "facility_id_b": "237000",
+    "description": "Esamir - Tapp Waystation to The Traverse"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400134",
+    "facility_id_b": "239000",
+    "description": "Esamir - Tapp Waystation to Pale Canyon Chemical"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400135",
+    "facility_id_b": "244610",
+    "description": "Esamir - Untapped Reservoir to Rime Analytics"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400135",
+    "facility_id_b": "246000",
+    "description": "Esamir - Untapped Reservoir to Mattherson's Triumph"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400314",
+    "facility_id_b": "239000",
+    "description": "Esamir - Baldur to Pale Canyon Chemical"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400314",
+    "facility_id_b": "244300",
+    "description": "Esamir - Baldur to Frostbite Harbor"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400314",
+    "facility_id_b": "249000",
+    "description": "Esamir - Baldur to Waterson's Redemption"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400315",
+    "facility_id_b": "236000",
+    "description": "Esamir - Vidar Observation Site to Grey Heron Shipping"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400317",
+    "facility_id_b": "244100",
+    "description": "Esamir - Jord to Echo Valley Substation"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400317",
+    "facility_id_b": "400133",
+    "description": "Esamir - Jord to BL-4 Recovery Point"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400326",
+    "facility_id_b": "251010",
+    "description": "Esamir - Andvari Containment Site to Andvari Barracks"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400326",
+    "facility_id_b": "251030",
+    "description": "Esamir - Andvari Containment Site to Andvari South Bank"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400326",
+    "facility_id_b": "400134",
+    "description": "Esamir - Andvari Containment Site to Tapp Waystation"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400327",
+    "facility_id_b": "243000",
+    "description": "Esamir - Ymir Containment Site to Elli Forest Pass"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400327",
+    "facility_id_b": "257000",
+    "description": "Esamir - Ymir Containment Site to Ymir"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400327",
+    "facility_id_b": "260010",
+    "description": "Esamir - Ymir Containment Site to Terran BL-4 Crash Site"
+  },
+  {
+    "zone_id": "8",
+    "facility_id_a": "400328",
+    "facility_id_b": "400317",
+    "description": "Esamir - Spral Oasis to Jord"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "204000",
+    "facility_id_b": "204001",
+    "description": "Amerish - Kwahtee to Kwahtee West Pass"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "204000",
+    "facility_id_b": "204002",
+    "description": "Amerish - Kwahtee to Kwahtee Fortress"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "204000",
+    "facility_id_b": "204003",
+    "description": "Amerish - Kwahtee to Kwahtee Mountain Complex"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "205000",
+    "facility_id_b": "205001",
+    "description": "Amerish - Ikanam to Ikanam Motor Pool"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "205000",
+    "facility_id_b": "205002",
+    "description": "Amerish - Ikanam to Ikanam Garrison"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "205000",
+    "facility_id_b": "205003",
+    "description": "Amerish - Ikanam to Ikanam Triage Station"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "205002",
+    "facility_id_b": "222320",
+    "description": "Amerish - Ikanam Garrison to The Auger"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "206000",
+    "facility_id_b": "206001",
+    "description": "Amerish - Heyoka to Heyoka Armory"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "206000",
+    "facility_id_b": "206002",
+    "description": "Amerish - Heyoka to Heyoka Chemical Lab"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "207000",
+    "facility_id_b": "207001",
+    "description": "Amerish - Sungrey to Sungrey West Gate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "207000",
+    "facility_id_b": "207002",
+    "description": "Amerish - Sungrey to Sungrey Power Hub"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "207000",
+    "facility_id_b": "207003",
+    "description": "Amerish - Sungrey to Sungrey Overwatch"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "208000",
+    "facility_id_b": "208001",
+    "description": "Amerish - Mekala to Mekala Cart Mining"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "208000",
+    "facility_id_b": "208002",
+    "description": "Amerish - Mekala to Mekala's Auxiliary Compound"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "209000",
+    "facility_id_b": "209001",
+    "description": "Amerish - Onatha to Onatha North Gate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "209000",
+    "facility_id_b": "209002",
+    "description": "Amerish - Onatha to East Onatha Comm. Array"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "209000",
+    "facility_id_b": "209003",
+    "description": "Amerish - Onatha to Onatha Southwest Gate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "210000",
+    "facility_id_b": "210001",
+    "description": "Amerish - Wokuk to Wokuk Ecological Preserve"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "210000",
+    "facility_id_b": "210002",
+    "description": "Amerish - Wokuk to Wokuk Shipping Dock"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "210000",
+    "facility_id_b": "210003",
+    "description": "Amerish - Wokuk to Wokuk Watchtower"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "211000",
+    "facility_id_b": "211001",
+    "description": "Amerish - Tumas to Tumas Skylance Battery"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "211000",
+    "facility_id_b": "211002",
+    "description": "Amerish - Tumas to Tumas Cargo Facility"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "212000",
+    "facility_id_b": "212001",
+    "description": "Amerish - Xelas to Xelas West Air Dock"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "212000",
+    "facility_id_b": "212002",
+    "description": "Amerish - Xelas to Xelas North Gate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "212000",
+    "facility_id_b": "212003",
+    "description": "Amerish - Xelas to Xelas South Bridge"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "213000",
+    "facility_id_b": "205001",
+    "description": "Amerish - LithCorp Secure Mine to Ikanam Motor Pool"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "214000",
+    "facility_id_b": "207001",
+    "description": "Amerish - The NC Arsenal to Sungrey West Gate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "214000",
+    "facility_id_b": "222060",
+    "description": "Amerish - The NC Arsenal to AuraxiCom Network Hub"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "214000",
+    "facility_id_b": "222320",
+    "description": "Amerish - The NC Arsenal to The Auger"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "215000",
+    "facility_id_b": "209001",
+    "description": "Amerish - Crux Mining Operation to Onatha North Gate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "216000",
+    "facility_id_b": "208001",
+    "description": "Amerish - Crux Headquarters to Mekala Cart Mining"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "217000",
+    "facility_id_b": "222060",
+    "description": "Amerish - The Bastion to AuraxiCom Network Hub"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "217000",
+    "facility_id_b": "222350",
+    "description": "Amerish - The Bastion to LithCorp Central"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "218000",
+    "facility_id_b": "211002",
+    "description": "Amerish - Auraxis Firearms Corp. to Tumas Cargo Facility"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "219000",
+    "facility_id_b": "212001",
+    "description": "Amerish - Splitpeak Pass to Xelas West Air Dock"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "219000",
+    "facility_id_b": "222160",
+    "description": "Amerish - Splitpeak Pass to East Hills Checkpoint"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "219000",
+    "facility_id_b": "222190",
+    "description": "Amerish - Splitpeak Pass to AuraxiCom Substation"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "220000",
+    "facility_id_b": "210002",
+    "description": "Amerish - West Pass Watchtower to Wokuk Shipping Dock"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "220000",
+    "facility_id_b": "222180",
+    "description": "Amerish - West Pass Watchtower to Chimney Rock Depot"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "220000",
+    "facility_id_b": "400129",
+    "description": "Amerish - West Pass Watchtower to Cobalt Geological Outpost"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "221000",
+    "facility_id_b": "212003",
+    "description": "Amerish - Granite Valley Garrison to Xelas South Bridge"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "221000",
+    "facility_id_b": "222250",
+    "description": "Amerish - Granite Valley Garrison to The Auraxian Cryobank"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222000",
+    "facility_id_b": "200000",
+    "description": "Amerish - Stoneridge Reserve to Amerish Western Warpgate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222000",
+    "facility_id_b": "213000",
+    "description": "Amerish - Stoneridge Reserve to LithCorp Secure Mine"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222010",
+    "facility_id_b": "222300",
+    "description": "Amerish - North Grove Post to LithCorp Fortress"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222010",
+    "facility_id_b": "222310",
+    "description": "Amerish - North Grove Post to Moss Ravine"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222020",
+    "facility_id_b": "201000",
+    "description": "Amerish - Jagged Lance Mine to Amerish Eastern Warpgate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222020",
+    "facility_id_b": "222030",
+    "description": "Amerish - Jagged Lance Mine to Hidden Ridge Mining"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222020",
+    "facility_id_b": "260004",
+    "description": "Amerish - Jagged Lance Mine to Amerish ARX Reserve"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222030",
+    "facility_id_b": "207003",
+    "description": "Amerish - Hidden Ridge Mining to Sungrey Overwatch"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222040",
+    "facility_id_b": "200000",
+    "description": "Amerish - SolTech Charging Station to Amerish Western Warpgate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222040",
+    "facility_id_b": "222050",
+    "description": "Amerish - SolTech Charging Station to Deserted Mineshaft"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222040",
+    "facility_id_b": "222290",
+    "description": "Amerish - SolTech Charging Station to SolTech Gorge"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222050",
+    "facility_id_b": "200000",
+    "description": "Amerish - Deserted Mineshaft to Amerish Western Warpgate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222050",
+    "facility_id_b": "222000",
+    "description": "Amerish - Deserted Mineshaft to Stoneridge Reserve"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222050",
+    "facility_id_b": "222100",
+    "description": "Amerish - Deserted Mineshaft to West Foothills Airdock"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222060",
+    "facility_id_b": "216000",
+    "description": "Amerish - AuraxiCom Network Hub to Crux Headquarters"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222080",
+    "facility_id_b": "204003",
+    "description": "Amerish - Genudine Physics Lab to Kwahtee Mountain Complex"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222080",
+    "facility_id_b": "222330",
+    "description": "Amerish - Genudine Physics Lab to Shrouded Skyway"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222090",
+    "facility_id_b": "204002",
+    "description": "Amerish - Cobalt Communications to Kwahtee Fortress"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222090",
+    "facility_id_b": "400129",
+    "description": "Amerish - Cobalt Communications to Cobalt Geological Outpost"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222100",
+    "facility_id_b": "217000",
+    "description": "Amerish - West Foothills Airdock to The Bastion"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222110",
+    "facility_id_b": "206001",
+    "description": "Amerish - DeepCore Geolab to Heyoka Armory"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222110",
+    "facility_id_b": "217000",
+    "description": "Amerish - DeepCore Geolab to The Bastion"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222120",
+    "facility_id_b": "216000",
+    "description": "Amerish - Blackshard Tungsten Mine to Crux Headquarters"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222130",
+    "facility_id_b": "201000",
+    "description": "Amerish - Shadespire Farms to Amerish Eastern Warpgate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222130",
+    "facility_id_b": "215000",
+    "description": "Amerish - Shadespire Farms to Crux Mining Operation"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222150",
+    "facility_id_b": "216000",
+    "description": "Amerish - Rockslide Outlook to Crux Headquarters"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222150",
+    "facility_id_b": "222280",
+    "description": "Amerish - Rockslide Outlook to The Ascent"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222150",
+    "facility_id_b": "222350",
+    "description": "Amerish - Rockslide Outlook to LithCorp Central"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222160",
+    "facility_id_b": "209003",
+    "description": "Amerish - East Hills Checkpoint to Onatha Southwest Gate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222170",
+    "facility_id_b": "222360",
+    "description": "Amerish - Silver Valley Arsenal to Eastshore Training Camp"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222180",
+    "facility_id_b": "206002",
+    "description": "Amerish - Chimney Rock Depot to Heyoka Chemical Lab"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222180",
+    "facility_id_b": "211001",
+    "description": "Amerish - Chimney Rock Depot to Tumas Skylance Battery"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222190",
+    "facility_id_b": "208002",
+    "description": "Amerish - AuraxiCom Substation to Mekala's Auxiliary Compound"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222190",
+    "facility_id_b": "218000",
+    "description": "Amerish - AuraxiCom Substation to Auraxis Firearms Corp."
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222220",
+    "facility_id_b": "210003",
+    "description": "Amerish - Torremar Storage Yard to Wokuk Watchtower"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222220",
+    "facility_id_b": "222240",
+    "description": "Amerish - Torremar Storage Yard to Aramax Chemical Co."
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222230",
+    "facility_id_b": "218000",
+    "description": "Amerish - Highroads Station to Auraxis Firearms Corp."
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222230",
+    "facility_id_b": "222380",
+    "description": "Amerish - Highroads Station to Barrik Electrical Station"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222240",
+    "facility_id_b": "203000",
+    "description": "Amerish - Aramax Chemical Co. to Amerish Southern Warpgate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222240",
+    "facility_id_b": "222380",
+    "description": "Amerish - Aramax Chemical Co. to Barrik Electrical Station"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222250",
+    "facility_id_b": "203000",
+    "description": "Amerish - The Auraxian Cryobank to Amerish Southern Warpgate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222270",
+    "facility_id_b": "218000",
+    "description": "Amerish - Raven Landing to Auraxis Firearms Corp."
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222270",
+    "facility_id_b": "222280",
+    "description": "Amerish - Raven Landing to The Ascent"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222270",
+    "facility_id_b": "222350",
+    "description": "Amerish - Raven Landing to LithCorp Central"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222290",
+    "facility_id_b": "204001",
+    "description": "Amerish - SolTech Gorge to Kwahtee West Pass"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222300",
+    "facility_id_b": "205002",
+    "description": "Amerish - LithCorp Fortress to Ikanam Garrison"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222310",
+    "facility_id_b": "207002",
+    "description": "Amerish - Moss Ravine to Sungrey Power Hub"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222320",
+    "facility_id_b": "205003",
+    "description": "Amerish - The Auger to Ikanam Triage Station"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222330",
+    "facility_id_b": "222340",
+    "description": "Amerish - Shrouded Skyway to The Scarfield Reliquary"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222340",
+    "facility_id_b": "210001",
+    "description": "Amerish - The Scarfield Reliquary to Wokuk Ecological Preserve"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222340",
+    "facility_id_b": "400129",
+    "description": "Amerish - The Scarfield Reliquary to Cobalt Geological Outpost"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222350",
+    "facility_id_b": "222280",
+    "description": "Amerish - LithCorp Central to The Ascent"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222360",
+    "facility_id_b": "209002",
+    "description": "Amerish - Eastshore Training Camp to East Onatha Comm. Array"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222380",
+    "facility_id_b": "203000",
+    "description": "Amerish - Barrik Electrical Station to Amerish Southern Warpgate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "222380",
+    "facility_id_b": "222250",
+    "description": "Amerish - Barrik Electrical Station to The Auraxian Cryobank"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "260004",
+    "facility_id_b": "201000",
+    "description": "Amerish - Amerish ARX Reserve to Amerish Eastern Warpgate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "260004",
+    "facility_id_b": "222120",
+    "description": "Amerish - Amerish ARX Reserve to Blackshard Tungsten Mine"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "260004",
+    "facility_id_b": "222130",
+    "description": "Amerish - Amerish ARX Reserve to Shadespire Farms"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "400128",
+    "facility_id_b": "212002",
+    "description": "Amerish - Solus Nature Annex to Xelas North Gate"
+  },
+  {
+    "zone_id": "6",
+    "facility_id_a": "400128",
+    "facility_id_b": "222170",
+    "description": "Amerish - Solus Nature Annex to Silver Valley Arsenal"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "261000",
+    "facility_id_b": "262000",
+    "description": "Hossin - Sharpe's Run to Edgewater Overlook"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "261000",
+    "facility_id_b": "289000",
+    "description": "Hossin - Sharpe's Run to Genudine Holographics"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "261000",
+    "facility_id_b": "308000",
+    "description": "Hossin - Sharpe's Run to Hossin Western Warpgate"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "262000",
+    "facility_id_b": "287070",
+    "description": "Hossin - Edgewater Overlook to Fort Liberty"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "262000",
+    "facility_id_b": "308000",
+    "description": "Hossin - Edgewater Overlook to Hossin Western Warpgate"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "263000",
+    "facility_id_b": "262000",
+    "description": "Hossin - Last Hold to Edgewater Overlook"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "263000",
+    "facility_id_b": "299030",
+    "description": "Hossin - Last Hold to Naum Forward Barracks"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "263000",
+    "facility_id_b": "308000",
+    "description": "Hossin - Last Hold to Hossin Western Warpgate"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "264000",
+    "facility_id_b": "274000",
+    "description": "Hossin - Wainwright Armory to Iron Quay"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "264000",
+    "facility_id_b": "287070",
+    "description": "Hossin - Wainwright Armory to Fort Liberty"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "264000",
+    "facility_id_b": "287080",
+    "description": "Hossin - Wainwright Armory to Construction Site Epsilon"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "265000",
+    "facility_id_b": "266000",
+    "description": "Hossin - The Offal Pit to Kessel's Crossing"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "265000",
+    "facility_id_b": "287020",
+    "description": "Hossin - The Offal Pit to Construction Site Beta"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "265000",
+    "facility_id_b": "299010",
+    "description": "Hossin - The Offal Pit to Naum Ravine Overpass"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "266000",
+    "facility_id_b": "307010",
+    "description": "Hossin - Kessel's Crossing to Chac Fusion Lab"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "267000",
+    "facility_id_b": "295000",
+    "description": "Hossin - Hossin BioChem, Inc. to Matsuda Genetics"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "267000",
+    "facility_id_b": "307020",
+    "description": "Hossin - Hossin BioChem, Inc. to Chac Water Purification"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "268000",
+    "facility_id_b": "269000",
+    "description": "Hossin - VEX BioLogics to Bunker J993"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "268000",
+    "facility_id_b": "287030",
+    "description": "Hossin - VEX BioLogics to Construction Site Gamma"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "268000",
+    "facility_id_b": "296000",
+    "description": "Hossin - VEX BioLogics to Hayd Skydock"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "269000",
+    "facility_id_b": "287090",
+    "description": "Hossin - Bunker J993 to Mossridge Command Center"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "269000",
+    "facility_id_b": "287100",
+    "description": "Hossin - Bunker J993 to Construction Site Omega"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "270000",
+    "facility_id_b": "272000",
+    "description": "Hossin - Fallbridge Chemical to Bridgewater Shipping Yard"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "270000",
+    "facility_id_b": "287100",
+    "description": "Hossin - Fallbridge Chemical to Construction Site Omega"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "270000",
+    "facility_id_b": "309000",
+    "description": "Hossin - Fallbridge Chemical to Hossin Eastern Warpgate"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "271000",
+    "facility_id_b": "270000",
+    "description": "Hossin - Halcyon Watch to Fallbridge Chemical"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "271000",
+    "facility_id_b": "295000",
+    "description": "Hossin - Halcyon Watch to Matsuda Genetics"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "271000",
+    "facility_id_b": "309000",
+    "description": "Hossin - Halcyon Watch to Hossin Eastern Warpgate"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "272000",
+    "facility_id_b": "309000",
+    "description": "Hossin - Bridgewater Shipping Yard to Hossin Eastern Warpgate"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "273000",
+    "facility_id_b": "289000",
+    "description": "Hossin - OMR Terraforming to Genudine Holographics"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "274000",
+    "facility_id_b": "287010",
+    "description": "Hossin - Iron Quay to Construction Site Alpha"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "274000",
+    "facility_id_b": "290000",
+    "description": "Hossin - Iron Quay to Fort Drexler"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "275000",
+    "facility_id_b": "287080",
+    "description": "Hossin - Broken Vale Garrison to Construction Site Epsilon"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "275000",
+    "facility_id_b": "298000",
+    "description": "Hossin - Broken Vale Garrison to Nason's Defiance"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "275000",
+    "facility_id_b": "302030",
+    "description": "Hossin - Broken Vale Garrison to Acan Southern Labs"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "276000",
+    "facility_id_b": "287090",
+    "description": "Hossin - Woodman ASE Labs to Mossridge Command Center"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "276000",
+    "facility_id_b": "298000",
+    "description": "Hossin - Woodman ASE Labs to Nason's Defiance"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "276000",
+    "facility_id_b": "301010",
+    "description": "Hossin - Woodman ASE Labs to Ixtab Power Regulation"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "276000",
+    "facility_id_b": "302030",
+    "description": "Hossin - Woodman ASE Labs to Acan Southern Labs"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "277000",
+    "facility_id_b": "278000",
+    "description": "Hossin - Johari Cove to Roothouse Distillery"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "278000",
+    "facility_id_b": "287040",
+    "description": "Hossin - Roothouse Distillery to Takkon Storage"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "278000",
+    "facility_id_b": "303010",
+    "description": "Hossin - Roothouse Distillery to Bitol Stockpile"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "279000",
+    "facility_id_b": "281000",
+    "description": "Hossin - Hunter's Blind to SRP Hydroponics, Inc."
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "279000",
+    "facility_id_b": "287110",
+    "description": "Hossin - Hunter's Blind to Outpost Lambda"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "279000",
+    "facility_id_b": "287120",
+    "description": "Hossin - Hunter's Blind to Construction Site Sigma"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "280000",
+    "facility_id_b": "287110",
+    "description": "Hossin - Gourney Dam to Outpost Lambda"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "280000",
+    "facility_id_b": "298000",
+    "description": "Hossin - Gourney Dam to Nason's Defiance"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "280000",
+    "facility_id_b": "301010",
+    "description": "Hossin - Gourney Dam to Ixtab Power Regulation"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "281000",
+    "facility_id_b": "287050",
+    "description": "Hossin - SRP Hydroponics, Inc. to Construction Site Zeta"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "281000",
+    "facility_id_b": "293000",
+    "description": "Hossin - SRP Hydroponics, Inc. to Genesis Terraforming Plant"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "282000",
+    "facility_id_b": "283000",
+    "description": "Hossin - The Ziggurat to Nettlemire Gardens"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "282000",
+    "facility_id_b": "287060",
+    "description": "Hossin - The Ziggurat to Eastern Substation"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "283000",
+    "facility_id_b": "306020",
+    "description": "Hossin - Nettlemire Gardens to Mulac Foundry"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "284000",
+    "facility_id_b": "285000",
+    "description": "Hossin - Whispering Pass to SRP Nanite Relay Station"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "284000",
+    "facility_id_b": "303030",
+    "description": "Hossin - Whispering Pass to Bitol Eastern Depot"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "284000",
+    "facility_id_b": "310000",
+    "description": "Hossin - Whispering Pass to Hossin Southern Warpgate"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "285000",
+    "facility_id_b": "287120",
+    "description": "Hossin - SRP Nanite Relay Station to Construction Site Sigma"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "285000",
+    "facility_id_b": "310000",
+    "description": "Hossin - SRP Nanite Relay Station to Hossin Southern Warpgate"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "286000",
+    "facility_id_b": "285000",
+    "description": "Hossin - Four Fingers to SRP Nanite Relay Station"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "286000",
+    "facility_id_b": "292000",
+    "description": "Hossin - Four Fingers to Southgate Checkpoint"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "286000",
+    "facility_id_b": "310000",
+    "description": "Hossin - Four Fingers to Hossin Southern Warpgate"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "287000",
+    "facility_id_b": "292000",
+    "description": "Hossin - Kestral Watch to Southgate Checkpoint"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "287000",
+    "facility_id_b": "306030",
+    "description": "Hossin - Kestral Watch to Mulac Purification Site"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "289000",
+    "facility_id_b": "287010",
+    "description": "Hossin - Genudine Holographics to Construction Site Alpha"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "290000",
+    "facility_id_b": "287040",
+    "description": "Hossin - Fort Drexler to Takkon Storage"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "291000",
+    "facility_id_b": "287040",
+    "description": "Hossin - Cairn Station to Takkon Storage"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "291000",
+    "facility_id_b": "287110",
+    "description": "Hossin - Cairn Station to Outpost Lambda"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "292000",
+    "facility_id_b": "287050",
+    "description": "Hossin - Southgate Checkpoint to Construction Site Zeta"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "293000",
+    "facility_id_b": "287060",
+    "description": "Hossin - Genesis Terraforming Plant to Eastern Substation"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "293000",
+    "facility_id_b": "301030",
+    "description": "Hossin - Genesis Terraforming Plant to Ixtab Southern Pass"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "293000",
+    "facility_id_b": "306010",
+    "description": "Hossin - Genesis Terraforming Plant to Mulac Pass"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "294000",
+    "facility_id_b": "287060",
+    "description": "Hossin - Bravata PMC Compound to Eastern Substation"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "294000",
+    "facility_id_b": "287090",
+    "description": "Hossin - Bravata PMC Compound to Mossridge Command Center"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "294000",
+    "facility_id_b": "301020",
+    "description": "Hossin - Bravata PMC Compound to Ixtab Water Purification"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "295000",
+    "facility_id_b": "287030",
+    "description": "Hossin - Matsuda Genetics to Construction Site Gamma"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "296000",
+    "facility_id_b": "287020",
+    "description": "Hossin - Hayd Skydock to Construction Site Beta"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "296000",
+    "facility_id_b": "302010",
+    "description": "Hossin - Hayd Skydock to East Acan Storage Depot"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "296000",
+    "facility_id_b": "307030",
+    "description": "Hossin - Hayd Skydock to Chac Intel Hub"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "297000",
+    "facility_id_b": "287020",
+    "description": "Hossin - Hatcher Airstation to Construction Site Beta"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "297000",
+    "facility_id_b": "287080",
+    "description": "Hossin - Hatcher Airstation to Construction Site Epsilon"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "297000",
+    "facility_id_b": "299020",
+    "description": "Hossin - Hatcher Airstation to Naum Marsh Compound"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "297000",
+    "facility_id_b": "302020",
+    "description": "Hossin - Hatcher Airstation to Acan Data Hub"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "299000",
+    "facility_id_b": "299020",
+    "description": "Hossin - Naum to Naum Marsh Compound"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "299000",
+    "facility_id_b": "299030",
+    "description": "Hossin - Naum to Naum Forward Barracks"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "299010",
+    "facility_id_b": "299000",
+    "description": "Hossin - Naum Ravine Overpass to Naum"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "300010",
+    "facility_id_b": "275000",
+    "description": "Hossin - Hurakan Secure Storage to Broken Vale Garrison"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "300010",
+    "facility_id_b": "280000",
+    "description": "Hossin - Hurakan Secure Storage to Gourney Dam"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "300010",
+    "facility_id_b": "300000",
+    "description": "Hossin - Hurakan Secure Storage to Hurakan"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "300020",
+    "facility_id_b": "290000",
+    "description": "Hossin - Hurakan Western Pass to Fort Drexler"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "300020",
+    "facility_id_b": "300000",
+    "description": "Hossin - Hurakan Western Pass to Hurakan"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "300030",
+    "facility_id_b": "291000",
+    "description": "Hossin - Hurakan Southern Depot to Cairn Station"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "300030",
+    "facility_id_b": "300000",
+    "description": "Hossin - Hurakan Southern Depot to Hurakan"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "301000",
+    "facility_id_b": "301010",
+    "description": "Hossin - Ixtab to Ixtab Power Regulation"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "301000",
+    "facility_id_b": "301020",
+    "description": "Hossin - Ixtab to Ixtab Water Purification"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "301000",
+    "facility_id_b": "301030",
+    "description": "Hossin - Ixtab to Ixtab Southern Pass"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "302000",
+    "facility_id_b": "302010",
+    "description": "Hossin - Acan to East Acan Storage Depot"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "302000",
+    "facility_id_b": "302020",
+    "description": "Hossin - Acan to Acan Data Hub"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "302000",
+    "facility_id_b": "302030",
+    "description": "Hossin - Acan to Acan Southern Labs"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "302020",
+    "facility_id_b": "302010",
+    "description": "Hossin - Acan Data Hub to East Acan Storage Depot"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "303000",
+    "facility_id_b": "303010",
+    "description": "Hossin - Bitol to Bitol Stockpile"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "303000",
+    "facility_id_b": "303020",
+    "description": "Hossin - Bitol to Bitol Northern Outpost"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "303000",
+    "facility_id_b": "303030",
+    "description": "Hossin - Bitol to Bitol Eastern Depot"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "303020",
+    "facility_id_b": "291000",
+    "description": "Hossin - Bitol Northern Outpost to Cairn Station"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "303020",
+    "facility_id_b": "303030",
+    "description": "Hossin - Bitol Northern Outpost to Bitol Eastern Depot"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "304010",
+    "facility_id_b": "272000",
+    "description": "Hossin - Zotz North Garden to Bridgewater Shipping Yard"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "304010",
+    "facility_id_b": "304000",
+    "description": "Hossin - Zotz North Garden to Zotz"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "304010",
+    "facility_id_b": "304020",
+    "description": "Hossin - Zotz North Garden to Zotz Arboretum"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "304020",
+    "facility_id_b": "294000",
+    "description": "Hossin - Zotz Arboretum to Bravata PMC Compound"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "304020",
+    "facility_id_b": "304000",
+    "description": "Hossin - Zotz Arboretum to Zotz"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "304030",
+    "facility_id_b": "282000",
+    "description": "Hossin - Zotz Agriculture Lab to The Ziggurat"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "304030",
+    "facility_id_b": "304000",
+    "description": "Hossin - Zotz Agriculture Lab to Zotz"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "305010",
+    "facility_id_b": "277000",
+    "description": "Hossin - Ghanan Southern Crossing to Johari Cove"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "305010",
+    "facility_id_b": "305000",
+    "description": "Hossin - Ghanan Southern Crossing to Ghanan"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "305020",
+    "facility_id_b": "273000",
+    "description": "Hossin - Ghanan Research Labs to OMR Terraforming"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "305020",
+    "facility_id_b": "305000",
+    "description": "Hossin - Ghanan Research Labs to Ghanan"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "305030",
+    "facility_id_b": "290000",
+    "description": "Hossin - Ghanan Eastern Gatehouse to Fort Drexler"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "305030",
+    "facility_id_b": "305000",
+    "description": "Hossin - Ghanan Eastern Gatehouse to Ghanan"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "306000",
+    "facility_id_b": "306010",
+    "description": "Hossin - Mulac to Mulac Pass"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "306000",
+    "facility_id_b": "306020",
+    "description": "Hossin - Mulac to Mulac Foundry"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "306000",
+    "facility_id_b": "306030",
+    "description": "Hossin - Mulac to Mulac Purification Site"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "307000",
+    "facility_id_b": "307010",
+    "description": "Hossin - Chac to Chac Fusion Lab"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "307000",
+    "facility_id_b": "307020",
+    "description": "Hossin - Chac to Chac Water Purification"
+  },
+  {
+    "zone_id": "4",
+    "facility_id_a": "307000",
+    "facility_id_b": "307030",
+    "description": "Hossin - Chac to Chac Intel Hub"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "201",
+    "facility_id_b": "5300",
+    "description": "Indar - Indar Waste Treatment to Camp Connery"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "203",
+    "facility_id_b": "204",
+    "description": "Indar - Saurva Overflow Depot to Helios Solar, Inc."
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "204",
+    "facility_id_b": "5100",
+    "description": "Indar - Helios Solar, Inc. to Indar Excavation Site"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "205",
+    "facility_id_b": "207",
+    "description": "Indar - Alkali Shipping to Benson Construction"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "205",
+    "facility_id_b": "3820",
+    "description": "Indar - Alkali Shipping to Saurva South Fortress"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "206",
+    "facility_id_b": "3210",
+    "description": "Indar - CoraMed Labs to Dahaka Uplink Hub"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "206",
+    "facility_id_b": "5100",
+    "description": "Indar - CoraMed Labs to Indar Excavation Site"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "207",
+    "facility_id_b": "3810",
+    "description": "Indar - Benson Construction to Saurva Data Storage"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "208",
+    "facility_id_b": "5300",
+    "description": "Indar - Alkali Mining Supply to Camp Connery"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "209",
+    "facility_id_b": "208",
+    "description": "Indar - Crater Firing Range to Alkali Mining Supply"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "209",
+    "facility_id_b": "210",
+    "description": "Indar - Crater Firing Range to Alkali Storage"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "211",
+    "facility_id_b": "4410",
+    "description": "Indar - Briggs Laboratories to Mao Southwest Gate"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "212",
+    "facility_id_b": "5500",
+    "description": "Indar - NS Refinery to Camp Waterson"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "213",
+    "facility_id_b": "224",
+    "description": "Indar - Howling Pass Checkpoint to NS Material Storage"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "213",
+    "facility_id_b": "4430",
+    "description": "Indar - Howling Pass Checkpoint to Mao Southeast Gate"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "213",
+    "facility_id_b": "400131",
+    "description": "Indar - Howling Pass Checkpoint to Sunken Relay Station"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "214",
+    "facility_id_b": "4020",
+    "description": "Indar - Indar Comm. Array to Allatum Broadcast Hub"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "215",
+    "facility_id_b": "214",
+    "description": "Indar - Quartz Ridge Camp to Indar Comm. Array"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "217",
+    "facility_id_b": "3230",
+    "description": "Indar - Seabed Listening Post to Dahaka Southern Post"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "219",
+    "facility_id_b": "217",
+    "description": "Indar - Ceres Hydroponics to Seabed Listening Post"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "219",
+    "facility_id_b": "218",
+    "description": "Indar - Ceres Hydroponics to Ti Alloys, Inc."
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "219",
+    "facility_id_b": "220",
+    "description": "Indar - Ceres Hydroponics to Galaxy Solar Plant"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "220",
+    "facility_id_b": "211",
+    "description": "Indar - Galaxy Solar Plant to Briggs Laboratories"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "221",
+    "facility_id_b": "211",
+    "description": "Indar - The Palisade to Briggs Laboratories"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "221",
+    "facility_id_b": "6200",
+    "description": "Indar - The Palisade to The Crown"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "224",
+    "facility_id_b": "3620",
+    "description": "Indar - NS Material Storage to Rashnu Watchtower"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "226",
+    "facility_id_b": "7530",
+    "description": "Indar - NS Secure Data Lab to Hvar Physics Lab"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "227",
+    "facility_id_b": "228",
+    "description": "Indar - Highlands Solar Station to Ayani Labs"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "228",
+    "facility_id_b": "252",
+    "description": "Indar - Ayani Labs to Ceres Farms"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "228",
+    "facility_id_b": "5800",
+    "description": "Indar - Ayani Labs to Vanu Archives"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "229",
+    "facility_id_b": "230",
+    "description": "Indar - Snake Ravine Lookout to XenoTech Labs"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "229",
+    "facility_id_b": "6100",
+    "description": "Indar - Snake Ravine Lookout to Crossroads Watchtower"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "230",
+    "facility_id_b": "5700",
+    "description": "Indar - XenoTech Labs to Regent Rock Garrison"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "230",
+    "facility_id_b": "400130",
+    "description": "Indar - XenoTech Labs to Berjess Overlook"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "232",
+    "facility_id_b": "118010",
+    "description": "Indar - Gravel Pass to Zurvan Pump Station"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "235",
+    "facility_id_b": "5900",
+    "description": "Indar - Rust Mesa Lookout to Crimson Bluff Tower"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "236",
+    "facility_id_b": "235",
+    "description": "Indar - The Old Stockpile to Rust Mesa Lookout"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "236",
+    "facility_id_b": "6400",
+    "description": "Indar - The Old Stockpile to Feldspar Canyon Base"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "237",
+    "facility_id_b": "252",
+    "description": "Indar - Ceres Biotech to Ceres Farms"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "239",
+    "facility_id_b": "237",
+    "description": "Indar - Highlands Substation to Ceres Biotech"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "242",
+    "facility_id_b": "7030",
+    "description": "Indar - Scarred Mesa Skydock to Tawrich Recycling"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "242",
+    "facility_id_b": "400130",
+    "description": "Indar - Scarred Mesa Skydock to Berjess Overlook"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "246",
+    "facility_id_b": "247",
+    "description": "Indar - Copper Ravine Station to Old Auraxium Mines"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "246",
+    "facility_id_b": "6300",
+    "description": "Indar - Copper Ravine Station to Arroyo Torre Station"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "247",
+    "facility_id_b": "248",
+    "description": "Indar - Old Auraxium Mines to Valley Storage Yard"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "248",
+    "facility_id_b": "3630",
+    "description": "Indar - Valley Storage Yard to Rashnu Southern Pass"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3201",
+    "facility_id_b": "3210",
+    "description": "Indar - Dahaka to Dahaka Uplink Hub"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3201",
+    "facility_id_b": "3220",
+    "description": "Indar - Dahaka to Dahaka Pump Station"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3201",
+    "facility_id_b": "3230",
+    "description": "Indar - Dahaka to Dahaka Southern Post"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3210",
+    "facility_id_b": "205",
+    "description": "Indar - Dahaka Uplink Hub to Alkali Shipping"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3220",
+    "facility_id_b": "5200",
+    "description": "Indar - Dahaka Pump Station to J908 Impact Site"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3230",
+    "facility_id_b": "214",
+    "description": "Indar - Dahaka Southern Post to Indar Comm. Array"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3230",
+    "facility_id_b": "3220",
+    "description": "Indar - Dahaka Southern Post to Dahaka Pump Station"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3400",
+    "facility_id_b": "3410",
+    "description": "Indar - Peris to Peris Barracks"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3400",
+    "facility_id_b": "3420",
+    "description": "Indar - Peris to Peris Field Tower"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3400",
+    "facility_id_b": "3430",
+    "description": "Indar - Peris to Peris Eastern Grove"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3410",
+    "facility_id_b": "239",
+    "description": "Indar - Peris Barracks to Highlands Substation"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3420",
+    "facility_id_b": "5800",
+    "description": "Indar - Peris Field Tower to Vanu Archives"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3601",
+    "facility_id_b": "3610",
+    "description": "Indar - Rashnu to Rashnu Cavern"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3601",
+    "facility_id_b": "3620",
+    "description": "Indar - Rashnu to Rashnu Watchtower"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3601",
+    "facility_id_b": "3630",
+    "description": "Indar - Rashnu to Rashnu Southern Pass"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3610",
+    "facility_id_b": "235",
+    "description": "Indar - Rashnu Cavern to Rust Mesa Lookout"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3610",
+    "facility_id_b": "3620",
+    "description": "Indar - Rashnu Cavern to Rashnu Watchtower"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3801",
+    "facility_id_b": "203",
+    "description": "Indar - Saurva to Saurva Overflow Depot"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3801",
+    "facility_id_b": "3810",
+    "description": "Indar - Saurva to Saurva Data Storage"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3801",
+    "facility_id_b": "3820",
+    "description": "Indar - Saurva to Saurva South Fortress"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "3810",
+    "facility_id_b": "203",
+    "description": "Indar - Saurva Data Storage to Saurva Overflow Depot"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4001",
+    "facility_id_b": "4010",
+    "description": "Indar - Allatum to Allatum Research Lab"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4001",
+    "facility_id_b": "4020",
+    "description": "Indar - Allatum to Allatum Broadcast Hub"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4001",
+    "facility_id_b": "4030",
+    "description": "Indar - Allatum to Allatum Botany Wing"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4010",
+    "facility_id_b": "226",
+    "description": "Indar - Allatum Research Lab to NS Secure Data Lab"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4010",
+    "facility_id_b": "4030",
+    "description": "Indar - Allatum Research Lab to Allatum Botany Wing"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4030",
+    "facility_id_b": "218",
+    "description": "Indar - Allatum Botany Wing to Ti Alloys, Inc."
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4030",
+    "facility_id_b": "229",
+    "description": "Indar - Allatum Botany Wing to Snake Ravine Lookout"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4401",
+    "facility_id_b": "4410",
+    "description": "Indar - Mao to Mao Southwest Gate"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4401",
+    "facility_id_b": "4420",
+    "description": "Indar - Mao to Mao Watchtower"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4401",
+    "facility_id_b": "4430",
+    "description": "Indar - Mao to Mao Southeast Gate"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4420",
+    "facility_id_b": "212",
+    "description": "Indar - Mao Watchtower to NS Refinery"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4420",
+    "facility_id_b": "400131",
+    "description": "Indar - Mao Watchtower to Sunken Relay Station"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4430",
+    "facility_id_b": "4420",
+    "description": "Indar - Mao Southeast Gate to Mao Watchtower"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4801",
+    "facility_id_b": "246",
+    "description": "Indar - Indar Eastern Warpgate to Copper Ravine Station"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4801",
+    "facility_id_b": "247",
+    "description": "Indar - Indar Eastern Warpgate to Old Auraxium Mines"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "4801",
+    "facility_id_b": "248",
+    "description": "Indar - Indar Eastern Warpgate to Valley Storage Yard"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "5200",
+    "facility_id_b": "209",
+    "description": "Indar - J908 Impact Site to Crater Firing Range"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "5200",
+    "facility_id_b": "219",
+    "description": "Indar - J908 Impact Site to Ceres Hydroponics"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "5200",
+    "facility_id_b": "220",
+    "description": "Indar - J908 Impact Site to Galaxy Solar Plant"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "5300",
+    "facility_id_b": "207",
+    "description": "Indar - Camp Connery to Benson Construction"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "5500",
+    "facility_id_b": "210",
+    "description": "Indar - Camp Waterson to Alkali Storage"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "5700",
+    "facility_id_b": "3430",
+    "description": "Indar - Regent Rock Garrison to Peris Eastern Grove"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "5800",
+    "facility_id_b": "229",
+    "description": "Indar - Vanu Archives to Snake Ravine Lookout"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "5900",
+    "facility_id_b": "221",
+    "description": "Indar - Crimson Bluff Tower to The Palisade"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "5900",
+    "facility_id_b": "224",
+    "description": "Indar - Crimson Bluff Tower to NS Material Storage"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "5900",
+    "facility_id_b": "118020",
+    "description": "Indar - Crimson Bluff Tower to Zurvan Storage Yard"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "6000",
+    "facility_id_b": "227",
+    "description": "Indar - Indar Bay Point to Highlands Solar Station"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "6000",
+    "facility_id_b": "252",
+    "description": "Indar - Indar Bay Point to Ceres Farms"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "6100",
+    "facility_id_b": "230",
+    "description": "Indar - Crossroads Watchtower to XenoTech Labs"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "6100",
+    "facility_id_b": "7010",
+    "description": "Indar - Crossroads Watchtower to Tawrich Depot"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "6200",
+    "facility_id_b": "218",
+    "description": "Indar - The Crown to Ti Alloys, Inc."
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "6200",
+    "facility_id_b": "219",
+    "description": "Indar - The Crown to Ceres Hydroponics"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "6200",
+    "facility_id_b": "6100",
+    "description": "Indar - The Crown to Crossroads Watchtower"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "6200",
+    "facility_id_b": "118010",
+    "description": "Indar - The Crown to Zurvan Pump Station"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "6300",
+    "facility_id_b": "7030",
+    "description": "Indar - Arroyo Torre Station to Tawrich Recycling"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "6400",
+    "facility_id_b": "247",
+    "description": "Indar - Feldspar Canyon Base to Old Auraxium Mines"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "6400",
+    "facility_id_b": "6500",
+    "description": "Indar - Feldspar Canyon Base to The Stronghold"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "6500",
+    "facility_id_b": "7020",
+    "description": "Indar - The Stronghold to Tawrich Tower"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "7000",
+    "facility_id_b": "7010",
+    "description": "Indar - Tawrich to Tawrich Depot"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "7000",
+    "facility_id_b": "7020",
+    "description": "Indar - Tawrich to Tawrich Tower"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "7000",
+    "facility_id_b": "7030",
+    "description": "Indar - Tawrich to Tawrich Recycling"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "7020",
+    "facility_id_b": "232",
+    "description": "Indar - Tawrich Tower to Gravel Pass"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "7020",
+    "facility_id_b": "7010",
+    "description": "Indar - Tawrich Tower to Tawrich Depot"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "7500",
+    "facility_id_b": "7510",
+    "description": "Indar - Hvar to Hvar Western Post"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "7500",
+    "facility_id_b": "7520",
+    "description": "Indar - Hvar to Hvar Databank"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "7500",
+    "facility_id_b": "7530",
+    "description": "Indar - Hvar to Hvar Physics Lab"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "7510",
+    "facility_id_b": "6000",
+    "description": "Indar - Hvar Western Post to Indar Bay Point"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "7520",
+    "facility_id_b": "215",
+    "description": "Indar - Hvar Databank to Quartz Ridge Camp"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "7520",
+    "facility_id_b": "7530",
+    "description": "Indar - Hvar Databank to Hvar Physics Lab"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "7801",
+    "facility_id_b": "201",
+    "description": "Indar - Indar Northern Warpgate to Indar Waste Treatment"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "7801",
+    "facility_id_b": "209",
+    "description": "Indar - Indar Northern Warpgate to Crater Firing Range"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "7801",
+    "facility_id_b": "210",
+    "description": "Indar - Indar Northern Warpgate to Alkali Storage"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "118000",
+    "facility_id_b": "118010",
+    "description": "Indar - Zurvan to Zurvan Pump Station"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "118000",
+    "facility_id_b": "118020",
+    "description": "Indar - Zurvan to Zurvan Storage Yard"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "118000",
+    "facility_id_b": "118030",
+    "description": "Indar - Zurvan to Zurvan Network Complex"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "118030",
+    "facility_id_b": "236",
+    "description": "Indar - Zurvan Network Complex to The Old Stockpile"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "120000",
+    "facility_id_b": "237",
+    "description": "Indar - Indar Western Warpgate to Ceres Biotech"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "120000",
+    "facility_id_b": "252",
+    "description": "Indar - Indar Western Warpgate to Ceres Farms"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "120000",
+    "facility_id_b": "6000",
+    "description": "Indar - Indar Western Warpgate to Indar Bay Point"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "400130",
+    "facility_id_b": "5700",
+    "description": "Indar - Berjess Overlook to Regent Rock Garrison"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "400132",
+    "facility_id_b": "215",
+    "description": "Indar - Lowland Trading Post to Quartz Ridge Camp"
+  },
+  {
+    "zone_id": "2",
+    "facility_id_a": "400132",
+    "facility_id_b": "5100",
+    "description": "Indar - Lowland Trading Post to Indar Excavation Site"
+  },
+  {
     "zone_id": "364",
     "facility_id_a": "400319",
     "facility_id_b": "400321",
@@ -3280,23 +3220,5 @@
     "facility_id_a": "400322",
     "facility_id_b": "400324",
     "description": "Tutorial2 - Substation Coral to Training Amp Station"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "229",
-    "facility_id_b": "230",
-    "description": "Indar - Snake Ravine Lookout to XenoTech Labs"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "3230",
-    "facility_id_b": "3220",
-    "description": "Indar - Dahaka Southern Post to Dahaka Pump Station"
-  },
-  {
-    "zone_id": "2",
-    "facility_id_a": "5200",
-    "facility_id_b": "219",
-    "description": "Indar - J908 Impact Site to Ceres Hydroponics"
   }
 ]
