@@ -59539,8 +59539,8 @@
     "image_set_id": "803392",
     "image_id": "86326",
     "description": "icon_vehicleClass_sunderer_deployedRepair_tintable",
-    "type_id": "6",
-    "type_description": "Medium (64 pixel height)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/86326.png"
   },
   {
@@ -77329,11 +77329,11 @@
   },
   {
     "image_set_id": "807048",
-    "image_id": "94549",
+    "image_id": "94550",
     "description": "icon_Profile_Background_ChineseNewYear_Tiger_2022",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/94549.png"
+    "image_path": "/files/ps2/images/static/94550.png"
   },
   {
     "image_set_id": "807049",
@@ -81134,5 +81134,141 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/95898.png"
+  },
+  {
+    "image_set_id": "807538",
+    "image_id": "95901",
+    "description": "icon_vehicleItem_Afterburner_ColdFire",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95901.png"
+  },
+  {
+    "image_set_id": "807539",
+    "image_id": "95904",
+    "description": "icon_Weapon_Common_AutoPistol001_ZodiacRabbit",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95904.png"
+  },
+  {
+    "image_set_id": "807540",
+    "image_id": "95910",
+    "description": "icon_Weapon_Common_Pistol_Attachments_Autopistol001_Zodiac_Compensator001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95910.png"
+  },
+  {
+    "image_set_id": "807541",
+    "image_id": "95913",
+    "description": "icon_Weapon_Common_Pistol_Attachments_Autopistol001_Zodiac_Flashlight001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95913.png"
+  },
+  {
+    "image_set_id": "807542",
+    "image_id": "95916",
+    "description": "icon_Weapon_Common_Pistol_Attachments_Autopistol001_Zodiac_FlashSuppressor001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95916.png"
+  },
+  {
+    "image_set_id": "807543",
+    "image_id": "95919",
+    "description": "icon_Weapon_Common_Pistol_Attachments_Autopistol001_Zodiac_LaserSight001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95919.png"
+  },
+  {
+    "image_set_id": "807544",
+    "image_id": "95922",
+    "description": "icon_Weapon_Common_Pistol_Attachments_Autopistol001_Zodiac_Reflex001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95922.png"
+  },
+  {
+    "image_set_id": "807545",
+    "image_id": "95925",
+    "description": "icon_Weapon_Common_Pistol_Attachments_Autopistol001_Zodiac_Reflex002",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95925.png"
+  },
+  {
+    "image_set_id": "807546",
+    "image_id": "95928",
+    "description": "icon_Weapon_Common_Pistol_Attachments_Autopistol001_Zodiac_Suppressor001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95928.png"
+  },
+  {
+    "image_set_id": "807547",
+    "image_id": "95931",
+    "description": "icon_bundle_ValentinesDay_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95931.png"
+  },
+  {
+    "image_set_id": "807548",
+    "image_id": "95934",
+    "description": "icon_Decal_ValentinesDay_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95934.png"
+  },
+  {
+    "image_set_id": "807549",
+    "image_id": "95938",
+    "description": "icon_Weapon_Common_Knife_Valentines001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95938.png"
+  },
+  {
+    "image_set_id": "807550",
+    "image_id": "95941",
+    "description": "icon_helmet_common_max_recon",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95941.png"
+  },
+  {
+    "image_set_id": "807551",
+    "image_id": "95944",
+    "description": "Icon_Helmet_NC_Male_Max_Recon",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95944.png"
+  },
+  {
+    "image_set_id": "807552",
+    "image_id": "95947",
+    "description": "Icon_Helmet_TR_Male_Max_Recon",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95947.png"
+  },
+  {
+    "image_set_id": "807553",
+    "image_id": "95950",
+    "description": "Icon_Helmet_VS_Male_Max_Recon",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95950.png"
+  },
+  {
+    "image_set_id": "807554",
+    "image_id": "95955",
+    "description": "icon_vehicleClass_galaxy_deployed_tintable",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95955.png"
   }
 ]

@@ -1287,7 +1287,7 @@
     "image_path": "/files/ps2/images/static/79633.png"
   },
   {
-    "directive_tree_id": "114",
+    "directive_tree_id": "118",
     "directive_tree_category_id": "8",
     "faction_ids": [
       "1",
@@ -1295,64 +1295,28 @@
       "3"
     ],
     "name": {
-      "de": "Täuschung",
-      "en": "Subterfuge",
-      "es": "Subterfugio",
-      "fr": "Subterfuge",
-      "it": "Sotterfugio",
+      "de": "NULL",
+      "en": "Valentine's Day 2023",
+      "es": "NULL",
+      "fr": "NULL",
+      "it": "NULL",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Обман",
+      "ru": "NULL",
       "tr": "NULL",
-      "zh": "伪装"
+      "zh": "NULL"
     },
     "description": {
-      "de": "Verfügbar bis 30. November",
-      "en": "Available through December 4",
-      "es": "Disponible hasta el 30 de noviembre",
-      "fr": "Disponible jusqu'au 30 novembre",
-      "it": "Disponibile fino al 30 novembre",
+      "de": "9. Feb. - 14. Feb.",
+      "en": "Feb. 8 - Feb. 14",
+      "es": "9 de feb. - 14 de feb.",
+      "fr": "9 fév. - 14 fév.",
+      "it": "9-14 febbraio",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Доступно до 30 ноября",
+      "ru": "С 9 по 14 февраля",
       "tr": "NULL",
-      "zh": "活动持续至11月30日"
-    },
-    "image_set_id": "0",
-    "image_id": "NULL",
-    "image_path": "NULL"
-  },
-  {
-    "directive_tree_id": "117",
-    "directive_tree_category_id": "8",
-    "faction_ids": [
-      "1",
-      "2",
-      "3"
-    ],
-    "name": {
-      "de": "Auraximas 2022",
-      "en": "Auraximas 2022",
-      "es": "Auraxidad 2022",
-      "fr": "Auraximas 2022",
-      "it": "Auraximas 2022",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Новый год 2022",
-      "tr": "NULL",
-      "zh": "2022年奥拉西斯圣诞"
-    },
-    "description": {
-      "de": "Verfügbar bis 1. Januar",
-      "en": "Available through January 1",
-      "es": "Disponible hasta el 1 de enero",
-      "fr": "Disponible jusqu'au 1 janvier",
-      "it": "Disponibile fino al 1° gennaio",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Доступно до 1 января",
-      "tr": "NULL",
-      "zh": "活动持续至1月1日"
+      "zh": "2月9日——2月14日"
     },
     "image_set_id": "0",
     "image_id": "NULL",
