@@ -21,8 +21,8 @@
     "location_x": "-388.2071",
     "location_y": "104.9659",
     "location_z": "179.0138",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18264",
@@ -46,8 +46,8 @@
     "location_x": "-77.77892",
     "location_y": "95.32577",
     "location_z": "-624.747",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18328",
@@ -96,8 +96,8 @@
     "location_x": "344.6868",
     "location_y": "141.1339",
     "location_z": "-44.9972",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18329",
@@ -121,8 +121,8 @@
     "location_x": "1753.768",
     "location_y": "63.11947",
     "location_z": "730.6242",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18266",
@@ -146,8 +146,8 @@
     "location_x": "-648.1004",
     "location_y": "85.29546",
     "location_z": "-1005.545",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18330",
@@ -171,8 +171,8 @@
     "location_x": "-641.0547",
     "location_y": "59.46105",
     "location_z": "1457.195",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18267",
@@ -196,8 +196,8 @@
     "location_x": "-542.6041",
     "location_y": "152.6555",
     "location_z": "-1496.091",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18331",
@@ -221,8 +221,8 @@
     "location_x": "-1684.616",
     "location_y": "59.28022",
     "location_z": "1491.646",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18268",
@@ -246,8 +246,8 @@
     "location_x": "-232.1133",
     "location_y": "105.8672",
     "location_z": "-1430.166",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18269",
@@ -271,8 +271,8 @@
     "location_x": "-1048.934",
     "location_y": "100.4429",
     "location_z": "-1629.705",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18270",
@@ -296,8 +296,8 @@
     "location_x": "-709.4533",
     "location_y": "143.8211",
     "location_z": "-2171.245",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18271",
@@ -321,8 +321,8 @@
     "location_x": "-386.5371",
     "location_y": "120.8029",
     "location_z": "1114.843",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18272",
@@ -346,8 +346,8 @@
     "location_x": "-758.4912",
     "location_y": "115.3207",
     "location_z": "881.5787",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18273",
@@ -371,8 +371,8 @@
     "location_x": "-1140.793",
     "location_y": "124.632",
     "location_z": "508.2936",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18274",
@@ -396,8 +396,8 @@
     "location_x": "-332.9899",
     "location_y": "117.0004",
     "location_z": "634.0948",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18275",
@@ -421,8 +421,8 @@
     "location_x": "-1240.419",
     "location_y": "163.11",
     "location_z": "1423.281",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18276",
@@ -446,8 +446,8 @@
     "location_x": "971.4791",
     "location_y": "148.497",
     "location_z": "303.6563",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18277",
@@ -471,8 +471,8 @@
     "location_x": "1120.782",
     "location_y": "128.7428",
     "location_z": "-224.7163",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18278",
@@ -496,8 +496,8 @@
     "location_x": "1435.755",
     "location_y": "75.87589",
     "location_z": "-163.0333",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18279",
@@ -521,8 +521,8 @@
     "location_x": "798.5482",
     "location_y": "53.09901",
     "location_z": "689.5516",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18343",
@@ -546,8 +546,8 @@
     "location_x": "-185.9929",
     "location_y": "131.749",
     "location_z": "-2597.929",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18280",
@@ -571,8 +571,8 @@
     "location_x": "1488.983",
     "location_y": "129.6976",
     "location_z": "301.0826",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18344",
@@ -596,8 +596,8 @@
     "location_x": "-2020.088",
     "location_y": "113.9409",
     "location_z": "75.05101",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18281",
@@ -621,8 +621,8 @@
     "location_x": "402.2295",
     "location_y": "132.3452",
     "location_z": "-2580.796",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18282",
@@ -646,8 +646,8 @@
     "location_x": "-823.1804",
     "location_y": "179.8329",
     "location_z": "-2778.746",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18346",
@@ -671,8 +671,8 @@
     "location_x": "-381.0081",
     "location_y": "47.22458",
     "location_z": "-519.2697",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18283",
@@ -696,8 +696,8 @@
     "location_x": "-1207.701",
     "location_y": "156.2111",
     "location_z": "-2570.101",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18347",
@@ -746,8 +746,8 @@
     "location_x": "-1588.945",
     "location_y": "110.8255",
     "location_z": "-2076.203",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18285",
@@ -771,8 +771,8 @@
     "location_x": "-1522.509",
     "location_y": "157.3425",
     "location_z": "-1369.563",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18286",
@@ -796,8 +796,8 @@
     "location_x": "-2051.873",
     "location_y": "187.2922",
     "location_z": "-593.2458",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18287",
@@ -821,8 +821,8 @@
     "location_x": "-1850.98",
     "location_y": "153.0711",
     "location_z": "527.9398",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18351",
@@ -846,8 +846,8 @@
     "location_x": "1740.343",
     "location_y": "76.02881",
     "location_z": "1556.667",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18288",
@@ -871,8 +871,8 @@
     "location_x": "-2394.977",
     "location_y": "130.8406",
     "location_z": "1156.29",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18352",
@@ -921,8 +921,8 @@
     "location_x": "-2410.425",
     "location_y": "134.2782",
     "location_z": "1435.602",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18353",
@@ -946,8 +946,8 @@
     "location_x": "-130.9575",
     "location_y": "73.2737",
     "location_z": "2470.739",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18290",
@@ -971,8 +971,8 @@
     "location_x": "-1740.145",
     "location_y": "116.1496",
     "location_z": "2165.526",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18354",
@@ -1021,8 +1021,8 @@
     "location_x": "-598.8274",
     "location_y": "174.9263",
     "location_z": "1962.872",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18292",
@@ -1046,8 +1046,8 @@
     "location_x": "-903.4184",
     "location_y": "58.58082",
     "location_z": "1828.76",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18356",
@@ -1071,8 +1071,8 @@
     "location_x": "-2011.505",
     "location_y": "64.40298",
     "location_z": "-1595.313",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18293",
@@ -1096,8 +1096,8 @@
     "location_x": "479.267",
     "location_y": "184.3639",
     "location_z": "2340.539",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18357",
@@ -1146,8 +1146,8 @@
     "location_x": "1141.546",
     "location_y": "168.0844",
     "location_z": "1994.984",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18358",
@@ -1196,8 +1196,8 @@
     "location_x": "1196.986",
     "location_y": "187.2996",
     "location_z": "1079.018",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18359",
@@ -1221,8 +1221,8 @@
     "location_x": "2137.521",
     "location_y": "63.73962",
     "location_z": "-730.7429",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18296",
@@ -1246,8 +1246,8 @@
     "location_x": "2329.087",
     "location_y": "139.8854",
     "location_z": "1056.979",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18360",
@@ -1271,8 +1271,8 @@
     "location_x": "-1401.133",
     "location_y": "66.18295",
     "location_z": "110.0268",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18297",
@@ -1296,8 +1296,8 @@
     "location_x": "2060.398",
     "location_y": "133.455",
     "location_z": "537.5415",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18361",
@@ -1321,8 +1321,8 @@
     "location_x": "-1354.49",
     "location_y": "64.47218",
     "location_z": "-924.156",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18298",
@@ -1346,8 +1346,8 @@
     "location_x": "2288.571",
     "location_y": "117.7652",
     "location_z": "95.03036",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18299",
@@ -1371,8 +1371,8 @@
     "location_x": "1654.332",
     "location_y": "110.6788",
     "location_z": "-728.0424",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18300",
@@ -1396,8 +1396,8 @@
     "location_x": "1388.214",
     "location_y": "157.2215",
     "location_z": "-1761.865",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "8"
   },
   {
     "map_region_id": "18301",
@@ -1421,8 +1421,8 @@
     "location_x": "941.3618",
     "location_y": "65.02477",
     "location_z": "-2250.606",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18302",
@@ -1446,8 +1446,8 @@
     "location_x": "-1449.924",
     "location_y": "181.6669",
     "location_z": "2487.479",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "25"
   },
   {
     "map_region_id": "18303",
@@ -1546,8 +1546,8 @@
     "location_x": "569.9388",
     "location_y": "297.4773",
     "location_z": "-1287.73",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Polystellarite",
+    "outfit_resource_reward_amount": "1"
   },
   {
     "map_region_id": "18308",
@@ -1571,8 +1571,8 @@
     "location_x": "305.173",
     "location_y": "308.7958",
     "location_z": "1234.573",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Polystellarite",
+    "outfit_resource_reward_amount": "1"
   },
   {
     "map_region_id": "18309",
@@ -1596,8 +1596,8 @@
     "location_x": "-1299.012",
     "location_y": "314.915",
     "location_z": "-411.4696",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Polystellarite",
+    "outfit_resource_reward_amount": "1"
   },
   {
     "map_region_id": "18362",
@@ -1621,8 +1621,8 @@
     "location_x": "-755.6732",
     "location_y": "63.42257",
     "location_z": "-486.1945",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18363",
@@ -1646,8 +1646,8 @@
     "location_x": "113.405",
     "location_y": "64.14633",
     "location_z": "-971.9489",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18364",
@@ -1671,8 +1671,8 @@
     "location_x": "139.621",
     "location_y": "63.94428",
     "location_z": "-2124.002",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18365",
@@ -1696,8 +1696,8 @@
     "location_x": "1123.265",
     "location_y": "62.71637",
     "location_z": "-669.2636",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18366",
@@ -1721,8 +1721,8 @@
     "location_x": "756.8112",
     "location_y": "65.77058",
     "location_z": "967.9155",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18367",
@@ -1746,8 +1746,8 @@
     "location_x": "351.357",
     "location_y": "64.24567",
     "location_z": "1739.926",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18368",
@@ -1771,8 +1771,8 @@
     "location_x": "72.0034",
     "location_y": "64.15845",
     "location_z": "713.2847",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18369",
@@ -1796,8 +1796,8 @@
     "location_x": "-108.05",
     "location_y": "20.94",
     "location_z": "-243.7",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Synthium",
+    "outfit_resource_reward_amount": "3"
   },
   {
     "map_region_id": "18370",
@@ -1821,8 +1821,8 @@
     "location_x": "1612.34",
     "location_y": "147.69",
     "location_z": "-1334.77",
-    "outfit_resource_reward_type_description": "NULL",
-    "outfit_resource_reward_amount": "NULL"
+    "outfit_resource_reward_type_description": "Auraxium",
+    "outfit_resource_reward_amount": "5"
   },
   {
     "map_region_id": "18001",
