@@ -81270,5 +81270,69 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/95955.png"
+  },
+  {
+    "image_set_id": "807555",
+    "image_id": "95958",
+    "description": "icon_Helmet_NSO_Male_MAX_PS_TrashEater",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95958.png"
+  },
+  {
+    "image_set_id": "807556",
+    "image_id": "95961",
+    "description": "icon_vehicleClass_corsair_repair_tintable",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95961.png"
+  },
+  {
+    "image_set_id": "807557",
+    "image_id": "95964",
+    "description": "icon_vehicleClass_corsair_resupply_tintable",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95964.png"
+  },
+  {
+    "image_set_id": "807558",
+    "image_id": "95965",
+    "description": "Icon_Armor_Common_Male_Skins_Medic_ResponseArmor",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95965.png"
+  },
+  {
+    "image_set_id": "807559",
+    "image_id": "95970",
+    "description": "Icon_Armor_Common_Male_Skins_Infiltrator_ResponseArmor",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95970.png"
+  },
+  {
+    "image_set_id": "807560",
+    "image_id": "95973",
+    "description": "Icon_Armor_Common_Male_Skins_LightAssault_ResponseArmor",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95973.png"
+  },
+  {
+    "image_set_id": "807561",
+    "image_id": "95976",
+    "description": "Icon_Armor_Common_Male_Skins_Engineer_ResponseArmor",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95976.png"
+  },
+  {
+    "image_set_id": "807562",
+    "image_id": "95979",
+    "description": "Icon_Armor_Common_Male_Skins_Heavy_ResponseArmor",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95979.png"
   }
 ]
