@@ -59539,8 +59539,8 @@
     "image_set_id": "803392",
     "image_id": "86326",
     "description": "icon_vehicleClass_sunderer_deployedRepair_tintable",
-    "type_id": "6",
-    "type_description": "Medium (64 pixel height)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/86326.png"
   },
   {
@@ -81206,5 +81206,133 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/95928.png"
+  },
+  {
+    "image_set_id": "807547",
+    "image_id": "95931",
+    "description": "icon_bundle_ValentinesDay_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95931.png"
+  },
+  {
+    "image_set_id": "807548",
+    "image_id": "95934",
+    "description": "icon_Decal_ValentinesDay_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95934.png"
+  },
+  {
+    "image_set_id": "807549",
+    "image_id": "95938",
+    "description": "icon_Weapon_Common_Knife_Valentines001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95938.png"
+  },
+  {
+    "image_set_id": "807550",
+    "image_id": "95941",
+    "description": "icon_helmet_common_max_recon",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95941.png"
+  },
+  {
+    "image_set_id": "807551",
+    "image_id": "95944",
+    "description": "Icon_Helmet_NC_Male_Max_Recon",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95944.png"
+  },
+  {
+    "image_set_id": "807552",
+    "image_id": "95947",
+    "description": "Icon_Helmet_TR_Male_Max_Recon",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95947.png"
+  },
+  {
+    "image_set_id": "807553",
+    "image_id": "95950",
+    "description": "Icon_Helmet_VS_Male_Max_Recon",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95950.png"
+  },
+  {
+    "image_set_id": "807554",
+    "image_id": "95955",
+    "description": "icon_vehicleClass_galaxy_deployed_tintable",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95955.png"
+  },
+  {
+    "image_set_id": "807555",
+    "image_id": "95958",
+    "description": "icon_Helmet_NSO_Male_MAX_PS_TrashEater",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95958.png"
+  },
+  {
+    "image_set_id": "807556",
+    "image_id": "95961",
+    "description": "icon_vehicleClass_corsair_repair_tintable",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95961.png"
+  },
+  {
+    "image_set_id": "807557",
+    "image_id": "95964",
+    "description": "icon_vehicleClass_corsair_resupply_tintable",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95964.png"
+  },
+  {
+    "image_set_id": "807558",
+    "image_id": "95965",
+    "description": "Icon_Armor_Common_Male_Skins_Medic_ResponseArmor",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95965.png"
+  },
+  {
+    "image_set_id": "807559",
+    "image_id": "95970",
+    "description": "Icon_Armor_Common_Male_Skins_Infiltrator_ResponseArmor",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95970.png"
+  },
+  {
+    "image_set_id": "807560",
+    "image_id": "95973",
+    "description": "Icon_Armor_Common_Male_Skins_LightAssault_ResponseArmor",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95973.png"
+  },
+  {
+    "image_set_id": "807561",
+    "image_id": "95976",
+    "description": "Icon_Armor_Common_Male_Skins_Engineer_ResponseArmor",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95976.png"
+  },
+  {
+    "image_set_id": "807562",
+    "image_id": "95979",
+    "description": "Icon_Armor_Common_Male_Skins_Heavy_ResponseArmor",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95979.png"
   }
 ]
