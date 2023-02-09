@@ -1197,6 +1197,4680 @@
     "image_path": "/files/ps2/images/static/79645.png"
   },
   {
+    "reward_set_id": "4477",
+    "faction_id": "1",
+    "name": {
+      "de": "Auraxium-Energieklinge",
+      "en": "Auraxium Force-Blade",
+      "es": "Force-Blade de auraxium",
+      "fr": "Lame de force en Auraxium",
+      "it": "Force-Blade di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Аураксиевый Force-Blade",
+      "tr": "NULL",
+      "zh": "Auraxium力场军刀"
+    },
+    "image_set_id": "14400",
+    "image_id": "77992",
+    "image_path": "/files/ps2/images/static/77992.png"
+  },
+  {
+    "reward_set_id": "4467",
+    "faction_id": "1",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14365",
+    "image_id": "77994",
+    "image_path": "/files/ps2/images/static/77994.png"
+  },
+  {
+    "reward_set_id": "4622",
+    "faction_id": "1",
+    "name": {
+      "de": "NSX Fujin",
+      "en": "NSX Fujin",
+      "es": "NSX Fujin",
+      "fr": "NSX Fujin",
+      "it": "NSX Fujin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX Fujin",
+      "tr": "NULL",
+      "zh": "NSX Fujin"
+    },
+    "image_set_id": "803740",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4621",
+    "faction_id": "1",
+    "name": {
+      "de": "NSX-Banner",
+      "en": "NSX Banner",
+      "es": "Estandarte NSX",
+      "fr": "Bannière NSX",
+      "it": "Insegna NSX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX «Баннер»",
+      "tr": "NULL",
+      "zh": "NSX旗帜"
+    },
+    "image_set_id": "803812",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6106",
+    "faction_id": "1",
+    "name": {
+      "de": "Tarnung \"Gefahrenzulage\"",
+      "en": "Hazard Pay Camo",
+      "es": "Camuflaje Plus de peligrosidad",
+      "fr": "Camouflage Prime de risque",
+      "it": "Mimetica rischio del mestiere",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Hazard Pay",
+      "tr": "NULL",
+      "zh": "危险津贴迷彩"
+    },
+    "image_set_id": "807198",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "848",
+    "faction_id": "1",
+    "name": {
+      "de": "Experten-Scoutgewehr-Banner",
+      "en": "Expert Scout Rifle Banner",
+      "es": "Pancarta de Experto en rifles Scout",
+      "fr": "Bannière d'Expert en fusil d'éclaireur",
+      "it": "Insegna Esperto in fucili di ricognizione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Ружье",
+      "tr": "NULL",
+      "zh": "专家[#SCOUT_RIFLE#]旗帜"
+    },
+    "image_set_id": "14527",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "4455",
+    "faction_id": "1",
+    "name": {
+      "de": "Meister-Scoutgewehr-Banner",
+      "en": "Master Scout Rifle Banner",
+      "es": "Pancarta de Maestro de rifles Scout",
+      "fr": "Bannière de Maître en fusil d'éclaireur",
+      "it": "Insegna Maestro di fucili da ricognizione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Ружье",
+      "tr": "NULL",
+      "zh": "大师[#SCOUT_RIFLE#]旗帜"
+    },
+    "image_set_id": "93084",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "4461",
+    "faction_id": "1",
+    "name": {
+      "de": "C-4 ARX",
+      "en": "C-4 ARX",
+      "es": "C-4 ARX",
+      "fr": "C-4 ARX",
+      "it": "C-4 ARX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "C-4 ARX",
+      "tr": "NULL",
+      "zh": "C4 ARX"
+    },
+    "image_set_id": "14397",
+    "image_id": "79593",
+    "image_path": "/files/ps2/images/static/79593.png"
+  },
+  {
+    "reward_set_id": "4642",
+    "faction_id": "1",
+    "name": {
+      "de": "Implantat-Pakete \"Anfänger\"",
+      "en": "Novice Implant Pack",
+      "es": "Pack de implantes para novatos",
+      "fr": "Pack d'implants Novice",
+      "it": "Pacchetto Impianti Novizio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Набор имплантов для начинающих",
+      "tr": "NULL",
+      "zh": "新手插件包"
+    },
+    "image_set_id": "803973",
+    "image_id": "77987",
+    "image_path": "/files/ps2/images/static/77987.png"
+  },
+  {
+    "reward_set_id": "4462",
+    "faction_id": "1",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14361",
+    "image_id": "77987",
+    "image_path": "/files/ps2/images/static/77987.png"
+  },
+  {
+    "reward_set_id": "5925",
+    "faction_id": "1",
+    "name": {
+      "de": "Tarnung \"Käfer\"",
+      "en": "Beetle Camo",
+      "es": "Camuflaje de escarabajo",
+      "fr": "Camo : Scarabée",
+      "it": "Mimetica Beetle",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Beetle",
+      "tr": "NULL",
+      "zh": "甲虫迷彩"
+    },
+    "image_set_id": "806557",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4464",
+    "faction_id": "1",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14363",
+    "image_id": "77990",
+    "image_path": "/files/ps2/images/static/77990.png"
+  },
+  {
+    "reward_set_id": "4620",
+    "faction_id": "1",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "803434",
+    "image_id": "86536",
+    "image_path": "/files/ps2/images/static/86536.png"
+  },
+  {
+    "reward_set_id": "4463",
+    "faction_id": "1",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14362",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "reward_set_id": "6101",
+    "faction_id": "1",
+    "name": {
+      "de": "NSX Raijin",
+      "en": "NSX Raijin",
+      "es": "NSX Raijin",
+      "fr": "NSX Raijin",
+      "it": "NSX Raijin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX Raijin",
+      "tr": "NULL",
+      "zh": "NSX Raijin"
+    },
+    "image_set_id": "804603",
+    "image_id": "84293",
+    "image_path": "/files/ps2/images/static/84293.png"
+  },
+  {
+    "reward_set_id": "6102",
+    "faction_id": "1",
+    "name": {
+      "de": "Punisher-Banner",
+      "en": "Punisher Banner",
+      "es": "Pancarta de Punisher",
+      "fr": "Bannière du Punisher",
+      "it": "Insegna del Punisher",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер Punisher",
+      "tr": "NULL",
+      "zh": "Punisher旗帜"
+    },
+    "image_set_id": "806379",
+    "image_id": "84293",
+    "image_path": "/files/ps2/images/static/84293.png"
+  },
+  {
+    "reward_set_id": "4465",
+    "faction_id": "1",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14366",
+    "image_id": "77991",
+    "image_path": "/files/ps2/images/static/77991.png"
+  },
+  {
+    "reward_set_id": "4593",
+    "faction_id": "1",
+    "name": {
+      "de": "NS-15 Galgen",
+      "en": "NS-15 Gallows",
+      "es": "NS-15 Gallows",
+      "fr": "NS-15 Gallows",
+      "it": "NS-15 Gallows",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-15 Gallows",
+      "tr": "NULL",
+      "zh": "NS-15 Gallows"
+    },
+    "image_set_id": "802800",
+    "image_id": "84790",
+    "image_path": "/files/ps2/images/static/84790.png"
+  },
+  {
+    "reward_set_id": "4466",
+    "faction_id": "1",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14364",
+    "image_id": "77993",
+    "image_path": "/files/ps2/images/static/77993.png"
+  },
+  {
+    "reward_set_id": "6147",
+    "faction_id": "1",
+    "name": {
+      "de": "Tarnung \"Chromglanz\"",
+      "en": "Chromeshine Camo",
+      "es": "Camuflaje cromado",
+      "fr": "Camo Chromeshine",
+      "it": "Mimetica cromata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Chromeshine",
+      "tr": "NULL",
+      "zh": "镀铬光泽迷彩"
+    },
+    "image_set_id": "807473",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "5329",
+    "faction_id": "1",
+    "name": {
+      "de": "Tarnung \"Brillant\"",
+      "en": "Brilliant Camo",
+      "es": "Camuflaje brillante",
+      "fr": "Camo : Brillant",
+      "it": "Mimetica brillante",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Сверкание»",
+      "tr": "NULL",
+      "zh": "杰出迷彩"
+    },
+    "image_set_id": "806184",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6092",
+    "faction_id": "1",
+    "name": {
+      "de": "NS Chevalier",
+      "en": "NS Chevalier",
+      "es": "NS Chevalier",
+      "fr": "NS Chevalier",
+      "it": "NS Chevalier",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Кавалер NS",
+      "tr": "NULL",
+      "zh": "纳能骑士"
+    },
+    "image_set_id": "807029",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4641",
+    "faction_id": "1",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4655",
+    "faction_id": "1",
+    "name": {
+      "de": "ZERT-Explosionssignal",
+      "en": "Cert Explosion Horn",
+      "es": "Bocina de explosión de Certs",
+      "fr": "Klaxon Explosion d'accréditations",
+      "it": "Clacson esplosione certificazione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сигнал «Взрыв сертификата»",
+      "tr": "NULL",
+      "zh": "证书爆破尖角"
+    },
+    "image_set_id": "804236",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4656",
+    "faction_id": "1",
+    "name": {
+      "de": "Goldene Waffentarnung",
+      "en": "Gold Weapon Camo",
+      "es": "Camuflaje de arma de oro",
+      "fr": "Arme : Camo : Or",
+      "it": "Applica una mimetizzazione dorata da arma",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Золотое оружие»",
+      "tr": "NULL",
+      "zh": "[#GOLD#][#WEAPON_CAMO#]"
+    },
+    "image_set_id": "804235",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4447",
+    "faction_id": "1",
+    "name": {
+      "de": "Tarnung \"Schwarz\"",
+      "en": "Black Camo",
+      "es": "Camuflaje negro",
+      "fr": "Camouflage Noir",
+      "it": "Mimetizzazione nera",
+      "ko": "검은색 캐모",
+      "pt": "NULL",
+      "ru": "Камуфляж «Черный»",
+      "tr": "Black Camo",
+      "zh": "黑色迷彩"
+    },
+    "image_set_id": "7237",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4646",
+    "faction_id": "1",
+    "name": {
+      "de": "NS-45 \"Brass\" Pilot",
+      "en": "NS-45 \"Brass\" Pilot",
+      "es": "NS-45 Pilot \"Mandamás\"",
+      "fr": "NS-45 Pilot \"Brass\"",
+      "it": "Pilota  NS-45 \"Brass\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-45 «Brass» Pilot",
+      "tr": "NULL",
+      "zh": "NS-45“黄铜”Pilot"
+    },
+    "image_set_id": "803997",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6132",
+    "faction_id": "1",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "807242",
+    "image_id": "95008",
+    "image_path": "/files/ps2/images/static/95008.png"
+  },
+  {
+    "reward_set_id": "5875",
+    "faction_id": "1",
+    "name": {
+      "de": "Mentor-Chat-Zugang",
+      "en": "Mentor Chat Access",
+      "es": "Acceso al chat de mentores",
+      "fr": "Accès chat mentor",
+      "it": "Accesso alla chat del mentore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Доступ к чату наставника",
+      "tr": "NULL",
+      "zh": "导师聊天访问权限"
+    },
+    "image_set_id": "805958",
+    "image_id": "80343",
+    "image_path": "/files/ps2/images/static/80343.png"
+  },
+  {
+    "reward_set_id": "4504",
+    "faction_id": "1",
+    "name": {
+      "de": "NS Commander-Helm",
+      "en": "NS Commander Helmet",
+      "es": "Casco de comandante de NS",
+      "fr": "Casque de commandant NS",
+      "it": "Casco comandante NS",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Шлем командора",
+      "tr": "NULL",
+      "zh": "NS指挥官头盔"
+    },
+    "image_set_id": "14503",
+    "image_id": "80343",
+    "image_path": "/files/ps2/images/static/80343.png"
+  },
+  {
+    "reward_set_id": "4476",
+    "faction_id": "1",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "80131",
+    "image_id": "80344",
+    "image_path": "/files/ps2/images/static/80344.png"
+  },
+  {
+    "reward_set_id": "4474",
+    "faction_id": "1",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14372",
+    "image_id": "79595",
+    "image_path": "/files/ps2/images/static/79595.png"
+  },
+  {
+    "reward_set_id": "4469",
+    "faction_id": "1",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14389",
+    "image_id": "79666",
+    "image_path": "/files/ps2/images/static/79666.png"
+  },
+  {
+    "reward_set_id": "4472",
+    "faction_id": "1",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14386",
+    "image_id": "79650",
+    "image_path": "/files/ps2/images/static/79650.png"
+  },
+  {
+    "reward_set_id": "6097",
+    "faction_id": "1",
+    "name": {
+      "de": "UBR-100 Frogman",
+      "en": "UBR-100 Frogman",
+      "es": "UBR-100 Frogman",
+      "fr": "UBR-100 Frogman",
+      "it": "UBR-100 Frogman",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "UBR-100 Frogman",
+      "tr": "NULL",
+      "zh": "UBR-100 Frogman"
+    },
+    "image_set_id": "807035",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6098",
+    "faction_id": "1",
+    "name": {
+      "de": "Tarnmuster \"Paradies\"",
+      "en": "Paradise Camo",
+      "es": "Camuflaje paraíso",
+      "fr": "Camouflage Paradis",
+      "it": "Mimetica Paradiso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Парадиз»",
+      "tr": "NULL",
+      "zh": "天堂迷彩"
+    },
+    "image_set_id": "804214",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "4471",
+    "faction_id": "1",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14379",
+    "image_id": "79618",
+    "image_path": "/files/ps2/images/static/79618.png"
+  },
+  {
+    "reward_set_id": "4470",
+    "faction_id": "1",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14378",
+    "image_id": "79611",
+    "image_path": "/files/ps2/images/static/79611.png"
+  },
+  {
+    "reward_set_id": "4475",
+    "faction_id": "1",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14369",
+    "image_id": "79598",
+    "image_path": "/files/ps2/images/static/79598.png"
+  },
+  {
+    "reward_set_id": "4468",
+    "faction_id": "1",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14384",
+    "image_id": "79637",
+    "image_path": "/files/ps2/images/static/79637.png"
+  },
+  {
+    "reward_set_id": "4473",
+    "faction_id": "1",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14375",
+    "image_id": "79607",
+    "image_path": "/files/ps2/images/static/79607.png"
+  },
+  {
+    "reward_set_id": "4833",
+    "faction_id": "1",
+    "name": {
+      "de": "Solide Mauer",
+      "en": "Solid Wall",
+      "es": "Muro sólido",
+      "fr": "Mur solide",
+      "it": "Muro solido",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Глухая стена",
+      "tr": "NULL",
+      "zh": "实心墙"
+    },
+    "image_set_id": "804493",
+    "image_id": "89462",
+    "image_path": "/files/ps2/images/static/89462.png"
+  },
+  {
+    "reward_set_id": "4834",
+    "faction_id": "1",
+    "name": {
+      "de": "Titel: Baumeister",
+      "en": "Title: Builder",
+      "es": "Título: Constructor",
+      "fr": "Titre : Constructeur",
+      "it": "Titolo: Costruttore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: Строитель",
+      "tr": "NULL",
+      "zh": "头衔：建筑者"
+    },
+    "image_set_id": "804410",
+    "image_id": "89462",
+    "image_path": "/files/ps2/images/static/89462.png"
+  },
+  {
+    "reward_set_id": "4835",
+    "faction_id": "1",
+    "name": {
+      "de": "WLT-ARX Bergbau-Laser",
+      "en": "WLT-ARX Mining Laser",
+      "es": "WLT-ARX: láser minero",
+      "fr": "Laser minier WLT-ARX",
+      "it": "Laser minerario WLT-ARX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Промышленный лазер WLT-ARX",
+      "tr": "NULL",
+      "zh": "WLT-ARX激光采矿器"
+    },
+    "image_set_id": "804496",
+    "image_id": "89462",
+    "image_path": "/files/ps2/images/static/89462.png"
+  },
+  {
+    "reward_set_id": "844",
+    "faction_id": "1",
+    "name": {
+      "de": "Expertenkarabiner-Banner",
+      "en": "Expert Carbine Banner",
+      "es": "Pancarta de Experto en carabinas",
+      "fr": "Bannière d'Expert en carabine",
+      "it": "Insegna Esperto in carabine",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Карабин",
+      "tr": "NULL",
+      "zh": "专家[#CARBINE#]旗帜"
+    },
+    "image_set_id": "14523",
+    "image_id": "79587",
+    "image_path": "/files/ps2/images/static/79587.png"
+  },
+  {
+    "reward_set_id": "4449",
+    "faction_id": "1",
+    "name": {
+      "de": "Meisterkarabiner-Banner",
+      "en": "Master Carbine Banner",
+      "es": "Pancarta de Maestro de carabinas",
+      "fr": "Bannière de Maître en carabine",
+      "it": "Insegna Maestro di carabina",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Карабин",
+      "tr": "NULL",
+      "zh": "大师[#CARBINE#]旗帜"
+    },
+    "image_set_id": "93080",
+    "image_id": "79587",
+    "image_path": "/files/ps2/images/static/79587.png"
+  },
+  {
+    "reward_set_id": "4479",
+    "faction_id": "1",
+    "name": {
+      "de": "Tarnung \"Weiß\"",
+      "en": "White Camo",
+      "es": "Camuflaje blanco",
+      "fr": "Camouflage Blanc",
+      "it": "Mimetizzazione bianca",
+      "ko": "흰색 캐모",
+      "pt": "NULL",
+      "ru": "Камуфляж «Белый»",
+      "tr": "White Camo",
+      "zh": "白色迷彩"
+    },
+    "image_set_id": "7255",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "843",
+    "faction_id": "1",
+    "name": {
+      "de": "Experten-Sturmgewehr-Banner",
+      "en": "Expert Assault Rifle Banner",
+      "es": "Pancarta de Experto en rifles de asalto",
+      "fr": "Bannière d'Expert en fusil d'assaut",
+      "it": "Insegna Esperto in fucili d'assalto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Штурмовая винтовка",
+      "tr": "NULL",
+      "zh": "专家[#ASSAULT_RIFLE#]旗帜"
+    },
+    "image_set_id": "14522",
+    "image_id": "79583",
+    "image_path": "/files/ps2/images/static/79583.png"
+  },
+  {
+    "reward_set_id": "4448",
+    "faction_id": "1",
+    "name": {
+      "de": "Meisterangriffsgewehr-Banner",
+      "en": "Master Assault Rifle Banner",
+      "es": "Pancarta de Maestro de rifles de asalto",
+      "fr": "Bannière de Maître en fusil d'assaut",
+      "it": "Insegna Maestro di fucili d'assalto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Штурмовая винтовка",
+      "tr": "NULL",
+      "zh": "大师[#ASSAULT_RIFLE#]旗帜"
+    },
+    "image_set_id": "93079",
+    "image_id": "79583",
+    "image_path": "/files/ps2/images/static/79583.png"
+  },
+  {
+    "reward_set_id": "845",
+    "faction_id": "1",
+    "name": {
+      "de": "Experten-LMG-Banner",
+      "en": "Expert LMG Banner",
+      "es": "Pancarta de Experto en ametralladoras",
+      "fr": "Bannière d'Expert en mitrailleuse légère",
+      "it": "Insegna Esperto in LMG",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Ручной пулемет",
+      "tr": "NULL",
+      "zh": "专家轻机枪旗帜"
+    },
+    "image_set_id": "14524",
+    "image_id": "79616",
+    "image_path": "/files/ps2/images/static/79616.png"
+  },
+  {
+    "reward_set_id": "4451",
+    "faction_id": "1",
+    "name": {
+      "de": "Meister-LMG-Banner",
+      "en": "Master LMG Banner",
+      "es": "Pancarta de Maestro de ametralladoras",
+      "fr": "Bannière de Maître en mitrailleuse légère",
+      "it": "Insegna Maestro di LMG",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Ручной пулемет",
+      "tr": "NULL",
+      "zh": "大师轻机枪旗帜"
+    },
+    "image_set_id": "93081",
+    "image_id": "79616",
+    "image_path": "/files/ps2/images/static/79616.png"
+  },
+  {
+    "reward_set_id": "4542",
+    "faction_id": "1",
+    "name": {
+      "de": "Expertenwerfer-Banner",
+      "en": "Expert Launcher Banner",
+      "es": "Pancarta de Experto en lanzacohetes",
+      "fr": "Bannière d'Expert lanceur",
+      "it": "Insegna Esperto in lanciamissili",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Гранатомет",
+      "tr": "NULL",
+      "zh": "专家发射器旗帜"
+    },
+    "image_set_id": "93109",
+    "image_id": "79605",
+    "image_path": "/files/ps2/images/static/79605.png"
+  },
+  {
+    "reward_set_id": "4478",
+    "faction_id": "1",
+    "name": {
+      "de": "Meisterwerfer-Banner",
+      "en": "Master Launcher Banner",
+      "es": "Pancarta de Maestro lanzacohetes",
+      "fr": "Bannière de Maître lanceur",
+      "it": "Insegna Maestro di lanciamissili",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Гранатомет",
+      "tr": "NULL",
+      "zh": "大师发射器旗帜"
+    },
+    "image_set_id": "80231",
+    "image_id": "79605",
+    "image_path": "/files/ps2/images/static/79605.png"
+  },
+  {
+    "reward_set_id": "846",
+    "faction_id": "1",
+    "name": {
+      "de": "Expertenpistolen-Banner",
+      "en": "Expert Pistol Banner",
+      "es": "Pancarta de Experto en pistolas",
+      "fr": "Bannière d'Expert en pistolet",
+      "it": "Insegna Esperto in pistole",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Пистолет",
+      "tr": "NULL",
+      "zh": "专家[#PISTOL#]旗帜"
+    },
+    "image_set_id": "14525",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "reward_set_id": "4452",
+    "faction_id": "1",
+    "name": {
+      "de": "Meisterpistolen-Banner",
+      "en": "Master Pistol Banner",
+      "es": "Pancarta de Maestro de pistolas",
+      "fr": "Bannière de Maître en pistolet",
+      "it": "Insegna Maestro di pistole",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Пистолет",
+      "tr": "NULL",
+      "zh": "大师[#PISTOL#]旗帜"
+    },
+    "image_set_id": "93082",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "reward_set_id": "847",
+    "faction_id": "1",
+    "name": {
+      "de": "Experten-MP-Banner",
+      "en": "Expert SMG Banner",
+      "es": "Pancarta de Experto en subfusiles",
+      "fr": "Bannière d'Expert en mitraillette",
+      "it": "Insegna Esperto in mitra",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Пистолет-пулемет",
+      "tr": "NULL",
+      "zh": "专家冲锋枪旗帜"
+    },
+    "image_set_id": "14526",
+    "image_id": "79661",
+    "image_path": "/files/ps2/images/static/79661.png"
+  },
+  {
+    "reward_set_id": "4453",
+    "faction_id": "1",
+    "name": {
+      "de": "Meister-MP-Banner",
+      "en": "Master SMG Banner",
+      "es": "Pancarta de Maestro de subfusiles",
+      "fr": "Bannière de Maître en mitraillette",
+      "it": "Insegna Maestro di mitra",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Пистолет-пулемет",
+      "tr": "NULL",
+      "zh": "大师冲锋枪旗帜"
+    },
+    "image_set_id": "93083",
+    "image_id": "79661",
+    "image_path": "/files/ps2/images/static/79661.png"
+  },
+  {
+    "reward_set_id": "849",
+    "faction_id": "1",
+    "name": {
+      "de": "Experten-Schrotflinten-Banner",
+      "en": "Expert Shotgun Banner",
+      "es": "Pancarta de Experto en escopetas",
+      "fr": "Bannière d'Expert en fusil",
+      "it": "Insegna Esperto in fucili d'assalto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Дробовик",
+      "tr": "NULL",
+      "zh": "专家[#SHOTGUN#]旗帜"
+    },
+    "image_set_id": "14521",
+    "image_id": "79656",
+    "image_path": "/files/ps2/images/static/79656.png"
+  },
+  {
+    "reward_set_id": "4450",
+    "faction_id": "1",
+    "name": {
+      "de": "Meister-Schrotflinten-Banner",
+      "en": "Master Shotgun Banner",
+      "es": "Pancarta de Maestro de escopetas",
+      "fr": "Bannière de Maître en fusil",
+      "it": "Insegna Maestro di fucili",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Дробовик",
+      "tr": "NULL",
+      "zh": "大师[#SHOTGUN#]旗帜"
+    },
+    "image_set_id": "93078",
+    "image_id": "79656",
+    "image_path": "/files/ps2/images/static/79656.png"
+  },
+  {
+    "reward_set_id": "850",
+    "faction_id": "1",
+    "name": {
+      "de": "Banner \"Experten-Gewehre\"",
+      "en": "Expert Sniper Rifle Banner",
+      "es": "Pancarta de Experto en rifles de francotirador",
+      "fr": "Bannière d'Expert sniper au fusil de précision",
+      "it": "Insegna Esperto in fucili di precisione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Снайперская винтовка",
+      "tr": "NULL",
+      "zh": "专家[#SNIPER_RIFLE#]旗帜"
+    },
+    "image_set_id": "14528",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "4454",
+    "faction_id": "1",
+    "name": {
+      "de": "Meister-Scharfschützengewehr-Banner",
+      "en": "Master Sniper Rifle Banner",
+      "es": "Pancarta de Maestro de rifles de francotirador",
+      "fr": "Bannière de Maître en fusil de précision",
+      "it": "Insegna Maestro di fucili di precisione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Снайперская винтовка",
+      "tr": "NULL",
+      "zh": "大师[#SNIPER_RIFLE#]旗帜"
+    },
+    "image_set_id": "93085",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "4477",
+    "faction_id": "3",
+    "name": {
+      "de": "Auraxium-Kettenmesser",
+      "en": "Auraxium Chainblade",
+      "es": "Chainblade de auraxium",
+      "fr": "Lame-tronçonneuse en Auraxium",
+      "it": "Chainblade di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Аураксиевый Chainblade",
+      "tr": "NULL",
+      "zh": "Auraxium锁链刀"
+    },
+    "image_set_id": "14399",
+    "image_id": "77992",
+    "image_path": "/files/ps2/images/static/77992.png"
+  },
+  {
+    "reward_set_id": "4467",
+    "faction_id": "3",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14359",
+    "image_id": "77994",
+    "image_path": "/files/ps2/images/static/77994.png"
+  },
+  {
+    "reward_set_id": "4622",
+    "faction_id": "3",
+    "name": {
+      "de": "NSX Fujin",
+      "en": "NSX Fujin",
+      "es": "NSX Fujin",
+      "fr": "NSX Fujin",
+      "it": "NSX Fujin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX Fujin",
+      "tr": "NULL",
+      "zh": "NSX Fujin"
+    },
+    "image_set_id": "803740",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4621",
+    "faction_id": "3",
+    "name": {
+      "de": "NSX-Banner",
+      "en": "NSX Banner",
+      "es": "Estandarte NSX",
+      "fr": "Bannière NSX",
+      "it": "Insegna NSX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX «Баннер»",
+      "tr": "NULL",
+      "zh": "NSX旗帜"
+    },
+    "image_set_id": "803812",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6106",
+    "faction_id": "3",
+    "name": {
+      "de": "Tarnung \"Gefahrenzulage\"",
+      "en": "Hazard Pay Camo",
+      "es": "Camuflaje Plus de peligrosidad",
+      "fr": "Camouflage Prime de risque",
+      "it": "Mimetica rischio del mestiere",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Hazard Pay",
+      "tr": "NULL",
+      "zh": "危险津贴迷彩"
+    },
+    "image_set_id": "807198",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "848",
+    "faction_id": "3",
+    "name": {
+      "de": "Experten-Scoutgewehr-Banner",
+      "en": "Expert Scout Rifle Banner",
+      "es": "Pancarta de Experto en rifles Scout",
+      "fr": "Bannière d'Expert en fusil d'éclaireur",
+      "it": "Insegna Esperto in fucili di ricognizione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Ружье",
+      "tr": "NULL",
+      "zh": "专家[#SCOUT_RIFLE#]旗帜"
+    },
+    "image_set_id": "14518",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "4455",
+    "faction_id": "3",
+    "name": {
+      "de": "Meister-Scoutgewehr-Banner",
+      "en": "Master Scout Rifle Banner",
+      "es": "Pancarta de Maestro de rifles Scout",
+      "fr": "Bannière de Maître en fusil d'éclaireur",
+      "it": "Insegna Maestro di fucili da ricognizione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Ружье",
+      "tr": "NULL",
+      "zh": "大师[#SCOUT_RIFLE#]旗帜"
+    },
+    "image_set_id": "93075",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "4461",
+    "faction_id": "3",
+    "name": {
+      "de": "C-4 ARX",
+      "en": "C-4 ARX",
+      "es": "C-4 ARX",
+      "fr": "C-4 ARX",
+      "it": "C-4 ARX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "C-4 ARX",
+      "tr": "NULL",
+      "zh": "C4 ARX"
+    },
+    "image_set_id": "14397",
+    "image_id": "79593",
+    "image_path": "/files/ps2/images/static/79593.png"
+  },
+  {
+    "reward_set_id": "4642",
+    "faction_id": "3",
+    "name": {
+      "de": "Implantat-Pakete \"Anfänger\"",
+      "en": "Novice Implant Pack",
+      "es": "Pack de implantes para novatos",
+      "fr": "Pack d'implants Novice",
+      "it": "Pacchetto Impianti Novizio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Набор имплантов для начинающих",
+      "tr": "NULL",
+      "zh": "新手插件包"
+    },
+    "image_set_id": "803973",
+    "image_id": "77987",
+    "image_path": "/files/ps2/images/static/77987.png"
+  },
+  {
+    "reward_set_id": "4462",
+    "faction_id": "3",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14355",
+    "image_id": "77987",
+    "image_path": "/files/ps2/images/static/77987.png"
+  },
+  {
+    "reward_set_id": "5925",
+    "faction_id": "3",
+    "name": {
+      "de": "Tarnung \"Käfer\"",
+      "en": "Beetle Camo",
+      "es": "Camuflaje de escarabajo",
+      "fr": "Camo : Scarabée",
+      "it": "Mimetica Beetle",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Beetle",
+      "tr": "NULL",
+      "zh": "甲虫迷彩"
+    },
+    "image_set_id": "806557",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4464",
+    "faction_id": "3",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14357",
+    "image_id": "77990",
+    "image_path": "/files/ps2/images/static/77990.png"
+  },
+  {
+    "reward_set_id": "4620",
+    "faction_id": "3",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "803433",
+    "image_id": "86536",
+    "image_path": "/files/ps2/images/static/86536.png"
+  },
+  {
+    "reward_set_id": "4463",
+    "faction_id": "3",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14356",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "reward_set_id": "6101",
+    "faction_id": "3",
+    "name": {
+      "de": "NSX Raijin",
+      "en": "NSX Raijin",
+      "es": "NSX Raijin",
+      "fr": "NSX Raijin",
+      "it": "NSX Raijin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX Raijin",
+      "tr": "NULL",
+      "zh": "NSX Raijin"
+    },
+    "image_set_id": "804603",
+    "image_id": "84293",
+    "image_path": "/files/ps2/images/static/84293.png"
+  },
+  {
+    "reward_set_id": "6102",
+    "faction_id": "3",
+    "name": {
+      "de": "Punisher-Banner",
+      "en": "Punisher Banner",
+      "es": "Pancarta de Punisher",
+      "fr": "Bannière du Punisher",
+      "it": "Insegna del Punisher",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер Punisher",
+      "tr": "NULL",
+      "zh": "Punisher旗帜"
+    },
+    "image_set_id": "806379",
+    "image_id": "84293",
+    "image_path": "/files/ps2/images/static/84293.png"
+  },
+  {
+    "reward_set_id": "4472",
+    "faction_id": "3",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14380",
+    "image_id": "79625",
+    "image_path": "/files/ps2/images/static/79625.png"
+  },
+  {
+    "reward_set_id": "4465",
+    "faction_id": "3",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14360",
+    "image_id": "77991",
+    "image_path": "/files/ps2/images/static/77991.png"
+  },
+  {
+    "reward_set_id": "4593",
+    "faction_id": "3",
+    "name": {
+      "de": "NS-15 Galgen",
+      "en": "NS-15 Gallows",
+      "es": "NS-15 Gallows",
+      "fr": "NS-15 Gallows",
+      "it": "NS-15 Gallows",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-15 Gallows",
+      "tr": "NULL",
+      "zh": "NS-15 Gallows"
+    },
+    "image_set_id": "802800",
+    "image_id": "84790",
+    "image_path": "/files/ps2/images/static/84790.png"
+  },
+  {
+    "reward_set_id": "4466",
+    "faction_id": "3",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14358",
+    "image_id": "77993",
+    "image_path": "/files/ps2/images/static/77993.png"
+  },
+  {
+    "reward_set_id": "6147",
+    "faction_id": "3",
+    "name": {
+      "de": "Tarnung \"Chromglanz\"",
+      "en": "Chromeshine Camo",
+      "es": "Camuflaje cromado",
+      "fr": "Camo Chromeshine",
+      "it": "Mimetica cromata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Chromeshine",
+      "tr": "NULL",
+      "zh": "镀铬光泽迷彩"
+    },
+    "image_set_id": "807473",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "5329",
+    "faction_id": "3",
+    "name": {
+      "de": "Tarnung \"Brillant\"",
+      "en": "Brilliant Camo",
+      "es": "Camuflaje brillante",
+      "fr": "Camo : Brillant",
+      "it": "Mimetica brillante",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Сверкание»",
+      "tr": "NULL",
+      "zh": "杰出迷彩"
+    },
+    "image_set_id": "806184",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6092",
+    "faction_id": "3",
+    "name": {
+      "de": "NS Chevalier",
+      "en": "NS Chevalier",
+      "es": "NS Chevalier",
+      "fr": "NS Chevalier",
+      "it": "NS Chevalier",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Кавалер NS",
+      "tr": "NULL",
+      "zh": "纳能骑士"
+    },
+    "image_set_id": "807029",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4641",
+    "faction_id": "3",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4655",
+    "faction_id": "3",
+    "name": {
+      "de": "ZERT-Explosionssignal",
+      "en": "Cert Explosion Horn",
+      "es": "Bocina de explosión de Certs",
+      "fr": "Klaxon Explosion d'accréditations",
+      "it": "Clacson esplosione certificazione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сигнал «Взрыв сертификата»",
+      "tr": "NULL",
+      "zh": "证书爆破尖角"
+    },
+    "image_set_id": "804236",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4656",
+    "faction_id": "3",
+    "name": {
+      "de": "Goldene Waffentarnung",
+      "en": "Gold Weapon Camo",
+      "es": "Camuflaje de arma de oro",
+      "fr": "Arme : Camo : Or",
+      "it": "Applica una mimetizzazione dorata da arma",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Золотое оружие»",
+      "tr": "NULL",
+      "zh": "[#GOLD#][#WEAPON_CAMO#]"
+    },
+    "image_set_id": "804235",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4447",
+    "faction_id": "3",
+    "name": {
+      "de": "Tarnung \"Schwarz\"",
+      "en": "Black Camo",
+      "es": "Camuflaje negro",
+      "fr": "Camouflage Noir",
+      "it": "Mimetizzazione nera",
+      "ko": "검은색 캐모",
+      "pt": "NULL",
+      "ru": "Камуфляж «Черный»",
+      "tr": "Black Camo",
+      "zh": "黑色迷彩"
+    },
+    "image_set_id": "7237",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4646",
+    "faction_id": "3",
+    "name": {
+      "de": "NS-45 \"Brass\" Pilot",
+      "en": "NS-45 \"Brass\" Pilot",
+      "es": "NS-45 Pilot \"Mandamás\"",
+      "fr": "NS-45 Pilot \"Brass\"",
+      "it": "Pilota  NS-45 \"Brass\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-45 «Brass» Pilot",
+      "tr": "NULL",
+      "zh": "NS-45“黄铜”Pilot"
+    },
+    "image_set_id": "803997",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6132",
+    "faction_id": "3",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "807244",
+    "image_id": "95008",
+    "image_path": "/files/ps2/images/static/95008.png"
+  },
+  {
+    "reward_set_id": "5875",
+    "faction_id": "3",
+    "name": {
+      "de": "Mentor-Chat-Zugang",
+      "en": "Mentor Chat Access",
+      "es": "Acceso al chat de mentores",
+      "fr": "Accès chat mentor",
+      "it": "Accesso alla chat del mentore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Доступ к чату наставника",
+      "tr": "NULL",
+      "zh": "导师聊天访问权限"
+    },
+    "image_set_id": "805958",
+    "image_id": "80343",
+    "image_path": "/files/ps2/images/static/80343.png"
+  },
+  {
+    "reward_set_id": "4504",
+    "faction_id": "3",
+    "name": {
+      "de": "NS Commander-Helm",
+      "en": "NS Commander Helmet",
+      "es": "Casco de comandante de NS",
+      "fr": "Casque de commandant NS",
+      "it": "Casco comandante NS",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Шлем командора",
+      "tr": "NULL",
+      "zh": "NS指挥官头盔"
+    },
+    "image_set_id": "14502",
+    "image_id": "80343",
+    "image_path": "/files/ps2/images/static/80343.png"
+  },
+  {
+    "reward_set_id": "4476",
+    "faction_id": "3",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "80130",
+    "image_id": "80344",
+    "image_path": "/files/ps2/images/static/80344.png"
+  },
+  {
+    "reward_set_id": "4474",
+    "faction_id": "3",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14371",
+    "image_id": "79595",
+    "image_path": "/files/ps2/images/static/79595.png"
+  },
+  {
+    "reward_set_id": "4469",
+    "faction_id": "3",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14388",
+    "image_id": "79666",
+    "image_path": "/files/ps2/images/static/79666.png"
+  },
+  {
+    "reward_set_id": "6097",
+    "faction_id": "3",
+    "name": {
+      "de": "UBR-100 Frogman",
+      "en": "UBR-100 Frogman",
+      "es": "UBR-100 Frogman",
+      "fr": "UBR-100 Frogman",
+      "it": "UBR-100 Frogman",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "UBR-100 Frogman",
+      "tr": "NULL",
+      "zh": "UBR-100 Frogman"
+    },
+    "image_set_id": "807035",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6098",
+    "faction_id": "3",
+    "name": {
+      "de": "Tarnmuster \"Paradies\"",
+      "en": "Paradise Camo",
+      "es": "Camuflaje paraíso",
+      "fr": "Camouflage Paradis",
+      "it": "Mimetica Paradiso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Парадиз»",
+      "tr": "NULL",
+      "zh": "天堂迷彩"
+    },
+    "image_set_id": "804213",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "4471",
+    "faction_id": "3",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14381",
+    "image_id": "79633",
+    "image_path": "/files/ps2/images/static/79633.png"
+  },
+  {
+    "reward_set_id": "4470",
+    "faction_id": "3",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14377",
+    "image_id": "79611",
+    "image_path": "/files/ps2/images/static/79611.png"
+  },
+  {
+    "reward_set_id": "4475",
+    "faction_id": "3",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14368",
+    "image_id": "79598",
+    "image_path": "/files/ps2/images/static/79598.png"
+  },
+  {
+    "reward_set_id": "4468",
+    "faction_id": "3",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14383",
+    "image_id": "79637",
+    "image_path": "/files/ps2/images/static/79637.png"
+  },
+  {
+    "reward_set_id": "4473",
+    "faction_id": "3",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14374",
+    "image_id": "79607",
+    "image_path": "/files/ps2/images/static/79607.png"
+  },
+  {
+    "reward_set_id": "4833",
+    "faction_id": "3",
+    "name": {
+      "de": "Solide Mauer",
+      "en": "Solid Wall",
+      "es": "Muro sólido",
+      "fr": "Mur solide",
+      "it": "Muro solido",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Глухая стена",
+      "tr": "NULL",
+      "zh": "实心墙"
+    },
+    "image_set_id": "804493",
+    "image_id": "89462",
+    "image_path": "/files/ps2/images/static/89462.png"
+  },
+  {
+    "reward_set_id": "4834",
+    "faction_id": "3",
+    "name": {
+      "de": "Titel: Baumeister",
+      "en": "Title: Builder",
+      "es": "Título: Constructor",
+      "fr": "Titre : Constructeur",
+      "it": "Titolo: Costruttore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: Строитель",
+      "tr": "NULL",
+      "zh": "头衔：建筑者"
+    },
+    "image_set_id": "804410",
+    "image_id": "89462",
+    "image_path": "/files/ps2/images/static/89462.png"
+  },
+  {
+    "reward_set_id": "4835",
+    "faction_id": "3",
+    "name": {
+      "de": "WLT-ARX Bergbau-Laser",
+      "en": "WLT-ARX Mining Laser",
+      "es": "WLT-ARX: láser minero",
+      "fr": "Laser minier WLT-ARX",
+      "it": "Laser minerario WLT-ARX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Промышленный лазер WLT-ARX",
+      "tr": "NULL",
+      "zh": "WLT-ARX激光采矿器"
+    },
+    "image_set_id": "804495",
+    "image_id": "89462",
+    "image_path": "/files/ps2/images/static/89462.png"
+  },
+  {
+    "reward_set_id": "844",
+    "faction_id": "3",
+    "name": {
+      "de": "Expertenkarabiner-Banner",
+      "en": "Expert Carbine Banner",
+      "es": "Pancarta de Experto en carabinas",
+      "fr": "Bannière d'Expert en carabine",
+      "it": "Insegna Esperto in carabine",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Карабин",
+      "tr": "NULL",
+      "zh": "专家[#CARBINE#]旗帜"
+    },
+    "image_set_id": "14514",
+    "image_id": "79587",
+    "image_path": "/files/ps2/images/static/79587.png"
+  },
+  {
+    "reward_set_id": "4449",
+    "faction_id": "3",
+    "name": {
+      "de": "Meisterkarabiner-Banner",
+      "en": "Master Carbine Banner",
+      "es": "Pancarta de Maestro de carabinas",
+      "fr": "Bannière de Maître en carabine",
+      "it": "Insegna Maestro di carabina",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Карабин",
+      "tr": "NULL",
+      "zh": "大师[#CARBINE#]旗帜"
+    },
+    "image_set_id": "93071",
+    "image_id": "79587",
+    "image_path": "/files/ps2/images/static/79587.png"
+  },
+  {
+    "reward_set_id": "4479",
+    "faction_id": "3",
+    "name": {
+      "de": "Tarnung \"Weiß\"",
+      "en": "White Camo",
+      "es": "Camuflaje blanco",
+      "fr": "Camouflage Blanc",
+      "it": "Mimetizzazione bianca",
+      "ko": "흰색 캐모",
+      "pt": "NULL",
+      "ru": "Камуфляж «Белый»",
+      "tr": "White Camo",
+      "zh": "白色迷彩"
+    },
+    "image_set_id": "7255",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "843",
+    "faction_id": "3",
+    "name": {
+      "de": "Experten-Sturmgewehr-Banner",
+      "en": "Expert Assault Rifle Banner",
+      "es": "Pancarta de Experto en rifles de asalto",
+      "fr": "Bannière d'Expert en fusil d'assaut",
+      "it": "Insegna Esperto in fucili d'assalto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Штурмовая винтовка",
+      "tr": "NULL",
+      "zh": "专家[#ASSAULT_RIFLE#]旗帜"
+    },
+    "image_set_id": "14513",
+    "image_id": "79583",
+    "image_path": "/files/ps2/images/static/79583.png"
+  },
+  {
+    "reward_set_id": "4448",
+    "faction_id": "3",
+    "name": {
+      "de": "Meisterangriffsgewehr-Banner",
+      "en": "Master Assault Rifle Banner",
+      "es": "Pancarta de Maestro de rifles de asalto",
+      "fr": "Bannière de Maître en fusil d'assaut",
+      "it": "Insegna Maestro di fucili d'assalto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Штурмовая винтовка",
+      "tr": "NULL",
+      "zh": "大师[#ASSAULT_RIFLE#]旗帜"
+    },
+    "image_set_id": "93070",
+    "image_id": "79583",
+    "image_path": "/files/ps2/images/static/79583.png"
+  },
+  {
+    "reward_set_id": "845",
+    "faction_id": "3",
+    "name": {
+      "de": "Experten-LMG-Banner",
+      "en": "Expert LMG Banner",
+      "es": "Pancarta de Experto en ametralladoras",
+      "fr": "Bannière d'Expert en mitrailleuse légère",
+      "it": "Insegna Esperto in LMG",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Ручной пулемет",
+      "tr": "NULL",
+      "zh": "专家轻机枪旗帜"
+    },
+    "image_set_id": "14515",
+    "image_id": "79616",
+    "image_path": "/files/ps2/images/static/79616.png"
+  },
+  {
+    "reward_set_id": "4451",
+    "faction_id": "3",
+    "name": {
+      "de": "Meister-LMG-Banner",
+      "en": "Master LMG Banner",
+      "es": "Pancarta de Maestro de ametralladoras",
+      "fr": "Bannière de Maître en mitrailleuse légère",
+      "it": "Insegna Maestro di LMG",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Ручной пулемет",
+      "tr": "NULL",
+      "zh": "大师轻机枪旗帜"
+    },
+    "image_set_id": "93072",
+    "image_id": "79616",
+    "image_path": "/files/ps2/images/static/79616.png"
+  },
+  {
+    "reward_set_id": "4542",
+    "faction_id": "3",
+    "name": {
+      "de": "Expertenwerfer-Banner",
+      "en": "Expert Launcher Banner",
+      "es": "Pancarta de Experto en lanzacohetes",
+      "fr": "Bannière d'Expert lanceur",
+      "it": "Insegna Esperto in lanciamissili",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Гранатомет",
+      "tr": "NULL",
+      "zh": "专家发射器旗帜"
+    },
+    "image_set_id": "93108",
+    "image_id": "79605",
+    "image_path": "/files/ps2/images/static/79605.png"
+  },
+  {
+    "reward_set_id": "4478",
+    "faction_id": "3",
+    "name": {
+      "de": "Meisterwerfer-Banner",
+      "en": "Master Launcher Banner",
+      "es": "Pancarta de Maestro lanzacohetes",
+      "fr": "Bannière de Maître lanceur",
+      "it": "Insegna Maestro di lanciamissili",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Гранатомет",
+      "tr": "NULL",
+      "zh": "大师发射器旗帜"
+    },
+    "image_set_id": "80230",
+    "image_id": "79605",
+    "image_path": "/files/ps2/images/static/79605.png"
+  },
+  {
+    "reward_set_id": "846",
+    "faction_id": "3",
+    "name": {
+      "de": "Expertenpistolen-Banner",
+      "en": "Expert Pistol Banner",
+      "es": "Pancarta de Experto en pistolas",
+      "fr": "Bannière d'Expert en pistolet",
+      "it": "Insegna Esperto in pistole",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Пистолет",
+      "tr": "NULL",
+      "zh": "专家[#PISTOL#]旗帜"
+    },
+    "image_set_id": "14516",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "reward_set_id": "4452",
+    "faction_id": "3",
+    "name": {
+      "de": "Meisterpistolen-Banner",
+      "en": "Master Pistol Banner",
+      "es": "Pancarta de Maestro de pistolas",
+      "fr": "Bannière de Maître en pistolet",
+      "it": "Insegna Maestro di pistole",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Пистолет",
+      "tr": "NULL",
+      "zh": "大师[#PISTOL#]旗帜"
+    },
+    "image_set_id": "93073",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "reward_set_id": "847",
+    "faction_id": "3",
+    "name": {
+      "de": "Experten-MP-Banner",
+      "en": "Expert SMG Banner",
+      "es": "Pancarta de Experto en subfusiles",
+      "fr": "Bannière d'Expert en mitraillette",
+      "it": "Insegna Esperto in mitra",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Пистолет-пулемет",
+      "tr": "NULL",
+      "zh": "专家冲锋枪旗帜"
+    },
+    "image_set_id": "14517",
+    "image_id": "79661",
+    "image_path": "/files/ps2/images/static/79661.png"
+  },
+  {
+    "reward_set_id": "4453",
+    "faction_id": "3",
+    "name": {
+      "de": "Meister-MP-Banner",
+      "en": "Master SMG Banner",
+      "es": "Pancarta de Maestro de subfusiles",
+      "fr": "Bannière de Maître en mitraillette",
+      "it": "Insegna Maestro di mitra",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Пистолет-пулемет",
+      "tr": "NULL",
+      "zh": "大师冲锋枪旗帜"
+    },
+    "image_set_id": "93074",
+    "image_id": "79661",
+    "image_path": "/files/ps2/images/static/79661.png"
+  },
+  {
+    "reward_set_id": "849",
+    "faction_id": "3",
+    "name": {
+      "de": "Experten-Schrotflinten-Banner",
+      "en": "Expert Shotgun Banner",
+      "es": "Pancarta de Experto en escopetas",
+      "fr": "Bannière d'Expert en fusil",
+      "it": "Insegna Esperto in fucili d'assalto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Дробовик",
+      "tr": "NULL",
+      "zh": "专家[#SHOTGUN#]旗帜"
+    },
+    "image_set_id": "14519",
+    "image_id": "79656",
+    "image_path": "/files/ps2/images/static/79656.png"
+  },
+  {
+    "reward_set_id": "4450",
+    "faction_id": "3",
+    "name": {
+      "de": "Meister-Schrotflinten-Banner",
+      "en": "Master Shotgun Banner",
+      "es": "Pancarta de Maestro de escopetas",
+      "fr": "Bannière de Maître en fusil",
+      "it": "Insegna Maestro di fucili",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Дробовик",
+      "tr": "NULL",
+      "zh": "大师[#SHOTGUN#]旗帜"
+    },
+    "image_set_id": "93076",
+    "image_id": "79656",
+    "image_path": "/files/ps2/images/static/79656.png"
+  },
+  {
+    "reward_set_id": "850",
+    "faction_id": "3",
+    "name": {
+      "de": "Banner \"Experten-Gewehre\"",
+      "en": "Expert Sniper Rifle Banner",
+      "es": "Pancarta de Experto en rifles de francotirador",
+      "fr": "Bannière d'Expert sniper au fusil de précision",
+      "it": "Insegna Esperto in fucili di precisione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Снайперская винтовка",
+      "tr": "NULL",
+      "zh": "专家[#SNIPER_RIFLE#]旗帜"
+    },
+    "image_set_id": "14520",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "4454",
+    "faction_id": "3",
+    "name": {
+      "de": "Meister-Scharfschützengewehr-Banner",
+      "en": "Master Sniper Rifle Banner",
+      "es": "Pancarta de Maestro de rifles de francotirador",
+      "fr": "Bannière de Maître en fusil de précision",
+      "it": "Insegna Maestro di fucili di precisione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Снайперская винтовка",
+      "tr": "NULL",
+      "zh": "大师[#SNIPER_RIFLE#]旗帜"
+    },
+    "image_set_id": "93077",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "4477",
+    "faction_id": "2",
+    "name": {
+      "de": "Auraxium Mag-Cutter",
+      "en": "Auraxium Mag-Cutter",
+      "es": "Mag-Cutter de auraxium",
+      "fr": "Mag-Cutter d'Auraxium",
+      "it": "Mag-Cutter di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Аураксиевый Mag-Cutter",
+      "tr": "NULL",
+      "zh": "Auraxium电磁切割刀"
+    },
+    "image_set_id": "14398",
+    "image_id": "77992",
+    "image_path": "/files/ps2/images/static/77992.png"
+  },
+  {
+    "reward_set_id": "4467",
+    "faction_id": "2",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14353",
+    "image_id": "77994",
+    "image_path": "/files/ps2/images/static/77994.png"
+  },
+  {
+    "reward_set_id": "4622",
+    "faction_id": "2",
+    "name": {
+      "de": "NSX Fujin",
+      "en": "NSX Fujin",
+      "es": "NSX Fujin",
+      "fr": "NSX Fujin",
+      "it": "NSX Fujin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX Fujin",
+      "tr": "NULL",
+      "zh": "NSX Fujin"
+    },
+    "image_set_id": "803740",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4621",
+    "faction_id": "2",
+    "name": {
+      "de": "NSX-Banner",
+      "en": "NSX Banner",
+      "es": "Estandarte NSX",
+      "fr": "Bannière NSX",
+      "it": "Insegna NSX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX «Баннер»",
+      "tr": "NULL",
+      "zh": "NSX旗帜"
+    },
+    "image_set_id": "803812",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6106",
+    "faction_id": "2",
+    "name": {
+      "de": "Tarnung \"Gefahrenzulage\"",
+      "en": "Hazard Pay Camo",
+      "es": "Camuflaje Plus de peligrosidad",
+      "fr": "Camouflage Prime de risque",
+      "it": "Mimetica rischio del mestiere",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Hazard Pay",
+      "tr": "NULL",
+      "zh": "危险津贴迷彩"
+    },
+    "image_set_id": "807198",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "848",
+    "faction_id": "2",
+    "name": {
+      "de": "Experten-Scoutgewehr-Banner",
+      "en": "Expert Scout Rifle Banner",
+      "es": "Pancarta de Experto en rifles Scout",
+      "fr": "Bannière d'Expert en fusil d'éclaireur",
+      "it": "Insegna Esperto in fucili di ricognizione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Ружье",
+      "tr": "NULL",
+      "zh": "专家[#SCOUT_RIFLE#]旗帜"
+    },
+    "image_set_id": "14510",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "4455",
+    "faction_id": "2",
+    "name": {
+      "de": "Meister-Scoutgewehr-Banner",
+      "en": "Master Scout Rifle Banner",
+      "es": "Pancarta de Maestro de rifles Scout",
+      "fr": "Bannière de Maître en fusil d'éclaireur",
+      "it": "Insegna Maestro di fucili da ricognizione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Ружье",
+      "tr": "NULL",
+      "zh": "大师[#SCOUT_RIFLE#]旗帜"
+    },
+    "image_set_id": "93067",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "4461",
+    "faction_id": "2",
+    "name": {
+      "de": "C-4 ARX",
+      "en": "C-4 ARX",
+      "es": "C-4 ARX",
+      "fr": "C-4 ARX",
+      "it": "C-4 ARX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "C-4 ARX",
+      "tr": "NULL",
+      "zh": "C4 ARX"
+    },
+    "image_set_id": "14397",
+    "image_id": "79593",
+    "image_path": "/files/ps2/images/static/79593.png"
+  },
+  {
+    "reward_set_id": "4642",
+    "faction_id": "2",
+    "name": {
+      "de": "Implantat-Pakete \"Anfänger\"",
+      "en": "Novice Implant Pack",
+      "es": "Pack de implantes para novatos",
+      "fr": "Pack d'implants Novice",
+      "it": "Pacchetto Impianti Novizio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Набор имплантов для начинающих",
+      "tr": "NULL",
+      "zh": "新手插件包"
+    },
+    "image_set_id": "803973",
+    "image_id": "77987",
+    "image_path": "/files/ps2/images/static/77987.png"
+  },
+  {
+    "reward_set_id": "4462",
+    "faction_id": "2",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14349",
+    "image_id": "77987",
+    "image_path": "/files/ps2/images/static/77987.png"
+  },
+  {
+    "reward_set_id": "5925",
+    "faction_id": "2",
+    "name": {
+      "de": "Tarnung \"Käfer\"",
+      "en": "Beetle Camo",
+      "es": "Camuflaje de escarabajo",
+      "fr": "Camo : Scarabée",
+      "it": "Mimetica Beetle",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Beetle",
+      "tr": "NULL",
+      "zh": "甲虫迷彩"
+    },
+    "image_set_id": "806557",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4464",
+    "faction_id": "2",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14351",
+    "image_id": "77990",
+    "image_path": "/files/ps2/images/static/77990.png"
+  },
+  {
+    "reward_set_id": "4620",
+    "faction_id": "2",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "803432",
+    "image_id": "86536",
+    "image_path": "/files/ps2/images/static/86536.png"
+  },
+  {
+    "reward_set_id": "4463",
+    "faction_id": "2",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14350",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "reward_set_id": "6101",
+    "faction_id": "2",
+    "name": {
+      "de": "NSX Raijin",
+      "en": "NSX Raijin",
+      "es": "NSX Raijin",
+      "fr": "NSX Raijin",
+      "it": "NSX Raijin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX Raijin",
+      "tr": "NULL",
+      "zh": "NSX Raijin"
+    },
+    "image_set_id": "804603",
+    "image_id": "84293",
+    "image_path": "/files/ps2/images/static/84293.png"
+  },
+  {
+    "reward_set_id": "6102",
+    "faction_id": "2",
+    "name": {
+      "de": "Punisher-Banner",
+      "en": "Punisher Banner",
+      "es": "Pancarta de Punisher",
+      "fr": "Bannière du Punisher",
+      "it": "Insegna del Punisher",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер Punisher",
+      "tr": "NULL",
+      "zh": "Punisher旗帜"
+    },
+    "image_set_id": "806379",
+    "image_id": "84293",
+    "image_path": "/files/ps2/images/static/84293.png"
+  },
+  {
+    "reward_set_id": "4465",
+    "faction_id": "2",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14354",
+    "image_id": "77991",
+    "image_path": "/files/ps2/images/static/77991.png"
+  },
+  {
+    "reward_set_id": "4593",
+    "faction_id": "2",
+    "name": {
+      "de": "NS-15 Galgen",
+      "en": "NS-15 Gallows",
+      "es": "NS-15 Gallows",
+      "fr": "NS-15 Gallows",
+      "it": "NS-15 Gallows",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-15 Gallows",
+      "tr": "NULL",
+      "zh": "NS-15 Gallows"
+    },
+    "image_set_id": "802800",
+    "image_id": "84790",
+    "image_path": "/files/ps2/images/static/84790.png"
+  },
+  {
+    "reward_set_id": "4466",
+    "faction_id": "2",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "14352",
+    "image_id": "77993",
+    "image_path": "/files/ps2/images/static/77993.png"
+  },
+  {
+    "reward_set_id": "6147",
+    "faction_id": "2",
+    "name": {
+      "de": "Tarnung \"Chromglanz\"",
+      "en": "Chromeshine Camo",
+      "es": "Camuflaje cromado",
+      "fr": "Camo Chromeshine",
+      "it": "Mimetica cromata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Chromeshine",
+      "tr": "NULL",
+      "zh": "镀铬光泽迷彩"
+    },
+    "image_set_id": "807473",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "5329",
+    "faction_id": "2",
+    "name": {
+      "de": "Tarnung \"Brillant\"",
+      "en": "Brilliant Camo",
+      "es": "Camuflaje brillante",
+      "fr": "Camo : Brillant",
+      "it": "Mimetica brillante",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Сверкание»",
+      "tr": "NULL",
+      "zh": "杰出迷彩"
+    },
+    "image_set_id": "806184",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6092",
+    "faction_id": "2",
+    "name": {
+      "de": "NS Chevalier",
+      "en": "NS Chevalier",
+      "es": "NS Chevalier",
+      "fr": "NS Chevalier",
+      "it": "NS Chevalier",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Кавалер NS",
+      "tr": "NULL",
+      "zh": "纳能骑士"
+    },
+    "image_set_id": "807029",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4471",
+    "faction_id": "2",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14390",
+    "image_id": "79673",
+    "image_path": "/files/ps2/images/static/79673.png"
+  },
+  {
+    "reward_set_id": "4641",
+    "faction_id": "2",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4655",
+    "faction_id": "2",
+    "name": {
+      "de": "ZERT-Explosionssignal",
+      "en": "Cert Explosion Horn",
+      "es": "Bocina de explosión de Certs",
+      "fr": "Klaxon Explosion d'accréditations",
+      "it": "Clacson esplosione certificazione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сигнал «Взрыв сертификата»",
+      "tr": "NULL",
+      "zh": "证书爆破尖角"
+    },
+    "image_set_id": "804236",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4656",
+    "faction_id": "2",
+    "name": {
+      "de": "Goldene Waffentarnung",
+      "en": "Gold Weapon Camo",
+      "es": "Camuflaje de arma de oro",
+      "fr": "Arme : Camo : Or",
+      "it": "Applica una mimetizzazione dorata da arma",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Золотое оружие»",
+      "tr": "NULL",
+      "zh": "[#GOLD#][#WEAPON_CAMO#]"
+    },
+    "image_set_id": "804235",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4447",
+    "faction_id": "2",
+    "name": {
+      "de": "Tarnung \"Schwarz\"",
+      "en": "Black Camo",
+      "es": "Camuflaje negro",
+      "fr": "Camouflage Noir",
+      "it": "Mimetizzazione nera",
+      "ko": "검은색 캐모",
+      "pt": "NULL",
+      "ru": "Камуфляж «Черный»",
+      "tr": "Black Camo",
+      "zh": "黑色迷彩"
+    },
+    "image_set_id": "7237",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4646",
+    "faction_id": "2",
+    "name": {
+      "de": "NS-45 \"Brass\" Pilot",
+      "en": "NS-45 \"Brass\" Pilot",
+      "es": "NS-45 Pilot \"Mandamás\"",
+      "fr": "NS-45 Pilot \"Brass\"",
+      "it": "Pilota  NS-45 \"Brass\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-45 «Brass» Pilot",
+      "tr": "NULL",
+      "zh": "NS-45“黄铜”Pilot"
+    },
+    "image_set_id": "803997",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6132",
+    "faction_id": "2",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "807243",
+    "image_id": "95008",
+    "image_path": "/files/ps2/images/static/95008.png"
+  },
+  {
+    "reward_set_id": "5875",
+    "faction_id": "2",
+    "name": {
+      "de": "Mentor-Chat-Zugang",
+      "en": "Mentor Chat Access",
+      "es": "Acceso al chat de mentores",
+      "fr": "Accès chat mentor",
+      "it": "Accesso alla chat del mentore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Доступ к чату наставника",
+      "tr": "NULL",
+      "zh": "导师聊天访问权限"
+    },
+    "image_set_id": "805958",
+    "image_id": "80343",
+    "image_path": "/files/ps2/images/static/80343.png"
+  },
+  {
+    "reward_set_id": "4504",
+    "faction_id": "2",
+    "name": {
+      "de": "NS Commander-Helm",
+      "en": "NS Commander Helmet",
+      "es": "Casco de comandante de NS",
+      "fr": "Casque de commandant NS",
+      "it": "Casco comandante NS",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Шлем командира NS",
+      "tr": "NULL",
+      "zh": "NS指挥官头盔"
+    },
+    "image_set_id": "14501",
+    "image_id": "80343",
+    "image_path": "/files/ps2/images/static/80343.png"
+  },
+  {
+    "reward_set_id": "4476",
+    "faction_id": "2",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "80129",
+    "image_id": "80344",
+    "image_path": "/files/ps2/images/static/80344.png"
+  },
+  {
+    "reward_set_id": "4474",
+    "faction_id": "2",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14370",
+    "image_id": "79595",
+    "image_path": "/files/ps2/images/static/79595.png"
+  },
+  {
+    "reward_set_id": "4469",
+    "faction_id": "2",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14387",
+    "image_id": "79666",
+    "image_path": "/files/ps2/images/static/79666.png"
+  },
+  {
+    "reward_set_id": "4472",
+    "faction_id": "2",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14385",
+    "image_id": "79640",
+    "image_path": "/files/ps2/images/static/79640.png"
+  },
+  {
+    "reward_set_id": "6097",
+    "faction_id": "2",
+    "name": {
+      "de": "UBR-100 Frogman",
+      "en": "UBR-100 Frogman",
+      "es": "UBR-100 Frogman",
+      "fr": "UBR-100 Frogman",
+      "it": "UBR-100 Frogman",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "UBR-100 Frogman",
+      "tr": "NULL",
+      "zh": "UBR-100 Frogman"
+    },
+    "image_set_id": "807035",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6098",
+    "faction_id": "2",
+    "name": {
+      "de": "Tarnmuster \"Paradies\"",
+      "en": "Paradise Camo",
+      "es": "Camuflaje paraíso",
+      "fr": "Camouflage Paradis",
+      "it": "Mimetica Paradiso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Парадиз»",
+      "tr": "NULL",
+      "zh": "天堂迷彩"
+    },
+    "image_set_id": "804212",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "4470",
+    "faction_id": "2",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14376",
+    "image_id": "79611",
+    "image_path": "/files/ps2/images/static/79611.png"
+  },
+  {
+    "reward_set_id": "4475",
+    "faction_id": "2",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14367",
+    "image_id": "79598",
+    "image_path": "/files/ps2/images/static/79598.png"
+  },
+  {
+    "reward_set_id": "4468",
+    "faction_id": "2",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14382",
+    "image_id": "79637",
+    "image_path": "/files/ps2/images/static/79637.png"
+  },
+  {
+    "reward_set_id": "4473",
+    "faction_id": "2",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14373",
+    "image_id": "79607",
+    "image_path": "/files/ps2/images/static/79607.png"
+  },
+  {
+    "reward_set_id": "4833",
+    "faction_id": "2",
+    "name": {
+      "de": "Solide Mauer",
+      "en": "Solid Wall",
+      "es": "Muro sólido",
+      "fr": "Mur solide",
+      "it": "Muro solido",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Глухая стена",
+      "tr": "NULL",
+      "zh": "实心墙"
+    },
+    "image_set_id": "804493",
+    "image_id": "89462",
+    "image_path": "/files/ps2/images/static/89462.png"
+  },
+  {
+    "reward_set_id": "4834",
+    "faction_id": "2",
+    "name": {
+      "de": "Titel: Baumeister",
+      "en": "Title: Builder",
+      "es": "Título: Constructor",
+      "fr": "Titre : Constructeur",
+      "it": "Titolo: Costruttore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: Строитель",
+      "tr": "NULL",
+      "zh": "头衔：建筑者"
+    },
+    "image_set_id": "804410",
+    "image_id": "89462",
+    "image_path": "/files/ps2/images/static/89462.png"
+  },
+  {
+    "reward_set_id": "4835",
+    "faction_id": "2",
+    "name": {
+      "de": "WLT-ARX Bergbau-Laser",
+      "en": "WLT-ARX Mining Laser",
+      "es": "WLT-ARX: láser minero",
+      "fr": "Laser minier WLT-ARX",
+      "it": "Laser minerario WLT-ARX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Промышленный лазер WLT-ARX",
+      "tr": "NULL",
+      "zh": "WLT-ARX激光采矿器"
+    },
+    "image_set_id": "804494",
+    "image_id": "89462",
+    "image_path": "/files/ps2/images/static/89462.png"
+  },
+  {
+    "reward_set_id": "844",
+    "faction_id": "2",
+    "name": {
+      "de": "Expertenkarabiner-Banner",
+      "en": "Expert Carbine Banner",
+      "es": "Pancarta de Experto en carabinas",
+      "fr": "Bannière d'Expert en carabine",
+      "it": "Insegna Esperto in carabine",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Карабин",
+      "tr": "NULL",
+      "zh": "专家[#CARBINE#]旗帜"
+    },
+    "image_set_id": "14506",
+    "image_id": "79587",
+    "image_path": "/files/ps2/images/static/79587.png"
+  },
+  {
+    "reward_set_id": "4449",
+    "faction_id": "2",
+    "name": {
+      "de": "Meisterkarabiner-Banner",
+      "en": "Master Carbine Banner",
+      "es": "Pancarta de Maestro de carabinas",
+      "fr": "Bannière de Maître en carabine",
+      "it": "Insegna Maestro di carabina",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Карабин",
+      "tr": "NULL",
+      "zh": "大师[#CARBINE#]旗帜"
+    },
+    "image_set_id": "93063",
+    "image_id": "79587",
+    "image_path": "/files/ps2/images/static/79587.png"
+  },
+  {
+    "reward_set_id": "4479",
+    "faction_id": "2",
+    "name": {
+      "de": "Tarnung \"Weiß\"",
+      "en": "White Camo",
+      "es": "Camuflaje blanco",
+      "fr": "Camouflage Blanc",
+      "it": "Mimetizzazione bianca",
+      "ko": "흰색 캐모",
+      "pt": "NULL",
+      "ru": "Камуфляж «Белый»",
+      "tr": "White Camo",
+      "zh": "白色迷彩"
+    },
+    "image_set_id": "7255",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "843",
+    "faction_id": "2",
+    "name": {
+      "de": "Experten-Sturmgewehr-Banner",
+      "en": "Expert Assault Rifle Banner",
+      "es": "Pancarta de Experto en rifles de asalto",
+      "fr": "Bannière d'Expert en fusil d'assaut",
+      "it": "Insegna Esperto in fucili d'assalto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Штурмовая винтовка",
+      "tr": "NULL",
+      "zh": "专家[#ASSAULT_RIFLE#]旗帜"
+    },
+    "image_set_id": "14505",
+    "image_id": "79583",
+    "image_path": "/files/ps2/images/static/79583.png"
+  },
+  {
+    "reward_set_id": "4448",
+    "faction_id": "2",
+    "name": {
+      "de": "Meisterangriffsgewehr-Banner",
+      "en": "Master Assault Rifle Banner",
+      "es": "Pancarta de Maestro de rifles de asalto",
+      "fr": "Bannière de Maître en fusil d'assaut",
+      "it": "Insegna Maestro di fucili d'assalto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Штурмовая винтовка",
+      "tr": "NULL",
+      "zh": "大师[#ASSAULT_RIFLE#]旗帜"
+    },
+    "image_set_id": "93062",
+    "image_id": "79583",
+    "image_path": "/files/ps2/images/static/79583.png"
+  },
+  {
+    "reward_set_id": "845",
+    "faction_id": "2",
+    "name": {
+      "de": "Experten-LMG-Banner",
+      "en": "Expert LMG Banner",
+      "es": "Pancarta de Experto en ametralladoras",
+      "fr": "Bannière d'Expert en mitrailleuse légère",
+      "it": "Insegna Esperto in LMG",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Ручной пулемет",
+      "tr": "NULL",
+      "zh": "专家轻机枪旗帜"
+    },
+    "image_set_id": "14507",
+    "image_id": "79616",
+    "image_path": "/files/ps2/images/static/79616.png"
+  },
+  {
+    "reward_set_id": "4451",
+    "faction_id": "2",
+    "name": {
+      "de": "Meister-LMG-Banner",
+      "en": "Master LMG Banner",
+      "es": "Pancarta de Maestro de ametralladoras",
+      "fr": "Bannière de Maître en mitrailleuse légère",
+      "it": "Insegna Maestro di LMG",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Ручной пулемет",
+      "tr": "NULL",
+      "zh": "大师轻机枪旗帜"
+    },
+    "image_set_id": "93064",
+    "image_id": "79616",
+    "image_path": "/files/ps2/images/static/79616.png"
+  },
+  {
+    "reward_set_id": "4542",
+    "faction_id": "2",
+    "name": {
+      "de": "Expertenwerfer-Banner",
+      "en": "Expert Launcher Banner",
+      "es": "Pancarta de Experto en lanzacohetes",
+      "fr": "Bannière d'Expert lanceur",
+      "it": "Insegna Esperto in lanciamissili",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Гранатомет",
+      "tr": "NULL",
+      "zh": "专家发射器旗帜"
+    },
+    "image_set_id": "93107",
+    "image_id": "79605",
+    "image_path": "/files/ps2/images/static/79605.png"
+  },
+  {
+    "reward_set_id": "4478",
+    "faction_id": "2",
+    "name": {
+      "de": "Meisterwerfer-Banner",
+      "en": "Master Launcher Banner",
+      "es": "Pancarta de Maestro lanzacohetes",
+      "fr": "Bannière de Maître lanceur",
+      "it": "Insegna Maestro di lanciamissili",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Гранатомет",
+      "tr": "NULL",
+      "zh": "大师发射器旗帜"
+    },
+    "image_set_id": "80229",
+    "image_id": "79605",
+    "image_path": "/files/ps2/images/static/79605.png"
+  },
+  {
+    "reward_set_id": "846",
+    "faction_id": "2",
+    "name": {
+      "de": "Expertenpistolen-Banner",
+      "en": "Expert Pistol Banner",
+      "es": "Pancarta de Experto en pistolas",
+      "fr": "Bannière d'Expert en pistolet",
+      "it": "Insegna Esperto in pistole",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Пистолет",
+      "tr": "NULL",
+      "zh": "专家[#PISTOL#]旗帜"
+    },
+    "image_set_id": "14508",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "reward_set_id": "4452",
+    "faction_id": "2",
+    "name": {
+      "de": "Meisterpistolen-Banner",
+      "en": "Master Pistol Banner",
+      "es": "Pancarta de Maestro de pistolas",
+      "fr": "Bannière de Maître en pistolet",
+      "it": "Insegna Maestro di pistole",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Пистолет",
+      "tr": "NULL",
+      "zh": "大师[#PISTOL#]旗帜"
+    },
+    "image_set_id": "93065",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "reward_set_id": "847",
+    "faction_id": "2",
+    "name": {
+      "de": "Experten-MP-Banner",
+      "en": "Expert SMG Banner",
+      "es": "Pancarta de Experto en subfusiles",
+      "fr": "Bannière d'Expert en mitraillette",
+      "it": "Insegna Esperto in mitra",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Пистолет-пулемет",
+      "tr": "NULL",
+      "zh": "专家冲锋枪旗帜"
+    },
+    "image_set_id": "14509",
+    "image_id": "79661",
+    "image_path": "/files/ps2/images/static/79661.png"
+  },
+  {
+    "reward_set_id": "4453",
+    "faction_id": "2",
+    "name": {
+      "de": "Meister-MP-Banner",
+      "en": "Master SMG Banner",
+      "es": "Pancarta de Maestro de subfusiles",
+      "fr": "Bannière de Maître en mitraillette",
+      "it": "Insegna Maestro di mitra",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Пистолет-пулемет",
+      "tr": "NULL",
+      "zh": "大师冲锋枪旗帜"
+    },
+    "image_set_id": "93066",
+    "image_id": "79661",
+    "image_path": "/files/ps2/images/static/79661.png"
+  },
+  {
+    "reward_set_id": "849",
+    "faction_id": "2",
+    "name": {
+      "de": "Experten-Schrotflinten-Banner",
+      "en": "Expert Shotgun Banner",
+      "es": "Pancarta de Experto en escopetas",
+      "fr": "Bannière d'Expert en fusil",
+      "it": "Insegna Esperto in fucili d'assalto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Дробовик",
+      "tr": "NULL",
+      "zh": "专家[#SHOTGUN#]旗帜"
+    },
+    "image_set_id": "14511",
+    "image_id": "79656",
+    "image_path": "/files/ps2/images/static/79656.png"
+  },
+  {
+    "reward_set_id": "4450",
+    "faction_id": "2",
+    "name": {
+      "de": "Meister-Schrotflinten-Banner",
+      "en": "Master Shotgun Banner",
+      "es": "Pancarta de Maestro de escopetas",
+      "fr": "Bannière de Maître en fusil",
+      "it": "Insegna Maestro di fucili",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Дробовик",
+      "tr": "NULL",
+      "zh": "大师[#SHOTGUN#]旗帜"
+    },
+    "image_set_id": "93068",
+    "image_id": "79656",
+    "image_path": "/files/ps2/images/static/79656.png"
+  },
+  {
+    "reward_set_id": "850",
+    "faction_id": "2",
+    "name": {
+      "de": "Banner \"Experten-Gewehre\"",
+      "en": "Expert Sniper Rifle Banner",
+      "es": "Pancarta de Experto en rifles de francotirador",
+      "fr": "Bannière d'Expert sniper au fusil de précision",
+      "it": "Insegna Esperto in fucili di precisione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Снайперская винтовка",
+      "tr": "NULL",
+      "zh": "专家[#SNIPER_RIFLE#]旗帜"
+    },
+    "image_set_id": "14512",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "4454",
+    "faction_id": "2",
+    "name": {
+      "de": "Meister-Scharfschützengewehr-Banner",
+      "en": "Master Sniper Rifle Banner",
+      "es": "Pancarta de Maestro de rifles de francotirador",
+      "fr": "Bannière de Maître en fusil de précision",
+      "it": "Insegna Maestro di fucili di precisione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Снайперская винтовка",
+      "tr": "NULL",
+      "zh": "大师[#SNIPER_RIFLE#]旗帜"
+    },
+    "image_set_id": "93069",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "4975",
+    "faction_id": "4",
+    "name": {
+      "de": "NSX Fujin",
+      "en": "NSX Fujin",
+      "es": "NSX Fujin",
+      "fr": "NSX Fujin",
+      "it": "NSX Fujin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX Fujin",
+      "tr": "NULL",
+      "zh": "NSX Fujin"
+    },
+    "image_set_id": "803740",
+    "image_id": "77992",
+    "image_path": "/files/ps2/images/static/77992.png"
+  },
+  {
+    "reward_set_id": "4477",
+    "faction_id": "4",
+    "name": {
+      "de": "NS-A Commando",
+      "en": "NS-A Commando",
+      "es": "NS-A Commando",
+      "fr": "Commando NS-A",
+      "it": "NS-A Commando",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-A Commando",
+      "tr": "NULL",
+      "zh": "NS-A Commando"
+    },
+    "image_set_id": "804840",
+    "image_id": "77992",
+    "image_path": "/files/ps2/images/static/77992.png"
+  },
+  {
+    "reward_set_id": "6011",
+    "faction_id": "4",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "806842",
+    "image_id": "93911",
+    "image_path": "/files/ps2/images/static/93911.png"
+  },
+  {
+    "reward_set_id": "4467",
+    "faction_id": "4",
+    "name": {
+      "de": "Auraxium-durchzogene Panzerung",
+      "en": "Auraxium Infused Plating",
+      "es": "Coraza bañada de auraxium",
+      "fr": "Plaquage infusé d'Auraxium",
+      "it": "Placcatura infusa di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Броня ARX",
+      "tr": "NULL",
+      "zh": "注入奥星元素"
+    },
+    "image_set_id": "806872",
+    "image_id": "77994",
+    "image_path": "/files/ps2/images/static/77994.png"
+  },
+  {
+    "reward_set_id": "4622",
+    "faction_id": "4",
+    "name": {
+      "de": "NSX Fujin",
+      "en": "NSX Fujin",
+      "es": "NSX Fujin",
+      "fr": "NSX Fujin",
+      "it": "NSX Fujin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX Fujin",
+      "tr": "NULL",
+      "zh": "NSX Fujin"
+    },
+    "image_set_id": "803740",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4621",
+    "faction_id": "4",
+    "name": {
+      "de": "NSX-Banner",
+      "en": "NSX Banner",
+      "es": "Estandarte NSX",
+      "fr": "Bannière NSX",
+      "it": "Insegna NSX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX «Баннер»",
+      "tr": "NULL",
+      "zh": "NSX旗帜"
+    },
+    "image_set_id": "803812",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6106",
+    "faction_id": "4",
+    "name": {
+      "de": "Tarnung \"Gefahrenzulage\"",
+      "en": "Hazard Pay Camo",
+      "es": "Camuflaje Plus de peligrosidad",
+      "fr": "Camouflage Prime de risque",
+      "it": "Mimetica rischio del mestiere",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Hazard Pay",
+      "tr": "NULL",
+      "zh": "危险津贴迷彩"
+    },
+    "image_set_id": "807198",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "848",
+    "faction_id": "4",
+    "name": {
+      "de": "Experten-Scoutgewehr-Banner",
+      "en": "Expert Scout Rifle Banner",
+      "es": "Pancarta de Experto en rifles Scout",
+      "fr": "Bannière d'Expert en fusil d'éclaireur",
+      "it": "Insegna Esperto in fucili di ricognizione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Ружье",
+      "tr": "NULL",
+      "zh": "专家侦察兵步枪旗帜"
+    },
+    "image_set_id": "806801",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "4455",
+    "faction_id": "4",
+    "name": {
+      "de": "BAR-ARX Feynman",
+      "en": "BAR-ARX Feynman",
+      "es": "BAR-ARX Feynman",
+      "fr": "BAR-ARX Feynman",
+      "it": "BAR-ARX Feynman",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "BAR-ARX Feynman",
+      "tr": "NULL",
+      "zh": "BAR-ARX Feynman"
+    },
+    "image_set_id": "806869",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "4461",
+    "faction_id": "4",
+    "name": {
+      "de": "C-4 ARX",
+      "en": "C-4 ARX",
+      "es": "C-4 ARX",
+      "fr": "C-4 ARX",
+      "it": "C-4 ARX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "C-4 ARX",
+      "tr": "NULL",
+      "zh": "C4 ARX"
+    },
+    "image_set_id": "14397",
+    "image_id": "79593",
+    "image_path": "/files/ps2/images/static/79593.png"
+  },
+  {
+    "reward_set_id": "4642",
+    "faction_id": "4",
+    "name": {
+      "de": "Implantat-Pakete \"Anfänger\"",
+      "en": "Novice Implant Pack",
+      "es": "Pack de implantes para novatos",
+      "fr": "Pack d'implants Novice",
+      "it": "Pacchetto Impianti Novizio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Набор имплантов для начинающих",
+      "tr": "NULL",
+      "zh": "新手插件包"
+    },
+    "image_set_id": "803973",
+    "image_id": "77987",
+    "image_path": "/files/ps2/images/static/77987.png"
+  },
+  {
+    "reward_set_id": "4462",
+    "faction_id": "4",
+    "name": {
+      "de": "Auraxium-Rüstung für Sanitäter",
+      "en": "Auraxium Combat Medic Armor",
+      "es": "Armadura de médico de combate de auraxium",
+      "fr": "Armure de Médecin de combat en Auraxium",
+      "it": "Armatura da Medico da campo di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Аураксиевая броня медика",
+      "tr": "NULL",
+      "zh": "[#AURAXIUM#][#COMBAT_MEDIC#]装甲"
+    },
+    "image_set_id": "804856",
+    "image_id": "77987",
+    "image_path": "/files/ps2/images/static/77987.png"
+  },
+  {
+    "reward_set_id": "5925",
+    "faction_id": "4",
+    "name": {
+      "de": "Tarnung \"Käfer\"",
+      "en": "Beetle Camo",
+      "es": "Camuflaje de escarabajo",
+      "fr": "Camo : Scarabée",
+      "it": "Mimetica Beetle",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Beetle",
+      "tr": "NULL",
+      "zh": "甲虫迷彩"
+    },
+    "image_set_id": "806557",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4464",
+    "faction_id": "4",
+    "name": {
+      "de": "Auraxium-Rüstung für schwere Angriffseinheit",
+      "en": "Auraxium Heavy Assault Armor",
+      "es": "Armadura de asalto pesado de auraxium",
+      "fr": "Armure d'Assaut lourd en Auraxium",
+      "it": "Armatura da Assalto Pesante di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Аураксиевая броня штурмовика",
+      "tr": "NULL",
+      "zh": "[#AURAXIUM#][#HEAVY_ASSAULT#]装甲"
+    },
+    "image_set_id": "804850",
+    "image_id": "77990",
+    "image_path": "/files/ps2/images/static/77990.png"
+  },
+  {
+    "reward_set_id": "4620",
+    "faction_id": "4",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "803434",
+    "image_id": "86536",
+    "image_path": "/files/ps2/images/static/86536.png"
+  },
+  {
+    "reward_set_id": "4463",
+    "faction_id": "4",
+    "name": {
+      "de": "Auraxium-Rüstung für Ingenieure",
+      "en": "Auraxium Engineer Armor",
+      "es": "Armadura de ingeniero de auraxium",
+      "fr": "Armure d'Ingénieur en Auraxium",
+      "it": "Armatura da Geniere di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Аураксиевая броня инженера",
+      "tr": "NULL",
+      "zh": "[#AURAXIUM#][#Engineer#]装甲"
+    },
+    "image_set_id": "804844",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "reward_set_id": "6101",
+    "faction_id": "4",
+    "name": {
+      "de": "NSX Raijin",
+      "en": "NSX Raijin",
+      "es": "NSX Raijin",
+      "fr": "NSX Raijin",
+      "it": "NSX Raijin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX Raijin",
+      "tr": "NULL",
+      "zh": "NSX Raijin"
+    },
+    "image_set_id": "804603",
+    "image_id": "84293",
+    "image_path": "/files/ps2/images/static/84293.png"
+  },
+  {
+    "reward_set_id": "6102",
+    "faction_id": "4",
+    "name": {
+      "de": "Punisher-Banner",
+      "en": "Punisher Banner",
+      "es": "Pancarta de Punisher",
+      "fr": "Bannière du Punisher",
+      "it": "Insegna del Punisher",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер Punisher",
+      "tr": "NULL",
+      "zh": "Punisher旗帜"
+    },
+    "image_set_id": "806379",
+    "image_id": "84293",
+    "image_path": "/files/ps2/images/static/84293.png"
+  },
+  {
+    "reward_set_id": "4465",
+    "faction_id": "4",
+    "name": {
+      "de": "Auraxium-Rüstung für Spione",
+      "en": "Auraxium Infiltrator Armor",
+      "es": "Armadura de infiltrado de auraxium",
+      "fr": "Armure d'Infiltré en Auraxium",
+      "it": "Armatura da Infiltrato di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Аураксиевая броня диверсанта",
+      "tr": "NULL",
+      "zh": "[#AURAXIUM#][#INFILTRATOR#]装甲"
+    },
+    "image_set_id": "804853",
+    "image_id": "77991",
+    "image_path": "/files/ps2/images/static/77991.png"
+  },
+  {
+    "reward_set_id": "4593",
+    "faction_id": "4",
+    "name": {
+      "de": "NS-15 Galgen",
+      "en": "NS-15 Gallows",
+      "es": "NS-15 Gallows",
+      "fr": "NS-15 Gallows",
+      "it": "NS-15 Gallows",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-15 Gallows",
+      "tr": "NULL",
+      "zh": "NS-15 Gallows"
+    },
+    "image_set_id": "802800",
+    "image_id": "84790",
+    "image_path": "/files/ps2/images/static/84790.png"
+  },
+  {
+    "reward_set_id": "4466",
+    "faction_id": "4",
+    "name": {
+      "de": "Auraxium-Rüstung für leichte Angriffseinheit",
+      "en": "Auraxium Light Assault Armor",
+      "es": "Armadura de asalto ligero de auraxium",
+      "fr": "Armure d'Assaut léger en Auraxium",
+      "it": "Armatura da Assalto Leggero di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Аураксиевая броня десантника",
+      "tr": "NULL",
+      "zh": "[#AURAXIUM#][#LIGHT_ASSAULT#]装甲"
+    },
+    "image_set_id": "804847",
+    "image_id": "77993",
+    "image_path": "/files/ps2/images/static/77993.png"
+  },
+  {
+    "reward_set_id": "6147",
+    "faction_id": "4",
+    "name": {
+      "de": "Tarnung \"Chromglanz\"",
+      "en": "Chromeshine Camo",
+      "es": "Camuflaje cromado",
+      "fr": "Camo Chromeshine",
+      "it": "Mimetica cromata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Chromeshine",
+      "tr": "NULL",
+      "zh": "镀铬光泽迷彩"
+    },
+    "image_set_id": "807473",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "5329",
+    "faction_id": "4",
+    "name": {
+      "de": "Tarnung \"Brillant\"",
+      "en": "Brilliant Camo",
+      "es": "Camuflaje brillante",
+      "fr": "Camo : Brillant",
+      "it": "Mimetica brillante",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Сверкание»",
+      "tr": "NULL",
+      "zh": "杰出迷彩"
+    },
+    "image_set_id": "806184",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6092",
+    "faction_id": "4",
+    "name": {
+      "de": "NS Chevalier",
+      "en": "NS Chevalier",
+      "es": "NS Chevalier",
+      "fr": "NS Chevalier",
+      "it": "NS Chevalier",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Кавалер NS",
+      "tr": "NULL",
+      "zh": "纳能骑士"
+    },
+    "image_set_id": "807029",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4641",
+    "faction_id": "4",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4655",
+    "faction_id": "4",
+    "name": {
+      "de": "ZERT-Explosionssignal",
+      "en": "Cert Explosion Horn",
+      "es": "Bocina de explosión de Certs",
+      "fr": "Klaxon Explosion d'accréditations",
+      "it": "Clacson esplosione certificazione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сигнал «Взрыв сертификата»",
+      "tr": "NULL",
+      "zh": "证书爆破尖角"
+    },
+    "image_set_id": "804236",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4656",
+    "faction_id": "4",
+    "name": {
+      "de": "Goldene Waffentarnung",
+      "en": "Gold Weapon Camo",
+      "es": "Camuflaje de arma de oro",
+      "fr": "Arme : Camo : Or",
+      "it": "Applica una mimetizzazione dorata da arma",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Золотое оружие»",
+      "tr": "NULL",
+      "zh": "[#GOLD#][#WEAPON_CAMO#]"
+    },
+    "image_set_id": "804235",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "4447",
+    "faction_id": "4",
+    "name": {
+      "de": "Tarnung \"Schwarz\"",
+      "en": "Black Camo",
+      "es": "Camuflaje negro",
+      "fr": "Camouflage Noir",
+      "it": "Mimetizzazione nera",
+      "ko": "검은색 캐모",
+      "pt": "NULL",
+      "ru": "Камуфляж «Черный»",
+      "tr": "Black Camo",
+      "zh": "黑色迷彩"
+    },
+    "image_set_id": "7237",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6012",
+    "faction_id": "4",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "806831",
+    "image_id": "93609",
+    "image_path": "/files/ps2/images/static/93609.png"
+  },
+  {
+    "reward_set_id": "4646",
+    "faction_id": "4",
+    "name": {
+      "de": "NS-45 \"Brass\" Pilot",
+      "en": "NS-45 \"Brass\" Pilot",
+      "es": "NS-45 Pilot \"Mandamás\"",
+      "fr": "NS-45 Pilot \"Brass\"",
+      "it": "Pilota  NS-45 \"Brass\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-45 «Brass» Pilot",
+      "tr": "NULL",
+      "zh": "NS-45“黄铜”Pilot"
+    },
+    "image_set_id": "803997",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6132",
+    "faction_id": "4",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "807243",
+    "image_id": "95008",
+    "image_path": "/files/ps2/images/static/95008.png"
+  },
+  {
+    "reward_set_id": "5875",
+    "faction_id": "4",
+    "name": {
+      "de": "Mentor-Chat-Zugang",
+      "en": "Mentor Chat Access",
+      "es": "Acceso al chat de mentores",
+      "fr": "Accès chat mentor",
+      "it": "Accesso alla chat del mentore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Доступ к чату наставника",
+      "tr": "NULL",
+      "zh": "导师聊天访问权限"
+    },
+    "image_set_id": "805958",
+    "image_id": "80343",
+    "image_path": "/files/ps2/images/static/80343.png"
+  },
+  {
+    "reward_set_id": "4504",
+    "faction_id": "4",
+    "name": {
+      "de": "NSO Commander-Headset",
+      "en": "NSO Commander Headset",
+      "es": "Casco de comandante NSO",
+      "fr": "Tête de Commandant NSO",
+      "it": "Cuffie del Commander NSO",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Шлем командира NSO",
+      "tr": "NULL",
+      "zh": "NSO指挥官耳机"
+    },
+    "image_set_id": "804859",
+    "image_id": "80343",
+    "image_path": "/files/ps2/images/static/80343.png"
+  },
+  {
+    "reward_set_id": "6013",
+    "faction_id": "4",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "806837",
+    "image_id": "93608",
+    "image_path": "/files/ps2/images/static/93608.png"
+  },
+  {
+    "reward_set_id": "4476",
+    "faction_id": "4",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "80131",
+    "image_id": "80344",
+    "image_path": "/files/ps2/images/static/80344.png"
+  },
+  {
+    "reward_set_id": "4474",
+    "faction_id": "4",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14372",
+    "image_id": "79595",
+    "image_path": "/files/ps2/images/static/79595.png"
+  },
+  {
+    "reward_set_id": "4469",
+    "faction_id": "4",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14389",
+    "image_id": "79666",
+    "image_path": "/files/ps2/images/static/79666.png"
+  },
+  {
+    "reward_set_id": "6097",
+    "faction_id": "4",
+    "name": {
+      "de": "UBR-100 Frogman",
+      "en": "UBR-100 Frogman",
+      "es": "UBR-100 Frogman",
+      "fr": "UBR-100 Frogman",
+      "it": "UBR-100 Frogman",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "UBR-100 Frogman",
+      "tr": "NULL",
+      "zh": "UBR-100 Frogman"
+    },
+    "image_set_id": "807035",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6098",
+    "faction_id": "4",
+    "name": {
+      "de": "Tarnmuster \"Paradies\"",
+      "en": "Paradise Camo",
+      "es": "Camuflaje paraíso",
+      "fr": "Camouflage Paradis",
+      "it": "Mimetica Paradiso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Парадиз»",
+      "tr": "NULL",
+      "zh": "天堂迷彩"
+    },
+    "image_set_id": "807054",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "4470",
+    "faction_id": "4",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14378",
+    "image_id": "79611",
+    "image_path": "/files/ps2/images/static/79611.png"
+  },
+  {
+    "reward_set_id": "4475",
+    "faction_id": "4",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14369",
+    "image_id": "79598",
+    "image_path": "/files/ps2/images/static/79598.png"
+  },
+  {
+    "reward_set_id": "4468",
+    "faction_id": "4",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14384",
+    "image_id": "79637",
+    "image_path": "/files/ps2/images/static/79637.png"
+  },
+  {
+    "reward_set_id": "4473",
+    "faction_id": "4",
+    "name": {
+      "de": "Lumifaser-Zierleiste aus Auraxium",
+      "en": "Auraxium Lumifiber Trim",
+      "es": "Adorno de lumifibra de auraxium",
+      "fr": "Finition lumifibre Auraxium",
+      "it": "Rifinitura in lumifibra di Auraxium",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Световое покрытие ARX",
+      "tr": "NULL",
+      "zh": "奥星炫光条纹"
+    },
+    "image_set_id": "14375",
+    "image_id": "79607",
+    "image_path": "/files/ps2/images/static/79607.png"
+  },
+  {
+    "reward_set_id": "4833",
+    "faction_id": "4",
+    "name": {
+      "de": "Solide Mauer",
+      "en": "Solid Wall",
+      "es": "Muro sólido",
+      "fr": "Mur solide",
+      "it": "Muro solido",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Глухая стена",
+      "tr": "NULL",
+      "zh": "实心墙"
+    },
+    "image_set_id": "804493",
+    "image_id": "89462",
+    "image_path": "/files/ps2/images/static/89462.png"
+  },
+  {
+    "reward_set_id": "4834",
+    "faction_id": "4",
+    "name": {
+      "de": "Blaupause-Banner",
+      "en": "Blueprint Banner",
+      "es": "Pancarta de plano",
+      "fr": "Bannière de base",
+      "it": "Insegna Progetto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер: Чертеж",
+      "tr": "NULL",
+      "zh": "蓝图旗帜"
+    },
+    "image_set_id": "804760",
+    "image_id": "89462",
+    "image_path": "/files/ps2/images/static/89462.png"
+  },
+  {
+    "reward_set_id": "4835",
+    "faction_id": "4",
+    "name": {
+      "de": "WLT-ARX Bergbau-Laser",
+      "en": "WLT-ARX Mining Laser",
+      "es": "WLT-ARX: láser minero",
+      "fr": "Laser minier WLT-ARX",
+      "it": "Laser minerario WLT-ARX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Промышленный лазер WLT-ARX",
+      "tr": "NULL",
+      "zh": "WLT-ARX激光采矿器"
+    },
+    "image_set_id": "804494",
+    "image_id": "89462",
+    "image_path": "/files/ps2/images/static/89462.png"
+  },
+  {
+    "reward_set_id": "844",
+    "faction_id": "4",
+    "name": {
+      "de": "Experten-Karabiner-Banner",
+      "en": "Expert Carbine Banner",
+      "es": "Pancarta de Experto en carabinas",
+      "fr": "Bannière d'Expert en carabine",
+      "it": "Insegna Esperto in carabine",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Карабин",
+      "tr": "NULL",
+      "zh": "专家卡宾枪旗帜"
+    },
+    "image_set_id": "806796",
+    "image_id": "79587",
+    "image_path": "/files/ps2/images/static/79587.png"
+  },
+  {
+    "reward_set_id": "4449",
+    "faction_id": "4",
+    "name": {
+      "de": "CB-ARX Newton",
+      "en": "CB-ARX Newton",
+      "es": "CB-ARX Newton",
+      "fr": "CB-ARX Newton",
+      "it": "CB-ARX Newton",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "CB-ARX Newton",
+      "tr": "NULL",
+      "zh": "CB-ARX Newton"
+    },
+    "image_set_id": "806865",
+    "image_id": "79587",
+    "image_path": "/files/ps2/images/static/79587.png"
+  },
+  {
+    "reward_set_id": "4479",
+    "faction_id": "4",
+    "name": {
+      "de": "Tarnung \"Weiß\"",
+      "en": "White Camo",
+      "es": "Camuflaje blanco",
+      "fr": "Camouflage Blanc",
+      "it": "Mimetizzazione bianca",
+      "ko": "흰색 캐모",
+      "pt": "NULL",
+      "ru": "Камуфляж «Белый»",
+      "tr": "White Camo",
+      "zh": "白色迷彩"
+    },
+    "image_set_id": "7255",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "843",
+    "faction_id": "4",
+    "name": {
+      "de": "Experten-Sturmgewehr-Banner",
+      "en": "Expert Assault Rifle Banner",
+      "es": "Pancarta de Experto en rifles de asalto",
+      "fr": "Bannière d'Expert en fusil d'assaut",
+      "it": "Insegna Esperto in fucili d'assalto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Штурмовая винтовка",
+      "tr": "NULL",
+      "zh": "专家突击步枪旗帜"
+    },
+    "image_set_id": "806795",
+    "image_id": "79583",
+    "image_path": "/files/ps2/images/static/79583.png"
+  },
+  {
+    "reward_set_id": "4448",
+    "faction_id": "4",
+    "name": {
+      "de": "AR-ARX Maxwell",
+      "en": "AR-ARX Maxwell",
+      "es": "AR-ARX Maxwell",
+      "fr": "AR-ARX Maxwell",
+      "it": "AR-ARX Maxwell",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "AR-ARX Maxwell",
+      "tr": "NULL",
+      "zh": "AR-ARX Maxwell"
+    },
+    "image_set_id": "806864",
+    "image_id": "79583",
+    "image_path": "/files/ps2/images/static/79583.png"
+  },
+  {
+    "reward_set_id": "845",
+    "faction_id": "4",
+    "name": {
+      "de": "Experten-LMG-Banner",
+      "en": "Expert LMG Banner",
+      "es": "Pancarta de Experto en ametralladoras",
+      "fr": "Bannière d'Expert en mitrailleuse légère",
+      "it": "Insegna Esperto in LMG",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Ручной пулемет",
+      "tr": "NULL",
+      "zh": "专家轻机枪旗帜"
+    },
+    "image_set_id": "806798",
+    "image_id": "79616",
+    "image_path": "/files/ps2/images/static/79616.png"
+  },
+  {
+    "reward_set_id": "4451",
+    "faction_id": "4",
+    "name": {
+      "de": "XMG-ARX Galilei",
+      "en": "XMG-ARX Galilei",
+      "es": "XMG-ARX Galilei",
+      "fr": "XMG-ARX Galilei",
+      "it": "XMG-ARX Galilei",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "XMG-ARX Galilei",
+      "tr": "NULL",
+      "zh": "XMG-ARX Galilei"
+    },
+    "image_set_id": "806866",
+    "image_id": "79616",
+    "image_path": "/files/ps2/images/static/79616.png"
+  },
+  {
+    "reward_set_id": "4542",
+    "faction_id": "4",
+    "name": {
+      "de": "Experten-Werfer-Banner",
+      "en": "Expert Launcher Banner",
+      "es": "Pancarta de Experto en lanzacohetes",
+      "fr": "Bannière d'Expert lanceur",
+      "it": "Insegna Esperto in lanciamissili",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Гранатомет",
+      "tr": "NULL",
+      "zh": "专家发射器旗帜"
+    },
+    "image_set_id": "806800",
+    "image_id": "79605",
+    "image_path": "/files/ps2/images/static/79605.png"
+  },
+  {
+    "reward_set_id": "4478",
+    "faction_id": "4",
+    "name": {
+      "de": "Meister-Werfer-Banner",
+      "en": "Master Launcher Banner",
+      "es": "Pancarta de Maestro lanzacohetes",
+      "fr": "Bannière de Maître lanceur",
+      "it": "Insegna Maestro di lanciamissili",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер мастера: Гранатомет",
+      "tr": "NULL",
+      "zh": "大师发射器旗帜"
+    },
+    "image_set_id": "806825",
+    "image_id": "79605",
+    "image_path": "/files/ps2/images/static/79605.png"
+  },
+  {
+    "reward_set_id": "846",
+    "faction_id": "4",
+    "name": {
+      "de": "Experten-Pistolen-Banner",
+      "en": "Expert Pistol Banner",
+      "es": "Pancarta de Experto en pistolas",
+      "fr": "Bannière d'Expert en pistolet",
+      "it": "Insegna Esperto in pistole",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Пистолет",
+      "tr": "NULL",
+      "zh": "专家手枪旗帜"
+    },
+    "image_set_id": "806799",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "reward_set_id": "4452",
+    "faction_id": "4",
+    "name": {
+      "de": "U-ARX Dirac",
+      "en": "U-ARX Dirac",
+      "es": "U-ARX Dirac",
+      "fr": "U-ARX Dirac",
+      "it": "U-ARX Dirac",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "U-ARX Dirac",
+      "tr": "NULL",
+      "zh": "U-ARX Dirac"
+    },
+    "image_set_id": "806867",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "reward_set_id": "847",
+    "faction_id": "4",
+    "name": {
+      "de": "Experten-MP-Banner",
+      "en": "Expert SMG Banner",
+      "es": "Pancarta de Experto en subfusiles",
+      "fr": "Bannière d'Expert en mitraillette",
+      "it": "Insegna Esperto in mitra",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Пистолет-пулемет",
+      "tr": "NULL",
+      "zh": "专家冲锋枪旗帜"
+    },
+    "image_set_id": "806803",
+    "image_id": "79661",
+    "image_path": "/files/ps2/images/static/79661.png"
+  },
+  {
+    "reward_set_id": "4453",
+    "faction_id": "4",
+    "name": {
+      "de": "PMG-ARX Schrodinger",
+      "en": "PMG-ARX Schrodinger",
+      "es": "PMG-ARX Schrodinger",
+      "fr": "PMG-ARX Schrödinger",
+      "it": "PMG-ARX Schrodinger",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "PMG-ARX Schrodinger",
+      "tr": "NULL",
+      "zh": "PMG-ARX Schrodinger"
+    },
+    "image_set_id": "806868",
+    "image_id": "79661",
+    "image_path": "/files/ps2/images/static/79661.png"
+  },
+  {
+    "reward_set_id": "849",
+    "faction_id": "4",
+    "name": {
+      "de": "Experten-Schrotflinten-Banner",
+      "en": "Expert Shotgun Banner",
+      "es": "Pancarta de Experto en escopetas",
+      "fr": "Bannière d'Expert en fusil",
+      "it": "Insegna Esperto in fucili d'assalto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Дробовик",
+      "tr": "NULL",
+      "zh": "专家霰弹枪旗帜"
+    },
+    "image_set_id": "806802",
+    "image_id": "79656",
+    "image_path": "/files/ps2/images/static/79656.png"
+  },
+  {
+    "reward_set_id": "4450",
+    "faction_id": "4",
+    "name": {
+      "de": "SG-ARX Rutherford",
+      "en": "SG-ARX Rutherford",
+      "es": "SG-ARX Rutherford",
+      "fr": "SG-ARX Rutherford",
+      "it": "SG-ARX Rutherford",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "SG-ARX Rutherford",
+      "tr": "NULL",
+      "zh": "SG-ARX Rutherford"
+    },
+    "image_set_id": "806870",
+    "image_id": "79656",
+    "image_path": "/files/ps2/images/static/79656.png"
+  },
+  {
+    "reward_set_id": "850",
+    "faction_id": "4",
+    "name": {
+      "de": "Experten-Scharfschützengewehr-Banner",
+      "en": "Expert Sniper Rifle Banner",
+      "es": "Pancarta de Experto en rifles de francotirador",
+      "fr": "Bannière d'Expert sniper au fusil de précision",
+      "it": "Insegna Esperto in fucili di precisione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер эксперта: Снайперская винтовка",
+      "tr": "NULL",
+      "zh": "专家狙击步枪旗帜"
+    },
+    "image_set_id": "806804",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "reward_set_id": "4454",
+    "faction_id": "4",
+    "name": {
+      "de": "SR-ARX Einstein",
+      "en": "SR-ARX Einstein",
+      "es": "SR-ARX Einstein",
+      "fr": "SR-ARX Einstein",
+      "it": "SR-ARX Einstein",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "SR-ARX Einstein",
+      "tr": "NULL",
+      "zh": "SR-ARX Einstein"
+    },
+    "image_set_id": "806871",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
     "reward_set_id": "6152",
     "faction_id": "4",
     "name": {
@@ -5278,6 +9952,310 @@
       "zh": "头衔：欣喜"
     },
     "image_set_id": "93047",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "5973",
+    "faction_id": "4",
+    "name": {
+      "de": "100 ZERTS",
+      "en": "100 Certs",
+      "es": "100 Certs",
+      "fr": "100 Accréditations",
+      "it": "100 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 сертификатов",
+      "tr": "NULL",
+      "zh": "100证书点数"
+    },
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "5974",
+    "faction_id": "4",
+    "name": {
+      "de": "100 ISO-4",
+      "en": "100 ISO-4",
+      "es": "100 ISO-4 ",
+      "fr": "100 ISO-4",
+      "it": "100 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 ISO-4",
+      "tr": "NULL",
+      "zh": "100 ISO-4"
+    },
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "5975",
+    "faction_id": "4",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6218",
+    "faction_id": "4",
+    "name": {
+      "de": "2000 ISO-4",
+      "en": "2000 ISO-4",
+      "es": "2000 ISO-4",
+      "fr": "2000 ISO-4",
+      "it": "2000 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "2000 ISO-4",
+      "tr": "NULL",
+      "zh": "2000 ISO-4"
+    },
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "5973",
+    "faction_id": "1",
+    "name": {
+      "de": "100 ZERTS",
+      "en": "100 Certs",
+      "es": "100 Certs",
+      "fr": "100 Accréditations",
+      "it": "100 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 сертификатов",
+      "tr": "NULL",
+      "zh": "100证书点数"
+    },
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "5974",
+    "faction_id": "1",
+    "name": {
+      "de": "100 ISO-4",
+      "en": "100 ISO-4",
+      "es": "100 ISO-4 ",
+      "fr": "100 ISO-4",
+      "it": "100 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 ISO-4",
+      "tr": "NULL",
+      "zh": "100 ISO-4"
+    },
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "5975",
+    "faction_id": "1",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6218",
+    "faction_id": "1",
+    "name": {
+      "de": "2000 ISO-4",
+      "en": "2000 ISO-4",
+      "es": "2000 ISO-4",
+      "fr": "2000 ISO-4",
+      "it": "2000 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "2000 ISO-4",
+      "tr": "NULL",
+      "zh": "2000 ISO-4"
+    },
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "5973",
+    "faction_id": "3",
+    "name": {
+      "de": "100 ZERTS",
+      "en": "100 Certs",
+      "es": "100 Certs",
+      "fr": "100 Accréditations",
+      "it": "100 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 сертификатов",
+      "tr": "NULL",
+      "zh": "100证书点数"
+    },
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "5974",
+    "faction_id": "3",
+    "name": {
+      "de": "100 ISO-4",
+      "en": "100 ISO-4",
+      "es": "100 ISO-4 ",
+      "fr": "100 ISO-4",
+      "it": "100 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 ISO-4",
+      "tr": "NULL",
+      "zh": "100 ISO-4"
+    },
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "5975",
+    "faction_id": "3",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6218",
+    "faction_id": "3",
+    "name": {
+      "de": "2000 ISO-4",
+      "en": "2000 ISO-4",
+      "es": "2000 ISO-4",
+      "fr": "2000 ISO-4",
+      "it": "2000 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "2000 ISO-4",
+      "tr": "NULL",
+      "zh": "2000 ISO-4"
+    },
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "5973",
+    "faction_id": "2",
+    "name": {
+      "de": "100 ZERTS",
+      "en": "100 Certs",
+      "es": "100 Certs",
+      "fr": "100 Accréditations",
+      "it": "100 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 сертификатов",
+      "tr": "NULL",
+      "zh": "100证书点数"
+    },
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "5974",
+    "faction_id": "2",
+    "name": {
+      "de": "100 ISO-4",
+      "en": "100 ISO-4",
+      "es": "100 ISO-4 ",
+      "fr": "100 ISO-4",
+      "it": "100 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 ISO-4",
+      "tr": "NULL",
+      "zh": "100 ISO-4"
+    },
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "5975",
+    "faction_id": "2",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6218",
+    "faction_id": "2",
+    "name": {
+      "de": "2000 ISO-4",
+      "en": "2000 ISO-4",
+      "es": "2000 ISO-4",
+      "fr": "2000 ISO-4",
+      "it": "2000 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "2000 ISO-4",
+      "tr": "NULL",
+      "zh": "2000 ISO-4"
+    },
+    "image_set_id": "803815",
     "image_id": "NULL",
     "image_path": "NULL"
   }

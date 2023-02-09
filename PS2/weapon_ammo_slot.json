@@ -12399,8 +12399,8 @@
   {
     "weapon_id": "78611",
     "weapon_slot_index": "0",
-    "clip_size": "26",
-    "capacity": "208",
+    "clip_size": "30",
+    "capacity": "210",
     "clip_model_name": "NULL"
   },
   {
@@ -13584,6 +13584,13 @@
     "weapon_slot_index": "0",
     "clip_size": "25",
     "capacity": "150",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78770",
+    "weapon_slot_index": "0",
+    "clip_size": "1",
+    "capacity": "1",
     "clip_model_name": "NULL"
   }
 ]

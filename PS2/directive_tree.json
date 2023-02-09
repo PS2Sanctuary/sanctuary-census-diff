@@ -26,67 +26,27 @@
     "image_path": "/files/ps2/images/static/77992.png"
   },
   {
-    "directive_tree_id": "109",
-    "directive_tree_category_id": "11",
+    "directive_tree_id": "95",
+    "directive_tree_category_id": "4",
     "faction_ids": [
-      "1",
-      "2",
-      "3",
       "4"
     ],
     "name": {
-      "de": "Außergewöhnlich VI",
-      "en": "Exceptional VI",
-      "es": "VI excepcional",
-      "fr": "Exceptionnel VI",
-      "it": "Eccezionale VI",
+      "de": "Javelin",
+      "en": "Javelin",
+      "es": "Javelin",
+      "fr": "Javelot",
+      "it": "Javelin",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Особое вооружение VI",
+      "ru": "Javelin",
       "tr": "NULL",
-      "zh": "卓越VI"
-    },
-    "description": {
-      "de": "Promo- und Saison-Waffen, welche eventuell nicht für den sofortigen Gebrauch verfügbar sind. ",
-      "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
-      "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
-      "fr": "Les offres promotionnelles et saisonnières sur les armes peuvent ne pas être disponibles pour une acquisition immédiate.",
-      "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata.",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Акционные и сезонные виды оружия, которые не всегда можно будет приобрести немедленно.",
-      "tr": "NULL",
-      "zh": "促销和限时的武器无法使用“立即获取”功能。"
-    },
-    "image_set_id": "14396",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_tree_id": "45",
-    "directive_tree_category_id": "7",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Scout-Gewehre",
-      "en": "Scout Rifles",
-      "es": "Rifles Scout",
-      "fr": "Fusils d'éclaireur",
-      "it": "Fucili di ricognizione",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Ружья",
-      "tr": "NULL",
-      "zh": "斥候步枪"
+      "zh": "Javelin"
     },
     "description": "NULL",
-    "image_set_id": "14222",
-    "image_id": "79645",
-    "image_path": "/files/ps2/images/static/79645.png"
+    "image_set_id": "806819",
+    "image_id": "93911",
+    "image_path": "/files/ps2/images/static/93911.png"
   },
   {
     "directive_tree_id": "29",
@@ -150,6 +110,69 @@
     "image_set_id": "14396",
     "image_id": "79737",
     "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_tree_id": "109",
+    "directive_tree_category_id": "11",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Außergewöhnlich VI",
+      "en": "Exceptional VI",
+      "es": "VI excepcional",
+      "fr": "Exceptionnel VI",
+      "it": "Eccezionale VI",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Особое вооружение VI",
+      "tr": "NULL",
+      "zh": "卓越VI"
+    },
+    "description": {
+      "de": "Promo- und Saison-Waffen, welche eventuell nicht für den sofortigen Gebrauch verfügbar sind. ",
+      "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
+      "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
+      "fr": "Les offres promotionnelles et saisonnières sur les armes peuvent ne pas être disponibles pour une acquisition immédiate.",
+      "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Акционные и сезонные виды оружия, которые не всегда можно будет приобрести немедленно.",
+      "tr": "NULL",
+      "zh": "促销和限时的武器无法使用“立即获取”功能。"
+    },
+    "image_set_id": "14396",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_tree_id": "45",
+    "directive_tree_category_id": "7",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scout-Gewehre",
+      "en": "Scout Rifles",
+      "es": "Rifles Scout",
+      "fr": "Fusils d'éclaireur",
+      "it": "Fucili di ricognizione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Ружья",
+      "tr": "NULL",
+      "zh": "斥候步枪"
+    },
+    "description": "NULL",
+    "image_set_id": "14222",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
   },
   {
     "directive_tree_id": "21",
@@ -423,7 +446,7 @@
     "image_path": "/files/ps2/images/static/77993.png"
   },
   {
-    "directive_tree_id": "102",
+    "directive_tree_id": "115",
     "directive_tree_category_id": "11",
     "faction_ids": [
       "1",
@@ -432,16 +455,16 @@
       "4"
     ],
     "name": {
-      "de": "Außergewöhnlich V",
-      "en": "Exceptional V",
-      "es": "V excepcional",
-      "fr": "Exceptionnel V",
-      "it": "Eccezionale V",
+      "de": "Außergewöhnlich VII",
+      "en": "Exceptional VII",
+      "es": "Excepcional VII",
+      "fr": "Exceptionnel VII",
+      "it": "Eccezionale VII",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Особый V",
+      "ru": "Особое вооружение VII",
       "tr": "NULL",
-      "zh": "卓越V"
+      "zh": "卓越VII"
     },
     "description": {
       "de": "Promo- und Saison-Waffen, welche eventuell nicht für den sofortigen Gebrauch verfügbar sind. ",
@@ -458,29 +481,6 @@
     "image_set_id": "14396",
     "image_id": "79737",
     "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_tree_id": "38",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "2"
-    ],
-    "name": {
-      "de": "Vanguard",
-      "en": "Vanguard",
-      "es": "Vanguard",
-      "fr": "Éclaireur",
-      "it": "Vanguard",
-      "ko": "뱅가드",
-      "pt": "Vanguarda",
-      "ru": "Vanguard",
-      "tr": "ÖNCÜ",
-      "zh": "Vanguard"
-    },
-    "description": "NULL",
-    "image_set_id": "14250",
-    "image_id": "79673",
-    "image_path": "/files/ps2/images/static/79673.png"
   },
   {
     "directive_tree_id": "83",
@@ -502,6 +502,43 @@
       "ru": "Особое вооружение III",
       "tr": "NULL",
       "zh": "非凡 III"
+    },
+    "description": {
+      "de": "Promo- und Saison-Waffen, welche eventuell nicht für den sofortigen Gebrauch verfügbar sind. ",
+      "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
+      "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
+      "fr": "Les offres promotionnelles et saisonnières sur les armes peuvent ne pas être disponibles pour une acquisition immédiate.",
+      "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Акционные и сезонные виды оружия, которые не всегда можно будет приобрести немедленно.",
+      "tr": "NULL",
+      "zh": "促销和限时的武器无法使用“立即获取”功能。"
+    },
+    "image_set_id": "14396",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_tree_id": "102",
+    "directive_tree_category_id": "11",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Außergewöhnlich V",
+      "en": "Exceptional V",
+      "es": "V excepcional",
+      "fr": "Exceptionnel V",
+      "it": "Eccezionale V",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Особый V",
+      "tr": "NULL",
+      "zh": "卓越V"
     },
     "description": {
       "de": "Promo- und Saison-Waffen, welche eventuell nicht für den sofortigen Gebrauch verfügbar sind. ",
@@ -594,6 +631,29 @@
     "image_path": "/files/ps2/images/static/79737.png"
   },
   {
+    "directive_tree_id": "97",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "4"
+    ],
+    "name": {
+      "de": "Chimera",
+      "en": "Chimera",
+      "es": "Chimera",
+      "fr": "Chimère",
+      "it": "Chimera",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Chimera",
+      "tr": "NULL",
+      "zh": "Chimera"
+    },
+    "description": "NULL",
+    "image_set_id": "806713",
+    "image_id": "93609",
+    "image_path": "/files/ps2/images/static/93609.png"
+  },
+  {
     "directive_tree_id": "62",
     "directive_tree_category_id": "11",
     "faction_ids": [
@@ -683,6 +743,29 @@
     "image_path": "/files/ps2/images/static/80343.png"
   },
   {
+    "directive_tree_id": "96",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "4"
+    ],
+    "name": {
+      "de": "Dervish",
+      "en": "Dervish",
+      "es": "Dervish",
+      "fr": "Derviche",
+      "it": "Derviscio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Dervish",
+      "tr": "NULL",
+      "zh": "Dervish"
+    },
+    "description": "NULL",
+    "image_set_id": "806714",
+    "image_id": "93608",
+    "image_path": "/files/ps2/images/static/93608.png"
+  },
+  {
     "directive_tree_id": "48",
     "directive_tree_category_id": "4",
     "faction_ids": [
@@ -759,29 +842,6 @@
     "image_set_id": "14243",
     "image_id": "79666",
     "image_path": "/files/ps2/images/static/79666.png"
-  },
-  {
-    "directive_tree_id": "41",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "2"
-    ],
-    "name": {
-      "de": "Reaver",
-      "en": "Reaver",
-      "es": "Reaver",
-      "fr": "Ravageur",
-      "it": "Reaver",
-      "ko": "리버",
-      "pt": "Salteador",
-      "ru": "Reaver",
-      "tr": "YAĞMACI",
-      "zh": "Reaver"
-    },
-    "description": "NULL",
-    "image_set_id": "14217",
-    "image_id": "79640",
-    "image_path": "/files/ps2/images/static/79640.png"
   },
   {
     "directive_tree_id": "104",
@@ -1292,110 +1352,50 @@
     "image_path": "/files/ps2/images/static/79633.png"
   },
   {
-    "directive_tree_id": "95",
+    "directive_tree_id": "38",
     "directive_tree_category_id": "4",
     "faction_ids": [
-      "4"
+      "2"
     ],
     "name": {
-      "de": "Javelin",
-      "en": "Javelin",
-      "es": "Javelin",
-      "fr": "Javelot",
-      "it": "Javelin",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Javelin",
-      "tr": "NULL",
-      "zh": "Javelin"
+      "de": "Vanguard",
+      "en": "Vanguard",
+      "es": "Vanguard",
+      "fr": "Éclaireur",
+      "it": "Vanguard",
+      "ko": "뱅가드",
+      "pt": "Vanguarda",
+      "ru": "Vanguard",
+      "tr": "ÖNCÜ",
+      "zh": "Vanguard"
     },
     "description": "NULL",
-    "image_set_id": "806819",
-    "image_id": "93911",
-    "image_path": "/files/ps2/images/static/93911.png"
+    "image_set_id": "14250",
+    "image_id": "79673",
+    "image_path": "/files/ps2/images/static/79673.png"
   },
   {
-    "directive_tree_id": "97",
+    "directive_tree_id": "41",
     "directive_tree_category_id": "4",
     "faction_ids": [
-      "4"
+      "2"
     ],
     "name": {
-      "de": "Chimera",
-      "en": "Chimera",
-      "es": "Chimera",
-      "fr": "Chimère",
-      "it": "Chimera",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Chimera",
-      "tr": "NULL",
-      "zh": "Chimera"
+      "de": "Reaver",
+      "en": "Reaver",
+      "es": "Reaver",
+      "fr": "Ravageur",
+      "it": "Reaver",
+      "ko": "리버",
+      "pt": "Salteador",
+      "ru": "Reaver",
+      "tr": "YAĞMACI",
+      "zh": "Reaver"
     },
     "description": "NULL",
-    "image_set_id": "806713",
-    "image_id": "93609",
-    "image_path": "/files/ps2/images/static/93609.png"
-  },
-  {
-    "directive_tree_id": "96",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "4"
-    ],
-    "name": {
-      "de": "Dervish",
-      "en": "Dervish",
-      "es": "Dervish",
-      "fr": "Derviche",
-      "it": "Derviscio",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Dervish",
-      "tr": "NULL",
-      "zh": "Dervish"
-    },
-    "description": "NULL",
-    "image_set_id": "806714",
-    "image_id": "93608",
-    "image_path": "/files/ps2/images/static/93608.png"
-  },
-  {
-    "directive_tree_id": "115",
-    "directive_tree_category_id": "11",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Außergewöhnlich VII",
-      "en": "Exceptional VII",
-      "es": "Excepcional VII",
-      "fr": "Exceptionnel VII",
-      "it": "Eccezionale VII",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Особое вооружение VII",
-      "tr": "NULL",
-      "zh": "卓越VII"
-    },
-    "description": {
-      "de": "Promo- und Saison-Waffen, welche eventuell nicht für den sofortigen Gebrauch verfügbar sind. ",
-      "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
-      "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
-      "fr": "Les offres promotionnelles et saisonnières sur les armes peuvent ne pas être disponibles pour une acquisition immédiate.",
-      "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata.",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Акционные и сезонные виды оружия, которые не всегда можно будет приобрести немедленно.",
-      "tr": "NULL",
-      "zh": "促销和限时的武器无法使用“立即获取”功能。"
-    },
-    "image_set_id": "14396",
-    "image_id": "79737",
-    "image_path": "/files/ps2/images/static/79737.png"
+    "image_set_id": "14217",
+    "image_id": "79640",
+    "image_path": "/files/ps2/images/static/79640.png"
   },
   {
     "directive_tree_id": "114",
@@ -1466,6 +1466,43 @@
       "ru": "Доступно до 1 января",
       "tr": "NULL",
       "zh": "活动持续至1月1日"
+    },
+    "image_set_id": "0",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_tree_id": "118",
+    "directive_tree_category_id": "8",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Valentinstag 2023",
+      "en": "Valentine's Day 2023",
+      "es": "San Valentín 2023",
+      "fr": "Saint-Valentin 2023",
+      "it": "San Valentino 2023",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "День святого Валентина 2023",
+      "tr": "NULL",
+      "zh": "2023情人节"
+    },
+    "description": {
+      "de": "8. Feb. - 14. Feb.",
+      "en": "Feb. 8 - Feb. 14",
+      "es": "8 de feb. - 14 de feb.",
+      "fr": "8 fév. - 14 fév.",
+      "it": "8-14 febbraio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "С 8 по 14 февраля",
+      "tr": "NULL",
+      "zh": "2月8日——2月14日"
     },
     "image_set_id": "0",
     "image_id": "NULL",
