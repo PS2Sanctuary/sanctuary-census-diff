@@ -2203,7 +2203,7 @@
     "location_z": "-1751.917",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
-    "empire_score": "10",
+    "empire_score": "1",
     "image_set_id": "805614",
     "image_id": "91363",
     "image_path": "/files/ps2/images/static/91363.png"
@@ -2261,7 +2261,7 @@
     "location_z": "-939.5569",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
-    "empire_score": "10",
+    "empire_score": "1",
     "image_set_id": "7919",
     "image_id": "9123",
     "image_path": "/files/ps2/images/static/9123.png"
@@ -2406,7 +2406,7 @@
     "location_z": "-501.5452",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
-    "empire_score": "10",
+    "empire_score": "1",
     "image_set_id": "7919",
     "image_id": "9123",
     "image_path": "/files/ps2/images/static/9123.png"
@@ -2493,7 +2493,7 @@
     "location_z": "409.8246",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
-    "empire_score": "500",
+    "empire_score": "1",
     "image_set_id": "806656",
     "image_id": "93456",
     "image_path": "/files/ps2/images/static/93456.png"
@@ -2522,7 +2522,7 @@
     "location_z": "1098.23",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
-    "empire_score": "10",
+    "empire_score": "1",
     "image_set_id": "807455",
     "image_id": "95671",
     "image_path": "/files/ps2/images/static/95671.png"
@@ -2634,7 +2634,7 @@
     "location_z": "1897.884",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
-    "empire_score": "150",
+    "empire_score": "1",
     "image_set_id": "7918",
     "image_id": "9122",
     "image_path": "/files/ps2/images/static/9122.png"
@@ -2924,7 +2924,7 @@
     "location_z": "1670.95",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
-    "empire_score": "10",
+    "empire_score": "1",
     "image_set_id": "805614",
     "image_id": "91363",
     "image_path": "/files/ps2/images/static/91363.png"
@@ -3040,7 +3040,7 @@
     "location_z": "-1020.97",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
-    "empire_score": "500",
+    "empire_score": "1",
     "image_set_id": "3116",
     "image_id": "9119",
     "image_path": "/files/ps2/images/static/9119.png"
@@ -3098,7 +3098,7 @@
     "location_z": "1964.311",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
-    "empire_score": "10",
+    "empire_score": "1",
     "image_set_id": "7919",
     "image_id": "9123",
     "image_path": "/files/ps2/images/static/9123.png"
@@ -3417,7 +3417,7 @@
     "location_z": "-42.99902",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
-    "empire_score": "10",
+    "empire_score": "1",
     "image_set_id": "7919",
     "image_id": "9123",
     "image_path": "/files/ps2/images/static/9123.png"
@@ -3504,7 +3504,7 @@
     "location_z": "1348.024",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
-    "empire_score": "10",
+    "empire_score": "1",
     "image_set_id": "7919",
     "image_id": "9123",
     "image_path": "/files/ps2/images/static/9123.png"
@@ -3558,7 +3558,7 @@
     "location_z": "1150.347",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
-    "empire_score": "500",
+    "empire_score": "1",
     "image_set_id": "807450",
     "image_id": "95656",
     "image_path": "/files/ps2/images/static/95656.png"
