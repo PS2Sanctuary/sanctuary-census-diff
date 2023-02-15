@@ -81334,5 +81334,29 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/95979.png"
+  },
+  {
+    "image_set_id": "807566",
+    "image_id": "95985",
+    "description": "Icon_Vehicle_Common_ANT_Attachment_Demolition_Bumper",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95985.png"
+  },
+  {
+    "image_set_id": "807567",
+    "image_id": "95988",
+    "description": "Icon_Vehicle_Common_ANT_Attachment_Demolition_Exterior",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95988.png"
+  },
+  {
+    "image_set_id": "807568",
+    "image_id": "95991",
+    "description": "Icon_Vehicle_Common_ANT_Attachment_Demolition_Tires",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95991.png"
   }
 ]
