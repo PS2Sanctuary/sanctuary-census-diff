@@ -26,7 +26,10 @@
       "ru": "Пустынный континент Indar — обиталище огромного разнообразия форм жизни. Поросшая травой саванна, скалистые каньоны и бескрайние приморские равнины.",
       "tr": "Kurak Indar kıtası çok çeşitli bir coğrafyaya sahiptir. Otlu ovalar, kayalık kanyonlar ve deniz yatağının geniş düzlükleri askerler için farklı zorlukları da beraberinde getirir.",
       "zh": "干旱少雨的Indar大陆拥有数种不同的生态环境，来到这里的战士将面临前所未有的考验。"
-    }
+    },
+    "geometry_id": "2",
+    "type": "Static",
+    "dynamic": "0"
   },
   {
     "zone_id": "4",
@@ -55,7 +58,10 @@
       "ru": "Густые мангровые и ивовые леса Hossin, наряду с бескрайними болотами и возвышенностями, обеспечивают надежное укрытие от вражеской авиации.",
       "tr": "Hossin's dense mangrove and willow forests provide air cover along its many swamps and highlands.",
       "zh": "Hossin稠密的红木森林和柳树森林可以为来自空中的打击而提供掩护。它也有大片的湿地与高原。"
-    }
+    },
+    "geometry_id": "4",
+    "type": "Static",
+    "dynamic": "0"
   },
   {
     "zone_id": "6",
@@ -84,7 +90,10 @@
       "ru": "Густые рощи и скальные выходы Amerish являются прекрасными естественными укрытиями на равнинах и горных перевалах.",
       "tr": "Amerish's lush groves and rocky outcroppings provide ample cover between its rolling plains and mountain passes.",
       "zh": "Amerish有着茂密的树丛和复杂的岩层，可以为平原与山道中的地面部队提供保护。"
-    }
+    },
+    "geometry_id": "6",
+    "type": "Static",
+    "dynamic": "0"
   },
   {
     "zone_id": "8",
@@ -113,7 +122,10 @@
       "ru": "Бесплодную тундру и скалистые горы Esamir сложно назвать серьезным укрытием во время авианалетов.",
       "tr": "Esamir's expanses of frigid tundra and craggy mountains provide little cover from airborne threats.",
       "zh": "Esamir的地形以寒带苔原为主，高耸而陡峭的山峰很难为来自于空中的打击提供掩护。"
-    }
+    },
+    "geometry_id": "8",
+    "type": "Static",
+    "dynamic": "0"
   },
   {
     "zone_id": "96",
@@ -142,7 +154,10 @@
       "ru": "На полигоне игроки фракции могут опробовать любые типы вооружения, техники и модификаторов.",
       "tr": "Experiment with all weapons, vehicles and attachments in your empire's own VR Training simulator.",
       "zh": "在VR实验室中可以实验你的阵营所有的武器，载具和附件。"
-    }
+    },
+    "geometry_id": "96",
+    "type": "Dynamic",
+    "dynamic": "1"
   },
   {
     "zone_id": "97",
@@ -171,7 +186,10 @@
       "ru": "На полигоне игроки фракции могут опробовать любые типы вооружения, техники и модификаторов.",
       "tr": "Experiment with all weapons, vehicles and attachments in your empire's own VR Training simulator.",
       "zh": "在VR实验室中可以实验你的阵营所有的武器，载具和附件。"
-    }
+    },
+    "geometry_id": "97",
+    "type": "Dynamic",
+    "dynamic": "1"
   },
   {
     "zone_id": "98",
@@ -200,7 +218,10 @@
       "ru": "На полигоне игроки фракции могут опробовать любые типы вооружения, техники и модификаторов.",
       "tr": "Experiment with all weapons, vehicles and attachments in your empire's own VR Training simulator.",
       "zh": "在VR实验室中可以实验你的阵营所有的武器，载具和附件。"
-    }
+    },
+    "geometry_id": "98",
+    "type": "Dynamic",
+    "dynamic": "1"
   },
   {
     "zone_id": "344",
@@ -229,7 +250,10 @@
       "ru": "Песчаный архипелаг Oshur и сверкающие голубые воды предоставляют возможности для боев на суше, море и в воздухе.",
       "tr": "NULL",
       "zh": "Oshur的砂质群岛和波光粼粼的碧蓝海水为陆战、海战和空战提供了舞台。"
-    }
+    },
+    "geometry_id": "367",
+    "type": "Static",
+    "dynamic": "0"
   },
   {
     "zone_id": "362",
@@ -258,7 +282,10 @@
       "ru": "На борту спутников Sanctuary приветствуются любые фракции. Солдаты здесь отдыхают, гражданские живут мирной жизнью, а продавцы торгуют своими товарами.",
       "tr": "NULL",
       "zh": "Sanctuary卫星欢迎所有阵营的来客。在此，士兵可以休息，非战斗人员可以和平生活，而商人可以出售货品。"
-    }
+    },
+    "geometry_id": "362",
+    "type": "Social",
+    "dynamic": "1"
   },
   {
     "zone_id": "364",
