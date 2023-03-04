@@ -303,6 +303,9 @@
       "tr": "NULL",
       "zh": "模拟训练"
     },
-    "description": "NULL"
+    "description": "NULL",
+    "geometry_id": "364",
+    "type": "1",
+    "dynamic": "1"
   }
 ]
