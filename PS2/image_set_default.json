@@ -81358,5 +81358,149 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/95991.png"
+  },
+  {
+    "image_set_id": "807569",
+    "image_id": "95994",
+    "description": "Decal_StPatricksDay_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95994.png"
+  },
+  {
+    "image_set_id": "807570",
+    "image_id": "95998",
+    "description": "icon_bundle_StPatricksDay_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95998.png"
+  },
+  {
+    "image_set_id": "807571",
+    "image_id": "96002",
+    "description": "icon_camo_GoldClover",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96002.png"
+  },
+  {
+    "image_set_id": "807572",
+    "image_id": "96005",
+    "description": "icon_Weapons_VS_DokuWeapons_LMG001_StPatricks",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96005.png"
+  },
+  {
+    "image_set_id": "807573",
+    "image_id": "96008",
+    "description": "icon_Weapons_NC_DokuWeapons_LMG001_StPatricks",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96008.png"
+  },
+  {
+    "image_set_id": "807574",
+    "image_id": "96011",
+    "description": "icon_Weapons_TR_DokuWeapons_LMG001_StPatricks",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96011.png"
+  },
+  {
+    "image_set_id": "807575",
+    "image_id": "96014",
+    "description": "icon_Weapons_NSO_ClassWeapons_LMG001_StPatricks",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96014.png"
+  },
+  {
+    "image_set_id": "807576",
+    "image_id": "96017",
+    "description": "icon_bundle_Jackpot",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96017.png"
+  },
+  {
+    "image_set_id": "807577",
+    "image_id": "96021",
+    "description": "profileBackground_AprilFools_GoneFishing_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96021.png"
+  },
+  {
+    "image_set_id": "807578",
+    "image_id": "96024",
+    "description": "icon_Profile_Background_AprilFools_GoneFishing_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96024.png"
+  },
+  {
+    "image_set_id": "807579",
+    "image_id": "96027",
+    "description": "icon_Weapons_Attachments_NSO_ClassWeapons_4xScope_StPatricks",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96027.png"
+  },
+  {
+    "image_set_id": "807580",
+    "image_id": "96030",
+    "description": "icon_Weapons_Attachments_NSO_ClassWeapons_RedDotSight001_StPatricks",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96030.png"
+  },
+  {
+    "image_set_id": "807581",
+    "image_id": "96033",
+    "description": "icon_Weapons_NC_DokuWeapons_Attachments_ReflexSight001_StPatricks",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96033.png"
+  },
+  {
+    "image_set_id": "807582",
+    "image_id": "96036",
+    "description": "icon_Weapons_NC_DokuWeapons_Attachments_Scope4x_001_StPatricks",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96036.png"
+  },
+  {
+    "image_set_id": "807583",
+    "image_id": "96039",
+    "description": "icon_Weapons_TR_DokuWeapons_Attachments_ReflexSight001_StPatricks",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96039.png"
+  },
+  {
+    "image_set_id": "807584",
+    "image_id": "96042",
+    "description": "icon_Weapons_TR_DokuWeapons_Attachments_Scope4x_001_StPatricks",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96042.png"
+  },
+  {
+    "image_set_id": "807585",
+    "image_id": "96045",
+    "description": "icon_Weapons_VS_DokuWeapons_Attachments_ReflexSight001_StPatricks",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96045.png"
+  },
+  {
+    "image_set_id": "807586",
+    "image_id": "96048",
+    "description": "icon_Weapons_VS_DokuWeapons_Attachments_Scope4x_001_StPatricks",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96048.png"
   }
 ]
