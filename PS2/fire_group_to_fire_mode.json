@@ -13373,5 +13373,45 @@
     "fire_group_id": "80948",
     "fire_mode_id": "81342",
     "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "80954",
+    "fire_mode_id": "81347",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "80954",
+    "fire_mode_id": "81348",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "80955",
+    "fire_mode_id": "81349",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "80955",
+    "fire_mode_id": "81350",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "80956",
+    "fire_mode_id": "81351",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "80956",
+    "fire_mode_id": "81352",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "80957",
+    "fire_mode_id": "81353",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "80957",
+    "fire_mode_id": "81354",
+    "fire_mode_index": "1"
   }
 ]
