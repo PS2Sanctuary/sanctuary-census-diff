@@ -1,0 +1,3836 @@
+[
+  {
+    "world_id": "1",
+    "zone_id": "344",
+    "zone_instance": "0",
+    "timestamp": "1678674151",
+    "regions": [
+      {
+        "map_region_id": "18263",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18264",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "6",
+        "remaining_ctf_flags": "6"
+      },
+      {
+        "map_region_id": "18265",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18266",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "180000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18267",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18268",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "180000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18269",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18270",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "180000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18271",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18272",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "180000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18273",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18274",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18275",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18277",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18278",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "180000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18279",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "180000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18280",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18276",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18281",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18282",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18283",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "180000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18284",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18285",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18286",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18287",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "180000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18288",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "180000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18289",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18290",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "180000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18291",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18292",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "180000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18293",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18294",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18295",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "900000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18296",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18297",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18298",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18299",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "180000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18300",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18301",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18302",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18304",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18303",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18305",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18307",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "233000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18308",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "233000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18309",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "233000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18329",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18330",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18331",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18343",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "180000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18344",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "180000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18346",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "180000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18367",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18366",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18368",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18360",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18361",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18362",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18363",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18364",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18365",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18359",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18356",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18353",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18351",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18369",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18370",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      }
+    ]
+  },
+  {
+    "world_id": "1",
+    "zone_id": "98",
+    "zone_instance": "0",
+    "timestamp": "1678674151",
+    "regions": [
+      {
+        "map_region_id": "18373",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      }
+    ]
+  },
+  {
+    "world_id": "1",
+    "zone_id": "97",
+    "zone_instance": "0",
+    "timestamp": "1678674151",
+    "regions": [
+      {
+        "map_region_id": "18372",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      }
+    ]
+  },
+  {
+    "world_id": "1",
+    "zone_id": "96",
+    "zone_instance": "0",
+    "timestamp": "1678674151",
+    "regions": [
+      {
+        "map_region_id": "18371",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      }
+    ]
+  },
+  {
+    "world_id": "1",
+    "zone_id": "8",
+    "zone_instance": "0",
+    "timestamp": "1678674151",
+    "regions": [
+      {
+        "map_region_id": "18001",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18002",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18003",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18004",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18005",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18006",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "200000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18007",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18008",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "6",
+        "remaining_ctf_flags": "6"
+      },
+      {
+        "map_region_id": "18010",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18011",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18013",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18014",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18015",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18032",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18033",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18034",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18036",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18037",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18067",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18068",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18016",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18017",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "6",
+        "remaining_ctf_flags": "6"
+      },
+      {
+        "map_region_id": "18018",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "600000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18019",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "900000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18020",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "225000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18046",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "6",
+        "remaining_ctf_flags": "6"
+      },
+      {
+        "map_region_id": "18048",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "6",
+        "remaining_ctf_flags": "6"
+      },
+      {
+        "map_region_id": "18049",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18024",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "140000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18025",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18058",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18059",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18060",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18027",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "360000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18063",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18028",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18029",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18030",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18062",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18038",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18208",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "60000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18209",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "60000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18210",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "60000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18250",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "12",
+        "remaining_ctf_flags": "12"
+      },
+      {
+        "map_region_id": "18251",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "60000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18253",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "12",
+        "remaining_ctf_flags": "12"
+      },
+      {
+        "map_region_id": "18022",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18252",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18261",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "6",
+        "remaining_ctf_flags": "6"
+      }
+    ]
+  },
+  {
+    "world_id": "1",
+    "zone_id": "6",
+    "zone_instance": "0",
+    "timestamp": "1678674151",
+    "regions": [
+      {
+        "map_region_id": "6001",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6002",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6003",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6101",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "420000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6340",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6341",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6342",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6102",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "105000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6343",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6344",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6345",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6103",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "420000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6346",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6347",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6111",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "210000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6348",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6349",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6350",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6112",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "420000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6351",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6352",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6113",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "140000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6353",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6354",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6355",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "6",
+        "remaining_ctf_flags": "6"
+      },
+      {
+        "map_region_id": "6121",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "420000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6356",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6357",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6358",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "6",
+        "remaining_ctf_flags": "6"
+      },
+      {
+        "map_region_id": "6122",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "420000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6359",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6360",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6123",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "140000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6361",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6362",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6363",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6201",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "225000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6202",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6203",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6204",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "9",
+        "remaining_ctf_flags": "9"
+      },
+      {
+        "map_region_id": "6205",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "9",
+        "remaining_ctf_flags": "9"
+      },
+      {
+        "map_region_id": "6206",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6207",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "12",
+        "remaining_ctf_flags": "12"
+      },
+      {
+        "map_region_id": "6208",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "9",
+        "remaining_ctf_flags": "9"
+      },
+      {
+        "map_region_id": "6209",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6301",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6302",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6303",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6304",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6305",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6306",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6307",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6309",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6310",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6311",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6312",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6313",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6314",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6316",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6317",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6318",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6319",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6320",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6323",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6324",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6325",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6326",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6328",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6329",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6339",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6330",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6331",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6332",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6333",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "6",
+        "remaining_ctf_flags": "6"
+      },
+      {
+        "map_region_id": "6334",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6335",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6336",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6338",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6308",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "6337",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "60000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18204",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "60000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      }
+    ]
+  },
+  {
+    "world_id": "1",
+    "zone_id": "4",
+    "zone_instance": "0",
+    "timestamp": "1678674151",
+    "regions": [
+      {
+        "map_region_id": "4101",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4102",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4103",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4104",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4105",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4106",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4107",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4108",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4109",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4110",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4111",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4112",
+        "owning_faction_id": "3",
+        "is_contested": "1",
+        "contesting_faction_id": "1",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "144578",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4113",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4114",
+        "owning_faction_id": "1",
+        "is_contested": "1",
+        "contesting_faction_id": "2",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "65063",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4115",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4116",
+        "owning_faction_id": "2",
+        "is_contested": "1",
+        "contesting_faction_id": "1",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4117",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4118",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4119",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "6",
+        "remaining_ctf_flags": "6"
+      },
+      {
+        "map_region_id": "4120",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4121",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4122",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4123",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4124",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4125",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4126",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4127",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4260",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4261",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4262",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4263",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4264",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4265",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4266",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4267",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4268",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4269",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4270",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4271",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4130",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4131",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "9",
+        "remaining_ctf_flags": "9"
+      },
+      {
+        "map_region_id": "4132",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4133",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4134",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4135",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4136",
+        "owning_faction_id": "3",
+        "is_contested": "1",
+        "contesting_faction_id": "2",
+        "capture_time_ms": "450000",
+        "remaining_capture_time_ms": "329323",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4137",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4138",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4139",
+        "owning_faction_id": "3",
+        "is_contested": "1",
+        "contesting_faction_id": "2",
+        "capture_time_ms": "900000",
+        "remaining_capture_time_ms": "491578",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4140",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "420000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4141",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4142",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "6",
+        "remaining_ctf_flags": "6"
+      },
+      {
+        "map_region_id": "4143",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4150",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "420000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4151",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "6",
+        "remaining_ctf_flags": "6"
+      },
+      {
+        "map_region_id": "4152",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4153",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4160",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "420000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4161",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4162",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "6",
+        "remaining_ctf_flags": "6"
+      },
+      {
+        "map_region_id": "4163",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4170",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "140000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4171",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4172",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4173",
+        "owning_faction_id": "2",
+        "is_contested": "1",
+        "contesting_faction_id": "1",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "223063",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4180",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "210000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4181",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4182",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4183",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4190",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "210000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4191",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4192",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4193",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4200",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "420000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4201",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4202",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4203",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4210",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "420000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4211",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4212",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4213",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4220",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "420000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4221",
+        "owning_faction_id": "2",
+        "is_contested": "1",
+        "contesting_faction_id": "3",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "142802",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4222",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4223",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4230",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4240",
+        "owning_faction_id": "3",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "4250",
+        "owning_faction_id": "1",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      }
+    ]
+  },
+  {
+    "world_id": "1",
+    "zone_id": "2",
+    "zone_instance": "0",
+    "timestamp": "1678674151",
+    "regions": [
+      {
+        "map_region_id": "2402",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2404",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2405",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2406",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2407",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2408",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2409",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2410",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2411",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2412",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2413",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2414",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "450000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2415",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2416",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2418",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2419",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2420",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2421",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2422",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2425",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2427",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2428",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2429",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2430",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2431",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2433",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2436",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2437",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2438",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2440",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2443",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2447",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2448",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2449",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2453",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2107",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "420000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2477",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2479",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2478",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2105",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2454",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2455",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2456",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2106",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "140000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2467",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2466",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2468",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2104",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2472",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2473",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2103",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2457",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2458",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2459",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2102",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "420000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2462",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2461",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2460",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2203",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2303",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "12",
+        "remaining_ctf_flags": "12"
+      },
+      {
+        "map_region_id": "2304",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "12",
+        "remaining_ctf_flags": "12"
+      },
+      {
+        "map_region_id": "2301",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2302",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2310",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2309",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2305",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2308",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2307",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2306",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2313",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2312",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "300000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2311",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "420000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2108",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "420000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2465",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2463",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2464",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2101",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2475",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2474",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2476",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2201",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2109",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2470",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2471",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2469",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "240000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "2202",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "-1",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18205",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "60000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18206",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "60000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      },
+      {
+        "map_region_id": "18207",
+        "owning_faction_id": "2",
+        "is_contested": "0",
+        "contesting_faction_id": "0",
+        "capture_time_ms": "60000",
+        "remaining_capture_time_ms": "-1",
+        "ctf_flags": "0",
+        "remaining_ctf_flags": "0"
+      }
+    ]
+  }
+]
