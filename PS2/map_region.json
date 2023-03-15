@@ -59,7 +59,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "NULL",
     "image_id": "NULL",
-    "image_path": "NULL"
+    "image_path": "NULL",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "18257",
@@ -104,7 +106,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "NULL",
     "image_id": "NULL",
-    "image_path": "NULL"
+    "image_path": "NULL",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "18259",

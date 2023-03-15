@@ -1,0 +1,22 @@
+[
+  {
+    "oops_id": "8000572",
+    "fuck_up_id": "4900",
+    "cost": "592400255",
+    "currency_type_id": "2",
+    "currency_type": "SanityPoints",
+    "event_magnitude": "Colossal",
+    "culprit_character_id": "5428703501287322737",
+    "notes": "Wrote a Census supplementation"
+  },
+  {
+    "oops_id": "9030608",
+    "fuck_up_id": "2057",
+    "cost": "316",
+    "currency_type_id": "3",
+    "currency_type": "SleepHours",
+    "event_magnitude": "Moderate",
+    "culprit_character_id": "5429104310777173297",
+    "notes": "Tested Sanctuary stuff"
+  }
+]
