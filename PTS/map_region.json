@@ -1649,7 +1649,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "7917",
     "image_id": "9124",
-    "image_path": "/files/ps2/images/static/9124.png"
+    "image_path": "/files/ps2/images/static/9124.png",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "18304",
@@ -1677,7 +1679,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "7917",
     "image_id": "9124",
-    "image_path": "/files/ps2/images/static/9124.png"
+    "image_path": "/files/ps2/images/static/9124.png",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "18305",
@@ -1705,7 +1709,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "7917",
     "image_id": "9124",
-    "image_path": "/files/ps2/images/static/9124.png"
+    "image_path": "/files/ps2/images/static/9124.png",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "18307",
@@ -3077,7 +3083,9 @@
     "outfit_resource_reward_amount": "2",
     "image_set_id": "7916",
     "image_id": "9125",
-    "image_path": "/files/ps2/images/static/9125.png"
+    "image_path": "/files/ps2/images/static/9125.png",
+    "reward_currency_id": "1000",
+    "reward_amount": "1"
   },
   {
     "map_region_id": "18027",
@@ -3161,7 +3169,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "7917",
     "image_id": "9124",
-    "image_path": "/files/ps2/images/static/9124.png"
+    "image_path": "/files/ps2/images/static/9124.png",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "18030",
@@ -3189,7 +3199,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "7917",
     "image_id": "9124",
-    "image_path": "/files/ps2/images/static/9124.png"
+    "image_path": "/files/ps2/images/static/9124.png",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "18032",
@@ -3469,7 +3481,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "7917",
     "image_id": "9124",
-    "image_path": "/files/ps2/images/static/9124.png"
+    "image_path": "/files/ps2/images/static/9124.png",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "18063",
@@ -3581,7 +3595,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "7917",
     "image_id": "9124",
-    "image_path": "/files/ps2/images/static/9124.png"
+    "image_path": "/files/ps2/images/static/9124.png",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "6209",
@@ -3721,7 +3737,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "7917",
     "image_id": "9124",
-    "image_path": "/files/ps2/images/static/9124.png"
+    "image_path": "/files/ps2/images/static/9124.png",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "6003",
@@ -3749,7 +3767,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "7917",
     "image_id": "9124",
-    "image_path": "/files/ps2/images/static/9124.png"
+    "image_path": "/files/ps2/images/static/9124.png",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "6323",
@@ -3917,7 +3937,9 @@
     "outfit_resource_reward_amount": "8",
     "image_set_id": "7916",
     "image_id": "9125",
-    "image_path": "/files/ps2/images/static/9125.png"
+    "image_path": "/files/ps2/images/static/9125.png",
+    "reward_currency_id": "1000",
+    "reward_amount": "1"
   },
   {
     "map_region_id": "6359",
@@ -4141,7 +4163,9 @@
     "outfit_resource_reward_amount": "8",
     "image_set_id": "7916",
     "image_id": "9125",
-    "image_path": "/files/ps2/images/static/9125.png"
+    "image_path": "/files/ps2/images/static/9125.png",
+    "reward_currency_id": "1000",
+    "reward_amount": "1"
   },
   {
     "map_region_id": "6304",
@@ -4309,7 +4333,9 @@
     "outfit_resource_reward_amount": "8",
     "image_set_id": "7916",
     "image_id": "9125",
-    "image_path": "/files/ps2/images/static/9125.png"
+    "image_path": "/files/ps2/images/static/9125.png",
+    "reward_currency_id": "1000",
+    "reward_amount": "1"
   },
   {
     "map_region_id": "6314",
@@ -5961,7 +5987,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "7917",
     "image_id": "9124",
-    "image_path": "/files/ps2/images/static/9124.png"
+    "image_path": "/files/ps2/images/static/9124.png",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "4134",
@@ -6437,7 +6465,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "7917",
     "image_id": "9124",
-    "image_path": "/files/ps2/images/static/9124.png"
+    "image_path": "/files/ps2/images/static/9124.png",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "4113",
@@ -6857,7 +6887,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "7917",
     "image_id": "9124",
-    "image_path": "/files/ps2/images/static/9124.png"
+    "image_path": "/files/ps2/images/static/9124.png",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "4123",
@@ -7305,7 +7337,9 @@
     "outfit_resource_reward_amount": "8",
     "image_set_id": "7916",
     "image_id": "9125",
-    "image_path": "/files/ps2/images/static/9125.png"
+    "image_path": "/files/ps2/images/static/9125.png",
+    "reward_currency_id": "1000",
+    "reward_amount": "1"
   },
   {
     "map_region_id": "4137",
@@ -8089,7 +8123,9 @@
     "outfit_resource_reward_amount": "8",
     "image_set_id": "7916",
     "image_id": "9125",
-    "image_path": "/files/ps2/images/static/9125.png"
+    "image_path": "/files/ps2/images/static/9125.png",
+    "reward_currency_id": "1000",
+    "reward_amount": "1"
   },
   {
     "map_region_id": "4211",
@@ -8201,7 +8237,9 @@
     "outfit_resource_reward_amount": "8",
     "image_set_id": "7916",
     "image_id": "9125",
-    "image_path": "/files/ps2/images/static/9125.png"
+    "image_path": "/files/ps2/images/static/9125.png",
+    "reward_currency_id": "1000",
+    "reward_amount": "1"
   },
   {
     "map_region_id": "4221",
@@ -8313,7 +8351,9 @@
     "outfit_resource_reward_amount": "8",
     "image_set_id": "7916",
     "image_id": "9125",
-    "image_path": "/files/ps2/images/static/9125.png"
+    "image_path": "/files/ps2/images/static/9125.png",
+    "reward_currency_id": "1000",
+    "reward_amount": "1"
   },
   {
     "map_region_id": "2421",
@@ -8369,7 +8409,9 @@
     "outfit_resource_reward_amount": "8",
     "image_set_id": "7916",
     "image_id": "9125",
-    "image_path": "/files/ps2/images/static/9125.png"
+    "image_path": "/files/ps2/images/static/9125.png",
+    "reward_currency_id": "1000",
+    "reward_amount": "1"
   },
   {
     "map_region_id": "2422",
@@ -8537,7 +8579,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "7917",
     "image_id": "9124",
-    "image_path": "/files/ps2/images/static/9124.png"
+    "image_path": "/files/ps2/images/static/9124.png",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "2457",
@@ -8621,7 +8665,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "7917",
     "image_id": "9124",
-    "image_path": "/files/ps2/images/static/9124.png"
+    "image_path": "/files/ps2/images/static/9124.png",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "2458",
@@ -8733,7 +8779,9 @@
     "outfit_resource_reward_amount": "NULL",
     "image_set_id": "7917",
     "image_id": "9124",
-    "image_path": "/files/ps2/images/static/9124.png"
+    "image_path": "/files/ps2/images/static/9124.png",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "2459",
@@ -8789,7 +8837,9 @@
     "outfit_resource_reward_amount": "8",
     "image_set_id": "7916",
     "image_id": "9125",
-    "image_path": "/files/ps2/images/static/9125.png"
+    "image_path": "/files/ps2/images/static/9125.png",
+    "reward_currency_id": "1000",
+    "reward_amount": "1"
   },
   {
     "map_region_id": "2428",

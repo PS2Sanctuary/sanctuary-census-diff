@@ -11155,16 +11155,6 @@
     "fire_mode_index": "0"
   },
   {
-    "fire_group_id": "80669",
-    "fire_mode_id": "80777",
-    "fire_mode_index": "0"
-  },
-  {
-    "fire_group_id": "80669",
-    "fire_mode_id": "80778",
-    "fire_mode_index": "1"
-  },
-  {
     "fire_group_id": "80670",
     "fire_mode_id": "80923",
     "fire_mode_index": "0"
@@ -13372,6 +13362,56 @@
   {
     "fire_group_id": "80950",
     "fire_mode_id": "81340",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "80669",
+    "fire_mode_id": "81360",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "80669",
+    "fire_mode_id": "81361",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "80954",
+    "fire_mode_id": "81347",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "80954",
+    "fire_mode_id": "81348",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "80955",
+    "fire_mode_id": "81349",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "80955",
+    "fire_mode_id": "81350",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "80956",
+    "fire_mode_id": "81351",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "80956",
+    "fire_mode_id": "81352",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "80957",
+    "fire_mode_id": "81353",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "80957",
+    "fire_mode_id": "81354",
     "fire_mode_index": "1"
   }
 ]
