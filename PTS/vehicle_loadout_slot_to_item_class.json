@@ -1,0 +1,6842 @@
+[
+  {
+    "loadout_id": "1",
+    "slot_id": "1",
+    "item_class_id": "1101"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "3",
+    "item_class_id": "1104"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "3",
+    "item_class_id": "1194"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "4",
+    "item_class_id": "1105"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "4",
+    "item_class_id": "1193"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "5",
+    "item_class_id": "1106"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "5",
+    "item_class_id": "1192"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "6",
+    "item_class_id": "1013"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "6",
+    "item_class_id": "1110"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "6",
+    "item_class_id": "1191"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "7",
+    "item_class_id": "41"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "7",
+    "item_class_id": "2007"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "7",
+    "item_class_id": "2107"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "8",
+    "item_class_id": "905"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "9",
+    "item_class_id": "1100"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "9",
+    "item_class_id": "1189"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "14",
+    "item_class_id": "1111"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "14",
+    "item_class_id": "1195"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "15",
+    "item_class_id": "1123"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "15",
+    "item_class_id": "50825"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "16",
+    "item_class_id": "1108"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "16",
+    "item_class_id": "51034"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "17",
+    "item_class_id": "1112"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "17",
+    "item_class_id": "1190"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "18",
+    "item_class_id": "1016"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "18",
+    "item_class_id": "1109"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "19",
+    "item_class_id": "1113"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "19",
+    "item_class_id": "1188"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "1",
+    "item_class_id": "1131"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "3",
+    "item_class_id": "1134"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "3",
+    "item_class_id": "1194"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "4",
+    "item_class_id": "1135"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "4",
+    "item_class_id": "1193"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "5",
+    "item_class_id": "1136"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "5",
+    "item_class_id": "1192"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "6",
+    "item_class_id": "1014"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "6",
+    "item_class_id": "1140"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "6",
+    "item_class_id": "1191"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "7",
+    "item_class_id": "42"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "7",
+    "item_class_id": "2037"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "7",
+    "item_class_id": "2137"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "8",
+    "item_class_id": "906"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "9",
+    "item_class_id": "1130"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "9",
+    "item_class_id": "1189"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "14",
+    "item_class_id": "1141"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "14",
+    "item_class_id": "1195"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "15",
+    "item_class_id": "1123"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "15",
+    "item_class_id": "50826"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "16",
+    "item_class_id": "1138"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "16",
+    "item_class_id": "51034"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "17",
+    "item_class_id": "1142"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "17",
+    "item_class_id": "1190"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "18",
+    "item_class_id": "1016"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "18",
+    "item_class_id": "1139"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "19",
+    "item_class_id": "1143"
+  },
+  {
+    "loadout_id": "2",
+    "slot_id": "19",
+    "item_class_id": "1188"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "1",
+    "item_class_id": "1161"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "3",
+    "item_class_id": "1164"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "3",
+    "item_class_id": "1194"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "4",
+    "item_class_id": "1165"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "4",
+    "item_class_id": "1193"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "5",
+    "item_class_id": "1166"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "5",
+    "item_class_id": "1192"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "6",
+    "item_class_id": "1015"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "6",
+    "item_class_id": "1170"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "6",
+    "item_class_id": "1191"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "7",
+    "item_class_id": "43"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "7",
+    "item_class_id": "2067"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "7",
+    "item_class_id": "2167"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "8",
+    "item_class_id": "907"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "9",
+    "item_class_id": "1160"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "9",
+    "item_class_id": "1189"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "14",
+    "item_class_id": "1171"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "14",
+    "item_class_id": "1195"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "15",
+    "item_class_id": "1123"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "15",
+    "item_class_id": "50827"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "16",
+    "item_class_id": "1168"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "16",
+    "item_class_id": "51034"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "17",
+    "item_class_id": "1172"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "17",
+    "item_class_id": "1190"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "18",
+    "item_class_id": "1016"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "18",
+    "item_class_id": "1169"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "19",
+    "item_class_id": "1173"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "19",
+    "item_class_id": "1188"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "1",
+    "item_class_id": "1201"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "2",
+    "item_class_id": "1202"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "3",
+    "item_class_id": "1204"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "3",
+    "item_class_id": "1220"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "3",
+    "item_class_id": "1298"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "4",
+    "item_class_id": "1205"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "4",
+    "item_class_id": "1221"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "4",
+    "item_class_id": "1297"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "5",
+    "item_class_id": "1206"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "5",
+    "item_class_id": "1222"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "5",
+    "item_class_id": "1296"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "6",
+    "item_class_id": "1013"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "6",
+    "item_class_id": "1210"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "6",
+    "item_class_id": "1291"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "7",
+    "item_class_id": "41"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "7",
+    "item_class_id": "2007"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "7",
+    "item_class_id": "2107"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "8",
+    "item_class_id": "905"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "9",
+    "item_class_id": "1200"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "9",
+    "item_class_id": "1289"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "10",
+    "item_class_id": "1225"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "14",
+    "item_class_id": "1211"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "14",
+    "item_class_id": "1294"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "15",
+    "item_class_id": "1215"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "15",
+    "item_class_id": "1218"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "15",
+    "item_class_id": "50825"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "16",
+    "item_class_id": "1207"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "16",
+    "item_class_id": "1288"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "17",
+    "item_class_id": "1208"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "17",
+    "item_class_id": "1290"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "18",
+    "item_class_id": "1017"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "18",
+    "item_class_id": "1209"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "19",
+    "item_class_id": "1284"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "19",
+    "item_class_id": "1287"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "1",
+    "item_class_id": "1231"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "2",
+    "item_class_id": "1232"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "3",
+    "item_class_id": "1234"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "3",
+    "item_class_id": "1298"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "4",
+    "item_class_id": "1235"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "4",
+    "item_class_id": "1297"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "5",
+    "item_class_id": "1236"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "5",
+    "item_class_id": "1296"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "6",
+    "item_class_id": "1014"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "6",
+    "item_class_id": "1240"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "6",
+    "item_class_id": "1291"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "7",
+    "item_class_id": "42"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "7",
+    "item_class_id": "2037"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "7",
+    "item_class_id": "2137"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "8",
+    "item_class_id": "906"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "9",
+    "item_class_id": "1230"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "9",
+    "item_class_id": "1289"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "14",
+    "item_class_id": "1241"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "14",
+    "item_class_id": "1294"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "15",
+    "item_class_id": "1216"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "15",
+    "item_class_id": "1218"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "15",
+    "item_class_id": "50826"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "16",
+    "item_class_id": "1237"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "16",
+    "item_class_id": "1288"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "17",
+    "item_class_id": "1238"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "17",
+    "item_class_id": "1290"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "18",
+    "item_class_id": "1017"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "18",
+    "item_class_id": "1239"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "19",
+    "item_class_id": "1285"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "19",
+    "item_class_id": "1287"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "1",
+    "item_class_id": "1261"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "2",
+    "item_class_id": "1262"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "3",
+    "item_class_id": "1264"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "3",
+    "item_class_id": "1298"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "4",
+    "item_class_id": "1265"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "4",
+    "item_class_id": "1297"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "5",
+    "item_class_id": "1266"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "5",
+    "item_class_id": "1296"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "6",
+    "item_class_id": "1015"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "6",
+    "item_class_id": "1270"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "6",
+    "item_class_id": "1291"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "7",
+    "item_class_id": "43"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "7",
+    "item_class_id": "2067"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "7",
+    "item_class_id": "2167"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "8",
+    "item_class_id": "907"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "9",
+    "item_class_id": "1260"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "9",
+    "item_class_id": "1289"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "14",
+    "item_class_id": "1271"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "14",
+    "item_class_id": "1294"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "15",
+    "item_class_id": "1217"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "15",
+    "item_class_id": "1218"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "15",
+    "item_class_id": "50827"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "16",
+    "item_class_id": "1267"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "16",
+    "item_class_id": "1288"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "17",
+    "item_class_id": "1268"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "17",
+    "item_class_id": "1290"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "18",
+    "item_class_id": "1017"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "18",
+    "item_class_id": "1269"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "19",
+    "item_class_id": "1286"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "19",
+    "item_class_id": "1287"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "1",
+    "item_class_id": "1301"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "3",
+    "item_class_id": "1304"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "3",
+    "item_class_id": "1394"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "4",
+    "item_class_id": "1305"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "4",
+    "item_class_id": "1393"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "5",
+    "item_class_id": "1306"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "5",
+    "item_class_id": "1392"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "6",
+    "item_class_id": "1013"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "6",
+    "item_class_id": "1310"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "6",
+    "item_class_id": "1391"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "7",
+    "item_class_id": "41"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "7",
+    "item_class_id": "2007"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "7",
+    "item_class_id": "2107"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "8",
+    "item_class_id": "905"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "9",
+    "item_class_id": "1307"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "9",
+    "item_class_id": "1389"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "14",
+    "item_class_id": "1395"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "15",
+    "item_class_id": "1320"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "15",
+    "item_class_id": "1323"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "15",
+    "item_class_id": "50825"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "16",
+    "item_class_id": "1308"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "16",
+    "item_class_id": "50731"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "16",
+    "item_class_id": "51035"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "17",
+    "item_class_id": "1309"
+  },
+  {
+    "loadout_id": "7",
+    "slot_id": "17",
+    "item_class_id": "1390"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "1",
+    "item_class_id": "1331"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "3",
+    "item_class_id": "1334"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "3",
+    "item_class_id": "1394"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "4",
+    "item_class_id": "1335"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "4",
+    "item_class_id": "1393"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "5",
+    "item_class_id": "1336"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "5",
+    "item_class_id": "1392"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "6",
+    "item_class_id": "1014"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "6",
+    "item_class_id": "1340"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "6",
+    "item_class_id": "1391"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "7",
+    "item_class_id": "42"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "7",
+    "item_class_id": "2037"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "7",
+    "item_class_id": "2137"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "8",
+    "item_class_id": "906"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "9",
+    "item_class_id": "1337"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "9",
+    "item_class_id": "1389"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "14",
+    "item_class_id": "1395"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "15",
+    "item_class_id": "1321"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "15",
+    "item_class_id": "1323"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "15",
+    "item_class_id": "50826"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "16",
+    "item_class_id": "1338"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "16",
+    "item_class_id": "50731"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "16",
+    "item_class_id": "51035"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "17",
+    "item_class_id": "1339"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "17",
+    "item_class_id": "1390"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "1",
+    "item_class_id": "1361"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "3",
+    "item_class_id": "1364"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "3",
+    "item_class_id": "1394"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "4",
+    "item_class_id": "1365"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "4",
+    "item_class_id": "1393"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "5",
+    "item_class_id": "1366"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "5",
+    "item_class_id": "1392"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "6",
+    "item_class_id": "1015"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "6",
+    "item_class_id": "1370"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "6",
+    "item_class_id": "1391"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "7",
+    "item_class_id": "43"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "7",
+    "item_class_id": "2067"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "7",
+    "item_class_id": "2167"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "8",
+    "item_class_id": "907"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "9",
+    "item_class_id": "1367"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "9",
+    "item_class_id": "1389"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "14",
+    "item_class_id": "1395"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "15",
+    "item_class_id": "1322"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "15",
+    "item_class_id": "1323"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "15",
+    "item_class_id": "50827"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "16",
+    "item_class_id": "1368"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "16",
+    "item_class_id": "50731"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "16",
+    "item_class_id": "51035"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "17",
+    "item_class_id": "1369"
+  },
+  {
+    "loadout_id": "9",
+    "slot_id": "17",
+    "item_class_id": "1390"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "1",
+    "item_class_id": "1401"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "2",
+    "item_class_id": "1402"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "3",
+    "item_class_id": "1404"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "4",
+    "item_class_id": "1403"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "5",
+    "item_class_id": "1405"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "6",
+    "item_class_id": "1013"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "6",
+    "item_class_id": "1406"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "7",
+    "item_class_id": "41"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "7",
+    "item_class_id": "2007"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "7",
+    "item_class_id": "2107"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "8",
+    "item_class_id": "905"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "9",
+    "item_class_id": "1407"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "14",
+    "item_class_id": "1411"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "15",
+    "item_class_id": "1420"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "15",
+    "item_class_id": "1423"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "15",
+    "item_class_id": "50825"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "16",
+    "item_class_id": "1408"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "17",
+    "item_class_id": "1409"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "1",
+    "item_class_id": "1531"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "2",
+    "item_class_id": "1532"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "3",
+    "item_class_id": "1535"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "4",
+    "item_class_id": "1534"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "5",
+    "item_class_id": "1536"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "6",
+    "item_class_id": "1014"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "6",
+    "item_class_id": "1540"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "7",
+    "item_class_id": "42"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "7",
+    "item_class_id": "2037"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "7",
+    "item_class_id": "2137"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "8",
+    "item_class_id": "906"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "9",
+    "item_class_id": "1537"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "14",
+    "item_class_id": "1541"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "15",
+    "item_class_id": "1521"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "15",
+    "item_class_id": "1523"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "15",
+    "item_class_id": "50826"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "16",
+    "item_class_id": "1538"
+  },
+  {
+    "loadout_id": "14",
+    "slot_id": "17",
+    "item_class_id": "1539"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "1",
+    "item_class_id": "1661"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "2",
+    "item_class_id": "1662"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "3",
+    "item_class_id": "1664"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "3",
+    "item_class_id": "1665"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "4",
+    "item_class_id": "1663"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "5",
+    "item_class_id": "1666"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "6",
+    "item_class_id": "1015"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "6",
+    "item_class_id": "1670"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "7",
+    "item_class_id": "43"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "7",
+    "item_class_id": "1667"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "7",
+    "item_class_id": "2067"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "7",
+    "item_class_id": "2167"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "8",
+    "item_class_id": "907"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "9",
+    "item_class_id": "1667"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "14",
+    "item_class_id": "1671"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "15",
+    "item_class_id": "1622"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "15",
+    "item_class_id": "1623"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "15",
+    "item_class_id": "50827"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "16",
+    "item_class_id": "1668"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "17",
+    "item_class_id": "1669"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "1",
+    "item_class_id": "1701"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "2",
+    "item_class_id": "1702"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "3",
+    "item_class_id": "1703"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "4",
+    "item_class_id": "1705"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "5",
+    "item_class_id": "1706"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "6",
+    "item_class_id": "1710"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "7",
+    "item_class_id": "41"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "7",
+    "item_class_id": "2007"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "7",
+    "item_class_id": "2107"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "8",
+    "item_class_id": "905"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "9",
+    "item_class_id": "1709"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "12",
+    "item_class_id": "1704"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "15",
+    "item_class_id": "1720"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "15",
+    "item_class_id": "1723"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "15",
+    "item_class_id": "50825"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "16",
+    "item_class_id": "1708"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "17",
+    "item_class_id": "1713"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "17",
+    "item_class_id": "51098"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "19",
+    "item_class_id": "51095"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "1",
+    "item_class_id": "1831"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "2",
+    "item_class_id": "1832"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "3",
+    "item_class_id": "1833"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "4",
+    "item_class_id": "1835"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "5",
+    "item_class_id": "1836"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "6",
+    "item_class_id": "1840"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "7",
+    "item_class_id": "42"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "7",
+    "item_class_id": "2037"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "7",
+    "item_class_id": "2137"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "8",
+    "item_class_id": "906"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "9",
+    "item_class_id": "1839"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "12",
+    "item_class_id": "1834"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "15",
+    "item_class_id": "1821"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "15",
+    "item_class_id": "1823"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "15",
+    "item_class_id": "50826"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "16",
+    "item_class_id": "1838"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "17",
+    "item_class_id": "1843"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "17",
+    "item_class_id": "51100"
+  },
+  {
+    "loadout_id": "23",
+    "slot_id": "19",
+    "item_class_id": "51097"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "1",
+    "item_class_id": "1961"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "2",
+    "item_class_id": "1962"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "3",
+    "item_class_id": "1963"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "4",
+    "item_class_id": "1965"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "5",
+    "item_class_id": "1966"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "6",
+    "item_class_id": "1970"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "7",
+    "item_class_id": "43"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "7",
+    "item_class_id": "2067"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "7",
+    "item_class_id": "2167"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "8",
+    "item_class_id": "907"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "9",
+    "item_class_id": "1969"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "12",
+    "item_class_id": "1964"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "15",
+    "item_class_id": "1922"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "15",
+    "item_class_id": "1923"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "15",
+    "item_class_id": "50827"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "16",
+    "item_class_id": "1968"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "17",
+    "item_class_id": "1973"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "17",
+    "item_class_id": "51099"
+  },
+  {
+    "loadout_id": "27",
+    "slot_id": "19",
+    "item_class_id": "51096"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "1",
+    "item_class_id": "2001"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "2",
+    "item_class_id": "2002"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "3",
+    "item_class_id": "2091"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "4",
+    "item_class_id": "2004"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "4",
+    "item_class_id": "2093"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "5",
+    "item_class_id": "2005"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "5",
+    "item_class_id": "2092"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "6",
+    "item_class_id": "2000"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "6",
+    "item_class_id": "2010"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "7",
+    "item_class_id": "41"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "7",
+    "item_class_id": "2007"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "7",
+    "item_class_id": "2107"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "8",
+    "item_class_id": "905"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "9",
+    "item_class_id": "2009"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "9",
+    "item_class_id": "50683"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "10",
+    "item_class_id": "2003"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "12",
+    "item_class_id": "50734"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "15",
+    "item_class_id": "2020"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "15",
+    "item_class_id": "2023"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "15",
+    "item_class_id": "50825"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "16",
+    "item_class_id": "2008"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "16",
+    "item_class_id": "50836"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "17",
+    "item_class_id": "51101"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "17",
+    "item_class_id": "51125"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "19",
+    "item_class_id": "51127"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "1",
+    "item_class_id": "2031"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "2",
+    "item_class_id": "2032"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "3",
+    "item_class_id": "2091"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "4",
+    "item_class_id": "2034"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "4",
+    "item_class_id": "2093"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "5",
+    "item_class_id": "2035"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "5",
+    "item_class_id": "2092"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "6",
+    "item_class_id": "2000"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "6",
+    "item_class_id": "2040"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "7",
+    "item_class_id": "42"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "7",
+    "item_class_id": "2037"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "7",
+    "item_class_id": "2137"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "8",
+    "item_class_id": "906"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "9",
+    "item_class_id": "2039"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "9",
+    "item_class_id": "50683"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "10",
+    "item_class_id": "2033"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "12",
+    "item_class_id": "50734"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "15",
+    "item_class_id": "2021"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "15",
+    "item_class_id": "2023"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "15",
+    "item_class_id": "50826"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "16",
+    "item_class_id": "2038"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "16",
+    "item_class_id": "50836"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "17",
+    "item_class_id": "51102"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "17",
+    "item_class_id": "51125"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "19",
+    "item_class_id": "51127"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "1",
+    "item_class_id": "2061"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "2",
+    "item_class_id": "2062"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "3",
+    "item_class_id": "2091"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "4",
+    "item_class_id": "2064"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "4",
+    "item_class_id": "2093"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "5",
+    "item_class_id": "2065"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "5",
+    "item_class_id": "2092"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "6",
+    "item_class_id": "2000"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "6",
+    "item_class_id": "2070"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "7",
+    "item_class_id": "43"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "7",
+    "item_class_id": "2067"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "7",
+    "item_class_id": "2167"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "8",
+    "item_class_id": "907"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "9",
+    "item_class_id": "2069"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "9",
+    "item_class_id": "50683"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "10",
+    "item_class_id": "2063"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "12",
+    "item_class_id": "50734"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "15",
+    "item_class_id": "2022"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "15",
+    "item_class_id": "2023"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "15",
+    "item_class_id": "50827"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "16",
+    "item_class_id": "2068"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "16",
+    "item_class_id": "50836"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "17",
+    "item_class_id": "51103"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "17",
+    "item_class_id": "51125"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "19",
+    "item_class_id": "51127"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "1",
+    "item_class_id": "2101"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "2",
+    "item_class_id": "2102"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "3",
+    "item_class_id": "2105"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "3",
+    "item_class_id": "2194"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "4",
+    "item_class_id": "2199"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "5",
+    "item_class_id": "2191"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "6",
+    "item_class_id": "2100"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "6",
+    "item_class_id": "2110"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "7",
+    "item_class_id": "41"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "7",
+    "item_class_id": "2007"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "7",
+    "item_class_id": "2107"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "8",
+    "item_class_id": "905"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "9",
+    "item_class_id": "2109"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "9",
+    "item_class_id": "2189"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "10",
+    "item_class_id": "2103"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "11",
+    "item_class_id": "2104"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "15",
+    "item_class_id": "2120"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "15",
+    "item_class_id": "2123"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "15",
+    "item_class_id": "50825"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "16",
+    "item_class_id": "2108"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "16",
+    "item_class_id": "50837"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "17",
+    "item_class_id": "51124"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "19",
+    "item_class_id": "2114"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "19",
+    "item_class_id": "50684"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "1",
+    "item_class_id": "2131"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "2",
+    "item_class_id": "2132"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "3",
+    "item_class_id": "2135"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "3",
+    "item_class_id": "2194"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "4",
+    "item_class_id": "2199"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "5",
+    "item_class_id": "2191"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "6",
+    "item_class_id": "2100"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "6",
+    "item_class_id": "2140"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "7",
+    "item_class_id": "42"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "7",
+    "item_class_id": "2037"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "7",
+    "item_class_id": "2137"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "8",
+    "item_class_id": "906"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "9",
+    "item_class_id": "2139"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "9",
+    "item_class_id": "2189"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "10",
+    "item_class_id": "2133"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "11",
+    "item_class_id": "2134"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "15",
+    "item_class_id": "2121"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "15",
+    "item_class_id": "2123"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "15",
+    "item_class_id": "50826"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "16",
+    "item_class_id": "2138"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "16",
+    "item_class_id": "50837"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "17",
+    "item_class_id": "51124"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "19",
+    "item_class_id": "2144"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "19",
+    "item_class_id": "50684"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "1",
+    "item_class_id": "2161"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "2",
+    "item_class_id": "2162"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "3",
+    "item_class_id": "2165"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "3",
+    "item_class_id": "2194"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "4",
+    "item_class_id": "2199"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "5",
+    "item_class_id": "2191"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "6",
+    "item_class_id": "2100"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "6",
+    "item_class_id": "2170"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "7",
+    "item_class_id": "43"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "7",
+    "item_class_id": "2067"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "7",
+    "item_class_id": "2167"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "8",
+    "item_class_id": "907"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "9",
+    "item_class_id": "2169"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "9",
+    "item_class_id": "2189"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "10",
+    "item_class_id": "2163"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "11",
+    "item_class_id": "2164"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "15",
+    "item_class_id": "2122"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "15",
+    "item_class_id": "2123"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "15",
+    "item_class_id": "50827"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "16",
+    "item_class_id": "2168"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "16",
+    "item_class_id": "50837"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "17",
+    "item_class_id": "51124"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "19",
+    "item_class_id": "2174"
+  },
+  {
+    "loadout_id": "33",
+    "slot_id": "19",
+    "item_class_id": "50684"
+  },
+  {
+    "loadout_id": "34",
+    "slot_id": "1",
+    "item_class_id": "407"
+  },
+  {
+    "loadout_id": "34",
+    "slot_id": "2",
+    "item_class_id": "407"
+  },
+  {
+    "loadout_id": "35",
+    "slot_id": "1",
+    "item_class_id": "408"
+  },
+  {
+    "loadout_id": "35",
+    "slot_id": "2",
+    "item_class_id": "408"
+  },
+  {
+    "loadout_id": "36",
+    "slot_id": "1",
+    "item_class_id": "409"
+  },
+  {
+    "loadout_id": "36",
+    "slot_id": "2",
+    "item_class_id": "409"
+  },
+  {
+    "loadout_id": "37",
+    "slot_id": "1",
+    "item_class_id": "410"
+  },
+  {
+    "loadout_id": "37",
+    "slot_id": "2",
+    "item_class_id": "410"
+  },
+  {
+    "loadout_id": "38",
+    "slot_id": "1",
+    "item_class_id": "411"
+  },
+  {
+    "loadout_id": "38",
+    "slot_id": "2",
+    "item_class_id": "411"
+  },
+  {
+    "loadout_id": "39",
+    "slot_id": "1",
+    "item_class_id": "412"
+  },
+  {
+    "loadout_id": "39",
+    "slot_id": "2",
+    "item_class_id": "412"
+  },
+  {
+    "loadout_id": "40",
+    "slot_id": "1",
+    "item_class_id": "413"
+  },
+  {
+    "loadout_id": "40",
+    "slot_id": "2",
+    "item_class_id": "407"
+  },
+  {
+    "loadout_id": "41",
+    "slot_id": "1",
+    "item_class_id": "414"
+  },
+  {
+    "loadout_id": "41",
+    "slot_id": "2",
+    "item_class_id": "407"
+  },
+  {
+    "loadout_id": "42",
+    "slot_id": "1",
+    "item_class_id": "415"
+  },
+  {
+    "loadout_id": "42",
+    "slot_id": "2",
+    "item_class_id": "407"
+  },
+  {
+    "loadout_id": "43",
+    "slot_id": "1",
+    "item_class_id": "416"
+  },
+  {
+    "loadout_id": "43",
+    "slot_id": "2",
+    "item_class_id": "408"
+  },
+  {
+    "loadout_id": "44",
+    "slot_id": "1",
+    "item_class_id": "417"
+  },
+  {
+    "loadout_id": "44",
+    "slot_id": "2",
+    "item_class_id": "409"
+  },
+  {
+    "loadout_id": "45",
+    "slot_id": "1",
+    "item_class_id": "418"
+  },
+  {
+    "loadout_id": "45",
+    "slot_id": "2",
+    "item_class_id": "410"
+  },
+  {
+    "loadout_id": "46",
+    "slot_id": "1",
+    "item_class_id": "419"
+  },
+  {
+    "loadout_id": "46",
+    "slot_id": "2",
+    "item_class_id": "410"
+  },
+  {
+    "loadout_id": "47",
+    "slot_id": "1",
+    "item_class_id": "420"
+  },
+  {
+    "loadout_id": "47",
+    "slot_id": "2",
+    "item_class_id": "411"
+  },
+  {
+    "loadout_id": "48",
+    "slot_id": "1",
+    "item_class_id": "421"
+  },
+  {
+    "loadout_id": "48",
+    "slot_id": "2",
+    "item_class_id": "412"
+  },
+  {
+    "loadout_id": "49",
+    "slot_id": "1",
+    "item_class_id": "422"
+  },
+  {
+    "loadout_id": "50",
+    "slot_id": "1",
+    "item_class_id": "423"
+  },
+  {
+    "loadout_id": "51",
+    "slot_id": "1",
+    "item_class_id": "424"
+  },
+  {
+    "loadout_id": "52",
+    "slot_id": "1",
+    "item_class_id": "425"
+  },
+  {
+    "loadout_id": "53",
+    "slot_id": "1",
+    "item_class_id": "426"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "1",
+    "item_class_id": "2300"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "3",
+    "item_class_id": "2301"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "3",
+    "item_class_id": "2331"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "4",
+    "item_class_id": "2302"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "4",
+    "item_class_id": "2332"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "5",
+    "item_class_id": "2303"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "5",
+    "item_class_id": "2333"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "6",
+    "item_class_id": "1013"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "6",
+    "item_class_id": "2304"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "6",
+    "item_class_id": "2334"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "6",
+    "item_class_id": "7462"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "7",
+    "item_class_id": "2305"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "7",
+    "item_class_id": "2335"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "8",
+    "item_class_id": "905"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "9",
+    "item_class_id": "2305"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "9",
+    "item_class_id": "2335"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "12",
+    "item_class_id": "2345"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "14",
+    "item_class_id": "2339"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "15",
+    "item_class_id": "2308"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "15",
+    "item_class_id": "2338"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "15",
+    "item_class_id": "50825"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "16",
+    "item_class_id": "2306"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "16",
+    "item_class_id": "2336"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "17",
+    "item_class_id": "2307"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "17",
+    "item_class_id": "2337"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "18",
+    "item_class_id": "2309"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "18",
+    "item_class_id": "2344"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "19",
+    "item_class_id": "2340"
+  },
+  {
+    "loadout_id": "54",
+    "slot_id": "19",
+    "item_class_id": "2343"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "1",
+    "item_class_id": "2310"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "3",
+    "item_class_id": "2311"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "3",
+    "item_class_id": "2331"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "4",
+    "item_class_id": "2312"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "4",
+    "item_class_id": "2332"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "5",
+    "item_class_id": "2313"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "5",
+    "item_class_id": "2333"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "6",
+    "item_class_id": "1014"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "6",
+    "item_class_id": "2314"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "6",
+    "item_class_id": "2334"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "6",
+    "item_class_id": "7462"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "7",
+    "item_class_id": "2315"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "7",
+    "item_class_id": "2335"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "8",
+    "item_class_id": "906"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "9",
+    "item_class_id": "2315"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "9",
+    "item_class_id": "2335"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "12",
+    "item_class_id": "2345"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "14",
+    "item_class_id": "2339"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "15",
+    "item_class_id": "2318"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "15",
+    "item_class_id": "2338"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "15",
+    "item_class_id": "50826"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "16",
+    "item_class_id": "2316"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "16",
+    "item_class_id": "2336"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "17",
+    "item_class_id": "2317"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "17",
+    "item_class_id": "2337"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "18",
+    "item_class_id": "2319"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "18",
+    "item_class_id": "2344"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "19",
+    "item_class_id": "2341"
+  },
+  {
+    "loadout_id": "55",
+    "slot_id": "19",
+    "item_class_id": "2343"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "1",
+    "item_class_id": "2320"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "3",
+    "item_class_id": "2321"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "3",
+    "item_class_id": "2331"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "4",
+    "item_class_id": "2322"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "4",
+    "item_class_id": "2332"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "5",
+    "item_class_id": "2323"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "5",
+    "item_class_id": "2333"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "6",
+    "item_class_id": "1015"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "6",
+    "item_class_id": "2324"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "6",
+    "item_class_id": "2334"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "6",
+    "item_class_id": "7462"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "7",
+    "item_class_id": "2325"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "7",
+    "item_class_id": "2335"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "8",
+    "item_class_id": "907"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "9",
+    "item_class_id": "2325"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "9",
+    "item_class_id": "2335"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "12",
+    "item_class_id": "2345"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "14",
+    "item_class_id": "2339"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "15",
+    "item_class_id": "2328"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "15",
+    "item_class_id": "2338"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "15",
+    "item_class_id": "50827"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "16",
+    "item_class_id": "2326"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "16",
+    "item_class_id": "2336"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "17",
+    "item_class_id": "2327"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "17",
+    "item_class_id": "2337"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "18",
+    "item_class_id": "2329"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "18",
+    "item_class_id": "2344"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "19",
+    "item_class_id": "2342"
+  },
+  {
+    "loadout_id": "56",
+    "slot_id": "19",
+    "item_class_id": "2343"
+  },
+  {
+    "loadout_id": "57",
+    "slot_id": "1",
+    "item_class_id": "3082"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "1",
+    "item_class_id": "2350"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "1",
+    "item_class_id": "2351"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "3",
+    "item_class_id": "2354"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "3",
+    "item_class_id": "2355"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "4",
+    "item_class_id": "2358"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "4",
+    "item_class_id": "2359"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "5",
+    "item_class_id": "2362"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "5",
+    "item_class_id": "2363"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "6",
+    "item_class_id": "2366"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "6",
+    "item_class_id": "2367"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "8",
+    "item_class_id": "905"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "9",
+    "item_class_id": "2370"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "9",
+    "item_class_id": "2371"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "15",
+    "item_class_id": "2378"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "15",
+    "item_class_id": "2379"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "15",
+    "item_class_id": "50825"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "16",
+    "item_class_id": "2374"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "16",
+    "item_class_id": "2375"
+  },
+  {
+    "loadout_id": "58",
+    "slot_id": "17",
+    "item_class_id": "51126"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "1",
+    "item_class_id": "2350"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "1",
+    "item_class_id": "2352"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "3",
+    "item_class_id": "2354"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "3",
+    "item_class_id": "2356"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "4",
+    "item_class_id": "2358"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "4",
+    "item_class_id": "2360"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "5",
+    "item_class_id": "2362"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "5",
+    "item_class_id": "2364"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "6",
+    "item_class_id": "2366"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "6",
+    "item_class_id": "2368"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "8",
+    "item_class_id": "906"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "9",
+    "item_class_id": "2370"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "9",
+    "item_class_id": "2372"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "15",
+    "item_class_id": "2378"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "15",
+    "item_class_id": "2380"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "15",
+    "item_class_id": "50826"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "16",
+    "item_class_id": "2374"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "16",
+    "item_class_id": "2376"
+  },
+  {
+    "loadout_id": "59",
+    "slot_id": "17",
+    "item_class_id": "51126"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "1",
+    "item_class_id": "2350"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "1",
+    "item_class_id": "2353"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "3",
+    "item_class_id": "2354"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "3",
+    "item_class_id": "2357"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "4",
+    "item_class_id": "2358"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "4",
+    "item_class_id": "2361"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "5",
+    "item_class_id": "2362"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "5",
+    "item_class_id": "2365"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "6",
+    "item_class_id": "2366"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "6",
+    "item_class_id": "2369"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "8",
+    "item_class_id": "907"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "9",
+    "item_class_id": "2370"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "9",
+    "item_class_id": "2373"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "15",
+    "item_class_id": "2378"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "15",
+    "item_class_id": "2381"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "15",
+    "item_class_id": "50827"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "16",
+    "item_class_id": "2374"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "16",
+    "item_class_id": "2377"
+  },
+  {
+    "loadout_id": "60",
+    "slot_id": "17",
+    "item_class_id": "51126"
+  },
+  {
+    "loadout_id": "325",
+    "slot_id": "1",
+    "item_class_id": "1531"
+  },
+  {
+    "loadout_id": "326",
+    "slot_id": "1",
+    "item_class_id": "16052"
+  },
+  {
+    "loadout_id": "334",
+    "slot_id": "1",
+    "item_class_id": "410"
+  },
+  {
+    "loadout_id": "335",
+    "slot_id": "1",
+    "item_class_id": "411"
+  },
+  {
+    "loadout_id": "336",
+    "slot_id": "1",
+    "item_class_id": "412"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "1",
+    "item_class_id": "50569"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "2",
+    "item_class_id": "50585"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "3",
+    "item_class_id": "50587"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "3",
+    "item_class_id": "50588"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "4",
+    "item_class_id": "50609"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "4",
+    "item_class_id": "50639"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "5",
+    "item_class_id": "50589"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "5",
+    "item_class_id": "50648"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "6",
+    "item_class_id": "1013"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "6",
+    "item_class_id": "50610"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "6",
+    "item_class_id": "50640"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "7",
+    "item_class_id": "41"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "7",
+    "item_class_id": "2107"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "8",
+    "item_class_id": "905"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "9",
+    "item_class_id": "50613"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "9",
+    "item_class_id": "50643"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "14",
+    "item_class_id": "50586"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "15",
+    "item_class_id": "50579"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "15",
+    "item_class_id": "50615"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "15",
+    "item_class_id": "50825"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "16",
+    "item_class_id": "50614"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "16",
+    "item_class_id": "50644"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "17",
+    "item_class_id": "50616"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "17",
+    "item_class_id": "50645"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "18",
+    "item_class_id": "50617"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "18",
+    "item_class_id": "50646"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "19",
+    "item_class_id": "50618"
+  },
+  {
+    "loadout_id": "343",
+    "slot_id": "19",
+    "item_class_id": "50647"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "1",
+    "item_class_id": "50570"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "2",
+    "item_class_id": "50583"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "3",
+    "item_class_id": "50588"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "3",
+    "item_class_id": "50651"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "4",
+    "item_class_id": "50619"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "4",
+    "item_class_id": "50639"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "5",
+    "item_class_id": "50589"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "5",
+    "item_class_id": "50649"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "6",
+    "item_class_id": "1014"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "6",
+    "item_class_id": "50620"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "6",
+    "item_class_id": "50640"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "7",
+    "item_class_id": "42"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "7",
+    "item_class_id": "2137"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "7",
+    "item_class_id": "50621"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "7",
+    "item_class_id": "50641"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "8",
+    "item_class_id": "906"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "8",
+    "item_class_id": "50622"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "8",
+    "item_class_id": "50642"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "9",
+    "item_class_id": "50623"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "9",
+    "item_class_id": "50643"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "14",
+    "item_class_id": "50586"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "15",
+    "item_class_id": "50579"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "15",
+    "item_class_id": "50625"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "15",
+    "item_class_id": "50826"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "16",
+    "item_class_id": "50624"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "16",
+    "item_class_id": "50644"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "17",
+    "item_class_id": "50626"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "17",
+    "item_class_id": "50645"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "18",
+    "item_class_id": "50627"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "18",
+    "item_class_id": "50646"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "19",
+    "item_class_id": "50628"
+  },
+  {
+    "loadout_id": "344",
+    "slot_id": "19",
+    "item_class_id": "50647"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "1",
+    "item_class_id": "50571"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "2",
+    "item_class_id": "50584"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "3",
+    "item_class_id": "50588"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "3",
+    "item_class_id": "50652"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "4",
+    "item_class_id": "50629"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "4",
+    "item_class_id": "50639"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "5",
+    "item_class_id": "50589"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "5",
+    "item_class_id": "50650"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "6",
+    "item_class_id": "1015"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "6",
+    "item_class_id": "50630"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "6",
+    "item_class_id": "50640"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "7",
+    "item_class_id": "43"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "7",
+    "item_class_id": "2167"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "7",
+    "item_class_id": "50631"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "7",
+    "item_class_id": "50641"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "8",
+    "item_class_id": "907"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "8",
+    "item_class_id": "50632"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "8",
+    "item_class_id": "50642"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "9",
+    "item_class_id": "50633"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "9",
+    "item_class_id": "50643"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "14",
+    "item_class_id": "50586"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "15",
+    "item_class_id": "50579"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "15",
+    "item_class_id": "50635"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "15",
+    "item_class_id": "50827"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "16",
+    "item_class_id": "50634"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "16",
+    "item_class_id": "50644"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "17",
+    "item_class_id": "50636"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "17",
+    "item_class_id": "50645"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "18",
+    "item_class_id": "50637"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "18",
+    "item_class_id": "50646"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "19",
+    "item_class_id": "50638"
+  },
+  {
+    "loadout_id": "345",
+    "slot_id": "19",
+    "item_class_id": "50647"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "2",
+    "item_class_id": "50945"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "2",
+    "item_class_id": "50977"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "3",
+    "item_class_id": "50962"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "4",
+    "item_class_id": "50986"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "5",
+    "item_class_id": "50985"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "9",
+    "item_class_id": "50987"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "9",
+    "item_class_id": "50988"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "10",
+    "item_class_id": "50946"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "10",
+    "item_class_id": "50978"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "11",
+    "item_class_id": "50947"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "11",
+    "item_class_id": "50979"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "14",
+    "item_class_id": "51008"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "14",
+    "item_class_id": "51009"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "15",
+    "item_class_id": "51003"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "15",
+    "item_class_id": "51004"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "16",
+    "item_class_id": "50992"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "16",
+    "item_class_id": "50993"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "17",
+    "item_class_id": "50997"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "17",
+    "item_class_id": "50998"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "20",
+    "item_class_id": "50948"
+  },
+  {
+    "loadout_id": "352",
+    "slot_id": "20",
+    "item_class_id": "50980"
+  },
+  {
+    "loadout_id": "353",
+    "slot_id": "1",
+    "item_class_id": "407"
+  },
+  {
+    "loadout_id": "353",
+    "slot_id": "2",
+    "item_class_id": "407"
+  },
+  {
+    "loadout_id": "354",
+    "slot_id": "1",
+    "item_class_id": "408"
+  },
+  {
+    "loadout_id": "354",
+    "slot_id": "2",
+    "item_class_id": "408"
+  },
+  {
+    "loadout_id": "355",
+    "slot_id": "1",
+    "item_class_id": "409"
+  },
+  {
+    "loadout_id": "355",
+    "slot_id": "2",
+    "item_class_id": "409"
+  },
+  {
+    "loadout_id": "356",
+    "slot_id": "1",
+    "item_class_id": "413"
+  },
+  {
+    "loadout_id": "356",
+    "slot_id": "2",
+    "item_class_id": "413"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "1",
+    "item_class_id": "50805"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "3",
+    "item_class_id": "1194"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "4",
+    "item_class_id": "1193"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "5",
+    "item_class_id": "1192"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "9",
+    "item_class_id": "1189"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "9",
+    "item_class_id": "51030"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "15",
+    "item_class_id": "1123"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "16",
+    "item_class_id": "50867"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "16",
+    "item_class_id": "51034"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "17",
+    "item_class_id": "1190"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "17",
+    "item_class_id": "51037"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "18",
+    "item_class_id": "1016"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "18",
+    "item_class_id": "51052"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "19",
+    "item_class_id": "1188"
+  },
+  {
+    "loadout_id": "389",
+    "slot_id": "19",
+    "item_class_id": "51055"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "1",
+    "item_class_id": "50815"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "2",
+    "item_class_id": "50814"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "3",
+    "item_class_id": "1298"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "4",
+    "item_class_id": "1297"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "5",
+    "item_class_id": "1296"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "9",
+    "item_class_id": "1289"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "9",
+    "item_class_id": "51033"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "15",
+    "item_class_id": "1218"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "16",
+    "item_class_id": "1288"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "16",
+    "item_class_id": "50872"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "17",
+    "item_class_id": "1290"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "17",
+    "item_class_id": "51050"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "18",
+    "item_class_id": "1017"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "18",
+    "item_class_id": "51054"
+  },
+  {
+    "loadout_id": "390",
+    "slot_id": "19",
+    "item_class_id": "1287"
+  },
+  {
+    "loadout_id": "391",
+    "slot_id": "1",
+    "item_class_id": "50819"
+  },
+  {
+    "loadout_id": "391",
+    "slot_id": "3",
+    "item_class_id": "1394"
+  },
+  {
+    "loadout_id": "391",
+    "slot_id": "4",
+    "item_class_id": "1393"
+  },
+  {
+    "loadout_id": "391",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "391",
+    "slot_id": "5",
+    "item_class_id": "1392"
+  },
+  {
+    "loadout_id": "391",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "391",
+    "slot_id": "9",
+    "item_class_id": "1389"
+  },
+  {
+    "loadout_id": "391",
+    "slot_id": "9",
+    "item_class_id": "51032"
+  },
+  {
+    "loadout_id": "391",
+    "slot_id": "15",
+    "item_class_id": "1323"
+  },
+  {
+    "loadout_id": "391",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "391",
+    "slot_id": "16",
+    "item_class_id": "50731"
+  },
+  {
+    "loadout_id": "391",
+    "slot_id": "16",
+    "item_class_id": "50871"
+  },
+  {
+    "loadout_id": "391",
+    "slot_id": "16",
+    "item_class_id": "51035"
+  },
+  {
+    "loadout_id": "391",
+    "slot_id": "17",
+    "item_class_id": "1390"
+  },
+  {
+    "loadout_id": "391",
+    "slot_id": "17",
+    "item_class_id": "51051"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "1",
+    "item_class_id": "2330"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "3",
+    "item_class_id": "2331"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "4",
+    "item_class_id": "2332"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "5",
+    "item_class_id": "2333"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "7",
+    "item_class_id": "51031"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "9",
+    "item_class_id": "2335"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "9",
+    "item_class_id": "51031"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "15",
+    "item_class_id": "2338"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "16",
+    "item_class_id": "2336"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "16",
+    "item_class_id": "50869"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "17",
+    "item_class_id": "2337"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "17",
+    "item_class_id": "51036"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "18",
+    "item_class_id": "2344"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "18",
+    "item_class_id": "51053"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "19",
+    "item_class_id": "2343"
+  },
+  {
+    "loadout_id": "392",
+    "slot_id": "20",
+    "item_class_id": "2337"
+  },
+  {
+    "loadout_id": "394",
+    "slot_id": "1",
+    "item_class_id": "50822"
+  },
+  {
+    "loadout_id": "395",
+    "slot_id": "1",
+    "item_class_id": "50823"
+  },
+  {
+    "loadout_id": "395",
+    "slot_id": "2",
+    "item_class_id": "50824"
+  },
+  {
+    "loadout_id": "395",
+    "slot_id": "3",
+    "item_class_id": "50588"
+  },
+  {
+    "loadout_id": "395",
+    "slot_id": "4",
+    "item_class_id": "50639"
+  },
+  {
+    "loadout_id": "395",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "395",
+    "slot_id": "5",
+    "item_class_id": "50589"
+  },
+  {
+    "loadout_id": "395",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "395",
+    "slot_id": "9",
+    "item_class_id": "50643"
+  },
+  {
+    "loadout_id": "395",
+    "slot_id": "15",
+    "item_class_id": "50579"
+  },
+  {
+    "loadout_id": "395",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "395",
+    "slot_id": "16",
+    "item_class_id": "50866"
+  },
+  {
+    "loadout_id": "395",
+    "slot_id": "17",
+    "item_class_id": "50645"
+  },
+  {
+    "loadout_id": "395",
+    "slot_id": "18",
+    "item_class_id": "50646"
+  },
+  {
+    "loadout_id": "395",
+    "slot_id": "19",
+    "item_class_id": "50647"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "1",
+    "item_class_id": "50828"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "2",
+    "item_class_id": "50829"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "3",
+    "item_class_id": "2091"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "4",
+    "item_class_id": "2093"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "5",
+    "item_class_id": "2092"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "6",
+    "item_class_id": "2000"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "9",
+    "item_class_id": "50683"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "9",
+    "item_class_id": "51047"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "10",
+    "item_class_id": "50830"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "12",
+    "item_class_id": "50734"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "15",
+    "item_class_id": "2023"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "16",
+    "item_class_id": "50836"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "16",
+    "item_class_id": "50870"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "17",
+    "item_class_id": "51125"
+  },
+  {
+    "loadout_id": "396",
+    "slot_id": "19",
+    "item_class_id": "51127"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "1",
+    "item_class_id": "50834"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "2",
+    "item_class_id": "50833"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "3",
+    "item_class_id": "2194"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "4",
+    "item_class_id": "2199"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "5",
+    "item_class_id": "2191"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "6",
+    "item_class_id": "2100"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "9",
+    "item_class_id": "2189"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "9",
+    "item_class_id": "51048"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "10",
+    "item_class_id": "50831"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "11",
+    "item_class_id": "50832"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "15",
+    "item_class_id": "2123"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "16",
+    "item_class_id": "50837"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "16",
+    "item_class_id": "50868"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "17",
+    "item_class_id": "51124"
+  },
+  {
+    "loadout_id": "397",
+    "slot_id": "19",
+    "item_class_id": "50684"
+  },
+  {
+    "loadout_id": "398",
+    "slot_id": "1",
+    "item_class_id": "50835"
+  },
+  {
+    "loadout_id": "398",
+    "slot_id": "3",
+    "item_class_id": "2354"
+  },
+  {
+    "loadout_id": "398",
+    "slot_id": "4",
+    "item_class_id": "2358"
+  },
+  {
+    "loadout_id": "398",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "398",
+    "slot_id": "5",
+    "item_class_id": "2362"
+  },
+  {
+    "loadout_id": "398",
+    "slot_id": "6",
+    "item_class_id": "2366"
+  },
+  {
+    "loadout_id": "398",
+    "slot_id": "9",
+    "item_class_id": "2370"
+  },
+  {
+    "loadout_id": "398",
+    "slot_id": "9",
+    "item_class_id": "51049"
+  },
+  {
+    "loadout_id": "398",
+    "slot_id": "15",
+    "item_class_id": "2378"
+  },
+  {
+    "loadout_id": "398",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "398",
+    "slot_id": "16",
+    "item_class_id": "2374"
+  },
+  {
+    "loadout_id": "398",
+    "slot_id": "16",
+    "item_class_id": "50873"
+  },
+  {
+    "loadout_id": "398",
+    "slot_id": "17",
+    "item_class_id": "51126"
+  },
+  {
+    "loadout_id": "400",
+    "slot_id": "3",
+    "item_class_id": "51116"
+  },
+  {
+    "loadout_id": "400",
+    "slot_id": "4",
+    "item_class_id": "51115"
+  },
+  {
+    "loadout_id": "400",
+    "slot_id": "5",
+    "item_class_id": "51117"
+  },
+  {
+    "loadout_id": "401",
+    "slot_id": "3",
+    "item_class_id": "51116"
+  },
+  {
+    "loadout_id": "401",
+    "slot_id": "4",
+    "item_class_id": "51115"
+  },
+  {
+    "loadout_id": "401",
+    "slot_id": "5",
+    "item_class_id": "51117"
+  },
+  {
+    "loadout_id": "402",
+    "slot_id": "3",
+    "item_class_id": "51116"
+  },
+  {
+    "loadout_id": "402",
+    "slot_id": "4",
+    "item_class_id": "51115"
+  },
+  {
+    "loadout_id": "402",
+    "slot_id": "5",
+    "item_class_id": "51117"
+  },
+  {
+    "loadout_id": "404",
+    "slot_id": "1",
+    "item_class_id": "2350"
+  },
+  {
+    "loadout_id": "404",
+    "slot_id": "2",
+    "item_class_id": "50840"
+  },
+  {
+    "loadout_id": "404",
+    "slot_id": "3",
+    "item_class_id": "2354"
+  },
+  {
+    "loadout_id": "404",
+    "slot_id": "4",
+    "item_class_id": "2358"
+  },
+  {
+    "loadout_id": "404",
+    "slot_id": "5",
+    "item_class_id": "2362"
+  },
+  {
+    "loadout_id": "405",
+    "slot_id": "1",
+    "item_class_id": "2350"
+  },
+  {
+    "loadout_id": "405",
+    "slot_id": "2",
+    "item_class_id": "50840"
+  },
+  {
+    "loadout_id": "405",
+    "slot_id": "3",
+    "item_class_id": "2354"
+  },
+  {
+    "loadout_id": "405",
+    "slot_id": "4",
+    "item_class_id": "2358"
+  },
+  {
+    "loadout_id": "405",
+    "slot_id": "5",
+    "item_class_id": "2362"
+  },
+  {
+    "loadout_id": "406",
+    "slot_id": "1",
+    "item_class_id": "2350"
+  },
+  {
+    "loadout_id": "406",
+    "slot_id": "2",
+    "item_class_id": "50840"
+  },
+  {
+    "loadout_id": "406",
+    "slot_id": "3",
+    "item_class_id": "2354"
+  },
+  {
+    "loadout_id": "406",
+    "slot_id": "4",
+    "item_class_id": "2358"
+  },
+  {
+    "loadout_id": "406",
+    "slot_id": "5",
+    "item_class_id": "2362"
+  },
+  {
+    "loadout_id": "415",
+    "slot_id": "1",
+    "item_class_id": "50575"
+  },
+  {
+    "loadout_id": "416",
+    "slot_id": "1",
+    "item_class_id": "50575"
+  },
+  {
+    "loadout_id": "417",
+    "slot_id": "1",
+    "item_class_id": "50575"
+  },
+  {
+    "loadout_id": "423",
+    "slot_id": "1",
+    "item_class_id": "50822"
+  },
+  {
+    "loadout_id": "423",
+    "slot_id": "2",
+    "item_class_id": "50822"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "1",
+    "item_class_id": "51044"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "3",
+    "item_class_id": "50937"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "4",
+    "item_class_id": "50936"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "5",
+    "item_class_id": "50939"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "7",
+    "item_class_id": "48"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "8",
+    "item_class_id": "180"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "9",
+    "item_class_id": "51166"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "12",
+    "item_class_id": "50944"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "14",
+    "item_class_id": "51017"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "15",
+    "item_class_id": "50940"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "16",
+    "item_class_id": "51089"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "17",
+    "item_class_id": "51093"
+  },
+  {
+    "loadout_id": "497",
+    "slot_id": "19",
+    "item_class_id": "51094"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "2",
+    "item_class_id": "50945"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "2",
+    "item_class_id": "50973"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "3",
+    "item_class_id": "50962"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "4",
+    "item_class_id": "50986"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "5",
+    "item_class_id": "50985"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "9",
+    "item_class_id": "50987"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "9",
+    "item_class_id": "50989"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "10",
+    "item_class_id": "50946"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "10",
+    "item_class_id": "50974"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "11",
+    "item_class_id": "50947"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "11",
+    "item_class_id": "50975"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "14",
+    "item_class_id": "51008"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "14",
+    "item_class_id": "51010"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "15",
+    "item_class_id": "51003"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "15",
+    "item_class_id": "51005"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "16",
+    "item_class_id": "50992"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "16",
+    "item_class_id": "50994"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "17",
+    "item_class_id": "50997"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "17",
+    "item_class_id": "50999"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "20",
+    "item_class_id": "50948"
+  },
+  {
+    "loadout_id": "498",
+    "slot_id": "20",
+    "item_class_id": "50976"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "2",
+    "item_class_id": "50945"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "2",
+    "item_class_id": "50969"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "3",
+    "item_class_id": "50962"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "4",
+    "item_class_id": "50986"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "5",
+    "item_class_id": "50985"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "9",
+    "item_class_id": "50987"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "9",
+    "item_class_id": "50990"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "10",
+    "item_class_id": "50946"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "10",
+    "item_class_id": "50970"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "11",
+    "item_class_id": "50947"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "11",
+    "item_class_id": "50971"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "14",
+    "item_class_id": "51008"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "14",
+    "item_class_id": "51011"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "15",
+    "item_class_id": "51003"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "15",
+    "item_class_id": "51006"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "16",
+    "item_class_id": "50992"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "16",
+    "item_class_id": "50995"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "17",
+    "item_class_id": "50997"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "17",
+    "item_class_id": "51000"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "20",
+    "item_class_id": "50948"
+  },
+  {
+    "loadout_id": "499",
+    "slot_id": "20",
+    "item_class_id": "50972"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "2",
+    "item_class_id": "50945"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "2",
+    "item_class_id": "50981"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "3",
+    "item_class_id": "50962"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "4",
+    "item_class_id": "50986"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "4",
+    "item_class_id": "51013"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "5",
+    "item_class_id": "50985"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "9",
+    "item_class_id": "50987"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "9",
+    "item_class_id": "50991"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "10",
+    "item_class_id": "50946"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "10",
+    "item_class_id": "50982"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "11",
+    "item_class_id": "50947"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "11",
+    "item_class_id": "50983"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "14",
+    "item_class_id": "51008"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "14",
+    "item_class_id": "51012"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "15",
+    "item_class_id": "51003"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "15",
+    "item_class_id": "51007"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "16",
+    "item_class_id": "50992"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "16",
+    "item_class_id": "50996"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "17",
+    "item_class_id": "50997"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "17",
+    "item_class_id": "51001"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "20",
+    "item_class_id": "50948"
+  },
+  {
+    "loadout_id": "500",
+    "slot_id": "20",
+    "item_class_id": "50984"
+  },
+  {
+    "loadout_id": "511",
+    "slot_id": "1",
+    "item_class_id": "3082"
+  },
+  {
+    "loadout_id": "512",
+    "slot_id": "1",
+    "item_class_id": "3082"
+  },
+  {
+    "loadout_id": "513",
+    "slot_id": "1",
+    "item_class_id": "3082"
+  },
+  {
+    "loadout_id": "522",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "523",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "524",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "525",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "526",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "527",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "528",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "529",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "531",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "532",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "533",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "534",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "535",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "536",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "537",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "538",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "539",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "540",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "541",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "542",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "543",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "544",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "545",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "546",
+    "slot_id": "3",
+    "item_class_id": "51016"
+  },
+  {
+    "loadout_id": "554",
+    "slot_id": "9",
+    "item_class_id": "51018"
+  },
+  {
+    "loadout_id": "555",
+    "slot_id": "9",
+    "item_class_id": "51018"
+  },
+  {
+    "loadout_id": "556",
+    "slot_id": "9",
+    "item_class_id": "51018"
+  },
+  {
+    "loadout_id": "557",
+    "slot_id": "9",
+    "item_class_id": "51018"
+  },
+  {
+    "loadout_id": "559",
+    "slot_id": "1",
+    "item_class_id": "51038"
+  },
+  {
+    "loadout_id": "559",
+    "slot_id": "2",
+    "item_class_id": "51039"
+  },
+  {
+    "loadout_id": "559",
+    "slot_id": "3",
+    "item_class_id": "51061"
+  },
+  {
+    "loadout_id": "559",
+    "slot_id": "4",
+    "item_class_id": "51059"
+  },
+  {
+    "loadout_id": "559",
+    "slot_id": "5",
+    "item_class_id": "51060"
+  },
+  {
+    "loadout_id": "559",
+    "slot_id": "6",
+    "item_class_id": "51090"
+  },
+  {
+    "loadout_id": "559",
+    "slot_id": "9",
+    "item_class_id": "51091"
+  },
+  {
+    "loadout_id": "559",
+    "slot_id": "12",
+    "item_class_id": "51092"
+  },
+  {
+    "loadout_id": "559",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "559",
+    "slot_id": "15",
+    "item_class_id": "51084"
+  },
+  {
+    "loadout_id": "559",
+    "slot_id": "16",
+    "item_class_id": "51088"
+  },
+  {
+    "loadout_id": "559",
+    "slot_id": "17",
+    "item_class_id": "51107"
+  },
+  {
+    "loadout_id": "559",
+    "slot_id": "19",
+    "item_class_id": "51108"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "1",
+    "item_class_id": "51056"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "2",
+    "item_class_id": "51057"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "3",
+    "item_class_id": "51078"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "4",
+    "item_class_id": "51079"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "5",
+    "item_class_id": "51080"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "6",
+    "item_class_id": "1002"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "7",
+    "item_class_id": "44"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "7",
+    "item_class_id": "4105"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "8",
+    "item_class_id": "180"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "8",
+    "item_class_id": "1001"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "8",
+    "item_class_id": "50959"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "9",
+    "item_class_id": "51083"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "14",
+    "item_class_id": "51082"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "15",
+    "item_class_id": "51085"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "16",
+    "item_class_id": "51087"
+  },
+  {
+    "loadout_id": "560",
+    "slot_id": "17",
+    "item_class_id": "51086"
+  },
+  {
+    "loadout_id": "573",
+    "slot_id": "5",
+    "item_class_id": "51118"
+  },
+  {
+    "loadout_id": "574",
+    "slot_id": "5",
+    "item_class_id": "51118"
+  },
+  {
+    "loadout_id": "575",
+    "slot_id": "5",
+    "item_class_id": "51118"
+  },
+  {
+    "loadout_id": "576",
+    "slot_id": "5",
+    "item_class_id": "51118"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "1",
+    "item_class_id": "51137"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "1",
+    "item_class_id": "51152"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "2",
+    "item_class_id": "51138"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "2",
+    "item_class_id": "51153"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "3",
+    "item_class_id": "51139"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "4",
+    "item_class_id": "51140"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "5",
+    "item_class_id": "51141"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "6",
+    "item_class_id": "51155"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "9",
+    "item_class_id": "51156"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "10",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "11",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "14",
+    "item_class_id": "51161"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "15",
+    "item_class_id": "51154"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "16",
+    "item_class_id": "51159"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "20",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "21",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "578",
+    "slot_id": "3",
+    "item_class_id": "51116"
+  },
+  {
+    "loadout_id": "578",
+    "slot_id": "4",
+    "item_class_id": "51115"
+  },
+  {
+    "loadout_id": "578",
+    "slot_id": "5",
+    "item_class_id": "51117"
+  },
+  {
+    "loadout_id": "582",
+    "slot_id": "14",
+    "item_class_id": "1195"
+  },
+  {
+    "loadout_id": "583",
+    "slot_id": "14",
+    "item_class_id": "1195"
+  },
+  {
+    "loadout_id": "584",
+    "slot_id": "14",
+    "item_class_id": "1195"
+  },
+  {
+    "loadout_id": "585",
+    "slot_id": "14",
+    "item_class_id": "1195"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "1",
+    "item_class_id": "51137"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "1",
+    "item_class_id": "51146"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "2",
+    "item_class_id": "51138"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "2",
+    "item_class_id": "51147"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "3",
+    "item_class_id": "51139"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "4",
+    "item_class_id": "51140"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "5",
+    "item_class_id": "51141"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "6",
+    "item_class_id": "51155"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "9",
+    "item_class_id": "51156"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "10",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "11",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "14",
+    "item_class_id": "51161"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "15",
+    "item_class_id": "51154"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "16",
+    "item_class_id": "51158"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "20",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "21",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "22",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "1",
+    "item_class_id": "51137"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "1",
+    "item_class_id": "51150"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "2",
+    "item_class_id": "51138"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "2",
+    "item_class_id": "51151"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "3",
+    "item_class_id": "51139"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "4",
+    "item_class_id": "51140"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "5",
+    "item_class_id": "51141"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "6",
+    "item_class_id": "51155"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "9",
+    "item_class_id": "51156"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "10",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "11",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "14",
+    "item_class_id": "51161"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "15",
+    "item_class_id": "51154"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "16",
+    "item_class_id": "51157"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "20",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "21",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "22",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "1",
+    "item_class_id": "51137"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "1",
+    "item_class_id": "51148"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "2",
+    "item_class_id": "51138"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "2",
+    "item_class_id": "51149"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "3",
+    "item_class_id": "51139"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "4",
+    "item_class_id": "51140"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "5",
+    "item_class_id": "51141"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "6",
+    "item_class_id": "51155"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "9",
+    "item_class_id": "51156"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "10",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "11",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "14",
+    "item_class_id": "51161"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "15",
+    "item_class_id": "50732"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "15",
+    "item_class_id": "51154"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "16",
+    "item_class_id": "51160"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "20",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "21",
+    "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "22",
+    "item_class_id": "51143"
+  }
+]
