@@ -44042,7 +44042,7 @@
   {
     "resist_info_id": "6026",
     "resist_type_id": "68",
-    "resist_percent": "-125",
+    "resist_percent": "-60",
     "resist_amount": "NULL",
     "multiplier_when_headshot": "1",
     "image_set_id": "NULL",
@@ -44392,7 +44392,7 @@
   {
     "resist_info_id": "6061",
     "resist_type_id": "68",
-    "resist_percent": "-150",
+    "resist_percent": "-100",
     "resist_amount": "NULL",
     "multiplier_when_headshot": "1",
     "image_set_id": "NULL",
@@ -44402,7 +44402,7 @@
   {
     "resist_info_id": "6062",
     "resist_type_id": "68",
-    "resist_percent": "-130",
+    "resist_percent": "-100",
     "resist_amount": "NULL",
     "multiplier_when_headshot": "1",
     "image_set_id": "NULL",
@@ -44412,7 +44412,7 @@
   {
     "resist_info_id": "6063",
     "resist_type_id": "68",
-    "resist_percent": "-130",
+    "resist_percent": "-100",
     "resist_amount": "NULL",
     "multiplier_when_headshot": "1",
     "image_set_id": "NULL",
@@ -44771,7 +44771,7 @@
   },
   {
     "resist_info_id": "6100",
-    "resist_type_id": "34",
+    "resist_type_id": "68",
     "resist_percent": "20",
     "resist_amount": "NULL",
     "multiplier_when_headshot": "1",
@@ -44818,5 +44818,115 @@
     "image_set_id": "8621",
     "image_id": "10304",
     "image_path": "/files/ps2/images/static/10304.png"
+  },
+  {
+    "resist_info_id": "6106",
+    "resist_type_id": "20",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6148",
+    "resist_type_id": "47",
+    "resist_percent": "1",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6149",
+    "resist_type_id": "47",
+    "resist_percent": "1.25",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6150",
+    "resist_type_id": "47",
+    "resist_percent": "1.5",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6151",
+    "resist_type_id": "47",
+    "resist_percent": "1.75",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6152",
+    "resist_type_id": "47",
+    "resist_percent": "2",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6153",
+    "resist_type_id": "64",
+    "resist_percent": "25",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6154",
+    "resist_type_id": "64",
+    "resist_percent": "30",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6155",
+    "resist_type_id": "64",
+    "resist_percent": "35",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6156",
+    "resist_type_id": "64",
+    "resist_percent": "37.5",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6157",
+    "resist_type_id": "64",
+    "resist_percent": "40",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

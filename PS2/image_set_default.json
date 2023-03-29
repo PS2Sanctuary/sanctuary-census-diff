@@ -81502,5 +81502,45 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/96048.png"
+  },
+  {
+    "image_set_id": "807587",
+    "image_id": "96053",
+    "description": "icon_Vehicle_Common_DropPod_Tacklebox",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96053.png"
+  },
+  {
+    "image_set_id": "807589",
+    "image_id": "96057",
+    "description": "icons_Helmet_Common_Male_FishingHat",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96057.png"
+  },
+  {
+    "image_set_id": "807590",
+    "image_id": "96060",
+    "description": "icons_Helmet_NSO_FishingHat",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96060.png"
+  },
+  {
+    "image_set_id": "807591",
+    "image_id": "96063",
+    "description": "icon_Vehicle_Common_Corsair_Attachments_SmoothSailing_Exterior",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96063.png"
+  },
+  {
+    "image_set_id": "807592",
+    "image_id": "96066",
+    "description": "icon_Weapon_Common_Harpoon",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96066.png"
   }
 ]

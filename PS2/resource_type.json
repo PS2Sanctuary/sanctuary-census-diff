@@ -73,7 +73,7 @@
   },
   {
     "resource_type_id": "58",
-    "code_name": "NULL",
+    "description": "NULL",
     "name": {
       "de": "Kortium",
       "en": "Cortium",
@@ -202,7 +202,7 @@
   },
   {
     "resource_type_id": "150",
-    "code_name": "NULL",
+    "description": "NULL",
     "name": {
       "de": "Darius-Schildstärke",
       "en": "Darius Shield Strength",
@@ -221,7 +221,7 @@
   },
   {
     "resource_type_id": "153",
-    "code_name": "NULL",
+    "description": "NULL",
     "name": {
       "de": "Prioritätsziel",
       "en": "High Value Target",
@@ -241,6 +241,14 @@
   {
     "resource_type_id": "154",
     "description": "ResourceThrust",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "157",
+    "description": "HeavyShield",
     "name": "NULL",
     "image_set_id": "NULL",
     "image_id": "NULL",
