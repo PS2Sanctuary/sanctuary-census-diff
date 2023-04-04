@@ -13,7 +13,7 @@
       "tr": "Araç Ekipmanı",
       "zh": "载具装备"
     },
-    "display_index": "5",
+    "display_index": "60",
     "image_set_id": "369",
     "image_id": "1074",
     "image_path": "/files/ps2/images/static/1074.png"
@@ -32,7 +32,7 @@
       "tr": "Piyade Silahları",
       "zh": "步兵武器"
     },
-    "display_index": "1",
+    "display_index": "20",
     "image_set_id": "370",
     "image_id": "1075",
     "image_path": "/files/ps2/images/static/1075.png"
@@ -51,7 +51,7 @@
       "tr": "Araç Silahları",
       "zh": "载具武器"
     },
-    "display_index": "4",
+    "display_index": "50",
     "image_set_id": "369",
     "image_id": "1074",
     "image_path": "/files/ps2/images/static/1074.png"
@@ -70,8 +70,10 @@
       "tr": "Member Early Access",
       "zh": "会员抢先体验"
     },
+    "display_index": "150",
     "image_set_id": "0",
-    "display_index": "15"
+    "image_id": "NULL",
+    "image_path": "NULL"
   },
   {
     "marketing_bundle_category_id": "5",
@@ -87,7 +89,7 @@
       "tr": "Paketler",
       "zh": "礼包"
     },
-    "display_index": "0",
+    "display_index": "10",
     "image_set_id": "366",
     "image_id": "1071",
     "image_path": "/files/ps2/images/static/1071.png"
@@ -106,7 +108,7 @@
       "tr": "Implants",
       "zh": "插件"
     },
-    "display_index": "8",
+    "display_index": "80",
     "image_set_id": "366",
     "image_id": "1071",
     "image_path": "/files/ps2/images/static/1071.png"
@@ -125,7 +127,7 @@
       "tr": "Piyade Ekipmanı",
       "zh": "步兵装备"
     },
-    "display_index": "2",
+    "display_index": "30",
     "image_set_id": "368",
     "image_id": "1073",
     "image_path": "/files/ps2/images/static/1073.png"
@@ -144,7 +146,7 @@
       "tr": "Güçlendirmeler",
       "zh": "加成和功能"
     },
-    "display_index": "9",
+    "display_index": "90",
     "image_set_id": "365",
     "image_id": "1070",
     "image_path": "/files/ps2/images/static/1070.png"
@@ -163,7 +165,7 @@
       "tr": "Kaynaklar",
       "zh": "资源"
     },
-    "display_index": "10",
+    "display_index": "100",
     "image_set_id": "363",
     "image_id": "1068",
     "image_path": "/files/ps2/images/static/1068.png"
@@ -182,7 +184,7 @@
       "tr": "Piyade Teçhizatı",
       "zh": "步兵装备"
     },
-    "display_index": "3",
+    "display_index": "40",
     "image_set_id": "362",
     "image_id": "1067",
     "image_path": "/files/ps2/images/static/1067.png"
@@ -201,7 +203,7 @@
       "tr": "NULL",
       "zh": "制作"
     },
-    "display_index": "11",
+    "display_index": "110",
     "image_set_id": "366",
     "image_id": "1071",
     "image_path": "/files/ps2/images/static/1071.png"
@@ -220,7 +222,7 @@
       "tr": "Araç Teçhizatı",
       "zh": "载具装备"
     },
-    "display_index": "7",
+    "display_index": "70",
     "image_set_id": "362",
     "image_id": "1067",
     "image_path": "/files/ps2/images/static/1067.png"
@@ -239,7 +241,7 @@
       "tr": "Travis Manion Foundation",
       "zh": "Travis Manion基金"
     },
-    "display_index": "14",
+    "display_index": "140",
     "image_set_id": "362",
     "image_id": "1067",
     "image_path": "/files/ps2/images/static/1067.png"
@@ -258,7 +260,7 @@
       "tr": "Kamuflaj",
       "zh": "迷彩"
     },
-    "display_index": "12",
+    "display_index": "120",
     "image_set_id": "369",
     "image_id": "1074",
     "image_path": "/files/ps2/images/static/1074.png"
@@ -277,7 +279,28 @@
       "tr": "NULL",
       "zh": "旗帜"
     },
+    "display_index": "130",
     "image_set_id": "0",
-    "display_index": "13"
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "marketing_bundle_category_id": "44",
+    "name": {
+      "de": "Neu & im Angebot",
+      "en": "New & On Sale",
+      "es": "Novedades y ofertas",
+      "fr": "Nouveautés & Promos",
+      "it": "Nuovi e scontati",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Новинки и распродажа",
+      "tr": "NULL",
+      "zh": "全新上架和促销物品"
+    },
+    "display_index": "0",
+    "image_set_id": "366",
+    "image_id": "1071",
+    "image_path": "/files/ps2/images/static/1071.png"
   }
 ]

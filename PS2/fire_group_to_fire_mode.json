@@ -11095,16 +11095,6 @@
     "fire_mode_index": "0"
   },
   {
-    "fire_group_id": "80669",
-    "fire_mode_id": "80777",
-    "fire_mode_index": "0"
-  },
-  {
-    "fire_group_id": "80669",
-    "fire_mode_id": "80778",
-    "fire_mode_index": "1"
-  },
-  {
     "fire_group_id": "80670",
     "fire_mode_id": "80923",
     "fire_mode_index": "0"
@@ -13413,5 +13403,25 @@
     "fire_group_id": "80957",
     "fire_mode_id": "81354",
     "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "80669",
+    "fire_mode_id": "81360",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "80669",
+    "fire_mode_id": "81361",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "80964",
+    "fire_mode_id": "81363",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "80965",
+    "fire_mode_id": "81364",
+    "fire_mode_index": "0"
   }
 ]
