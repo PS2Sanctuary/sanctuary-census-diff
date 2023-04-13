@@ -190,7 +190,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "300000"
   },
   {
     "weapon_id": "8",
@@ -1041,7 +1043,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "35",
@@ -1064,7 +1068,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "36",
@@ -1087,7 +1093,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "37",
@@ -1385,7 +1393,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "50",
@@ -1408,7 +1418,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "51",
@@ -1431,7 +1443,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "52",
@@ -1454,7 +1468,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "53",
@@ -1545,7 +1561,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "75",
@@ -1568,7 +1586,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "76",
@@ -1798,7 +1818,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "87",
@@ -1821,7 +1843,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "88",
@@ -1844,7 +1868,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "89",
@@ -2003,7 +2029,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "94",
@@ -2026,7 +2054,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "95",
@@ -2049,7 +2079,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "96",
@@ -2072,7 +2104,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "97",
@@ -2095,7 +2129,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "98",
@@ -3185,7 +3221,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "201",
@@ -3208,7 +3246,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "202",
@@ -3231,7 +3271,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "5000"
   },
   {
     "weapon_id": "203",
@@ -3323,7 +3365,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "207",
@@ -3346,7 +3390,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "300",
@@ -5364,7 +5410,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "381",
@@ -5387,7 +5435,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "382",
@@ -5410,7 +5460,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "383",
@@ -12834,7 +12886,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "651",
@@ -13051,7 +13105,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "659",
@@ -13074,7 +13130,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "660",
@@ -13097,7 +13155,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "661",
@@ -13166,7 +13226,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "664",
@@ -13189,7 +13251,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "665",
@@ -13212,7 +13276,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "666",
@@ -14225,7 +14291,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "7100",
@@ -18668,7 +18736,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "7547",
@@ -18691,7 +18761,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "7548",
@@ -18714,7 +18786,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "7549",
@@ -18737,7 +18811,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "7550",
@@ -18760,7 +18836,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "7551",
@@ -19128,7 +19206,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Pistol",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "7567",
@@ -19151,7 +19231,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Pistol",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "7568",
@@ -19174,7 +19256,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Pistol",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "7569",
@@ -19197,7 +19281,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "7570",
@@ -23924,7 +24010,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "50558",
@@ -23947,7 +24035,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "50561",
@@ -24129,7 +24219,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "70005",
@@ -24152,7 +24244,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "70006",
@@ -24175,7 +24269,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "70007",
@@ -24198,7 +24294,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "70008",
@@ -24221,7 +24319,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "70009",
@@ -24244,7 +24344,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "70010",
@@ -24675,7 +24777,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "NULL",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "70023",
@@ -24698,7 +24802,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "NULL",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "70024",
@@ -24721,7 +24827,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "NULL",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "70025",
@@ -24971,7 +25079,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "70033",
@@ -24994,7 +25104,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "70034",
@@ -25017,7 +25129,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "70035",
@@ -25040,7 +25154,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "70036",
@@ -25063,7 +25179,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "70037",
@@ -26129,7 +26247,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "35000"
   },
   {
     "weapon_id": "77843",
@@ -26152,7 +26272,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "35000"
   },
   {
     "weapon_id": "77844",
@@ -26175,7 +26297,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "35000"
   },
   {
     "weapon_id": "77845",
@@ -26946,7 +27070,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1"
   },
   {
     "weapon_id": "77869",
@@ -27003,7 +27129,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1"
   },
   {
     "weapon_id": "77871",
@@ -27060,7 +27188,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1"
   },
   {
     "weapon_id": "77873",
@@ -27117,7 +27247,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1"
   },
   {
     "weapon_id": "77875",
@@ -27174,7 +27306,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1"
   },
   {
     "weapon_id": "77877",
@@ -27231,7 +27365,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1"
   },
   {
     "weapon_id": "77879",
@@ -27391,7 +27527,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77889",
@@ -27641,7 +27779,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Pistol",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "77898",
@@ -27664,7 +27804,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Pistol",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "77899",
@@ -27687,7 +27829,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Pistol",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "77900",
@@ -28391,7 +28535,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77923",
@@ -28414,7 +28560,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77924",
@@ -28709,7 +28857,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77933",
@@ -28732,7 +28882,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77934",
@@ -28755,7 +28907,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77935",
@@ -28778,7 +28932,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77936",
@@ -28801,7 +28957,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77937",
@@ -28824,7 +28982,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77938",
@@ -28847,7 +29007,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77939",
@@ -29233,7 +29395,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77958",
@@ -29460,7 +29624,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77967",
@@ -29483,7 +29649,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77968",
@@ -29506,7 +29674,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77969",
@@ -29529,7 +29699,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77974",
@@ -29824,7 +29996,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "77994",
@@ -30720,7 +30894,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "78022",
@@ -30743,7 +30919,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78023",
@@ -30766,7 +30944,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78024",
@@ -30789,7 +30969,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78025",
@@ -30846,7 +31028,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78027",
@@ -30869,7 +31053,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78028",
@@ -31063,7 +31249,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78035",
@@ -31086,7 +31274,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78036",
@@ -31109,7 +31299,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78037",
@@ -31132,7 +31324,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78041",
@@ -31155,7 +31349,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78042",
@@ -31280,7 +31476,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78046",
@@ -31405,7 +31603,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78050",
@@ -31428,7 +31628,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78051",
@@ -31451,7 +31653,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78052",
@@ -31474,7 +31678,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78054",
@@ -31497,7 +31703,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78055",
@@ -31520,7 +31728,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78056",
@@ -31543,7 +31753,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78057",
@@ -31566,7 +31778,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78058",
@@ -31589,7 +31803,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78059",
@@ -31612,7 +31828,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78061",
@@ -31635,7 +31853,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78062",
@@ -31704,7 +31924,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78065",
@@ -32306,7 +32528,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "20000"
   },
   {
     "weapon_id": "78086",
@@ -32329,7 +32553,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "20000"
   },
   {
     "weapon_id": "78087",
@@ -32352,7 +32578,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "20000"
   },
   {
     "weapon_id": "78088",
@@ -32375,7 +32603,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "20000"
   },
   {
     "weapon_id": "78089",
@@ -32398,7 +32628,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "20000"
   },
   {
     "weapon_id": "78090",
@@ -32421,7 +32653,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "20000"
   },
   {
     "weapon_id": "78095",
@@ -32478,7 +32712,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78097",
@@ -32501,7 +32737,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78099",
@@ -32524,7 +32762,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "15000"
   },
   {
     "weapon_id": "78100",
@@ -32547,7 +32787,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78101",
@@ -32593,7 +32835,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78103",
@@ -32639,7 +32883,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78105",
@@ -33274,7 +33520,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "78125",
@@ -33308,7 +33556,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "5000"
   },
   {
     "weapon_id": "78126",
@@ -33331,7 +33581,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78127",
@@ -33354,7 +33606,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "120000"
   },
   {
     "weapon_id": "78128",
@@ -33377,7 +33631,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "120000"
   },
   {
     "weapon_id": "78129",
@@ -33400,7 +33656,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "120000"
   },
   {
     "weapon_id": "78130",
@@ -33763,7 +34021,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78145",
@@ -33854,7 +34114,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78148",
@@ -33945,7 +34207,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78155",
@@ -34444,7 +34708,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78170",
@@ -34592,7 +34858,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78177",
@@ -34615,7 +34883,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78178",
@@ -34638,7 +34908,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78179",
@@ -34820,7 +35092,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "20000"
   },
   {
     "weapon_id": "78187",
@@ -34843,7 +35117,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "20000"
   },
   {
     "weapon_id": "78188",
@@ -34866,7 +35142,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "20000"
   },
   {
     "weapon_id": "78190",
@@ -34957,7 +35235,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "20000"
   },
   {
     "weapon_id": "78193",
@@ -35014,7 +35294,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "78195",
@@ -35037,7 +35319,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "78196",
@@ -35060,7 +35344,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "78199",
@@ -35083,7 +35369,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "78200",
@@ -35346,7 +35634,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78228",
@@ -35777,7 +36067,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78249",
@@ -36242,7 +36534,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78264",
@@ -36265,7 +36559,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78265",
@@ -36288,7 +36584,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78266",
@@ -36481,7 +36779,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78272",
@@ -36504,7 +36804,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78273",
@@ -36867,7 +37169,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78284",
@@ -36924,7 +37228,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78286",
@@ -37628,7 +37934,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "78309",
@@ -38433,7 +38741,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "20000"
   },
   {
     "weapon_id": "78334",
@@ -38456,7 +38766,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "20000"
   },
   {
     "weapon_id": "78335",
@@ -38854,7 +39166,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "35000"
   },
   {
     "weapon_id": "78351",
@@ -38877,7 +39191,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78352",
@@ -38900,7 +39216,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78353",
@@ -38923,7 +39241,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78354",
@@ -38946,7 +39266,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78355",
@@ -39978,7 +40300,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "78401",
@@ -40001,7 +40325,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "15000"
   },
   {
     "weapon_id": "78403",
@@ -40580,7 +40906,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78424",
@@ -40671,7 +40999,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "25000"
   },
   {
     "weapon_id": "78427",
@@ -41000,7 +41330,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "25000"
   },
   {
     "weapon_id": "78437",
@@ -41023,7 +41355,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "20000"
   },
   {
     "weapon_id": "78438",
@@ -41046,7 +41380,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78441",
@@ -41069,7 +41405,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78445",
@@ -41092,7 +41430,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "78448",
@@ -41115,7 +41455,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78449",
@@ -42838,7 +43180,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78504",
@@ -42861,7 +43205,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "5000"
   },
   {
     "weapon_id": "78505",
@@ -43054,7 +43400,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78511",
@@ -43100,7 +43448,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78513",
@@ -43146,7 +43496,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78515",
@@ -43169,7 +43521,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78516",
@@ -43294,7 +43648,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "25000"
   },
   {
     "weapon_id": "78520",
@@ -43317,7 +43673,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78521",
@@ -43340,7 +43698,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Pistol",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78522",
@@ -43624,7 +43984,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78531",
@@ -43670,7 +44032,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "6000"
   },
   {
     "weapon_id": "78533",
@@ -44827,7 +45191,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "78575",
@@ -44850,7 +45216,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "78576",
@@ -45701,7 +46069,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "NSOMAX_Grenade",
     "min_view_pitch": "NULL",
-    "max_view_pitch": "NULL"
+    "max_view_pitch": "NULL",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "300"
   },
   {
     "weapon_id": "78609",
@@ -46053,7 +46423,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "120000"
   },
   {
     "weapon_id": "78620",
@@ -47119,7 +47491,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "45000"
   },
   {
     "weapon_id": "78652",
@@ -47142,7 +47516,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "78653",
@@ -47165,7 +47541,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "78654",
@@ -47188,7 +47566,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "78655",
@@ -47211,7 +47591,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Rifle",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "1000"
   },
   {
     "weapon_id": "78656",
@@ -47597,7 +47979,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78670",
@@ -47688,7 +48072,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78673",
@@ -47915,7 +48301,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78680",
@@ -48312,7 +48700,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78693",
@@ -48335,7 +48725,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78694",
@@ -48358,7 +48750,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78695",
@@ -48449,7 +48843,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78699",
@@ -48472,7 +48868,9 @@
     "melee_detect_height": "NULL",
     "animation_wield_type_name": "Knife",
     "min_view_pitch": "-85",
-    "max_view_pitch": "85"
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   },
   {
     "weapon_id": "78700",

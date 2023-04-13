@@ -162,9 +162,15 @@
     "location_z": "179.0138",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18264",
@@ -190,9 +196,15 @@
     "location_z": "-624.747",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807456",
     "image_id": "95674",
-    "image_path": "/files/ps2/images/static/95674.png"
+    "image_path": "/files/ps2/images/static/95674.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18328",
@@ -246,9 +258,15 @@
     "location_z": "-44.9972",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18329",
@@ -274,9 +292,15 @@
     "location_z": "730.6242",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18266",
@@ -302,9 +326,15 @@
     "location_z": "-1005.545",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18330",
@@ -330,9 +360,15 @@
     "location_z": "1457.195",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18267",
@@ -358,9 +394,15 @@
     "location_z": "-1496.091",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3158",
     "image_id": "9121",
-    "image_path": "/files/ps2/images/static/9121.png"
+    "image_path": "/files/ps2/images/static/9121.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18331",
@@ -386,9 +428,15 @@
     "location_z": "1491.646",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18268",
@@ -414,9 +462,15 @@
     "location_z": "-1430.166",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18269",
@@ -442,9 +496,15 @@
     "location_z": "-1629.705",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18270",
@@ -470,9 +530,15 @@
     "location_z": "-2171.245",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18271",
@@ -498,9 +564,15 @@
     "location_z": "1114.843",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18272",
@@ -526,9 +598,15 @@
     "location_z": "881.5787",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18273",
@@ -554,9 +632,15 @@
     "location_z": "508.2936",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18274",
@@ -582,9 +666,15 @@
     "location_z": "634.0948",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18275",
@@ -610,9 +700,15 @@
     "location_z": "1423.281",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3158",
     "image_id": "9121",
-    "image_path": "/files/ps2/images/static/9121.png"
+    "image_path": "/files/ps2/images/static/9121.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18276",
@@ -638,9 +734,15 @@
     "location_z": "303.6563",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18277",
@@ -666,9 +768,15 @@
     "location_z": "-224.7163",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18278",
@@ -694,9 +802,15 @@
     "location_z": "-163.0333",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18279",
@@ -722,9 +836,15 @@
     "location_z": "689.5516",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18343",
@@ -750,9 +870,15 @@
     "location_z": "-2597.929",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18280",
@@ -778,9 +904,15 @@
     "location_z": "301.0826",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3158",
     "image_id": "9121",
-    "image_path": "/files/ps2/images/static/9121.png"
+    "image_path": "/files/ps2/images/static/9121.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18344",
@@ -806,9 +938,15 @@
     "location_z": "75.05101",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18281",
@@ -834,9 +972,15 @@
     "location_z": "-2580.796",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18282",
@@ -862,9 +1006,15 @@
     "location_z": "-2778.746",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18346",
@@ -890,9 +1040,15 @@
     "location_z": "-519.2697",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18283",
@@ -918,9 +1074,15 @@
     "location_z": "-2570.101",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18347",
@@ -974,9 +1136,15 @@
     "location_z": "-2076.203",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18285",
@@ -1002,9 +1170,15 @@
     "location_z": "-1369.563",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18286",
@@ -1030,9 +1204,15 @@
     "location_z": "-593.2458",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3158",
     "image_id": "9121",
-    "image_path": "/files/ps2/images/static/9121.png"
+    "image_path": "/files/ps2/images/static/9121.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18287",
@@ -1058,9 +1238,15 @@
     "location_z": "527.9398",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18351",
@@ -1086,9 +1272,15 @@
     "location_z": "1556.667",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18288",
@@ -1114,9 +1306,15 @@
     "location_z": "1156.29",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18352",
@@ -1170,9 +1368,15 @@
     "location_z": "1435.602",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18353",
@@ -1198,9 +1402,15 @@
     "location_z": "2470.739",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18290",
@@ -1226,9 +1436,15 @@
     "location_z": "2165.526",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18354",
@@ -1282,9 +1498,15 @@
     "location_z": "1962.872",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18292",
@@ -1310,9 +1532,15 @@
     "location_z": "1828.76",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18356",
@@ -1338,9 +1566,15 @@
     "location_z": "-1595.313",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18293",
@@ -1366,9 +1600,15 @@
     "location_z": "2340.539",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18357",
@@ -1422,9 +1662,15 @@
     "location_z": "1994.984",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3158",
     "image_id": "9121",
-    "image_path": "/files/ps2/images/static/9121.png"
+    "image_path": "/files/ps2/images/static/9121.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18358",
@@ -1478,9 +1724,15 @@
     "location_z": "1079.018",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18359",
@@ -1506,9 +1758,15 @@
     "location_z": "-730.7429",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18296",
@@ -1534,9 +1792,15 @@
     "location_z": "1056.979",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18360",
@@ -1562,9 +1826,15 @@
     "location_z": "110.0268",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18297",
@@ -1590,9 +1860,15 @@
     "location_z": "537.5415",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18361",
@@ -1618,9 +1894,15 @@
     "location_z": "-924.156",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18298",
@@ -1646,9 +1928,15 @@
     "location_z": "95.03036",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18299",
@@ -1674,9 +1962,15 @@
     "location_z": "-728.0424",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18300",
@@ -1702,9 +1996,15 @@
     "location_z": "-1761.865",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3158",
     "image_id": "9121",
-    "image_path": "/files/ps2/images/static/9121.png"
+    "image_path": "/files/ps2/images/static/9121.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18301",
@@ -1730,9 +2030,15 @@
     "location_z": "-2250.606",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18302",
@@ -1758,9 +2064,15 @@
     "location_z": "2487.479",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18303",
@@ -1876,9 +2188,15 @@
     "location_z": "-1287.73",
     "outfit_resource_reward_type_description": "Polystellarite",
     "outfit_resource_reward_amount": "1",
+    "capture_reward": {
+      "Description": "Polystellarite - Rare",
+      "Amount": "1"
+    },
     "image_set_id": "807046",
     "image_id": "94543",
-    "image_path": "/files/ps2/images/static/94543.png"
+    "image_path": "/files/ps2/images/static/94543.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18308",
@@ -1904,9 +2222,15 @@
     "location_z": "1234.573",
     "outfit_resource_reward_type_description": "Polystellarite",
     "outfit_resource_reward_amount": "1",
+    "capture_reward": {
+      "Description": "Polystellarite - Rare",
+      "Amount": "1"
+    },
     "image_set_id": "807046",
     "image_id": "94543",
-    "image_path": "/files/ps2/images/static/94543.png"
+    "image_path": "/files/ps2/images/static/94543.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18309",
@@ -1932,9 +2256,15 @@
     "location_z": "-411.4696",
     "outfit_resource_reward_type_description": "Polystellarite",
     "outfit_resource_reward_amount": "1",
+    "capture_reward": {
+      "Description": "Polystellarite - Rare",
+      "Amount": "1"
+    },
     "image_set_id": "807046",
     "image_id": "94543",
-    "image_path": "/files/ps2/images/static/94543.png"
+    "image_path": "/files/ps2/images/static/94543.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18362",
@@ -1960,9 +2290,15 @@
     "location_z": "-486.1945",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18363",
@@ -1988,9 +2324,15 @@
     "location_z": "-971.9489",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18364",
@@ -2016,9 +2358,15 @@
     "location_z": "-2124.002",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18365",
@@ -2044,9 +2392,15 @@
     "location_z": "-669.2636",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18366",
@@ -2072,9 +2426,15 @@
     "location_z": "967.9155",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18367",
@@ -2100,9 +2460,15 @@
     "location_z": "1739.926",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18368",
@@ -2128,9 +2494,15 @@
     "location_z": "713.2847",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18369",
@@ -2156,9 +2528,15 @@
     "location_z": "-243.7",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "807231",
     "image_id": "95041",
-    "image_path": "/files/ps2/images/static/95041.png"
+    "image_path": "/files/ps2/images/static/95041.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18370",
@@ -2184,9 +2562,15 @@
     "location_z": "-1334.77",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18373",
@@ -2296,9 +2680,15 @@
     "location_z": "-2438.761",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18033",
@@ -2324,9 +2714,15 @@
     "location_z": "9.949173",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18017",
@@ -2352,9 +2748,15 @@
     "location_z": "-785.2059",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "807454",
     "image_id": "95668",
-    "image_path": "/files/ps2/images/static/95668.png"
+    "image_path": "/files/ps2/images/static/95668.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18209",
@@ -2380,9 +2782,15 @@
     "location_z": "-1751.917",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18002",
@@ -2408,9 +2816,15 @@
     "location_z": "-1661.209",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18034",
@@ -2436,9 +2850,15 @@
     "location_z": "-939.5569",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18018",
@@ -2464,9 +2884,15 @@
     "location_z": "1121.946",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18210",
@@ -2492,9 +2918,15 @@
     "location_z": "-407.94",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18003",
@@ -2520,9 +2952,15 @@
     "location_z": "-687.7246",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18067",
@@ -2548,9 +2986,15 @@
     "location_z": "60.08346",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18004",
@@ -2576,9 +3020,15 @@
     "location_z": "-501.5452",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18068",
@@ -2604,9 +3054,15 @@
     "location_z": "986.1397",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18036",
@@ -2632,9 +3088,15 @@
     "location_z": "-2175.328",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18005",
@@ -2660,9 +3122,15 @@
     "location_z": "409.8246",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "806656",
     "image_id": "93456",
-    "image_path": "/files/ps2/images/static/93456.png"
+    "image_path": "/files/ps2/images/static/93456.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18261",
@@ -2688,9 +3156,15 @@
     "location_z": "1098.23",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "807455",
     "image_id": "95671",
-    "image_path": "/files/ps2/images/static/95671.png"
+    "image_path": "/files/ps2/images/static/95671.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18037",
@@ -2716,9 +3190,15 @@
     "location_z": "-2181.709",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18006",
@@ -2744,9 +3224,15 @@
     "location_z": "1174.458",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18262",
@@ -2800,9 +3286,15 @@
     "location_z": "1897.884",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18007",
@@ -2828,9 +3320,15 @@
     "location_z": "1883.58",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18008",
@@ -2856,9 +3354,15 @@
     "location_z": "-1349.821",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807456",
     "image_id": "95674",
-    "image_path": "/files/ps2/images/static/95674.png"
+    "image_path": "/files/ps2/images/static/95674.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18010",
@@ -2884,9 +3388,15 @@
     "location_z": "-1071.929",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18011",
@@ -2912,9 +3422,15 @@
     "location_z": "-370.127",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18013",
@@ -2940,9 +3456,15 @@
     "location_z": "2838.586",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18014",
@@ -2968,9 +3490,15 @@
     "location_z": "648.9725",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18046",
@@ -2996,9 +3524,15 @@
     "location_z": "-2380.4",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807456",
     "image_id": "95674",
-    "image_path": "/files/ps2/images/static/95674.png"
+    "image_path": "/files/ps2/images/static/95674.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18015",
@@ -3024,9 +3558,15 @@
     "location_z": "2576.946",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18016",
@@ -3052,9 +3592,15 @@
     "location_z": "-2011.889",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18208",
@@ -3080,9 +3626,15 @@
     "location_z": "1670.95",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18019",
@@ -3108,9 +3660,15 @@
     "location_z": "590.7097",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18020",
@@ -3136,9 +3694,15 @@
     "location_z": "124.2897",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18022",
@@ -3164,9 +3728,15 @@
     "location_z": "-2490",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "806656",
     "image_id": "93456",
-    "image_path": "/files/ps2/images/static/93456.png"
+    "image_path": "/files/ps2/images/static/93456.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18024",
@@ -3192,9 +3762,15 @@
     "location_z": "-1020.97",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3116",
     "image_id": "9119",
-    "image_path": "/files/ps2/images/static/9119.png"
+    "image_path": "/files/ps2/images/static/9119.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18025",
@@ -3220,6 +3796,10 @@
     "location_z": "-80.92983",
     "outfit_resource_reward_type_description": "Polystellarite",
     "outfit_resource_reward_amount": "2",
+    "capture_reward": {
+      "Description": "Polystellarite - Rare",
+      "Amount": "2"
+    },
     "image_set_id": "7916",
     "image_id": "9125",
     "image_path": "/files/ps2/images/static/9125.png",
@@ -3250,9 +3830,15 @@
     "location_z": "1964.311",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18028",
@@ -3278,9 +3864,15 @@
     "location_z": "2135.37",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18029",
@@ -3366,9 +3958,15 @@
     "location_z": "524.3127",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18048",
@@ -3394,9 +3992,15 @@
     "location_z": "-2356.23",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807456",
     "image_id": "95674",
-    "image_path": "/files/ps2/images/static/95674.png"
+    "image_path": "/files/ps2/images/static/95674.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18049",
@@ -3422,9 +4026,15 @@
     "location_z": "242.9768",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18058",
@@ -3450,9 +4060,15 @@
     "location_z": "-211.8569",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18250",
@@ -3478,9 +4094,15 @@
     "location_z": "-559.6824",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "807450",
     "image_id": "95656",
-    "image_path": "/files/ps2/images/static/95656.png"
+    "image_path": "/files/ps2/images/static/95656.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18059",
@@ -3506,9 +4128,15 @@
     "location_z": "304.5212",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18251",
@@ -3534,9 +4162,15 @@
     "location_z": "2176.018",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18060",
@@ -3562,9 +4196,15 @@
     "location_z": "-42.99902",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18252",
@@ -3590,9 +4230,15 @@
     "location_z": "1556.34",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "806656",
     "image_id": "93456",
-    "image_path": "/files/ps2/images/static/93456.png"
+    "image_path": "/files/ps2/images/static/93456.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18062",
@@ -3648,9 +4294,15 @@
     "location_z": "1348.024",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18249",
@@ -3704,9 +4356,15 @@
     "location_z": "1150.347",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "807450",
     "image_id": "95656",
-    "image_path": "/files/ps2/images/static/95656.png"
+    "image_path": "/files/ps2/images/static/95656.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6001",
@@ -3762,9 +4420,15 @@
     "location_z": "1515.283",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6337",
@@ -3790,9 +4454,15 @@
     "location_z": "2755.04",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6113",
@@ -3818,9 +4488,15 @@
     "location_z": "2793.945",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3117",
     "image_id": "9120",
-    "image_path": "/files/ps2/images/static/9120.png"
+    "image_path": "/files/ps2/images/static/9120.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6305",
@@ -3846,9 +4522,15 @@
     "location_z": "-2881.062",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6002",
@@ -3934,9 +4616,15 @@
     "location_z": "-1486.359",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6101",
@@ -3962,9 +4650,15 @@
     "location_z": "-2355.519",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3116",
     "image_id": "9119",
-    "image_path": "/files/ps2/images/static/9119.png"
+    "image_path": "/files/ps2/images/static/9119.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6357",
@@ -3990,9 +4684,15 @@
     "location_z": "-2188.334",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6102",
@@ -4018,9 +4718,15 @@
     "location_z": "-507.8147",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3117",
     "image_id": "9120",
-    "image_path": "/files/ps2/images/static/9120.png"
+    "image_path": "/files/ps2/images/static/9120.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6358",
@@ -4046,9 +4752,15 @@
     "location_z": "-1696.952",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807456",
     "image_id": "95674",
-    "image_path": "/files/ps2/images/static/95674.png"
+    "image_path": "/files/ps2/images/static/95674.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6103",
@@ -4074,6 +4786,10 @@
     "location_z": "-1841.458",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "7916",
     "image_id": "9125",
     "image_path": "/files/ps2/images/static/9125.png",
@@ -4104,9 +4820,15 @@
     "location_z": "-810.6841",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6207",
@@ -4132,9 +4854,15 @@
     "location_z": "1922.303",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "807454",
     "image_id": "95668",
-    "image_path": "/files/ps2/images/static/95668.png"
+    "image_path": "/files/ps2/images/static/95668.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6335",
@@ -4160,9 +4888,15 @@
     "location_z": "-205.4788",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6111",
@@ -4188,9 +4922,15 @@
     "location_z": "1190.187",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3116",
     "image_id": "9119",
-    "image_path": "/files/ps2/images/static/9119.png"
+    "image_path": "/files/ps2/images/static/9119.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6303",
@@ -4216,9 +4956,15 @@
     "location_z": "2206.654",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6208",
@@ -4244,9 +4990,15 @@
     "location_z": "-1927.831",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "807454",
     "image_id": "95668",
-    "image_path": "/files/ps2/images/static/95668.png"
+    "image_path": "/files/ps2/images/static/95668.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6336",
@@ -4272,9 +5024,15 @@
     "location_z": "3104.444",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6112",
@@ -4300,6 +5058,10 @@
     "location_z": "1317.272",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "7916",
     "image_id": "9125",
     "image_path": "/files/ps2/images/static/9125.png",
@@ -4330,9 +5092,15 @@
     "location_z": "1635.56",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6121",
@@ -4358,9 +5126,15 @@
     "location_z": "-2140.142",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3116",
     "image_id": "9119",
-    "image_path": "/files/ps2/images/static/9119.png"
+    "image_path": "/files/ps2/images/static/9119.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6313",
@@ -4386,9 +5160,15 @@
     "location_z": "1337.164",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6201",
@@ -4414,9 +5194,15 @@
     "location_z": "-1211.691",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6329",
@@ -4442,9 +5228,15 @@
     "location_z": "197.5412",
     "outfit_resource_reward_type_description": "Polystellarite",
     "outfit_resource_reward_amount": "2",
+    "capture_reward": {
+      "Description": "Polystellarite - Rare",
+      "Amount": "2"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6122",
@@ -4470,6 +5262,10 @@
     "location_z": "-485.8504",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "7916",
     "image_id": "9125",
     "image_path": "/files/ps2/images/static/9125.png",
@@ -4500,9 +5296,15 @@
     "location_z": "2178.21",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6202",
@@ -4528,9 +5330,15 @@
     "location_z": "377.3658",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6330",
@@ -4556,9 +5364,15 @@
     "location_z": "-92.30911",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6123",
@@ -4584,9 +5398,15 @@
     "location_z": "2338.206",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3117",
     "image_id": "9120",
-    "image_path": "/files/ps2/images/static/9120.png"
+    "image_path": "/files/ps2/images/static/9120.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6203",
@@ -4612,9 +5432,15 @@
     "location_z": "2952.214",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6331",
@@ -4640,9 +5466,15 @@
     "location_z": "444.4475",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6204",
@@ -4668,9 +5500,15 @@
     "location_z": "864.8842",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "807454",
     "image_id": "95668",
-    "image_path": "/files/ps2/images/static/95668.png"
+    "image_path": "/files/ps2/images/static/95668.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6332",
@@ -4696,9 +5534,15 @@
     "location_z": "48.44933",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6205",
@@ -4724,9 +5568,15 @@
     "location_z": "-417.8023",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "807454",
     "image_id": "95668",
-    "image_path": "/files/ps2/images/static/95668.png"
+    "image_path": "/files/ps2/images/static/95668.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6333",
@@ -4752,9 +5602,15 @@
     "location_z": "-3011.437",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807456",
     "image_id": "95674",
-    "image_path": "/files/ps2/images/static/95674.png"
+    "image_path": "/files/ps2/images/static/95674.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6301",
@@ -4780,9 +5636,15 @@
     "location_z": "-1162.959",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6206",
@@ -4808,9 +5670,15 @@
     "location_z": "471.7204",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6334",
@@ -4836,9 +5704,15 @@
     "location_z": "-2945.247",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6302",
@@ -4864,9 +5738,15 @@
     "location_z": "-123.6518",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6306",
@@ -4892,9 +5772,15 @@
     "location_z": "-1834.286",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6307",
@@ -4920,9 +5806,15 @@
     "location_z": "136.0251",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6308",
@@ -4948,9 +5840,15 @@
     "location_z": "2051.148",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6309",
@@ -4976,9 +5874,15 @@
     "location_z": "-2993.408",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6310",
@@ -5004,9 +5908,15 @@
     "location_z": "-2501.914",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6311",
@@ -5032,9 +5942,15 @@
     "location_z": "-1249.747",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6312",
@@ -5060,9 +5976,15 @@
     "location_z": "-1228.158",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6316",
@@ -5088,9 +6010,15 @@
     "location_z": "255.8834",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6317",
@@ -5116,9 +6044,15 @@
     "location_z": "2139.275",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6318",
@@ -5144,9 +6078,15 @@
     "location_z": "2818.731",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6319",
@@ -5172,9 +6112,15 @@
     "location_z": "-674",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6320",
@@ -5200,9 +6146,15 @@
     "location_z": "1129.03",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6324",
@@ -5228,9 +6180,15 @@
     "location_z": "560",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6325",
@@ -5256,9 +6214,15 @@
     "location_z": "-333.6521",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6326",
@@ -5284,9 +6248,15 @@
     "location_z": "1771.31",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6328",
@@ -5312,9 +6282,15 @@
     "location_z": "201.2439",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6338",
@@ -5340,9 +6316,15 @@
     "location_z": "404.7572",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6339",
@@ -5368,9 +6350,15 @@
     "location_z": "-2951.368",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6340",
@@ -5396,9 +6384,15 @@
     "location_z": "-2679.652",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6341",
@@ -5424,9 +6418,15 @@
     "location_z": "-2013.717",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6342",
@@ -5452,9 +6452,15 @@
     "location_z": "-2661.926",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6343",
@@ -5480,9 +6486,15 @@
     "location_z": "-704.0261",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6344",
@@ -5508,9 +6520,15 @@
     "location_z": "-323.2818",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6345",
@@ -5536,9 +6554,15 @@
     "location_z": "-485.3488",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6346",
@@ -5564,9 +6588,15 @@
     "location_z": "-1853.602",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6347",
@@ -5592,9 +6622,15 @@
     "location_z": "-1408.11",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6348",
@@ -5620,9 +6656,15 @@
     "location_z": "807.8386",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6349",
@@ -5648,9 +6690,15 @@
     "location_z": "973.1425",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6350",
@@ -5676,9 +6724,15 @@
     "location_z": "1554.971",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6351",
@@ -5704,9 +6758,15 @@
     "location_z": "1072.033",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6352",
@@ -5732,9 +6792,15 @@
     "location_z": "1739.855",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6353",
@@ -5760,9 +6826,15 @@
     "location_z": "2726.789",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6354",
@@ -5788,9 +6860,15 @@
     "location_z": "3095.885",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6355",
@@ -5816,9 +6894,15 @@
     "location_z": "2565.091",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807456",
     "image_id": "95674",
-    "image_path": "/files/ps2/images/static/95674.png"
+    "image_path": "/files/ps2/images/static/95674.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6356",
@@ -5844,9 +6928,15 @@
     "location_z": "-2574.82",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6360",
@@ -5872,9 +6962,15 @@
     "location_z": "-43.05492",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6361",
@@ -5900,9 +6996,15 @@
     "location_z": "2101.383",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6362",
@@ -5928,9 +7030,15 @@
     "location_z": "2542.862",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "6363",
@@ -5956,9 +7064,15 @@
     "location_z": "2488.154",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18204",
@@ -5984,9 +7098,15 @@
     "location_z": "-2602.2",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4101",
@@ -6012,9 +7132,15 @@
     "location_z": "-3052.788",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4133",
@@ -6040,9 +7166,15 @@
     "location_z": "1386.953",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4261",
@@ -6068,9 +7200,15 @@
     "location_z": "-657.8187",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4102",
@@ -6096,9 +7234,15 @@
     "location_z": "-2389.168",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4230",
@@ -6154,9 +7298,15 @@
     "location_z": "1706.592",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4262",
@@ -6182,9 +7332,15 @@
     "location_z": "1951.483",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4103",
@@ -6210,9 +7366,15 @@
     "location_z": "-2229.821",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4104",
@@ -6238,9 +7400,15 @@
     "location_z": "-1631.166",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4105",
@@ -6266,9 +7434,15 @@
     "location_z": "-723.8876",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4106",
@@ -6294,9 +7468,15 @@
     "location_z": "-186.0505",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4170",
@@ -6322,9 +7502,15 @@
     "location_z": "-143.7333",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3117",
     "image_id": "9120",
-    "image_path": "/files/ps2/images/static/9120.png"
+    "image_path": "/files/ps2/images/static/9120.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4107",
@@ -6350,9 +7536,15 @@
     "location_z": "1325.563",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4171",
@@ -6378,9 +7570,15 @@
     "location_z": "373.6869",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4108",
@@ -6406,9 +7604,15 @@
     "location_z": "1261.743",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4172",
@@ -6434,9 +7638,15 @@
     "location_z": "-313.8972",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4109",
@@ -6462,9 +7672,15 @@
     "location_z": "1359.799",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4173",
@@ -6490,9 +7706,15 @@
     "location_z": "-154.3891",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4110",
@@ -6518,9 +7740,15 @@
     "location_z": "2428.438",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4111",
@@ -6546,9 +7774,15 @@
     "location_z": "2645.741",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4112",
@@ -6574,9 +7808,15 @@
     "location_z": "2761.887",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4240",
@@ -6632,9 +7872,15 @@
     "location_z": "-3262.866",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4114",
@@ -6660,9 +7906,15 @@
     "location_z": "-1818.297",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4115",
@@ -6688,9 +7940,15 @@
     "location_z": "-475.1586",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4116",
@@ -6716,9 +7974,15 @@
     "location_z": "779.0043",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4180",
@@ -6744,9 +8008,15 @@
     "location_z": "-1355.342",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3117",
     "image_id": "9120",
-    "image_path": "/files/ps2/images/static/9120.png"
+    "image_path": "/files/ps2/images/static/9120.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4117",
@@ -6772,9 +8042,15 @@
     "location_z": "-2450.562",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4181",
@@ -6800,9 +8076,15 @@
     "location_z": "-1681.812",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4118",
@@ -6828,9 +8110,15 @@
     "location_z": "-1933.5",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4182",
@@ -6856,9 +8144,15 @@
     "location_z": "-1248.184",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4119",
@@ -6884,9 +8178,15 @@
     "location_z": "68.10875",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807456",
     "image_id": "95674",
-    "image_path": "/files/ps2/images/static/95674.png"
+    "image_path": "/files/ps2/images/static/95674.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4183",
@@ -6912,9 +8212,15 @@
     "location_z": "-1020.36",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4120",
@@ -6940,9 +8246,15 @@
     "location_z": "-293.3634",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4121",
@@ -6968,9 +8280,15 @@
     "location_z": "922.0722",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4122",
@@ -6996,9 +8314,15 @@
     "location_z": "2919.94",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4250",
@@ -7054,9 +8378,15 @@
     "location_z": "2551.879",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4124",
@@ -7082,9 +8412,15 @@
     "location_z": "-741.7515",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4125",
@@ -7110,9 +8446,15 @@
     "location_z": "143.9012",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4126",
@@ -7138,9 +8480,15 @@
     "location_z": "743.1317",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4190",
@@ -7166,9 +8514,15 @@
     "location_z": "2781.841",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3117",
     "image_id": "9120",
-    "image_path": "/files/ps2/images/static/9120.png"
+    "image_path": "/files/ps2/images/static/9120.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4127",
@@ -7194,9 +8548,15 @@
     "location_z": "1894.895",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4191",
@@ -7222,9 +8582,15 @@
     "location_z": "2436.851",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4130",
@@ -7250,9 +8616,15 @@
     "location_z": "-2960.46",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4131",
@@ -7278,9 +8650,15 @@
     "location_z": "-1772.752",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "807454",
     "image_id": "95668",
-    "image_path": "/files/ps2/images/static/95668.png"
+    "image_path": "/files/ps2/images/static/95668.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4132",
@@ -7306,9 +8684,15 @@
     "location_z": "-803.3466",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4260",
@@ -7334,9 +8718,15 @@
     "location_z": "-2392.678",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4135",
@@ -7362,9 +8752,15 @@
     "location_z": "1848.096",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4263",
@@ -7390,9 +8786,15 @@
     "location_z": "-1608.503",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4136",
@@ -7418,9 +8820,15 @@
     "location_z": "1869.857",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4264",
@@ -7446,9 +8854,15 @@
     "location_z": "745.2189",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4200",
@@ -7474,6 +8888,10 @@
     "location_z": "-2805.934",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "7916",
     "image_id": "9125",
     "image_path": "/files/ps2/images/static/9125.png",
@@ -7504,9 +8922,15 @@
     "location_z": "-221.0779",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4265",
@@ -7532,9 +8956,15 @@
     "location_z": "2037.027",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4201",
@@ -7560,9 +8990,15 @@
     "location_z": "-3025.609",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4138",
@@ -7588,9 +9024,15 @@
     "location_z": "-1014.045",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4266",
@@ -7616,9 +9058,15 @@
     "location_z": "-1832.038",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4202",
@@ -7644,9 +9092,15 @@
     "location_z": "-3181.961",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4139",
@@ -7672,9 +9126,15 @@
     "location_z": "22.43514",
     "outfit_resource_reward_type_description": "Polystellarite",
     "outfit_resource_reward_amount": "2",
+    "capture_reward": {
+      "Description": "Polystellarite - Rare",
+      "Amount": "2"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4267",
@@ -7700,9 +9160,15 @@
     "location_z": "-1344.736",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4140",
@@ -7728,9 +9194,15 @@
     "location_z": "-1478.351",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3116",
     "image_id": "9119",
-    "image_path": "/files/ps2/images/static/9119.png"
+    "image_path": "/files/ps2/images/static/9119.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4268",
@@ -7756,9 +9228,15 @@
     "location_z": "1281.232",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4141",
@@ -7784,9 +9262,15 @@
     "location_z": "-1183.002",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4269",
@@ -7812,9 +9296,15 @@
     "location_z": "1897.608",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4142",
@@ -7840,9 +9330,15 @@
     "location_z": "-1108.963",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807456",
     "image_id": "95674",
-    "image_path": "/files/ps2/images/static/95674.png"
+    "image_path": "/files/ps2/images/static/95674.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4270",
@@ -7868,9 +9364,15 @@
     "location_z": "-278.4248",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4143",
@@ -7896,9 +9398,15 @@
     "location_z": "-1828.472",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4271",
@@ -7924,9 +9432,15 @@
     "location_z": "-207.0165",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4150",
@@ -7952,9 +9466,15 @@
     "location_z": "-1007.791",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3116",
     "image_id": "9119",
-    "image_path": "/files/ps2/images/static/9119.png"
+    "image_path": "/files/ps2/images/static/9119.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4151",
@@ -7980,9 +9500,15 @@
     "location_z": "-773.0132",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807456",
     "image_id": "95674",
-    "image_path": "/files/ps2/images/static/95674.png"
+    "image_path": "/files/ps2/images/static/95674.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4152",
@@ -8008,9 +9534,15 @@
     "location_z": "-1320.16",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4153",
@@ -8036,9 +9568,15 @@
     "location_z": "-1212.7",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4160",
@@ -8064,9 +9602,15 @@
     "location_z": "1003.755",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3116",
     "image_id": "9119",
-    "image_path": "/files/ps2/images/static/9119.png"
+    "image_path": "/files/ps2/images/static/9119.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4161",
@@ -8092,9 +9636,15 @@
     "location_z": "753.8644",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4162",
@@ -8120,9 +9670,15 @@
     "location_z": "1324.977",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "807456",
     "image_id": "95674",
-    "image_path": "/files/ps2/images/static/95674.png"
+    "image_path": "/files/ps2/images/static/95674.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4163",
@@ -8148,9 +9704,15 @@
     "location_z": "1192.519",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4192",
@@ -8176,9 +9738,15 @@
     "location_z": "2276.472",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4193",
@@ -8204,9 +9772,15 @@
     "location_z": "2678.566",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4203",
@@ -8232,9 +9806,15 @@
     "location_z": "-2508.433",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4210",
@@ -8260,6 +9840,10 @@
     "location_z": "2161.547",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "7916",
     "image_id": "9125",
     "image_path": "/files/ps2/images/static/9125.png",
@@ -8290,9 +9874,15 @@
     "location_z": "2030.324",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4212",
@@ -8318,9 +9908,15 @@
     "location_z": "2496.869",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4213",
@@ -8346,9 +9942,15 @@
     "location_z": "2257.801",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4220",
@@ -8374,6 +9976,10 @@
     "location_z": "661.3818",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "7916",
     "image_id": "9125",
     "image_path": "/files/ps2/images/static/9125.png",
@@ -8404,9 +10010,15 @@
     "location_z": "446.0441",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4222",
@@ -8432,9 +10044,15 @@
     "location_z": "961.715",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "4223",
@@ -8460,9 +10078,15 @@
     "location_z": "442.2849",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2101",
@@ -8488,6 +10112,10 @@
     "location_z": "-2547.084",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "7916",
     "image_id": "9125",
     "image_path": "/files/ps2/images/static/9125.png",
@@ -8518,9 +10146,15 @@
     "location_z": "688",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2102",
@@ -8546,6 +10180,10 @@
     "location_z": "1514.764",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "7916",
     "image_id": "9125",
     "image_path": "/files/ps2/images/static/9125.png",
@@ -8576,9 +10214,15 @@
     "location_z": "1063",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2103",
@@ -8604,9 +10248,15 @@
     "location_z": "-845",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3117",
     "image_id": "9120",
-    "image_path": "/files/ps2/images/static/9120.png"
+    "image_path": "/files/ps2/images/static/9120.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2104",
@@ -8632,9 +10282,15 @@
     "location_z": "-2045.004",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3117",
     "image_id": "9120",
-    "image_path": "/files/ps2/images/static/9120.png"
+    "image_path": "/files/ps2/images/static/9120.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2105",
@@ -8660,9 +10316,15 @@
     "location_z": "-1148.466",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3116",
     "image_id": "9119",
-    "image_path": "/files/ps2/images/static/9119.png"
+    "image_path": "/files/ps2/images/static/9119.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2425",
@@ -8688,9 +10350,15 @@
     "location_z": "2426.673",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2201",
@@ -8746,9 +10414,15 @@
     "location_z": "-1215.664",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2106",
@@ -8774,9 +10448,15 @@
     "location_z": "2456.425",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3117",
     "image_id": "9120",
-    "image_path": "/files/ps2/images/static/9120.png"
+    "image_path": "/files/ps2/images/static/9120.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2202",
@@ -8832,9 +10512,15 @@
     "location_z": "-956.0814",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2107",
@@ -8860,9 +10546,15 @@
     "location_z": "-1181",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3116",
     "image_id": "9119",
-    "image_path": "/files/ps2/images/static/9119.png"
+    "image_path": "/files/ps2/images/static/9119.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2427",
@@ -8888,9 +10580,15 @@
     "location_z": "-1314.808",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2203",
@@ -8946,9 +10644,15 @@
     "location_z": "-675.1423",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2108",
@@ -8974,6 +10678,10 @@
     "location_z": "810",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "7916",
     "image_id": "9125",
     "image_path": "/files/ps2/images/static/9125.png",
@@ -9004,9 +10712,15 @@
     "location_z": "-1660.741",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2109",
@@ -9032,9 +10746,15 @@
     "location_z": "1126.246",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "8",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "8"
+    },
     "image_set_id": "3116",
     "image_id": "9119",
-    "image_path": "/files/ps2/images/static/9119.png"
+    "image_path": "/files/ps2/images/static/9119.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2301",
@@ -9060,9 +10780,15 @@
     "location_z": "-786.6351",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2429",
@@ -9088,9 +10814,15 @@
     "location_z": "-1306",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2302",
@@ -9116,9 +10848,15 @@
     "location_z": "1537",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2430",
@@ -9144,9 +10882,15 @@
     "location_z": "-470.3383",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2303",
@@ -9172,9 +10916,15 @@
     "location_z": "-2385.058",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "807454",
     "image_id": "95668",
-    "image_path": "/files/ps2/images/static/95668.png"
+    "image_path": "/files/ps2/images/static/95668.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2431",
@@ -9200,9 +10950,15 @@
     "location_z": "-49.67825",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2304",
@@ -9228,9 +10984,15 @@
     "location_z": "48.47856",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "807454",
     "image_id": "95668",
-    "image_path": "/files/ps2/images/static/95668.png"
+    "image_path": "/files/ps2/images/static/95668.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2305",
@@ -9256,9 +11018,15 @@
     "location_z": "1949.769",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2433",
@@ -9284,9 +11052,15 @@
     "location_z": "964.7891",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2306",
@@ -9312,9 +11086,15 @@
     "location_z": "305.3803",
     "outfit_resource_reward_type_description": "Polystellarite",
     "outfit_resource_reward_amount": "2",
+    "capture_reward": {
+      "Description": "Polystellarite - Rare",
+      "Amount": "2"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2402",
@@ -9340,9 +11120,15 @@
     "location_z": "-903.3533",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2307",
@@ -9368,9 +11154,15 @@
     "location_z": "277.3607",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2308",
@@ -9396,9 +11188,15 @@
     "location_z": "-2194.354",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2436",
@@ -9424,9 +11222,15 @@
     "location_z": "1722.342",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2404",
@@ -9452,9 +11256,15 @@
     "location_z": "-2380.916",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2309",
@@ -9480,9 +11290,15 @@
     "location_z": "-839.8052",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2437",
@@ -9508,9 +11324,15 @@
     "location_z": "2001.285",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2405",
@@ -9536,9 +11358,15 @@
     "location_z": "-2381.742",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2310",
@@ -9564,9 +11392,15 @@
     "location_z": "-391.5453",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2438",
@@ -9592,9 +11426,15 @@
     "location_z": "-1903.4",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2406",
@@ -9620,9 +11460,15 @@
     "location_z": "-1616.926",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2311",
@@ -9648,9 +11494,15 @@
     "location_z": "1651.754",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2407",
@@ -9676,9 +11528,15 @@
     "location_z": "-1896.411",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2312",
@@ -9704,9 +11562,15 @@
     "location_z": "2100.946",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2440",
@@ -9732,9 +11596,15 @@
     "location_z": "-1689",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2408",
@@ -9760,9 +11630,15 @@
     "location_z": "-1248.234",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2313",
@@ -9788,9 +11664,15 @@
     "location_z": "1761.455",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2409",
@@ -9816,9 +11698,15 @@
     "location_z": "-590.8013",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2410",
@@ -9844,9 +11732,15 @@
     "location_z": "80",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2411",
@@ -9872,9 +11766,15 @@
     "location_z": "1036.436",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2412",
@@ -9900,9 +11800,15 @@
     "location_z": "1028.919",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2413",
@@ -9928,9 +11834,15 @@
     "location_z": "1957.294",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2414",
@@ -9956,9 +11868,15 @@
     "location_z": "2376.406",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2415",
@@ -9984,9 +11902,15 @@
     "location_z": "-1420.115",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2416",
@@ -10012,9 +11936,15 @@
     "location_z": "-2312.848",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "25",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "25"
+    },
     "image_set_id": "7918",
     "image_id": "9122",
-    "image_path": "/files/ps2/images/static/9122.png"
+    "image_path": "/files/ps2/images/static/9122.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2418",
@@ -10040,9 +11970,15 @@
     "location_z": "-432.4564",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2419",
@@ -10068,9 +12004,15 @@
     "location_z": "-103.9548",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2420",
@@ -10096,9 +12038,15 @@
     "location_z": "84.64059",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2443",
@@ -10124,9 +12072,15 @@
     "location_z": "390.4332",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2447",
@@ -10152,9 +12106,15 @@
     "location_z": "2160.578",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2448",
@@ -10180,9 +12140,15 @@
     "location_z": "2305.955",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2449",
@@ -10208,9 +12174,15 @@
     "location_z": "2643.841",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2453",
@@ -10236,9 +12208,15 @@
     "location_z": "-1731.421",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2454",
@@ -10264,9 +12242,15 @@
     "location_z": "-1574.938",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2455",
@@ -10292,9 +12276,15 @@
     "location_z": "-1133.28",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2456",
@@ -10320,9 +12310,15 @@
     "location_z": "-663.5451",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2460",
@@ -10348,9 +12344,15 @@
     "location_z": "1717.878",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2461",
@@ -10376,9 +12378,15 @@
     "location_z": "1942.448",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18205",
@@ -10404,9 +12412,15 @@
     "location_z": "-92.17429",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2462",
@@ -10432,9 +12446,15 @@
     "location_z": "1221.427",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18206",
@@ -10460,9 +12480,15 @@
     "location_z": "2591.217",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2463",
@@ -10488,9 +12514,15 @@
     "location_z": "899.3584",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "18207",
@@ -10516,9 +12548,15 @@
     "location_z": "-2407.583",
     "outfit_resource_reward_type_description": "Synthium",
     "outfit_resource_reward_amount": "3",
+    "capture_reward": {
+      "Description": "Synthium - Uncommon",
+      "Amount": "3"
+    },
     "image_set_id": "805614",
     "image_id": "91363",
-    "image_path": "/files/ps2/images/static/91363.png"
+    "image_path": "/files/ps2/images/static/91363.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2464",
@@ -10544,9 +12582,15 @@
     "location_z": "1037.409",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2465",
@@ -10572,9 +12616,15 @@
     "location_z": "658.5409",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2466",
@@ -10600,9 +12650,15 @@
     "location_z": "2772.19",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2467",
@@ -10628,9 +12684,15 @@
     "location_z": "2293.439",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2468",
@@ -10656,9 +12718,15 @@
     "location_z": "2480.463",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2469",
@@ -10684,9 +12752,15 @@
     "location_z": "1472.189",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2470",
@@ -10712,9 +12786,15 @@
     "location_z": "721.2118",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2471",
@@ -10740,9 +12820,15 @@
     "location_z": "1239.215",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2472",
@@ -10768,9 +12854,15 @@
     "location_z": "-2088.378",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2473",
@@ -10796,9 +12888,15 @@
     "location_z": "-2106.456",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2474",
@@ -10824,9 +12922,15 @@
     "location_z": "-2164.26",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2475",
@@ -10852,9 +12956,15 @@
     "location_z": "-2744.415",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2476",
@@ -10880,9 +12990,15 @@
     "location_z": "-2214.31",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2477",
@@ -10908,9 +13024,15 @@
     "location_z": "-1618.84",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2478",
@@ -10936,9 +13058,15 @@
     "location_z": "-1139.729",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   },
   {
     "map_region_id": "2479",
@@ -10964,8 +13092,14 @@
     "location_z": "-864.2726",
     "outfit_resource_reward_type_description": "Auraxium",
     "outfit_resource_reward_amount": "5",
+    "capture_reward": {
+      "Description": "Auraxium - Common",
+      "Amount": "5"
+    },
     "image_set_id": "7919",
     "image_id": "9123",
-    "image_path": "/files/ps2/images/static/9123.png"
+    "image_path": "/files/ps2/images/static/9123.png",
+    "reward_currency_id": "NULL",
+    "reward_amount": "NULL"
   }
 ]
