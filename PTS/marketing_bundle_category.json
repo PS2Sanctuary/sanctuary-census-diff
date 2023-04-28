@@ -287,16 +287,16 @@
   {
     "marketing_bundle_category_id": "44",
     "name": {
-      "de": "NULL",
+      "de": "Neu & im Angebot",
       "en": "New & On Sale",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Novedades y ofertas",
+      "fr": "Nouveautés & Promos",
+      "it": "Nuovi e scontati",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Новинки и распродажа",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "全新上架和促销物品"
     },
     "display_index": "0",
     "image_set_id": "366",

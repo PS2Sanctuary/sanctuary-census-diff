@@ -717,7 +717,7 @@
     "vehicle_id": "100",
     "name": {
       "de": "Personenabwehr-Phalanxgeschütz \"Xiphos\"",
-      "en": "Xiphos Anti-Personnel Phalanx Turret",
+      "en": "Xiphos Anti-Infantry Phalanx Turret",
       "es": "Torreta antipersonas Phalanx Xiphos ",
       "fr": "Tourelle antipersonnel phalange Xiphos",
       "it": "Torretta Phalanx antiuomo Xiphos",
@@ -729,7 +729,7 @@
     },
     "description": {
       "de": "Der Phalanxgeschütz \"Xiphos\" zur Personenabwehr schießt 20mm Geschosse mit seinen Zwillings-Gatling-Kanonen, die Schaden bei Infanterie und leichter Panzerung anrichten.",
-      "en": "The Xiphos Anti-Personnel Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+      "en": "The Xiphos Anti-Infantry Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
       "es": "La Torreta Phalanx Xiphos antipersonas dispara munición de 20 mm de sus dos cañones giratorios para despedazar a la infantería y los blindados ligeros.",
       "fr": "La tourelle phalange antipersonnel Xiphos mitraille des cartouches de 20mm avec ses canons rotatifs jumeaux, efficaces contre l'infanterie et les blindages légers.",
       "it": "La torretta antiuomo Phalanx Xiphos spara proiettili di 20mm con due mitragliatrici a canne rotanti che danneggiano fanteria e corazze leggere.",
@@ -763,7 +763,7 @@
     "vehicle_id": "101",
     "name": {
       "de": "MANA-Geschützturm",
-      "en": "MANA Anti-Personnel Turret",
+      "en": "MANA Anti-Infantry Turret",
       "es": "Torreta antipersonal MANA",
       "fr": "Tourelle antipersonnel ANAH ",
       "it": "Torretta antiuomo MANA",
@@ -775,7 +775,7 @@
     },
     "description": {
       "de": "Das MANA-Geschütz(Manned Aggressor Neutralizing Assault) wird von Ingenieuren eingesetzt und ist gegen leicht und mittelschwer gepanzerte Ziele effektiv.",
-      "en": "MANA (Manned Aggressor Neutralizing Assault) Anti-Personnel turret is deployed by engineers and is effective against soft and medium armored targets.",
+      "en": "MANA (Manned Aggressor Neutralizing Assault) Anti-Infantry turret is deployed by engineers and is effective against soft and medium armored targets.",
       "es": "La torreta antipersonal MANA (pilotada neutralizadora de agresores en asaltos) es usada por ingenieros y es eficaz contra objetivos con blindaje ligero y medio.",
       "fr": "La tourelle antipersonnel ANAH (Assaut Neutralisant Agresseurs Habités) est déployée par les Ingénieurs et est efficace contre les cibles au blindage faible et moyen.",
       "it": "La torretta d'assalto antiuomo manuale neutralizza-aggressore MANA (Manned Aggressor Neutralizing Assault) viene dispiegata dai genieri ed è efficace contro i bersagli morbidi o mediamente corazzati.",
@@ -1223,7 +1223,7 @@
     "vehicle_id": "162",
     "name": {
       "de": "Personenabwehr-Phalanxturm \"Xiphos\"",
-      "en": "Xiphos Anti-Personnel Tower",
+      "en": "Xiphos Anti-Infantry Tower",
       "es": "Torre antipersonas Xiphos",
       "fr": "Tour antipersonnel \"Xiphos\"",
       "it": "Torre antimuomo Xiphos",
@@ -1235,7 +1235,7 @@
     },
     "description": {
       "de": "Der Phalanxturm \"Xiphos\" zur Personenabwehr schießt 20mm Geschosse mit seinen Zwillings-Gatling-Kanonen, die Schaden bei Infanterie und leichter Panzerung anrichten.",
-      "en": "The Xiphos Anti-Personnel Phalanx Tower sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+      "en": "The Xiphos Anti-Infantry Phalanx Tower sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
       "es": "La Torre Phalanx Xiphos antipersonas dispara munición de 20 mm de sus dos cañones giratorios para despedazar a la infantería y los blindados ligeros.",
       "fr": "La tour phalange antipersonnel Xiphos mitraille des cartouches de 20mm avec ses canons rotatifs jumeaux efficaces contre l'infanterie et les blindages légers",
       "it": "La torre antiuomo Phalanx Xiphos spara proiettili di 20mm con due mitragliatrici a canne rotanti che danneggiano fanteria e corazze leggere.",
@@ -2145,7 +2145,7 @@
     "vehicle_id": "2009",
     "name": {
       "de": "Personenabwehr-Phalanxgeschütz \"Xiphos\"",
-      "en": "Xiphos Anti-Personnel Phalanx Turret",
+      "en": "Xiphos Anti-Infantry Phalanx Turret",
       "es": "Torreta antipersonas Phalanx Xiphos ",
       "fr": "Tourelle antipersonnel phalange Xiphos",
       "it": "Torretta Phalanx antiuomo Xiphos",
@@ -2157,7 +2157,7 @@
     },
     "description": {
       "de": "Der Phalanxgeschütz \"Xiphos\" zur Personenabwehr schießt 20mm Geschosse mit seinen Zwillings-Gatling-Kanonen, die Schaden bei Infanterie und leichter Panzerung anrichten.",
-      "en": "The Xiphos Anti-Personnel Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
+      "en": "The Xiphos Anti-Infantry Phalanx Turret sprays 20mm rounds with its twin rotary guns that are damaging to infantry and light armor.",
       "es": "La Torreta Phalanx Xiphos antipersonas dispara munición de 20 mm de sus dos cañones giratorios para despedazar a la infantería y los blindados ligeros.",
       "fr": "La tourelle phalange antipersonnel Xiphos mitraille des cartouches de 20mm avec ses canons rotatifs jumeaux, efficaces contre l'infanterie et les blindages légers.",
       "it": "La torretta antiuomo Phalanx Xiphos spara proiettili di 20mm con due mitragliatrici a canne rotanti che danneggiano fanteria e corazze leggere.",

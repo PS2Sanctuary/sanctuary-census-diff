@@ -60594,7 +60594,7 @@
   {
     "image_set_id": "803526",
     "image_id": "86715",
-    "description": "Common_DPO_Placeables_SpawnTube_LOD0",
+    "description": "icon_Common_DPO_Placeables_SpawnTube",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/86715.png"
@@ -60650,7 +60650,7 @@
   {
     "image_set_id": "803533",
     "image_id": "86732",
-    "description": "Common_DPO_Placeables_OrbitalStrike",
+    "description": "icon_Common_DPO_Placeables_OrbitalStrike",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/86732.png"
@@ -81542,5 +81542,325 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/96066.png"
+  },
+  {
+    "image_set_id": "807563",
+    "image_id": "95980",
+    "description": "Codex_Construction_Harvesting",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95980.png"
+  },
+  {
+    "image_set_id": "807564",
+    "image_id": "95981",
+    "description": "Codex_Construction_Building",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95981.png"
+  },
+  {
+    "image_set_id": "807565",
+    "image_id": "95982",
+    "description": "Codex_Construction_Placement",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95982.png"
+  },
+  {
+    "image_set_id": "807593",
+    "image_id": "96072",
+    "description": "icon_implant_ui_perfectlogisticsSpec_tier6",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96072.png"
+  },
+  {
+    "image_set_id": "807594",
+    "image_id": "96075",
+    "description": "icon_Common_DPO_Placeables_InfantryAwning",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96075.png"
+  },
+  {
+    "image_set_id": "807595",
+    "image_id": "96078",
+    "description": "icon_Common_DPO_Placeables_InfantryTunnel",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96078.png"
+  },
+  {
+    "image_set_id": "807596",
+    "image_id": "96083",
+    "description": "icon_Helmet_VS_Male_All_PS_Deathnaut",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96083.png"
+  },
+  {
+    "image_set_id": "807597",
+    "image_id": "96086",
+    "description": "icon_Helmet_TR_Male_All_PS_ReaperHood",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96086.png"
+  },
+  {
+    "image_set_id": "807598",
+    "image_id": "96087",
+    "description": "Icon_HUD_Modules_Capacity",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96087.png"
+  },
+  {
+    "image_set_id": "807599",
+    "image_id": "96088",
+    "description": "Icon_HUD_Modules_CortiumBomb",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96088.png"
+  },
+  {
+    "image_set_id": "807600",
+    "image_id": "96089",
+    "description": "Icon_HUD_Modules_Cortium",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96089.png"
+  },
+  {
+    "image_set_id": "807601",
+    "image_id": "96090",
+    "description": "Icon_HUD_Modules_Durability",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96090.png"
+  },
+  {
+    "image_set_id": "807602",
+    "image_id": "96091",
+    "description": "Icon_HUD_Modules_Empty",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96091.png"
+  },
+  {
+    "image_set_id": "807603",
+    "image_id": "96092",
+    "description": "Icon_HUD_Modules_Equipment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96092.png"
+  },
+  {
+    "image_set_id": "807604",
+    "image_id": "96093",
+    "description": "Icon_HUD_Modules_Firewall",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96093.png"
+  },
+  {
+    "image_set_id": "807605",
+    "image_id": "96094",
+    "description": "Icon_HUD_Modules_FortressShield",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96094.png"
+  },
+  {
+    "image_set_id": "807606",
+    "image_id": "96095",
+    "description": "Icon_HUD_Modules_HeatDispersion",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96095.png"
+  },
+  {
+    "image_set_id": "807607",
+    "image_id": "96096",
+    "description": "Icon_HUD_Modules_HeavyRepair",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96096.png"
+  },
+  {
+    "image_set_id": "807608",
+    "image_id": "96097",
+    "description": "Icon_HUD_Modules_Munitions",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96097.png"
+  },
+  {
+    "image_set_id": "807609",
+    "image_id": "96098",
+    "description": "Icon_HUD_Modules_Repair",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96098.png"
+  },
+  {
+    "image_set_id": "807610",
+    "image_id": "96099",
+    "description": "Icon_HUD_Modules_SensorSweep",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96099.png"
+  },
+  {
+    "image_set_id": "807611",
+    "image_id": "96100",
+    "description": "Icon_HUD_Modules_Shield",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96100.png"
+  },
+  {
+    "image_set_id": "807612",
+    "image_id": "96101",
+    "description": "Icon_HUD_Modules_SkyWall",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96101.png"
+  },
+  {
+    "image_set_id": "807613",
+    "image_id": "96104",
+    "description": "icon_Common_DPO_Placeables_SecureSilo",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96104.png"
+  },
+  {
+    "image_set_id": "807614",
+    "image_id": "96107",
+    "description": "icon_Common_DPO_Placeables_CommandCenter",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96107.png"
+  },
+  {
+    "image_set_id": "807615",
+    "image_id": "96110",
+    "description": "icon_Common_DPO_Placeables_SpawnRoom",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96110.png"
+  },
+  {
+    "image_set_id": "807616",
+    "image_id": "96113",
+    "description": "icon_Common_DPO_Placeables_TreeStand",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96113.png"
+  },
+  {
+    "image_set_id": "807617",
+    "image_id": "96116",
+    "description": "icon_Common_DPO_Placeables_ModuleDispencer",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96116.png"
+  },
+  {
+    "image_set_id": "807618",
+    "image_id": "96119",
+    "description": "icon_Common_DPO_Placeables_ReconArray",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96119.png"
+  },
+  {
+    "image_set_id": "807619",
+    "image_id": "96122",
+    "description": "icon_Common_DPO_Placeables_BulwarkWall_Narrow",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96122.png"
+  },
+  {
+    "image_set_id": "807620",
+    "image_id": "96125",
+    "description": "icon_Common_DPO_Placeables_BulwarkWall_Wide",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96125.png"
+  },
+  {
+    "image_set_id": "807621",
+    "image_id": "96126",
+    "description": "Codex_Construction_Modules",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96126.png"
+  },
+  {
+    "image_set_id": "807622",
+    "image_id": "96129",
+    "description": "Icon_ProfileBackground_BannerFrame_PS1_Legacy_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96129.png"
+  },
+  {
+    "image_set_id": "807623",
+    "image_id": "96132",
+    "description": "icon_profileBackground_PS1_Legacy_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96132.png"
+  },
+  {
+    "image_set_id": "807624",
+    "image_id": "96133",
+    "description": "ProfileBackground_BannerFrame_PS1_Legacy_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96133.png"
+  },
+  {
+    "image_set_id": "807625",
+    "image_id": "96134",
+    "description": "profileBackground_PS1_Legacy_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96134.png"
+  },
+  {
+    "image_set_id": "807626",
+    "image_id": "96137",
+    "description": "icon_bundle_PS1Legacy_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96137.png"
+  },
+  {
+    "image_set_id": "807627",
+    "image_id": "96141",
+    "description": "icon_Common_DPO_Placeables_BlastGate",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96141.png"
+  },
+  {
+    "image_set_id": "807628",
+    "image_id": "96144",
+    "description": "icon_Common_DPO_Placeables_LightPost",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96144.png"
+  },
+  {
+    "image_set_id": "807629",
+    "image_id": "96147",
+    "description": "icon_Common_DPO_Placeables_VehicleBridge",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96147.png"
   }
 ]

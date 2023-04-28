@@ -44928,5 +44928,845 @@
     "image_set_id": "NULL",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6107",
+    "resist_type_id": "20",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6108",
+    "resist_type_id": "23",
+    "resist_percent": "-50",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6109",
+    "resist_type_id": "12",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6110",
+    "resist_type_id": "9",
+    "resist_percent": "0",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6111",
+    "resist_type_id": "11",
+    "resist_percent": "-100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6112",
+    "resist_type_id": "28",
+    "resist_percent": "70",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6113",
+    "resist_type_id": "1",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6114",
+    "resist_type_id": "2",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6115",
+    "resist_type_id": "4",
+    "resist_percent": "70",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6116",
+    "resist_type_id": "5",
+    "resist_percent": "35",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6117",
+    "resist_type_id": "6",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6118",
+    "resist_type_id": "7",
+    "resist_percent": "-50",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6119",
+    "resist_type_id": "8",
+    "resist_percent": "90.75",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6120",
+    "resist_type_id": "22",
+    "resist_percent": "90",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6121",
+    "resist_type_id": "34",
+    "resist_percent": "37",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6122",
+    "resist_type_id": "40",
+    "resist_percent": "10",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6123",
+    "resist_type_id": "49",
+    "resist_percent": "0",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6125",
+    "resist_type_id": "45",
+    "resist_percent": "50",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6126",
+    "resist_type_id": "64",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6127",
+    "resist_type_id": "68",
+    "resist_percent": "37",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6128",
+    "resist_type_id": "23",
+    "resist_percent": "-50",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6129",
+    "resist_type_id": "8",
+    "resist_percent": "90.75",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6130",
+    "resist_type_id": "40",
+    "resist_percent": "10",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6131",
+    "resist_type_id": "22",
+    "resist_percent": "90",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6132",
+    "resist_type_id": "9",
+    "resist_percent": "0",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6133",
+    "resist_type_id": "28",
+    "resist_percent": "70",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6134",
+    "resist_type_id": "64",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6135",
+    "resist_type_id": "11",
+    "resist_percent": "-100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6136",
+    "resist_type_id": "34",
+    "resist_percent": "37",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6137",
+    "resist_type_id": "49",
+    "resist_percent": "0",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6138",
+    "resist_type_id": "12",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6139",
+    "resist_type_id": "6",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6140",
+    "resist_type_id": "68",
+    "resist_percent": "37",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6141",
+    "resist_type_id": "1",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6142",
+    "resist_type_id": "2",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6143",
+    "resist_type_id": "20",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6144",
+    "resist_type_id": "7",
+    "resist_percent": "-50",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6145",
+    "resist_type_id": "4",
+    "resist_percent": "70",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6146",
+    "resist_type_id": "5",
+    "resist_percent": "35",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6147",
+    "resist_type_id": "45",
+    "resist_percent": "50",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6158",
+    "resist_type_id": "1",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6159",
+    "resist_type_id": "2",
+    "resist_percent": "75",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6160",
+    "resist_type_id": "3",
+    "resist_percent": "-75",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6161",
+    "resist_type_id": "4",
+    "resist_percent": "70",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6162",
+    "resist_type_id": "5",
+    "resist_percent": "-100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6163",
+    "resist_type_id": "6",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6164",
+    "resist_type_id": "7",
+    "resist_percent": "-425",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6165",
+    "resist_type_id": "8",
+    "resist_percent": "50",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6166",
+    "resist_type_id": "9",
+    "resist_percent": "-250",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6167",
+    "resist_type_id": "11",
+    "resist_percent": "-150",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6168",
+    "resist_type_id": "12",
+    "resist_percent": "-180",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6169",
+    "resist_type_id": "13",
+    "resist_percent": "65",
+    "resist_amount": "80",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6170",
+    "resist_type_id": "14",
+    "resist_percent": "67",
+    "resist_amount": "125",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6171",
+    "resist_type_id": "15",
+    "resist_percent": "90",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6172",
+    "resist_type_id": "16",
+    "resist_percent": "100",
+    "resist_amount": "125",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6173",
+    "resist_type_id": "17",
+    "resist_percent": "85",
+    "resist_amount": "125",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6174",
+    "resist_type_id": "18",
+    "resist_percent": "40",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6175",
+    "resist_type_id": "20",
+    "resist_percent": "90",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6176",
+    "resist_type_id": "21",
+    "resist_percent": "90",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6177",
+    "resist_type_id": "22",
+    "resist_percent": "50",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6178",
+    "resist_type_id": "23",
+    "resist_percent": "-100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6179",
+    "resist_type_id": "24",
+    "resist_percent": "-70",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6180",
+    "resist_type_id": "25",
+    "resist_percent": "-75",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6181",
+    "resist_type_id": "26",
+    "resist_percent": "-295",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6182",
+    "resist_type_id": "27",
+    "resist_percent": "-69",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6183",
+    "resist_type_id": "28",
+    "resist_percent": "50",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6184",
+    "resist_type_id": "29",
+    "resist_percent": "46",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6185",
+    "resist_type_id": "30",
+    "resist_percent": "0",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6186",
+    "resist_type_id": "31",
+    "resist_percent": "-115",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6187",
+    "resist_type_id": "33",
+    "resist_percent": "15",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6188",
+    "resist_type_id": "34",
+    "resist_percent": "-225",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6189",
+    "resist_type_id": "35",
+    "resist_percent": "75",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6190",
+    "resist_type_id": "36",
+    "resist_percent": "-25",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6191",
+    "resist_type_id": "37",
+    "resist_percent": "-175",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6192",
+    "resist_type_id": "38",
+    "resist_percent": "-30",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6193",
+    "resist_type_id": "40",
+    "resist_percent": "-25",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6194",
+    "resist_type_id": "41",
+    "resist_percent": "-17",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6195",
+    "resist_type_id": "42",
+    "resist_percent": "-27.5",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6196",
+    "resist_type_id": "43",
+    "resist_percent": "-33.5",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6197",
+    "resist_type_id": "44",
+    "resist_percent": "55",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6198",
+    "resist_type_id": "45",
+    "resist_percent": "-25",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6199",
+    "resist_type_id": "47",
+    "resist_percent": "87",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6200",
+    "resist_type_id": "64",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6201",
+    "resist_type_id": "68",
+    "resist_percent": "-100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

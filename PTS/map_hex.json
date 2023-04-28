@@ -1,7 +1,7 @@
 [
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18369",
     "x": "3",
     "y": "-3",
     "hex_type": "0",
@@ -9,7 +9,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18369",
     "x": "4",
     "y": "-3",
     "hex_type": "0",
@@ -17,7 +17,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18369",
     "x": "5",
     "y": "-3",
     "hex_type": "0",
@@ -25,7 +25,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18274",
+    "map_region_id": "18369",
     "x": "6",
     "y": "-3",
     "hex_type": "0",
@@ -337,7 +337,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18263",
     "x": "-2",
     "y": "-3",
     "hex_type": "0",
@@ -345,7 +345,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18263",
     "x": "-1",
     "y": "-3",
     "hex_type": "0",
@@ -353,7 +353,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18263",
     "x": "0",
     "y": "-3",
     "hex_type": "0",
@@ -361,7 +361,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18263",
     "x": "1",
     "y": "-3",
     "hex_type": "0",
@@ -401,39 +401,39 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-34",
     "y": "-3",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-33",
     "y": "-3",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-32",
     "y": "-3",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-31",
     "y": "-3",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-30",
     "y": "-3",
     "hex_type": "0",
@@ -441,7 +441,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-29",
     "y": "-3",
     "hex_type": "0",
@@ -657,7 +657,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18369",
     "x": "2",
     "y": "-2",
     "hex_type": "0",
@@ -665,7 +665,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18369",
     "x": "3",
     "y": "-2",
     "hex_type": "0",
@@ -673,7 +673,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18369",
     "x": "4",
     "y": "-2",
     "hex_type": "0",
@@ -681,7 +681,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18369",
     "x": "5",
     "y": "-2",
     "hex_type": "0",
@@ -945,7 +945,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18264",
     "x": "-3",
     "y": "-2",
     "hex_type": "0",
@@ -953,7 +953,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18263",
     "x": "-2",
     "y": "-2",
     "hex_type": "0",
@@ -961,7 +961,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18263",
     "x": "-1",
     "y": "-2",
     "hex_type": "0",
@@ -969,7 +969,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18263",
     "x": "0",
     "y": "-2",
     "hex_type": "0",
@@ -977,7 +977,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18263",
     "x": "1",
     "y": "-2",
     "hex_type": "0",
@@ -1033,39 +1033,39 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-34",
     "y": "-2",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-33",
     "y": "-2",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-32",
     "y": "-2",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-31",
     "y": "-2",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-30",
     "y": "-2",
     "hex_type": "0",
@@ -1073,7 +1073,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-29",
     "y": "-2",
     "hex_type": "0",
@@ -1329,7 +1329,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18369",
     "x": "5",
     "y": "-4",
     "hex_type": "0",
@@ -1345,7 +1345,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18369",
     "x": "6",
     "y": "-4",
     "hex_type": "0",
@@ -1361,7 +1361,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-3",
     "y": "-4",
     "hex_type": "0",
@@ -1369,7 +1369,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-4",
     "y": "-4",
     "hex_type": "0",
@@ -1377,7 +1377,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-5",
     "y": "-4",
     "hex_type": "0",
@@ -1617,7 +1617,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-2",
     "y": "-4",
     "hex_type": "0",
@@ -1657,7 +1657,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18263",
     "x": "-1",
     "y": "-4",
     "hex_type": "0",
@@ -1665,7 +1665,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18263",
     "x": "0",
     "y": "-4",
     "hex_type": "0",
@@ -1673,7 +1673,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18263",
     "x": "1",
     "y": "-4",
     "hex_type": "0",
@@ -1737,47 +1737,47 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-34",
     "y": "-4",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-33",
     "y": "-4",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-32",
     "y": "-4",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-31",
     "y": "-4",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-30",
     "y": "-4",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-29",
     "y": "-4",
     "hex_type": "0",
@@ -1785,7 +1785,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-28",
     "y": "-4",
     "hex_type": "0",
@@ -2033,7 +2033,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-1",
     "y": "-5",
     "hex_type": "0",
@@ -2041,7 +2041,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-2",
     "y": "-5",
     "hex_type": "0",
@@ -2297,7 +2297,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-5",
     "y": "-5",
     "hex_type": "0",
@@ -2305,7 +2305,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-4",
     "y": "-5",
     "hex_type": "0",
@@ -2313,7 +2313,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-3",
     "y": "-5",
     "hex_type": "0",
@@ -2377,55 +2377,55 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-34",
     "y": "-5",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-33",
     "y": "-5",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-32",
     "y": "-5",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-31",
     "y": "-5",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-30",
     "y": "-5",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-29",
     "y": "-5",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-28",
     "y": "-5",
     "hex_type": "0",
@@ -2433,7 +2433,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-27",
     "y": "-5",
     "hex_type": "0",
@@ -2657,7 +2657,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18346",
     "x": "3",
     "y": "-6",
     "hex_type": "0",
@@ -2665,7 +2665,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18346",
     "x": "2",
     "y": "-6",
     "hex_type": "0",
@@ -2673,7 +2673,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-1",
     "y": "-6",
     "hex_type": "0",
@@ -2681,7 +2681,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18346",
     "x": "0",
     "y": "-6",
     "hex_type": "0",
@@ -2689,7 +2689,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18346",
     "x": "1",
     "y": "-6",
     "hex_type": "0",
@@ -2969,7 +2969,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-5",
     "y": "-6",
     "hex_type": "0",
@@ -2977,7 +2977,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-4",
     "y": "-6",
     "hex_type": "0",
@@ -2985,7 +2985,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-3",
     "y": "-6",
     "hex_type": "0",
@@ -2993,7 +2993,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-2",
     "y": "-6",
     "hex_type": "0",
@@ -3057,47 +3057,47 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-33",
     "y": "-6",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-32",
     "y": "-6",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-31",
     "y": "-6",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-30",
     "y": "-6",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-29",
     "y": "-6",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-28",
     "y": "-6",
     "hex_type": "0",
@@ -3105,7 +3105,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-27",
     "y": "-6",
     "hex_type": "0",
@@ -3113,7 +3113,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-26",
     "y": "-6",
     "hex_type": "0",
@@ -3281,7 +3281,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18346",
     "x": "3",
     "y": "-7",
     "hex_type": "0",
@@ -3289,7 +3289,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18346",
     "x": "2",
     "y": "-7",
     "hex_type": "0",
@@ -3297,7 +3297,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18346",
     "x": "4",
     "y": "-7",
     "hex_type": "0",
@@ -3321,7 +3321,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18346",
     "x": "1",
     "y": "-7",
     "hex_type": "0",
@@ -3329,7 +3329,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18346",
     "x": "0",
     "y": "-7",
     "hex_type": "0",
@@ -3633,7 +3633,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-4",
     "y": "-7",
     "hex_type": "0",
@@ -3641,7 +3641,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-3",
     "y": "-7",
     "hex_type": "0",
@@ -3649,7 +3649,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-2",
     "y": "-7",
     "hex_type": "0",
@@ -3657,7 +3657,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18346",
+    "map_region_id": "18264",
     "x": "-1",
     "y": "-7",
     "hex_type": "0",
@@ -3713,47 +3713,47 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-32",
     "y": "-7",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-31",
     "y": "-7",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-30",
     "y": "-7",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-29",
     "y": "-7",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-28",
     "y": "-7",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-27",
     "y": "-7",
     "hex_type": "0",
@@ -3761,7 +3761,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-26",
     "y": "-7",
     "hex_type": "0",
@@ -3937,7 +3937,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18346",
     "x": "2",
     "y": "-8",
     "hex_type": "0",
@@ -3945,7 +3945,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18346",
     "x": "3",
     "y": "-8",
     "hex_type": "0",
@@ -3953,7 +3953,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18346",
     "x": "4",
     "y": "-8",
     "hex_type": "0",
@@ -3961,7 +3961,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18346",
     "x": "5",
     "y": "-8",
     "hex_type": "0",
@@ -3969,7 +3969,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18346",
     "x": "1",
     "y": "-8",
     "hex_type": "0",
@@ -4377,31 +4377,31 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-31",
     "y": "-8",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-30",
     "y": "-8",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-29",
     "y": "-8",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-28",
     "y": "-8",
     "hex_type": "0",
@@ -4409,7 +4409,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-27",
     "y": "-8",
     "hex_type": "0",
@@ -4417,7 +4417,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-26",
     "y": "-8",
     "hex_type": "0",
@@ -4425,7 +4425,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18273",
     "x": "8",
     "y": "-8",
     "hex_type": "0",
@@ -4433,7 +4433,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18273",
     "x": "9",
     "y": "-8",
     "hex_type": "0",
@@ -4617,7 +4617,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18369",
     "x": "2",
     "y": "-1",
     "hex_type": "0",
@@ -4625,7 +4625,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18369",
     "x": "3",
     "y": "-1",
     "hex_type": "0",
@@ -4633,7 +4633,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18369",
     "x": "4",
     "y": "-1",
     "hex_type": "0",
@@ -4721,7 +4721,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18263",
+    "map_region_id": "18369",
     "x": "1",
     "y": "-1",
     "hex_type": "0",
@@ -4889,7 +4889,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18264",
     "x": "-4",
     "y": "-1",
     "hex_type": "0",
@@ -4897,7 +4897,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18264",
     "x": "-3",
     "y": "-1",
     "hex_type": "0",
@@ -4905,7 +4905,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18263",
     "x": "-2",
     "y": "-1",
     "hex_type": "0",
@@ -4913,7 +4913,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18263",
     "x": "-1",
     "y": "-1",
     "hex_type": "0",
@@ -4921,7 +4921,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18263",
     "x": "0",
     "y": "-1",
     "hex_type": "0",
@@ -5033,7 +5033,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-31",
     "y": "-1",
     "hex_type": "0",
@@ -5041,7 +5041,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-30",
     "y": "-1",
     "hex_type": "0",
@@ -5049,7 +5049,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-29",
     "y": "-1",
     "hex_type": "0",
@@ -5529,7 +5529,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18264",
     "x": "-4",
     "y": "0",
     "hex_type": "0",
@@ -5537,7 +5537,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18369",
+    "map_region_id": "18264",
     "x": "-3",
     "y": "0",
     "hex_type": "0",
@@ -5665,7 +5665,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-31",
     "y": "0",
     "hex_type": "0",
@@ -9385,7 +9385,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-33",
     "y": "6",
     "hex_type": "0",
@@ -9953,7 +9953,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-31",
     "y": "7",
     "hex_type": "0",
@@ -9961,7 +9961,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-30",
     "y": "7",
     "hex_type": "0",
@@ -10033,7 +10033,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-32",
     "y": "7",
     "hex_type": "0",
@@ -10057,7 +10057,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-33",
     "y": "7",
     "hex_type": "0",
@@ -10065,7 +10065,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-34",
     "y": "7",
     "hex_type": "0",
@@ -10297,7 +10297,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18279",
     "x": "3",
     "y": "7",
     "hex_type": "0",
@@ -10305,7 +10305,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18279",
     "x": "4",
     "y": "7",
     "hex_type": "0",
@@ -10945,7 +10945,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18304",
     "x": "-26",
     "y": "-9",
     "hex_type": "0",
@@ -10953,7 +10953,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18346",
     "x": "2",
     "y": "-9",
     "hex_type": "0",
@@ -10961,7 +10961,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18346",
     "x": "3",
     "y": "-9",
     "hex_type": "0",
@@ -10969,7 +10969,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18346",
     "x": "4",
     "y": "-9",
     "hex_type": "0",
@@ -10977,7 +10977,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18346",
     "x": "5",
     "y": "-9",
     "hex_type": "0",
@@ -10985,7 +10985,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18346",
     "x": "6",
     "y": "-9",
     "hex_type": "0",
@@ -10993,7 +10993,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18273",
     "x": "7",
     "y": "-9",
     "hex_type": "0",
@@ -11649,7 +11649,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18273",
     "x": "7",
     "y": "-10",
     "hex_type": "0",
@@ -13193,7 +13193,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18282",
+    "map_region_id": "18375",
     "x": "-17",
     "y": "-13",
     "hex_type": "0",
@@ -13225,7 +13225,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18282",
+    "map_region_id": "18375",
     "x": "-19",
     "y": "-13",
     "hex_type": "0",
@@ -13233,7 +13233,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18282",
+    "map_region_id": "18375",
     "x": "-18",
     "y": "-13",
     "hex_type": "0",
@@ -13241,7 +13241,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18282",
+    "map_region_id": "18375",
     "x": "-16",
     "y": "-13",
     "hex_type": "0",
@@ -13817,7 +13817,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18283",
+    "map_region_id": "18375",
     "x": "-21",
     "y": "-14",
     "hex_type": "0",
@@ -13825,7 +13825,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18283",
+    "map_region_id": "18375",
     "x": "-20",
     "y": "-14",
     "hex_type": "0",
@@ -13833,7 +13833,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18283",
+    "map_region_id": "18375",
     "x": "-19",
     "y": "-14",
     "hex_type": "0",
@@ -13841,7 +13841,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18283",
+    "map_region_id": "18375",
     "x": "-18",
     "y": "-14",
     "hex_type": "0",
@@ -13849,7 +13849,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18283",
+    "map_region_id": "18375",
     "x": "-17",
     "y": "-14",
     "hex_type": "0",
@@ -13857,7 +13857,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18283",
+    "map_region_id": "18375",
     "x": "-16",
     "y": "-14",
     "hex_type": "0",
@@ -13865,7 +13865,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18283",
+    "map_region_id": "18375",
     "x": "-15",
     "y": "-14",
     "hex_type": "0",
@@ -14433,7 +14433,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18283",
+    "map_region_id": "18375",
     "x": "-20",
     "y": "-15",
     "hex_type": "0",
@@ -14441,7 +14441,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18283",
+    "map_region_id": "18375",
     "x": "-19",
     "y": "-15",
     "hex_type": "0",
@@ -14449,7 +14449,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18283",
+    "map_region_id": "18375",
     "x": "-18",
     "y": "-15",
     "hex_type": "0",
@@ -14457,7 +14457,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18283",
+    "map_region_id": "18375",
     "x": "-17",
     "y": "-15",
     "hex_type": "0",
@@ -15089,7 +15089,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18283",
+    "map_region_id": "18375",
     "x": "-19",
     "y": "-16",
     "hex_type": "0",
@@ -15769,7 +15769,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18284",
+    "map_region_id": "18283",
     "x": "-15",
     "y": "-17",
     "hex_type": "0",
@@ -15777,7 +15777,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18284",
+    "map_region_id": "18283",
     "x": "-14",
     "y": "-17",
     "hex_type": "0",
@@ -16401,7 +16401,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18284",
+    "map_region_id": "18283",
     "x": "-15",
     "y": "-18",
     "hex_type": "0",
@@ -21161,7 +21161,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "29",
     "y": "-25",
     "hex_type": "0",
@@ -21169,7 +21169,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "30",
     "y": "-25",
     "hex_type": "0",
@@ -21177,7 +21177,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "31",
     "y": "-25",
     "hex_type": "0",
@@ -21185,7 +21185,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "32",
     "y": "-25",
     "hex_type": "0",
@@ -21193,7 +21193,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "33",
     "y": "-25",
     "hex_type": "0",
@@ -21201,7 +21201,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "34",
     "y": "-25",
     "hex_type": "0",
@@ -21553,11 +21553,11 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "41",
     "y": "-25",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
@@ -21833,7 +21833,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "30",
     "y": "-26",
     "hex_type": "0",
@@ -21841,7 +21841,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "31",
     "y": "-26",
     "hex_type": "0",
@@ -21849,7 +21849,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "32",
     "y": "-26",
     "hex_type": "0",
@@ -21857,7 +21857,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "33",
     "y": "-26",
     "hex_type": "0",
@@ -21865,7 +21865,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "34",
     "y": "-26",
     "hex_type": "0",
@@ -21873,7 +21873,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "35",
     "y": "-26",
     "hex_type": "0",
@@ -22201,27 +22201,27 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "40",
     "y": "-26",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "41",
     "y": "-26",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "42",
     "y": "-26",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
@@ -22497,7 +22497,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "32",
     "y": "-27",
     "hex_type": "0",
@@ -22505,7 +22505,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "33",
     "y": "-27",
     "hex_type": "0",
@@ -22513,7 +22513,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "34",
     "y": "-27",
     "hex_type": "0",
@@ -22521,7 +22521,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "35",
     "y": "-27",
     "hex_type": "0",
@@ -22529,7 +22529,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "36",
     "y": "-27",
     "hex_type": "0",
@@ -22537,7 +22537,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "37",
     "y": "-27",
     "hex_type": "0",
@@ -22569,7 +22569,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "18",
     "y": "-27",
     "hex_type": "0",
@@ -22849,35 +22849,35 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "40",
     "y": "-27",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "41",
     "y": "-27",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "42",
     "y": "-27",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "43",
     "y": "-27",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
@@ -23113,7 +23113,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "33",
     "y": "-28",
     "hex_type": "0",
@@ -23121,7 +23121,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "34",
     "y": "-28",
     "hex_type": "0",
@@ -23129,7 +23129,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "35",
     "y": "-28",
     "hex_type": "0",
@@ -23137,7 +23137,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "36",
     "y": "-28",
     "hex_type": "0",
@@ -23145,7 +23145,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "37",
     "y": "-28",
     "hex_type": "0",
@@ -23153,7 +23153,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "38",
     "y": "-28",
     "hex_type": "0",
@@ -23177,7 +23177,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "19",
     "y": "-28",
     "hex_type": "0",
@@ -23185,7 +23185,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "18",
     "y": "-28",
     "hex_type": "0",
@@ -23497,67 +23497,67 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "39",
     "y": "-28",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "40",
     "y": "-28",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "41",
     "y": "-28",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "42",
     "y": "-28",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "43",
     "y": "-28",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "44",
     "y": "-28",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "45",
     "y": "-28",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "46",
     "y": "-28",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
@@ -23697,7 +23697,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "34",
     "y": "-29",
     "hex_type": "0",
@@ -23705,7 +23705,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "35",
     "y": "-29",
     "hex_type": "0",
@@ -23713,7 +23713,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "36",
     "y": "-29",
     "hex_type": "0",
@@ -23721,7 +23721,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "37",
     "y": "-29",
     "hex_type": "0",
@@ -23729,7 +23729,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "38",
     "y": "-29",
     "hex_type": "0",
@@ -23753,7 +23753,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "22",
     "y": "-29",
     "hex_type": "0",
@@ -23761,7 +23761,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "23",
     "y": "-29",
     "hex_type": "0",
@@ -23769,7 +23769,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "21",
     "y": "-29",
     "hex_type": "0",
@@ -23777,7 +23777,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "20",
     "y": "-29",
     "hex_type": "0",
@@ -23785,7 +23785,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "18",
     "y": "-29",
     "hex_type": "0",
@@ -23793,7 +23793,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "19",
     "y": "-29",
     "hex_type": "0",
@@ -23801,7 +23801,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "17",
     "y": "-29",
     "hex_type": "0",
@@ -23809,7 +23809,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "16",
     "y": "-29",
     "hex_type": "0",
@@ -23817,7 +23817,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "15",
     "y": "-29",
     "hex_type": "0",
@@ -23825,7 +23825,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "13",
     "y": "-29",
     "hex_type": "0",
@@ -23833,7 +23833,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "14",
     "y": "-29",
     "hex_type": "0",
@@ -24145,67 +24145,67 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "39",
     "y": "-29",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "40",
     "y": "-29",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "41",
     "y": "-29",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "42",
     "y": "-29",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "43",
     "y": "-29",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "44",
     "y": "-29",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "45",
     "y": "-29",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "46",
     "y": "-29",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
@@ -24353,7 +24353,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "35",
     "y": "-30",
     "hex_type": "0",
@@ -24361,7 +24361,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18290",
+    "map_region_id": "18376",
     "x": "36",
     "y": "-30",
     "hex_type": "0",
@@ -24385,7 +24385,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "23",
     "y": "-30",
     "hex_type": "0",
@@ -24393,7 +24393,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "22",
     "y": "-30",
     "hex_type": "0",
@@ -24401,7 +24401,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "21",
     "y": "-30",
     "hex_type": "0",
@@ -24409,7 +24409,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "20",
     "y": "-30",
     "hex_type": "0",
@@ -24417,7 +24417,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "19",
     "y": "-30",
     "hex_type": "0",
@@ -24425,7 +24425,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "18",
     "y": "-30",
     "hex_type": "0",
@@ -24433,7 +24433,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "17",
     "y": "-30",
     "hex_type": "0",
@@ -24441,7 +24441,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "16",
     "y": "-30",
     "hex_type": "0",
@@ -24449,7 +24449,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "14",
     "y": "-30",
     "hex_type": "0",
@@ -24457,7 +24457,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "15",
     "y": "-30",
     "hex_type": "0",
@@ -24801,67 +24801,67 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "39",
     "y": "-30",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "40",
     "y": "-30",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "41",
     "y": "-30",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "42",
     "y": "-30",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "43",
     "y": "-30",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "44",
     "y": "-30",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "45",
     "y": "-30",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "46",
     "y": "-30",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
@@ -25009,7 +25009,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "23",
     "y": "-31",
     "hex_type": "0",
@@ -25017,7 +25017,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "22",
     "y": "-31",
     "hex_type": "0",
@@ -25025,7 +25025,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "21",
     "y": "-31",
     "hex_type": "0",
@@ -25033,7 +25033,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "20",
     "y": "-31",
     "hex_type": "0",
@@ -25049,7 +25049,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "18",
     "y": "-31",
     "hex_type": "0",
@@ -25057,7 +25057,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "19",
     "y": "-31",
     "hex_type": "0",
@@ -25065,7 +25065,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "24",
     "y": "-31",
     "hex_type": "0",
@@ -25073,15 +25073,15 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "17",
     "y": "-31",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "16",
     "y": "-31",
     "hex_type": "0",
@@ -25089,7 +25089,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "15",
     "y": "-31",
     "hex_type": "0",
@@ -25457,59 +25457,59 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "40",
     "y": "-31",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "41",
     "y": "-31",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "42",
     "y": "-31",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "43",
     "y": "-31",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "44",
     "y": "-31",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "45",
     "y": "-31",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "46",
     "y": "-31",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
@@ -25737,7 +25737,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-32",
     "y": "8",
     "hex_type": "0",
@@ -25745,7 +25745,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-31",
     "y": "8",
     "hex_type": "0",
@@ -25753,7 +25753,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-30",
     "y": "8",
     "hex_type": "0",
@@ -25809,7 +25809,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-33",
     "y": "8",
     "hex_type": "0",
@@ -25825,7 +25825,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-34",
     "y": "8",
     "hex_type": "0",
@@ -25833,7 +25833,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-35",
     "y": "8",
     "hex_type": "0",
@@ -26425,7 +26425,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-32",
     "y": "9",
     "hex_type": "0",
@@ -26433,7 +26433,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-31",
     "y": "9",
     "hex_type": "0",
@@ -26441,7 +26441,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-30",
     "y": "9",
     "hex_type": "0",
@@ -26449,7 +26449,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-33",
     "y": "9",
     "hex_type": "0",
@@ -26497,7 +26497,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-34",
     "y": "9",
     "hex_type": "0",
@@ -26505,7 +26505,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-35",
     "y": "9",
     "hex_type": "0",
@@ -26513,11 +26513,11 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-36",
     "y": "9",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -27105,7 +27105,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-32",
     "y": "10",
     "hex_type": "0",
@@ -27113,7 +27113,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-31",
     "y": "10",
     "hex_type": "0",
@@ -27121,7 +27121,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-30",
     "y": "10",
     "hex_type": "0",
@@ -27129,7 +27129,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-33",
     "y": "10",
     "hex_type": "0",
@@ -27169,19 +27169,19 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-35",
     "y": "10",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-34",
     "y": "10",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -27201,11 +27201,11 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-36",
     "y": "10",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -27217,11 +27217,11 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-37",
     "y": "10",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -27801,35 +27801,35 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-34",
     "y": "11",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-35",
     "y": "11",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-36",
     "y": "11",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-33",
     "y": "11",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -27857,15 +27857,15 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-37",
     "y": "11",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-32",
     "y": "11",
     "hex_type": "0",
@@ -27873,7 +27873,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-31",
     "y": "11",
     "hex_type": "0",
@@ -27889,11 +27889,11 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-38",
     "y": "11",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -28513,43 +28513,43 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-35",
     "y": "12",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-36",
     "y": "12",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-34",
     "y": "12",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-37",
     "y": "12",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-33",
     "y": "12",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -28561,15 +28561,15 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-38",
     "y": "12",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-32",
     "y": "12",
     "hex_type": "0",
@@ -28577,7 +28577,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-31",
     "y": "12",
     "hex_type": "0",
@@ -28585,11 +28585,11 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-39",
     "y": "12",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -29185,55 +29185,55 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-36",
     "y": "13",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-35",
     "y": "13",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-37",
     "y": "13",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-34",
     "y": "13",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-38",
     "y": "13",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-33",
     "y": "13",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-32",
     "y": "13",
     "hex_type": "0",
@@ -29241,7 +29241,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-31",
     "y": "13",
     "hex_type": "0",
@@ -29249,11 +29249,11 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-39",
     "y": "13",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -29825,27 +29825,27 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-37",
     "y": "14",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-36",
     "y": "14",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-35",
     "y": "14",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -29865,35 +29865,35 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-38",
     "y": "14",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-34",
     "y": "14",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-33",
     "y": "14",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-39",
     "y": "14",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -30489,51 +30489,51 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-38",
     "y": "15",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-37",
     "y": "15",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-36",
     "y": "15",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-35",
     "y": "15",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-39",
     "y": "15",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-34",
     "y": "15",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -31129,43 +31129,43 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-39",
     "y": "16",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-38",
     "y": "16",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-37",
     "y": "16",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-36",
     "y": "16",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18304",
+    "map_region_id": "0",
     "x": "-35",
     "y": "16",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -32441,7 +32441,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "8",
     "y": "18",
     "hex_type": "0",
@@ -32449,7 +32449,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "10",
     "y": "18",
     "hex_type": "0",
@@ -32457,7 +32457,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "11",
     "y": "18",
     "hex_type": "0",
@@ -32465,7 +32465,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "12",
     "y": "18",
     "hex_type": "0",
@@ -32473,7 +32473,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "13",
     "y": "18",
     "hex_type": "0",
@@ -32481,7 +32481,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "14",
     "y": "18",
     "hex_type": "0",
@@ -33089,31 +33089,31 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "14",
     "y": "19",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "13",
     "y": "19",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "12",
     "y": "19",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "11",
     "y": "19",
     "hex_type": "0",
@@ -33121,7 +33121,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "10",
     "y": "19",
     "hex_type": "0",
@@ -33129,7 +33129,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "9",
     "y": "19",
     "hex_type": "0",
@@ -33137,7 +33137,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "8",
     "y": "19",
     "hex_type": "0",
@@ -33689,39 +33689,39 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "14",
     "y": "20",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "13",
     "y": "20",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "12",
     "y": "20",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "11",
     "y": "20",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "10",
     "y": "20",
     "hex_type": "0",
@@ -33729,7 +33729,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "9",
     "y": "20",
     "hex_type": "0",
@@ -33737,7 +33737,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "8",
     "y": "20",
     "hex_type": "0",
@@ -34305,19 +34305,19 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "12",
     "y": "21",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "13",
     "y": "21",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -34329,31 +34329,31 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "14",
     "y": "21",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "11",
     "y": "21",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "10",
     "y": "21",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "9",
     "y": "21",
     "hex_type": "0",
@@ -34361,7 +34361,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "8",
     "y": "21",
     "hex_type": "0",
@@ -34369,7 +34369,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "7",
     "y": "21",
     "hex_type": "0",
@@ -34977,55 +34977,55 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "11",
     "y": "22",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "12",
     "y": "22",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "13",
     "y": "22",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "14",
     "y": "22",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "10",
     "y": "22",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "9",
     "y": "22",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "8",
     "y": "22",
     "hex_type": "0",
@@ -35033,7 +35033,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "7",
     "y": "22",
     "hex_type": "0",
@@ -35041,7 +35041,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "6",
     "y": "22",
     "hex_type": "0",
@@ -35625,55 +35625,55 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "11",
     "y": "23",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "10",
     "y": "23",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "12",
     "y": "23",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "13",
     "y": "23",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "9",
     "y": "23",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "8",
     "y": "23",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "7",
     "y": "23",
     "hex_type": "0",
@@ -35681,7 +35681,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "6",
     "y": "23",
     "hex_type": "0",
@@ -35689,7 +35689,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "5",
     "y": "23",
     "hex_type": "0",
@@ -35697,7 +35697,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "4",
     "y": "23",
     "hex_type": "0",
@@ -35705,11 +35705,11 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "14",
     "y": "23",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -36265,27 +36265,27 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "10",
     "y": "24",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "11",
     "y": "24",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "9",
     "y": "24",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -36313,31 +36313,31 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "12",
     "y": "24",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "8",
     "y": "24",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "7",
     "y": "24",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "6",
     "y": "24",
     "hex_type": "0",
@@ -36345,7 +36345,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "5",
     "y": "24",
     "hex_type": "0",
@@ -36353,7 +36353,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "4",
     "y": "24",
     "hex_type": "0",
@@ -36361,11 +36361,11 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "13",
     "y": "24",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -36921,11 +36921,11 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "10",
     "y": "25",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -36953,39 +36953,39 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "9",
     "y": "25",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "8",
     "y": "25",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "11",
     "y": "25",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "7",
     "y": "25",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "6",
     "y": "25",
     "hex_type": "0",
@@ -36993,7 +36993,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "5",
     "y": "25",
     "hex_type": "0",
@@ -37001,7 +37001,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "4",
     "y": "25",
     "hex_type": "0",
@@ -37017,11 +37017,11 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "12",
     "y": "25",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -37609,39 +37609,39 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "9",
     "y": "26",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "8",
     "y": "26",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "10",
     "y": "26",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "7",
     "y": "26",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "6",
     "y": "26",
     "hex_type": "0",
@@ -37649,7 +37649,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "5",
     "y": "26",
     "hex_type": "0",
@@ -37657,7 +37657,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "4",
     "y": "26",
     "hex_type": "0",
@@ -37665,11 +37665,11 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "11",
     "y": "26",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -38249,7 +38249,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "4",
     "y": "27",
     "hex_type": "0",
@@ -38257,7 +38257,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "5",
     "y": "27",
     "hex_type": "0",
@@ -38265,35 +38265,35 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "7",
     "y": "27",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "8",
     "y": "27",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "9",
     "y": "27",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18303",
+    "map_region_id": "0",
     "x": "10",
     "y": "27",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -39801,7 +39801,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-13",
     "y": "29",
     "hex_type": "0",
@@ -39809,7 +39809,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-12",
     "y": "29",
     "hex_type": "0",
@@ -39817,7 +39817,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-11",
     "y": "29",
     "hex_type": "0",
@@ -39825,7 +39825,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-10",
     "y": "29",
     "hex_type": "0",
@@ -39833,7 +39833,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-9",
     "y": "29",
     "hex_type": "0",
@@ -40425,7 +40425,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-14",
     "y": "30",
     "hex_type": "0",
@@ -40433,7 +40433,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-13",
     "y": "30",
     "hex_type": "0",
@@ -40441,7 +40441,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-12",
     "y": "30",
     "hex_type": "0",
@@ -40449,7 +40449,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-11",
     "y": "30",
     "hex_type": "0",
@@ -40457,7 +40457,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-10",
     "y": "30",
     "hex_type": "0",
@@ -40465,7 +40465,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-9",
     "y": "30",
     "hex_type": "0",
@@ -40473,7 +40473,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-8",
     "y": "30",
     "hex_type": "0",
@@ -48897,43 +48897,43 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-15",
     "y": "35",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-14",
     "y": "35",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-13",
     "y": "35",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-12",
     "y": "35",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-11",
     "y": "35",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
@@ -49553,51 +49553,51 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-15",
     "y": "34",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-14",
     "y": "34",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-13",
     "y": "34",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-12",
     "y": "34",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-11",
     "y": "34",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-10",
     "y": "34",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
@@ -50209,43 +50209,43 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-14",
     "y": "33",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-13",
     "y": "33",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-12",
     "y": "33",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-11",
     "y": "33",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-10",
     "y": "33",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
@@ -50865,51 +50865,51 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-14",
     "y": "32",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-13",
     "y": "32",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-12",
     "y": "32",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-11",
     "y": "32",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-10",
     "y": "32",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-9",
     "y": "32",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
@@ -51513,7 +51513,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-14",
     "y": "31",
     "hex_type": "0",
@@ -51521,39 +51521,39 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-13",
     "y": "31",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-12",
     "y": "31",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-11",
     "y": "31",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-10",
     "y": "31",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-9",
     "y": "31",
     "hex_type": "0",
@@ -51561,7 +51561,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18303",
     "x": "-8",
     "y": "31",
     "hex_type": "0",
@@ -51841,47 +51841,47 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "18",
     "y": "-32",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "19",
     "y": "-32",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "20",
     "y": "-32",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "21",
     "y": "-32",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "22",
     "y": "-32",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "24",
     "y": "-32",
     "hex_type": "0",
@@ -51889,7 +51889,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "23",
     "y": "-32",
     "hex_type": "0",
@@ -51897,15 +51897,15 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "17",
     "y": "-32",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "25",
     "y": "-32",
     "hex_type": "0",
@@ -51913,7 +51913,7 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "16",
     "y": "-32",
     "hex_type": "0",
@@ -52369,35 +52369,35 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "42",
     "y": "-32",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "43",
     "y": "-32",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "44",
     "y": "-32",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
-    "map_region_id": "0",
+    "map_region_id": "18305",
     "x": "45",
     "y": "-32",
-    "hex_type": "0",
-    "type_name": "Unrestricted access"
+    "hex_type": "2",
+    "type_name": "Restricted by faction"
   },
   {
     "zone_id": "344",
@@ -52497,55 +52497,55 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "20",
     "y": "-33",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "21",
     "y": "-33",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "22",
     "y": "-33",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "19",
     "y": "-33",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "23",
     "y": "-33",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "18",
     "y": "-33",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "24",
     "y": "-33",
     "hex_type": "0",
@@ -52553,15 +52553,15 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "17",
     "y": "-33",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "25",
     "y": "-33",
     "hex_type": "0",
@@ -53153,59 +53153,59 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "21",
     "y": "-34",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "22",
     "y": "-34",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "23",
     "y": "-34",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "19",
     "y": "-34",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "24",
     "y": "-34",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "18",
     "y": "-34",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "25",
     "y": "-34",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -53809,59 +53809,59 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "23",
     "y": "-35",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "22",
     "y": "-35",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "21",
     "y": "-35",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "20",
     "y": "-35",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "24",
     "y": "-35",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "19",
     "y": "-35",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "25",
     "y": "-35",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -54465,51 +54465,51 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "20",
     "y": "-36",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "21",
     "y": "-36",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "22",
     "y": "-36",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "23",
     "y": "-36",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "24",
     "y": "-36",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "25",
     "y": "-36",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -55121,43 +55121,43 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "21",
     "y": "-37",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "22",
     "y": "-37",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "23",
     "y": "-37",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "24",
     "y": "-37",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "25",
     "y": "-37",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
@@ -55777,35 +55777,35 @@
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "22",
     "y": "-38",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "23",
     "y": "-38",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "24",
     "y": "-38",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
-    "map_region_id": "18305",
+    "map_region_id": "0",
     "x": "25",
     "y": "-38",
-    "hex_type": "2",
-    "type_name": "Restricted by faction"
+    "hex_type": "0",
+    "type_name": "Unrestricted access"
   },
   {
     "zone_id": "344",
