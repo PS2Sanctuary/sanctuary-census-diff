@@ -13024,9 +13024,12 @@
     "location_z": "NULL",
     "outfit_resource_reward_type_description": "NULL",
     "outfit_resource_reward_amount": "NULL",
+    "capture_reward": "NULL",
     "image_set_id": "NULL",
     "image_id": "NULL",
-    "image_path": "NULL"
+    "image_path": "NULL",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "18257",
@@ -13069,9 +13072,12 @@
     "location_z": "NULL",
     "outfit_resource_reward_type_description": "NULL",
     "outfit_resource_reward_amount": "NULL",
+    "capture_reward": "NULL",
     "image_set_id": "NULL",
     "image_id": "NULL",
-    "image_path": "NULL"
+    "image_path": "NULL",
+    "reward_currency_id": "4",
+    "reward_amount": "50"
   },
   {
     "map_region_id": "18259",
