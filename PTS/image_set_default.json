@@ -81862,5 +81862,133 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/96147.png"
+  },
+  {
+    "image_set_id": "807630",
+    "image_id": "96150",
+    "description": "icon_Weapon_Common_Flamethrower_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96150.png"
+  },
+  {
+    "image_set_id": "807631",
+    "image_id": "96153",
+    "description": "icon_Weapon_Common_Flamethrower_001_EX",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96153.png"
+  },
+  {
+    "image_set_id": "807632",
+    "image_id": "96156",
+    "description": "icon_Weapon_Common_ConstructionModule_Capacity_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96156.png"
+  },
+  {
+    "image_set_id": "807633",
+    "image_id": "96159",
+    "description": "icon_Weapon_Common_ConstructionModule_CortiumBomb_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96159.png"
+  },
+  {
+    "image_set_id": "807634",
+    "image_id": "96162",
+    "description": "icon_Weapon_Common_ConstructionModule_Durability_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96162.png"
+  },
+  {
+    "image_set_id": "807635",
+    "image_id": "96165",
+    "description": "icon_Weapon_Common_ConstructionModule_Equipment_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96165.png"
+  },
+  {
+    "image_set_id": "807636",
+    "image_id": "96168",
+    "description": "icon_Weapon_Common_ConstructionModule_Firewall_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96168.png"
+  },
+  {
+    "image_set_id": "807637",
+    "image_id": "96171",
+    "description": "icon_Weapon_Common_ConstructionModule_Fortress_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96171.png"
+  },
+  {
+    "image_set_id": "807638",
+    "image_id": "96174",
+    "description": "icon_Weapon_Common_ConstructionModule_HeatDispersion_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96174.png"
+  },
+  {
+    "image_set_id": "807639",
+    "image_id": "96177",
+    "description": "icon_Weapon_Common_ConstructionModule_HeavyRepair_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96177.png"
+  },
+  {
+    "image_set_id": "807640",
+    "image_id": "96180",
+    "description": "icon_Weapon_Common_ConstructionModule_Repair_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96180.png"
+  },
+  {
+    "image_set_id": "807641",
+    "image_id": "96183",
+    "description": "icon_Weapon_Common_ConstructionModule_SensorSweep_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96183.png"
+  },
+  {
+    "image_set_id": "807642",
+    "image_id": "96186",
+    "description": "icon_Weapon_Common_ConstructionModule_Shield_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96186.png"
+  },
+  {
+    "image_set_id": "807643",
+    "image_id": "96189",
+    "description": "icon_Weapon_Common_ConstructionModule_SkywallShield_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96189.png"
+  },
+  {
+    "image_set_id": "807644",
+    "image_id": "96192",
+    "description": "icon_Weapon_Common_ConstructionModule_TunnelWorm_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96192.png"
+  },
+  {
+    "image_set_id": "807645",
+    "image_id": "96195",
+    "description": "icon_Weapon_Common_Router",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96195.png"
   }
 ]
