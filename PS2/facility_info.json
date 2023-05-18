@@ -1063,21 +1063,21 @@
     "zone_id": "344",
     "facility_id": "400329",
     "facility_name": {
-      "de": "Mirror Bay Wachturm",
-      "en": "Mirror Bay Watchtower",
-      "es": "Atalaya de Mirror Bay",
-      "fr": "Mirror Bay Watchtower",
-      "it": "Mirror Bay Watchtower",
+      "de": "Centri Importverteilerstation",
+      "en": "Centri Import Hub",
+      "es": "Centro de importaciones Centri",
+      "fr": "Centri Import Hub",
+      "it": "Centri Import Hub",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Mirror Bay Watchtower",
+      "ru": "Centri Import Hub",
       "tr": "NULL",
-      "zh": "Mirror Bay Watchtower"
+      "zh": "Centri Import Hub"
     },
     "facility_type_id": "5",
-    "location_x": "-388.2071",
-    "location_y": "104.9659",
-    "location_z": "179.0138"
+    "location_x": "-672.3455",
+    "location_y": "85.57508",
+    "location_z": "-977.1729"
   },
   {
     "zone_id": "344",
@@ -1123,21 +1123,21 @@
     "zone_id": "344",
     "facility_id": "400332",
     "facility_name": {
-      "de": "Centri Importverteilerstation",
-      "en": "Centri Import Hub",
-      "es": "Centro de importaciones Centri",
-      "fr": "Centri Import Hub",
-      "it": "Centri Import Hub",
+      "de": "Edgewater Overlook",
+      "en": "Bathala Overlook",
+      "es": "Bathala Overlook",
+      "fr": "Bathala Overlook",
+      "it": "Bathala Overlook",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Centri Import Hub",
+      "ru": "Bathala Overlook",
       "tr": "NULL",
-      "zh": "Centri Import Hub"
+      "zh": "Bathala瞭望所"
     },
     "facility_type_id": "9",
-    "location_x": "-648.1004",
-    "location_y": "85.29546",
-    "location_z": "-1005.545"
+    "location_x": "-115.4951",
+    "location_y": "147.5234",
+    "location_z": "273.1754"
   },
   {
     "zone_id": "344",
@@ -1475,9 +1475,9 @@
       "zh": "Hunter's Ravine"
     },
     "facility_type_id": "9",
-    "location_x": "-1207.701",
-    "location_y": "156.2111",
-    "location_z": "-2570.101"
+    "location_x": "-1402.3",
+    "location_y": "104.7852",
+    "location_z": "-2359.434"
   },
   {
     "zone_id": "344",
@@ -1835,9 +1835,9 @@
       "zh": "Nascent Shipping and Storage"
     },
     "facility_type_id": "6",
-    "location_x": "941.3618",
-    "location_y": "65.02477",
-    "location_z": "-2250.606"
+    "location_x": "896.6171",
+    "location_y": "71.3026",
+    "location_z": "-2181.238"
   },
   {
     "zone_id": "344",
@@ -1863,61 +1863,61 @@
     "zone_id": "344",
     "facility_id": "400369",
     "facility_name": {
-      "de": "Oshur Nordwest-Flotille",
-      "en": "Oshur Northwest Flotilla",
-      "es": "Flotilla noroeste de Oshur",
-      "fr": "Flottille nord-ouest d'Oshur",
-      "it": "Squadriglia nord-ovest di Oshur",
+      "de": "Oshur West-Flotille",
+      "en": "Oshur West Flotilla",
+      "es": "Flotilla oeste de Oshur",
+      "fr": "Flottille ouest d'Oshur",
+      "it": "Squadriglia ovest di Oshur",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Северо-западная флотилия Oshur",
+      "ru": "Западная флотилия Oshur",
       "tr": "NULL",
-      "zh": "Oshur西北舰队"
+      "zh": "Oshur西方舰队"
     },
     "facility_type_id": "7",
-    "location_x": "1102.911",
-    "location_y": "101.5357",
-    "location_z": "-2939.925"
+    "location_x": "-347.8292",
+    "location_y": "49.18725",
+    "location_z": "-3390.501"
   },
   {
     "zone_id": "344",
     "facility_id": "400370",
     "facility_name": {
-      "de": "Oshur Nordost-Flotille",
-      "en": "Oshur Northeast Flotilla",
-      "es": "Flotilla nordeste de Oshur",
-      "fr": "Flottille nord-est d'Oshur",
-      "it": "Squadriglia nord-est di Oshur",
+      "de": "Oshur Nord-Flotille",
+      "en": "Oshur North Flotilla",
+      "es": "Flotilla norte de Oshur",
+      "fr": "Flottille nord d'Oshur",
+      "it": "Squadriglia nord di Oshur",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Северо-восточная флотилия Oshur",
+      "ru": "Северная флотилия Oshur",
       "tr": "NULL",
-      "zh": "Oshur东北舰队"
+      "zh": "Oshur北方舰队"
     },
     "facility_type_id": "7",
-    "location_x": "2034.555",
-    "location_y": "110.7648",
-    "location_z": "2178.15"
+    "location_x": "2976.782",
+    "location_y": "48.9509",
+    "location_z": "459.6718"
   },
   {
     "zone_id": "344",
     "facility_id": "400371",
     "facility_name": {
-      "de": "Oshur Süd-Flotille",
-      "en": "Oshur South Flotilla",
-      "es": "Flotilla sur de Oshur",
-      "fr": "Flottille sud d'Oshur",
-      "it": "Squadriglia sud di Oshur",
+      "de": "Oshur Südost-Flotille",
+      "en": "Oshur Southeast Flotilla",
+      "es": "Flotilla sudeste de Oshur",
+      "fr": "Flottille sud-est d'Oshur",
+      "it": "Squadriglia sud-est di Oshur",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Южная флотилия Oshur",
+      "ru": "Южно-восточная флотилия Oshur",
       "tr": "NULL",
-      "zh": "Oshur南方舰队"
+      "zh": "Oshur东南舰队"
     },
     "facility_type_id": "7",
-    "location_x": "-2899.053",
-    "location_y": "117.1746",
-    "location_z": "417.274"
+    "location_x": "-2498.959",
+    "location_y": "48.95689",
+    "location_z": "2905.846"
   },
   {
     "zone_id": "344",
@@ -2083,21 +2083,21 @@
     "zone_id": "344",
     "facility_id": "400407",
     "facility_name": {
-      "de": "Wakerift Landekopf",
-      "en": "Wakerift Beachhead",
-      "es": "Playa de Wakerift",
-      "fr": "Tête de pont Wakerift",
-      "it": "Testa di ponte di Wakerift",
+      "de": "Wakerift Plateau",
+      "en": "Wakerift Plateau",
+      "es": "Meseta de Wakerift",
+      "fr": "Plateau de Wakerift",
+      "it": "Altopiano di Wakerift",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Wakerift Beachhead",
+      "ru": "Wakerift Plateau",
       "tr": "NULL",
-      "zh": "Wakerift Beachhead"
+      "zh": "Wakerift高原"
     },
     "facility_type_id": "9",
-    "location_x": "-381.0081",
-    "location_y": "47.22458",
-    "location_z": "-519.2697"
+    "location_x": "-517.7343",
+    "location_y": "119.6094",
+    "location_z": "-45.0391"
   },
   {
     "zone_id": "344",
@@ -2363,21 +2363,21 @@
     "zone_id": "344",
     "facility_id": "400427",
     "facility_name": {
-      "de": "Bathala Garden",
-      "en": "Bathala Garden",
-      "es": "Jardín de Bathala",
-      "fr": "Bathala Garden",
-      "it": "Giardino di Bathala",
+      "de": "Ausgrabungs-Räumstelle",
+      "en": "Excavion Cleanup Site",
+      "es": "Lugar de limpieza de Excavion",
+      "fr": "Site d'épuration Excavion",
+      "it": "Sito di pulizia degli scavi",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Bathala Garden",
+      "ru": "Место уборки после раскопок",
       "tr": "NULL",
-      "zh": "Bathala花园"
+      "zh": "挖掘清理场"
     },
-    "facility_type_id": "9",
-    "location_x": "-108.05",
-    "location_y": "20.94",
-    "location_z": "-243.7"
+    "facility_type_id": "5",
+    "location_x": "-355.6425",
+    "location_y": "104.5368",
+    "location_z": "157.6433"
   },
   {
     "zone_id": "344",
@@ -4155,8 +4155,8 @@
       "zh": "Berjess瞭望所"
     },
     "facility_type_id": "9",
-    "location_x": "-2031.734",
-    "location_y": "460.8119",
+    "location_x": "-2028.529",
+    "location_y": "460.3723",
     "location_z": "-92.17429"
   },
   {
@@ -4175,9 +4175,9 @@
       "zh": "Sunken中继站"
     },
     "facility_type_id": "9",
-    "location_x": "1385.08",
-    "location_y": "71.12402",
-    "location_z": "2591.217"
+    "location_x": "1410.535",
+    "location_y": "70.82495",
+    "location_z": "2630.029"
   },
   {
     "zone_id": "2",
@@ -4195,9 +4195,9 @@
       "zh": "Lowland交易所"
     },
     "facility_type_id": "9",
-    "location_x": "601.0114",
-    "location_y": "111.8857",
-    "location_z": "-2407.583"
+    "location_x": "633.1629",
+    "location_y": "109.5784",
+    "location_z": "-2416.375"
   },
   {
     "zone_id": "6",
@@ -7818,5 +7818,45 @@
     "location_x": "369.9894",
     "location_y": "100.4629",
     "location_z": "341.9007"
+  },
+  {
+    "zone_id": "344",
+    "facility_id": "400430",
+    "facility_name": {
+      "de": "Rast des Jägers",
+      "en": "Hunter's Respite",
+      "es": "Descanso del cazador",
+      "fr": "Répit des chasseurs",
+      "it": "Tregua del cacciatore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Отдых охотника",
+      "tr": "NULL",
+      "zh": "猎人的休整"
+    },
+    "facility_type_id": "9",
+    "location_x": "-1173.126",
+    "location_y": "141.561",
+    "location_z": "-2483.51"
+  },
+  {
+    "zone_id": "344",
+    "facility_id": "400431",
+    "facility_name": {
+      "de": "Leif Biochemical",
+      "en": "Leif Biochemical",
+      "es": "Leif Biochemical",
+      "fr": "Leif Biochemical",
+      "it": "Leif Biochemical",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Leif Biochemical",
+      "tr": "NULL",
+      "zh": "列夫生化实验室"
+    },
+    "facility_type_id": "6",
+    "location_x": "-2269.401",
+    "location_y": "116.6071",
+    "location_z": "2092.487"
   }
 ]

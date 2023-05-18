@@ -1507,5 +1507,42 @@
     "image_set_id": "0",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "directive_tree_id": "119",
+    "directive_tree_category_id": "8",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NULL",
+      "en": "PlanetSide 20-Year Legacy",
+      "es": "NULL",
+      "fr": "NULL",
+      "it": "NULL",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NULL",
+      "tr": "NULL",
+      "zh": "NULL"
+    },
+    "description": {
+      "de": "NULL",
+      "en": "Available through June 4",
+      "es": "NULL",
+      "fr": "NULL",
+      "it": "NULL",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NULL",
+      "tr": "NULL",
+      "zh": "NULL"
+    },
+    "image_set_id": "0",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

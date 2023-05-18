@@ -1178,5 +1178,140 @@
     "ability_set_id": "533",
     "ability_id": "1117169",
     "order_index": "0"
+  },
+  {
+    "ability_set_id": "535",
+    "ability_id": "1117532",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "536",
+    "ability_id": "1117539",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "536",
+    "ability_id": "1117611",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "537",
+    "ability_id": "1117540",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "538",
+    "ability_id": "1112658",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "538",
+    "ability_id": "1117541",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "538",
+    "ability_id": "1117602",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "539",
+    "ability_id": "1117542",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "540",
+    "ability_id": "1117543",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "541",
+    "ability_id": "1117544",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "542",
+    "ability_id": "1117545",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "543",
+    "ability_id": "1117546",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "543",
+    "ability_id": "1117606",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "543",
+    "ability_id": "1117607",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "544",
+    "ability_id": "1117547",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "545",
+    "ability_id": "1117548",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "546",
+    "ability_id": "1117549",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "547",
+    "ability_id": "1117550",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "548",
+    "ability_id": "1117551",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "549",
+    "ability_id": "1117552",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "550",
+    "ability_id": "1113747",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "551",
+    "ability_id": "1117541",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "551",
+    "ability_id": "1117602",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "551",
+    "ability_id": "1117637",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "552",
+    "ability_id": "1117614",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "554",
+    "ability_id": "1117640",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "555",
+    "ability_id": "1117661",
+    "order_index": "0"
   }
 ]

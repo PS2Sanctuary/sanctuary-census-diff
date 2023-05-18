@@ -65778,5 +65778,137 @@
     "image_set_id": "1",
     "image_id": "35",
     "image_path": "/files/ps2/images/static/35.png"
+  },
+  {
+    "skill_category_id": "16925",
+    "skill_set_id": "1859",
+    "skill_set_index": "0",
+    "skill_points": "0",
+    "name": {
+      "de": "Taktische Ausrüstung",
+      "en": "Tactical Equipment",
+      "es": "Equipo táctico",
+      "fr": "Équipement tactique",
+      "it": "Attrezzatura tattica",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Тактическое оборудование",
+      "tr": "NULL",
+      "zh": "战术装备"
+    },
+    "description": {
+      "de": "Schalte taktische Gerätschaften und Ausrüstung frei, die für alle Nicht-MAX-Infanterie verfügbar ist.",
+      "en": "Unlock tactical devices and equipment available to all non-MAX infantry.",
+      "es": "Desbloquea dispositivos y equipo táctico disponibles para todas las unidades que no llevan MAX.",
+      "fr": "Déverrouille l'équipement et les dispositifs tactiques disponibles pour toute l'infanterie hors XAM.",
+      "it": "Sblocca dispositivi ed equipaggiamenti tattici disponibili per tutte le unità di fanteria non-MAX.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получите доступ к тактическим устройствам и снаряжению, доступным всем классам пехоты, кроме MAX.",
+      "tr": "NULL",
+      "zh": "解锁适用于所有非MAX步兵的战术设备和装备。"
+    },
+    "image_set_id": "646",
+    "image_id": "2140",
+    "image_path": "/files/ps2/images/static/2140.png"
+  },
+  {
+    "skill_category_id": "16926",
+    "skill_set_id": "1857",
+    "skill_set_index": "0",
+    "skill_points": "0",
+    "name": {
+      "de": "Taktische Ausrüstung",
+      "en": "Tactical Equipment",
+      "es": "Equipo táctico",
+      "fr": "Équipement tactique",
+      "it": "Attrezzatura tattica",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Тактическое оборудование",
+      "tr": "NULL",
+      "zh": "战术装备"
+    },
+    "description": {
+      "de": "Schalte taktische Gerätschaften und Ausrüstung frei, die für alle Nicht-MAX-Infanterie verfügbar ist.",
+      "en": "Unlock tactical devices and equipment available to all non-MAX infantry.",
+      "es": "Desbloquea dispositivos y equipo táctico disponibles para todas las unidades que no llevan MAX.",
+      "fr": "Déverrouille l'équipement et les dispositifs tactiques disponibles pour toute l'infanterie hors XAM.",
+      "it": "Sblocca dispositivi ed equipaggiamenti tattici disponibili per tutte le unità di fanteria non-MAX.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получите доступ к тактическим устройствам и снаряжению, доступным всем классам пехоты, кроме MAX.",
+      "tr": "NULL",
+      "zh": "解锁适用于所有非MAX步兵的战术设备和装备。"
+    },
+    "image_set_id": "646",
+    "image_id": "2140",
+    "image_path": "/files/ps2/images/static/2140.png"
+  },
+  {
+    "skill_category_id": "16927",
+    "skill_set_id": "1858",
+    "skill_set_index": "0",
+    "skill_points": "0",
+    "name": {
+      "de": "Taktische Ausrüstung",
+      "en": "Tactical Equipment",
+      "es": "Equipo táctico",
+      "fr": "Équipement tactique",
+      "it": "Attrezzatura tattica",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Тактическое оборудование",
+      "tr": "NULL",
+      "zh": "战术装备"
+    },
+    "description": {
+      "de": "Schalte taktische Gerätschaften und Ausrüstung frei, die für alle Nicht-MAX-Infanterie verfügbar ist.",
+      "en": "Unlock tactical devices and equipment available to all non-MAX infantry.",
+      "es": "Desbloquea dispositivos y equipo táctico disponibles para todas las unidades que no llevan MAX.",
+      "fr": "Déverrouille l'équipement et les dispositifs tactiques disponibles pour toute l'infanterie hors XAM.",
+      "it": "Sblocca dispositivi ed equipaggiamenti tattici disponibili per tutte le unità di fanteria non-MAX.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получите доступ к тактическим устройствам и снаряжению, доступным всем классам пехоты, кроме MAX.",
+      "tr": "NULL",
+      "zh": "解锁适用于所有非MAX步兵的战术设备和装备。"
+    },
+    "image_set_id": "646",
+    "image_id": "2140",
+    "image_path": "/files/ps2/images/static/2140.png"
+  },
+  {
+    "skill_category_id": "16928",
+    "skill_set_id": "1860",
+    "skill_set_index": "0",
+    "skill_points": "0",
+    "name": {
+      "de": "Taktische Ausrüstung",
+      "en": "Tactical Equipment",
+      "es": "Equipo táctico",
+      "fr": "Équipement tactique",
+      "it": "Attrezzatura tattica",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Тактическое оборудование",
+      "tr": "NULL",
+      "zh": "战术装备"
+    },
+    "description": {
+      "de": "Schalte taktische Gerätschaften und Ausrüstung frei, die für alle Nicht-MAX-Infanterie verfügbar ist.",
+      "en": "Unlock tactical devices and equipment available to all non-MAX infantry.",
+      "es": "Desbloquea dispositivos y equipo táctico disponibles para todas las unidades que no llevan MAX.",
+      "fr": "Déverrouille l'équipement et les dispositifs tactiques disponibles pour toute l'infanterie hors XAM.",
+      "it": "Sblocca dispositivi ed equipaggiamenti tattici disponibili per tutte le unità di fanteria non-MAX.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получите доступ к тактическим устройствам и снаряжению, доступным всем классам пехоты, кроме MAX.",
+      "tr": "NULL",
+      "zh": "解锁适用于所有非MAX步兵的战术设备和装备。"
+    },
+    "image_set_id": "646",
+    "image_id": "2140",
+    "image_path": "/files/ps2/images/static/2140.png"
   }
 ]

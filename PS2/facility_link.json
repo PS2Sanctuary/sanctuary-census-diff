@@ -871,45 +871,9 @@
   },
   {
     "zone_id": "344",
-    "facility_id_a": "400329",
-    "facility_id_b": "400331",
-    "description": "Oshur - Mirror Bay Watchtower to Pommel Gardens"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400329",
-    "facility_id_b": "400339",
-    "description": "Oshur - Mirror Bay Watchtower to Centri Mining Operation"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400329",
-    "facility_id_b": "400340",
-    "description": "Oshur - Mirror Bay Watchtower to Mirror Bay Checkpoint"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400329",
-    "facility_id_b": "400407",
-    "description": "Oshur - Mirror Bay Watchtower to Wakerift Beachhead"
-  },
-  {
-    "zone_id": "344",
     "facility_id_a": "400330",
     "facility_id_b": "400407",
-    "description": "Oshur - Astira Hydroelectric to Wakerift Beachhead"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400332",
-    "facility_id_b": "400333",
-    "description": "Oshur - Centri Import Hub to Binusilan Interlink"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400332",
-    "facility_id_b": "400407",
-    "description": "Oshur - Centri Import Hub to Wakerift Beachhead"
+    "description": "Oshur - Astira Hydroelectric to Wakerift Plateau"
   },
   {
     "zone_id": "344",
@@ -1039,18 +1003,6 @@
   },
   {
     "zone_id": "344",
-    "facility_id_a": "400347",
-    "facility_id_b": "400416",
-    "description": "Oshur - Sage R&D Labs to Seapost D8 - Collapse"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400348",
-    "facility_id_b": "400349",
-    "description": "Oshur - Tannae Power to Hunter's Ravine"
-  },
-  {
-    "zone_id": "344",
     "facility_id_a": "400348",
     "facility_id_b": "400404",
     "description": "Oshur - Tannae Power to Veridad Pass"
@@ -1102,12 +1054,6 @@
     "facility_id_a": "400354",
     "facility_id_b": "400355",
     "description": "Oshur - Southpeak Meadows to Emerald Research Co."
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400355",
-    "facility_id_b": "400356",
-    "description": "Oshur - Emerald Research Co. to Remnant Cove"
   },
   {
     "zone_id": "344",
@@ -1203,37 +1149,13 @@
     "zone_id": "344",
     "facility_id_a": "400369",
     "facility_id_b": "400347",
-    "description": "Oshur - Oshur Northwest Flotilla to Sage R&D Labs"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400369",
-    "facility_id_b": "400367",
-    "description": "Oshur - Oshur Northwest Flotilla to Nascent Shipping and Storage"
+    "description": "Oshur - Oshur West Flotilla to Sage R&D Labs"
   },
   {
     "zone_id": "344",
     "facility_id_a": "400370",
     "facility_id_b": "400362",
-    "description": "Oshur - Oshur Northeast Flotilla to Palaso Supply Depot"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400370",
-    "facility_id_b": "400426",
-    "description": "Oshur - Oshur Northeast Flotilla to Seapost L5"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400371",
-    "facility_id_b": "400354",
-    "description": "Oshur - Oshur South Flotilla to Southpeak Meadows"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400371",
-    "facility_id_b": "400405",
-    "description": "Oshur - Oshur South Flotilla to Solstice Pass"
+    "description": "Oshur - Oshur North Flotilla to Palaso Supply Depot"
   },
   {
     "zone_id": "344",
@@ -1286,18 +1208,6 @@
   {
     "zone_id": "344",
     "facility_id_a": "400411",
-    "facility_id_b": "400329",
-    "description": "Oshur - Seapost J8 - Delve to Mirror Bay Watchtower"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400411",
-    "facility_id_b": "400331",
-    "description": "Oshur - Seapost J8 - Delve to Pommel Gardens"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400411",
     "facility_id_b": "400373",
     "description": "Oshur - Seapost J8 - Delve to Bago Trident"
   },
@@ -1334,12 +1244,6 @@
   {
     "zone_id": "344",
     "facility_id_a": "400414",
-    "facility_id_b": "400332",
-    "description": "Oshur - Seapost H10 - Debris to Centri Import Hub"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400414",
     "facility_id_b": "400374",
     "description": "Oshur - Seapost H10 - Debris to Anlabban Trident"
   },
@@ -1347,7 +1251,7 @@
     "zone_id": "344",
     "facility_id_a": "400414",
     "facility_id_b": "400407",
-    "description": "Oshur - Seapost H10 - Debris to Wakerift Beachhead"
+    "description": "Oshur - Seapost H10 - Debris to Wakerift Plateau"
   },
   {
     "zone_id": "344",
@@ -1448,20 +1352,8 @@
   {
     "zone_id": "344",
     "facility_id_a": "400427",
-    "facility_id_b": "400329",
-    "description": "Oshur - Bathala Garden to Mirror Bay Watchtower"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400427",
-    "facility_id_b": "400331",
-    "description": "Oshur - Bathala Garden to Pommel Gardens"
-  },
-  {
-    "zone_id": "344",
-    "facility_id_a": "400427",
     "facility_id_b": "400407",
-    "description": "Oshur - Bathala Garden to Wakerift Beachhead"
+    "description": "Oshur - Excavion Cleanup Site to Wakerift Plateau"
   },
   {
     "zone_id": "344",
@@ -3334,5 +3226,113 @@
     "facility_id_a": "5200",
     "facility_id_b": "219",
     "description": "Indar - J908 Impact Site to Ceres Hydroponics"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400330",
+    "facility_id_b": "400329",
+    "description": "Oshur - Astira Hydroelectric to Centri Import Hub"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400332",
+    "facility_id_b": "400331",
+    "description": "Oshur - Bathala Overlook to Pommel Gardens"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400332",
+    "facility_id_b": "400340",
+    "description": "Oshur - Bathala Overlook to Mirror Bay Checkpoint"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400332",
+    "facility_id_b": "400427",
+    "description": "Oshur - Bathala Overlook to Excavion Cleanup Site"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400333",
+    "facility_id_b": "400329",
+    "description": "Oshur - Binusilan Interlink to Centri Import Hub"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400339",
+    "facility_id_b": "400427",
+    "description": "Oshur - Centri Mining Operation to Excavion Cleanup Site"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400348",
+    "facility_id_b": "400430",
+    "description": "Oshur - Tannae Power to Hunter's Respite"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400355",
+    "facility_id_b": "400431",
+    "description": "Oshur - Emerald Research Co. to Leif Biochemical"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400356",
+    "facility_id_b": "400371",
+    "description": "Oshur - Remnant Cove to Oshur Southeast Flotilla"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400356",
+    "facility_id_b": "400431",
+    "description": "Oshur - Remnant Cove to Leif Biochemical"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400368",
+    "facility_id_b": "400371",
+    "description": "Oshur - Emerald Arboretum to Oshur Southeast Flotilla"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400369",
+    "facility_id_b": "400348",
+    "description": "Oshur - Oshur West Flotilla to Tannae Power"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400369",
+    "facility_id_b": "400404",
+    "description": "Oshur - Oshur West Flotilla to Veridad Pass"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400370",
+    "facility_id_b": "400363",
+    "description": "Oshur - Oshur North Flotilla to Fort Arceo"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400371",
+    "facility_id_b": "400431",
+    "description": "Oshur - Oshur Southeast Flotilla to Leif Biochemical"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400411",
+    "facility_id_b": "400332",
+    "description": "Oshur - Seapost J8 - Delve to Bathala Overlook"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400414",
+    "facility_id_b": "400329",
+    "description": "Oshur - Seapost H10 - Debris to Centri Import Hub"
+  },
+  {
+    "zone_id": "344",
+    "facility_id_a": "400430",
+    "facility_id_b": "400349",
+    "description": "Oshur - Hunter's Respite to Hunter's Ravine"
   }
 ]
