@@ -5738,7 +5738,7 @@
     },
     "description": {
       "de": "Fahrzeugtore sind große Wände mit einer Öffnung, die groß genug ist, dass Fahrzeuge hindurch fahren können. Wenn sie mit einem Bauwerk-Schildmodul kombiniert werden, wird die Öffnung mit einem Energieschild versiegelt, das feindliche Fahrzeuge sowie große Geschosse blockiert.",
-      "en": "Vehicle Gates are large walls with an opening wide enough for vehicles to pass through; when combined with a Structure Shield Module the opening will be sealed with an energy shield that will block enemy vehicles and large projectiles.",
+      "en": "Vehicle Gates are large walls with an opening wide enough for vehicles to pass through; the opening is sealed with an energy shield that will block enemy vehicles and large projectiles.",
       "es": "Las puertas para vehículos son muros con una apertura lo suficientemente grande como para dejar pasar vehículos. Combinados con el Módulo de Escudo Estructural, un escudo de energía sellará la apertura para bloquear vehículos enemigos y proyectiles grandes.",
       "fr": "Les Portes de Véhicule sont de grands murs avec une ouverture assez importante pour laisser passer les véhicules; avec un Module de protection de structure, l'ouverture sera fermée avec un bouclier d'énergie qui bloquera les véhicules ennemis et les grands projectiles.",
       "it": "I cancelli veicoli sono imponenti mura con un'apertura grande abbastanza per far passare i veicoli; quando si combina con un Modulo Scudo Struttura l'apertura si chiude con uno scudo di energia che blocca i veicoli nemici e i grandi proiettili.",
@@ -9707,7 +9707,7 @@
     },
     "description": {
       "de": "Eine Lichtquelle, die die Infanterie aufstellen kann, um ihre Umgebung auszuleuchten.",
-      "en": "A light source that infantry can place to brighten their surroundings.",
+      "en": "A light source that can illuminate hostile cloaked infiltrators and brighten your surroundings.",
       "es": "Una fuente de luz que la infantería puede colocar para iluminar las inmediaciones.",
       "fr": "Une source de lumière que l'infanterie peut placer pour éclairer son environnement.",
       "it": "Una fonte di luce che la fanteria può posizionare per illuminare l'area circostante.",

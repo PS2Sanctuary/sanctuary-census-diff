@@ -82174,5 +82174,53 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/96264.png"
+  },
+  {
+    "image_set_id": "807669",
+    "image_id": "96267",
+    "description": "icon_Weapon_Common_Flamethrower_Attachments_IRNV",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96267.png"
+  },
+  {
+    "image_set_id": "807670",
+    "image_id": "96270",
+    "description": "icon_Weapon_Common_Flamethrower_Attachments_IRNV_EX",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96270.png"
+  },
+  {
+    "image_set_id": "807671",
+    "image_id": "96273",
+    "description": "icon_Vehicle_NC_Reaver_Attachment_DangerZoneExterior",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96273.png"
+  },
+  {
+    "image_set_id": "807672",
+    "image_id": "96276",
+    "description": "icon_Vehicle_TR_Mosquito_Attachment_DangerZoneExterior",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96276.png"
+  },
+  {
+    "image_set_id": "807673",
+    "image_id": "96279",
+    "description": "icon_Vehicle_VS_Scythe_Attachment_DangerZoneExterior",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96279.png"
+  },
+  {
+    "image_set_id": "807674",
+    "image_id": "96282",
+    "description": "icon_Vehicle_Common_HeavyFighter_Attachment_DangerZoneExterior",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96282.png"
   }
 ]

@@ -37509,7 +37509,7 @@
       "de": "Schließe Kernschmelze-Alarme mit mindestens 50% Teilnahme ab.",
       "en": "Complete Meltdown Alerts on Oshur with at least 50% participation.",
       "es": "Completa alertas de fusión en Oshur con una participación del 50% o más.",
-      "fr": "Terminez des alertes Fusion sur Oshur avec une participation d'au moins 50\u00A0%.",
+      "fr": "Terminez des alertes Fusion instable sur Oshur avec une participation d'au moins 50\u00A0%.",
       "it": "Completa gli allarmi di fusione su Oshur con almeno il 50% di partecipazione.",
       "ko": "NULL",
       "pt": "NULL",
@@ -37737,7 +37737,7 @@
       "de": "Schließe Kernschmelze-Alarme mit mindestens 50% Teilnahme ab.",
       "en": "Complete Meltdown Alerts on Oshur with at least 50% participation.",
       "es": "Completa alertas de fusión en Oshur con una participación del 50% o más.",
-      "fr": "Terminez des alertes Fusion sur Oshur avec une participation d'au moins 50\u00A0%.",
+      "fr": "Terminez des alertes Fusion instable sur Oshur avec une participation d'au moins 50\u00A0%.",
       "it": "Completa gli allarmi di fusione su Oshur con almeno il 50% di partecipazione.",
       "ko": "NULL",
       "pt": "NULL",
@@ -37965,7 +37965,7 @@
       "de": "Schließe Kernschmelze-Alarme mit mindestens 50% Teilnahme ab.",
       "en": "Complete Meltdown Alerts on Oshur with at least 50% participation.",
       "es": "Completa alertas de fusión en Oshur con una participación del 50% o más.",
-      "fr": "Terminez des alertes Fusion sur Oshur avec une participation d'au moins 50\u00A0%.",
+      "fr": "Terminez des alertes Fusion instable sur Oshur avec une participation d'au moins 50\u00A0%.",
       "it": "Completa gli allarmi di fusione su Oshur con almeno il 50% di partecipazione.",
       "ko": "NULL",
       "pt": "NULL",
@@ -38193,7 +38193,7 @@
       "de": "Schließe Kernschmelze-Alarme mit mindestens 50% Teilnahme ab.",
       "en": "Complete Meltdown Alerts on Oshur with at least 50% participation.",
       "es": "Completa alertas de fusión en Oshur con una participación del 50% o más.",
-      "fr": "Terminez des alertes Fusion sur Oshur avec une participation d'au moins 50\u00A0%.",
+      "fr": "Terminez des alertes Fusion instable sur Oshur avec une participation d'au moins 50\u00A0%.",
       "it": "Completa gli allarmi di fusione su Oshur con almeno il 50% di partecipazione.",
       "ko": "NULL",
       "pt": "NULL",
@@ -120735,16 +120735,16 @@
       "4"
     ],
     "name": {
-      "de": "L20 Dragon",
+      "de": "NS-D Helios",
       "en": "NS-D Helios",
-      "es": "L20 Dragon",
-      "fr": "L20 Dragon",
-      "it": "L20 Dragon",
+      "es": "NS-D Helios",
+      "fr": "NS-D Helios",
+      "it": "NS-D Helios",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "L20 Dragon",
+      "ru": "NS-D Helios",
       "tr": "NULL",
-      "zh": "L20 Dragon"
+      "zh": "NS-D Helios"
     },
     "description": {
       "de": "10 Feinde getötet",
@@ -120773,16 +120773,16 @@
       "4"
     ],
     "name": {
-      "de": "L20 Dragon EX",
+      "de": "NS-D Helios EX",
       "en": "NS-D Helios EX",
-      "es": "L20 Dragon EX",
-      "fr": "L20 Dragon EX",
-      "it": "L20 Dragon EX",
+      "es": "NS-D Helios EX",
+      "fr": "NS-D Helios EX",
+      "it": "NS-D Helios EX",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "L20 Dragon EX",
+      "ru": "NS-D Helios EX",
       "tr": "NULL",
-      "zh": "L20 Dragon EX"
+      "zh": "NS-D Helios EX"
     },
     "description": {
       "de": "10 Feinde getötet",
@@ -120846,16 +120846,16 @@
       "4"
     ],
     "name": {
-      "de": "L20 Dragon",
+      "de": "NS-D Helios",
       "en": "NS-D Helios",
-      "es": "L20 Dragon",
-      "fr": "L20 Dragon",
-      "it": "L20 Dragon",
+      "es": "NS-D Helios",
+      "fr": "NS-D Helios",
+      "it": "NS-D Helios",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "L20 Dragon",
+      "ru": "NS-D Helios",
       "tr": "NULL",
-      "zh": "L20 Dragon"
+      "zh": "NS-D Helios"
     },
     "description": {
       "de": "50 Feinde getötet",
@@ -120884,16 +120884,16 @@
       "4"
     ],
     "name": {
-      "de": "L20 Dragon EX",
+      "de": "NS-D Helios EX",
       "en": "NS-D Helios EX",
-      "es": "L20 Dragon EX",
-      "fr": "L20 Dragon EX",
-      "it": "L20 Dragon EX",
+      "es": "NS-D Helios EX",
+      "fr": "NS-D Helios EX",
+      "it": "NS-D Helios EX",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "L20 Dragon EX",
+      "ru": "NS-D Helios EX",
       "tr": "NULL",
-      "zh": "L20 Dragon EX"
+      "zh": "NS-D Helios EX"
     },
     "description": {
       "de": "50 Feinde getötet",
@@ -120995,16 +120995,16 @@
       "4"
     ],
     "name": {
-      "de": "L20 Dragon",
+      "de": "NS-D Helios",
       "en": "NS-D Helios",
-      "es": "L20 Dragon",
-      "fr": "L20 Dragon",
-      "it": "L20 Dragon",
+      "es": "NS-D Helios",
+      "fr": "NS-D Helios",
+      "it": "NS-D Helios",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "L20 Dragon",
+      "ru": "NS-D Helios",
       "tr": "NULL",
-      "zh": "L20 Dragon"
+      "zh": "NS-D Helios"
     },
     "description": {
       "de": "100 Feinde getötet",
@@ -121033,16 +121033,16 @@
       "4"
     ],
     "name": {
-      "de": "L20 Dragon EX",
+      "de": "NS-D Helios EX",
       "en": "NS-D Helios EX",
-      "es": "L20 Dragon EX",
-      "fr": "L20 Dragon EX",
-      "it": "L20 Dragon EX",
+      "es": "NS-D Helios EX",
+      "fr": "NS-D Helios EX",
+      "it": "NS-D Helios EX",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "L20 Dragon EX",
+      "ru": "NS-D Helios EX",
       "tr": "NULL",
-      "zh": "L20 Dragon EX"
+      "zh": "NS-D Helios EX"
     },
     "description": {
       "de": "100 Feinde getötet",
@@ -121144,16 +121144,16 @@
       "4"
     ],
     "name": {
-      "de": "L20 Dragon",
+      "de": "NS-D Helios",
       "en": "NS-D Helios",
-      "es": "L20 Dragon",
-      "fr": "L20 Dragon",
-      "it": "L20 Dragon",
+      "es": "NS-D Helios",
+      "fr": "NS-D Helios",
+      "it": "NS-D Helios",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "L20 Dragon",
+      "ru": "NS-D Helios",
       "tr": "NULL",
-      "zh": "L20 Dragon"
+      "zh": "NS-D Helios"
     },
     "description": {
       "de": "1000 Feinde getötet",
@@ -121182,16 +121182,16 @@
       "4"
     ],
     "name": {
-      "de": "L20 Dragon EX",
+      "de": "NS-D Helios EX",
       "en": "NS-D Helios EX",
-      "es": "L20 Dragon EX",
-      "fr": "L20 Dragon EX",
-      "it": "L20 Dragon EX",
+      "es": "NS-D Helios EX",
+      "fr": "NS-D Helios EX",
+      "it": "NS-D Helios EX",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "L20 Dragon EX",
+      "ru": "NS-D Helios EX",
       "tr": "NULL",
-      "zh": "L20 Dragon EX"
+      "zh": "NS-D Helios EX"
     },
     "description": {
       "de": "1000 Feinde getötet",
@@ -121293,28 +121293,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Apex-Prädator",
       "en": "Apex Predator",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Depredador supremo",
+      "fr": "Superprédateur",
+      "it": "Predatore Apex",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Высший хищник",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "顶级掠食者"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erreiche Kills mit \"Apex\"-Waffen.",
       "en": "Earn kills using \"Apex\" weapons.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Consigue muertes con armas \"Apex\".",
+      "fr": "Faites des victimes en utilisant des armes \"Apex\".",
+      "it": "Ottieni uccisioni usando le armi \"Apex\".",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Уничтожайте врагов с помощью оружия «Апекс».",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "使用“Apex”武器完成击杀。"
     },
     "image_set_id": "13518",
     "image_id": "NULL",
@@ -121331,28 +121331,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Helfende Hand",
       "en": "Helping Hand",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Mano amiga",
+      "fr": "Coup de main",
+      "it": "Sostegno",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Рука помощи",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "援手"
     },
     "description": {
-      "de": "NULL",
+      "de": "Verdiene dieses Abzeichen, indem du Teammitglieder heilst oder ihre Strukturen, Fahrzeuge oder Ausrüstung reparierst.",
       "en": "Heal teammates or repair their structures, deployables, and vehicles to earn this ribbon.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Cura a tus aliados o repara sus estructuras, desplegables y vehículos para ganarte este galón.",
+      "fr": "Soignez vos coéquipiers, réparez leurs structures, leurs déployables et leurs véhicules pour gagner cette décoration.",
+      "it": "Cura i compagni di squadra o ripara le loro strutture, gli ordigni schierabili e i veicoli per guadagnare questa coccarda.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Заработайте ленту за исцеление товарищей по команде или ремонт их сооружений, развертываемых устройств и транспорта.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "为队友提供治疗或修理结构、可部署物和载具即可获得此绶带。"
     },
     "image_set_id": "802636",
     "image_id": "NULL",
@@ -121369,28 +121369,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Modul-Meister",
       "en": "Module Mastery",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Maestría de módulos",
+      "fr": "Maîtrise des modules",
+      "it": "Maestria nei moduli",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Мастерство по модулям",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "模块专精"
     },
     "description": {
-      "de": "NULL",
+      "de": "Verdiene diese Auszeichnung durch Installation, Übersteuern oder Entschärfen von Konstruktionsmodulen.",
       "en": "Earn this ribbon by installing, overloading, or disarming construction modules.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Gana este galón instalando, sobrecargando o desactivando módulos de construcción.",
+      "fr": " Gagnez cette décoration pour avoir installé, surchargé ou désamorcé des modules de construction.",
+      "it": "Guadagna questa coccarda installando, sovraccaricando o disinnescando i moduli di costruzione.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Лента присуждается за установку, перегрузку или обезвреживание строительных модулей.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "通过安装、过载或拆卸建筑模块来获取此绶带。"
     },
     "image_set_id": "14121",
     "image_id": "NULL",
@@ -121407,16 +121407,16 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Bausteine",
       "en": "Building Blocks",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Bloques de construcción",
+      "fr": "Blocs de construction",
+      "it": "Blocchi di costruzione",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Строительные блоки",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "建筑积木"
     },
     "description": {
       "de": "Deponiere Kortium in einem Silo in einer umkämpften Region.",
@@ -121445,16 +121445,16 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Schnellabwurf",
       "en": "Hot Drop",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Descenso en combate",
+      "fr": "Largage à chaud",
+      "it": "Lancio con paracadute",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Десантирование",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "空投"
     },
     "description": {
       "de": "Erhalte diese Auszeichung durch den Einsatz verbündeter Truppen auf dem Schlachtfeld, wo sie Kills verdienen können!",
@@ -121483,28 +121483,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Konzentrierter Angriff",
       "en": "Focused Assault",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Ataque concentrado",
+      "fr": "Assaut dirigé",
+      "it": "Assalto concentrato",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Направленное нападение",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "集中突击"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erziele Kills während einer Kontinent-Kernschmelze-Operation.",
       "en": "Earn kills during a continent Meltdown Alert.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Gana muertes durante una alerta de fusión del continente.",
+      "fr": "Faites des victimes lors d'une alerte Fusion instable sur un continent.",
+      "it": "Guadagna uccisioni durante un allarme di fusione del continente.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Уничтожайте врагов во время тревоги «Катастрофа» на континенте.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "在大陆灾难预警期间完成击杀。"
     },
     "image_set_id": "13518",
     "image_id": "NULL",
@@ -121521,16 +121521,16 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Panzerkonflikt",
       "en": "Armored Conflict",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Conflicto blindado",
+      "fr": "Conflit blindé",
+      "it": "Conflitto corazzato",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Вооруженный конфликт",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "装甲冲突"
     },
     "description": {
       "de": "Zerstöre feindliche Fahrzeuge oder unterstütze die Zerstörung, während du selbst in einem Fahrzeug bist.",
@@ -121559,28 +121559,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Haltet die Stellung",
       "en": "Hold the Line",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Mantén la posición",
+      "fr": "Tenir bon",
+      "it": "Mantieni la linea",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Держать оборону",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "坚守战线"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erhalte diese Auszeichnung für die Eroberung oder Verteidigung von Steuerungskonsolen und das Töten von Feinden um sie herum während einer Kontinent-Kernschmelze-Operation.",
       "en": "Earn this ribbon for capturing and defending control consoles, and for killing enemies around them during a continent Meltdown Alert.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Consigue este galón capturando y defendiendo consolas de control y matando enemigos en torno a ellas durante una alerta de fusión de continente.",
+      "fr": "Gagnez cette décoration pour avoir capturé et défendu des consoles de contrôle, et avoir fait des victimes autour de leur zone lors d'une alerte Fusion instable.",
+      "it": "Guadagna questa coccarda conquistando e difendendo le console di controllo, ma anche uccidendo i nemici intorno a essere durante un allarme di fusione.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Лента присуждается за захват и оборону пультов управления, а также уничтожение врагов вокруг них во время тревоги «Катастрофа» на континенте.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "在大陆灾难预警期间占领并守卫控制中心，击杀附近的敌人，赢得这枚绶带。"
     },
     "image_set_id": "14121",
     "image_id": "NULL",
@@ -121609,16 +121609,16 @@
       "zh": "据点"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erobere Konstruktionseinrichtungen.",
       "en": "Capture construction facilities.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Captura instalaciones de construcción",
+      "fr": "Capturez des installations de construction.",
+      "it": "Conquista le strutture di costruzione.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Захватите строительные объекты.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "占领建筑设施。"
     },
     "image_set_id": "14058",
     "image_id": "NULL",
@@ -121635,28 +121635,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Apex-Prädator",
       "en": "Apex Predator",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Depredador supremo",
+      "fr": "Superprédateur",
+      "it": "Predatore Apex",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Высший хищник",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "顶级掠食者"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erreiche Kills mit \"Apex\"-Waffen.",
       "en": "Earn kills using \"Apex\" weapons.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Consigue muertes con armas \"Apex\".",
+      "fr": "Faites des victimes en utilisant des armes \"Apex\".",
+      "it": "Ottieni uccisioni usando le armi \"Apex\".",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Уничтожайте врагов с помощью оружия «Апекс».",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "使用“Apex”武器完成击杀。"
     },
     "image_set_id": "13518",
     "image_id": "NULL",
@@ -121673,28 +121673,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Helfende Hand",
       "en": "Helping Hand",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Mano amiga",
+      "fr": "Coup de main",
+      "it": "Sostegno",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Рука помощи",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "援手"
     },
     "description": {
-      "de": "NULL",
+      "de": "Verdiene dieses Abzeichen, indem du Teammitglieder heilst oder ihre Strukturen, Fahrzeuge oder Ausrüstung reparierst.",
       "en": "Heal teammates or repair their structures, deployables, and vehicles to earn this ribbon.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Cura a tus aliados o repara sus estructuras, desplegables y vehículos para ganarte este galón.",
+      "fr": "Soignez vos coéquipiers, réparez leurs structures, leurs déployables et leurs véhicules pour gagner cette décoration.",
+      "it": "Cura i compagni di squadra o ripara le loro strutture, gli ordigni schierabili e i veicoli per guadagnare questa coccarda.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Заработайте ленту за исцеление товарищей по команде или ремонт их сооружений, развертываемых устройств и транспорта.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "为队友提供治疗或修理结构、可部署物和载具即可获得此绶带。"
     },
     "image_set_id": "802636",
     "image_id": "NULL",
@@ -121711,28 +121711,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Modul-Meister",
       "en": "Module Mastery",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Maestría de módulos",
+      "fr": "Maîtrise des modules",
+      "it": "Maestria nei moduli",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Мастерство по модулям",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "模块专精"
     },
     "description": {
-      "de": "NULL",
+      "de": "Verdiene diese Auszeichnung durch Installation, Übersteuern oder Entschärfen von Konstruktionsmodulen.",
       "en": "Earn this ribbon by installing, overloading, or disarming construction modules.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Gana este galón instalando, sobrecargando o desactivando módulos de construcción.",
+      "fr": " Gagnez cette décoration pour avoir installé, surchargé ou désamorcé des modules de construction.",
+      "it": "Guadagna questa coccarda installando, sovraccaricando o disinnescando i moduli di costruzione.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Лента присуждается за установку, перегрузку или обезвреживание строительных модулей.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "通过安装、过载或拆卸建筑模块来获取此绶带。"
     },
     "image_set_id": "14121",
     "image_id": "NULL",
@@ -121749,16 +121749,16 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Bausteine",
       "en": "Building Blocks",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Bloques de construcción",
+      "fr": "Blocs de construction",
+      "it": "Blocchi di costruzione",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Строительные блоки",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "建筑积木"
     },
     "description": {
       "de": "Deponiere Kortium in einem Silo in einer umkämpften Region.",
@@ -121787,16 +121787,16 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Schnellabwurf",
       "en": "Hot Drop",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Descenso en combate",
+      "fr": "Largage à chaud",
+      "it": "Lancio con paracadute",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Десантирование",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "空投"
     },
     "description": {
       "de": "Erhalte diese Auszeichung durch den Einsatz verbündeter Truppen auf dem Schlachtfeld, wo sie Kills verdienen können!",
@@ -121825,28 +121825,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Konzentrierter Angriff",
       "en": "Focused Assault",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Ataque concentrado",
+      "fr": "Assaut dirigé",
+      "it": "Assalto concentrato",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Направленное нападение",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "集中突击"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erziele Kills während einer Kontinent-Kernschmelze-Operation.",
       "en": "Earn kills during a continent Meltdown Alert.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Gana muertes durante una alerta de fusión del continente.",
+      "fr": "Faites des victimes lors d'une alerte Fusion instable sur un continent.",
+      "it": "Guadagna uccisioni durante un allarme di fusione del continente.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Уничтожайте врагов во время тревоги «Катастрофа» на континенте.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "在大陆灾难预警期间完成击杀。"
     },
     "image_set_id": "13518",
     "image_id": "NULL",
@@ -121863,16 +121863,16 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Panzerkonflikt",
       "en": "Armored Conflict",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Conflicto blindado",
+      "fr": "Conflit blindé",
+      "it": "Conflitto corazzato",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Вооруженный конфликт",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "装甲冲突"
     },
     "description": {
       "de": "Zerstöre feindliche Fahrzeuge oder unterstütze die Zerstörung, während du selbst in einem Fahrzeug bist.",
@@ -121901,28 +121901,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Haltet die Stellung",
       "en": "Hold the Line",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Mantén la posición",
+      "fr": "Tenir bon",
+      "it": "Mantieni la linea",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Держать оборону",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "坚守战线"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erhalte diese Auszeichnung für die Eroberung oder Verteidigung von Steuerungskonsolen und das Töten von Feinden um sie herum während einer Kontinent-Kernschmelze-Operation.",
       "en": "Earn this ribbon for capturing and defending control consoles, and for killing enemies around them during a continent Meltdown Alert.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Consigue este galón capturando y defendiendo consolas de control y matando enemigos en torno a ellas durante una alerta de fusión de continente.",
+      "fr": "Gagnez cette décoration pour avoir capturé et défendu des consoles de contrôle, et avoir fait des victimes autour de leur zone lors d'une alerte Fusion instable.",
+      "it": "Guadagna questa coccarda conquistando e difendendo le console di controllo, ma anche uccidendo i nemici intorno a essere durante un allarme di fusione.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Лента присуждается за захват и оборону пультов управления, а также уничтожение врагов вокруг них во время тревоги «Катастрофа» на континенте.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "在大陆灾难预警期间占领并守卫控制中心，击杀附近的敌人，赢得这枚绶带。"
     },
     "image_set_id": "14121",
     "image_id": "NULL",
@@ -121951,16 +121951,16 @@
       "zh": "据点"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erobere Konstruktionseinrichtungen.",
       "en": "Capture construction facilities.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Captura instalaciones de construcción",
+      "fr": "Capturez des installations de construction.",
+      "it": "Conquista le strutture di costruzione.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Захватите строительные объекты.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "占领建筑设施。"
     },
     "image_set_id": "14058",
     "image_id": "NULL",
@@ -121977,28 +121977,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Apex-Prädator",
       "en": "Apex Predator",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Depredador supremo",
+      "fr": "Superprédateur",
+      "it": "Predatore Apex",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Высший хищник",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "顶级掠食者"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erreiche Kills mit \"Apex\"-Waffen.",
       "en": "Earn kills using \"Apex\" weapons.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Consigue muertes con armas \"Apex\".",
+      "fr": "Faites des victimes en utilisant des armes \"Apex\".",
+      "it": "Ottieni uccisioni usando le armi \"Apex\".",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Уничтожайте врагов с помощью оружия «Апекс».",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "使用“Apex”武器完成击杀。"
     },
     "image_set_id": "13518",
     "image_id": "NULL",
@@ -122015,28 +122015,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Helfende Hand",
       "en": "Helping Hand",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Mano amiga",
+      "fr": "Coup de main",
+      "it": "Sostegno",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Рука помощи",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "援手"
     },
     "description": {
-      "de": "NULL",
+      "de": "Verdiene dieses Abzeichen, indem du Teammitglieder heilst oder ihre Strukturen, Fahrzeuge oder Ausrüstung reparierst.",
       "en": "Heal teammates or repair their structures, deployables, and vehicles to earn this ribbon.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Cura a tus aliados o repara sus estructuras, desplegables y vehículos para ganarte este galón.",
+      "fr": "Soignez vos coéquipiers, réparez leurs structures, leurs déployables et leurs véhicules pour gagner cette décoration.",
+      "it": "Cura i compagni di squadra o ripara le loro strutture, gli ordigni schierabili e i veicoli per guadagnare questa coccarda.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Заработайте ленту за исцеление товарищей по команде или ремонт их сооружений, развертываемых устройств и транспорта.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "为队友提供治疗或修理结构、可部署物和载具即可获得此绶带。"
     },
     "image_set_id": "802636",
     "image_id": "NULL",
@@ -122053,28 +122053,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Modul-Meister",
       "en": "Module Mastery",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Maestría de módulos",
+      "fr": "Maîtrise des modules",
+      "it": "Maestria nei moduli",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Мастерство по модулям",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "模块专精"
     },
     "description": {
-      "de": "NULL",
+      "de": "Verdiene diese Auszeichnung durch Installation, Übersteuern oder Entschärfen von Konstruktionsmodulen.",
       "en": "Earn this ribbon by installing, overloading, or disarming construction modules.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Gana este galón instalando, sobrecargando o desactivando módulos de construcción.",
+      "fr": " Gagnez cette décoration pour avoir installé, surchargé ou désamorcé des modules de construction.",
+      "it": "Guadagna questa coccarda installando, sovraccaricando o disinnescando i moduli di costruzione.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Лента присуждается за установку, перегрузку или обезвреживание строительных модулей.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "通过安装、过载或拆卸建筑模块来获取此绶带。"
     },
     "image_set_id": "14121",
     "image_id": "NULL",
@@ -122091,16 +122091,16 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Bausteine",
       "en": "Building Blocks",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Bloques de construcción",
+      "fr": "Blocs de construction",
+      "it": "Blocchi di costruzione",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Строительные блоки",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "建筑积木"
     },
     "description": {
       "de": "Deponiere Kortium in einem Silo in einer umkämpften Region.",
@@ -122129,16 +122129,16 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Schnellabwurf",
       "en": "Hot Drop",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Descenso en combate",
+      "fr": "Largage à chaud",
+      "it": "Lancio con paracadute",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Десантирование",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "空投"
     },
     "description": {
       "de": "Erhalte diese Auszeichung durch den Einsatz verbündeter Truppen auf dem Schlachtfeld, wo sie Kills verdienen können!",
@@ -122167,28 +122167,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Konzentrierter Angriff",
       "en": "Focused Assault",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Ataque concentrado",
+      "fr": "Assaut dirigé",
+      "it": "Assalto concentrato",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Направленное нападение",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "集中突击"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erziele Kills während einer Kontinent-Kernschmelze-Operation.",
       "en": "Earn kills during a continent Meltdown Alert.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Gana muertes durante una alerta de fusión del continente.",
+      "fr": "Faites des victimes lors d'une alerte Fusion instable sur un continent.",
+      "it": "Guadagna uccisioni durante un allarme di fusione del continente.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Уничтожайте врагов во время тревоги «Катастрофа» на континенте.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "在大陆灾难预警期间完成击杀。"
     },
     "image_set_id": "13518",
     "image_id": "NULL",
@@ -122205,16 +122205,16 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Panzerkonflikt",
       "en": "Armored Conflict",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Conflicto blindado",
+      "fr": "Conflit blindé",
+      "it": "Conflitto corazzato",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Вооруженный конфликт",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "装甲冲突"
     },
     "description": {
       "de": "Zerstöre feindliche Fahrzeuge oder unterstütze die Zerstörung, während du selbst in einem Fahrzeug bist.",
@@ -122243,28 +122243,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Haltet die Stellung",
       "en": "Hold the Line",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Mantén la posición",
+      "fr": "Tenir bon",
+      "it": "Mantieni la linea",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Держать оборону",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "坚守战线"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erhalte diese Auszeichnung für die Eroberung oder Verteidigung von Steuerungskonsolen und das Töten von Feinden um sie herum während einer Kontinent-Kernschmelze-Operation.",
       "en": "Earn this ribbon for capturing and defending control consoles, and for killing enemies around them during a continent Meltdown Alert.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Consigue este galón capturando y defendiendo consolas de control y matando enemigos en torno a ellas durante una alerta de fusión de continente.",
+      "fr": "Gagnez cette décoration pour avoir capturé et défendu des consoles de contrôle, et avoir fait des victimes autour de leur zone lors d'une alerte Fusion instable.",
+      "it": "Guadagna questa coccarda conquistando e difendendo le console di controllo, ma anche uccidendo i nemici intorno a essere durante un allarme di fusione.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Лента присуждается за захват и оборону пультов управления, а также уничтожение врагов вокруг них во время тревоги «Катастрофа» на континенте.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "在大陆灾难预警期间占领并守卫控制中心，击杀附近的敌人，赢得这枚绶带。"
     },
     "image_set_id": "14121",
     "image_id": "NULL",
@@ -122293,16 +122293,16 @@
       "zh": "据点"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erobere Konstruktionseinrichtungen.",
       "en": "Capture construction facilities.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Captura instalaciones de construcción",
+      "fr": "Capturez des installations de construction.",
+      "it": "Conquista le strutture di costruzione.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Захватите строительные объекты.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "占领建筑设施。"
     },
     "image_set_id": "14058",
     "image_id": "NULL",
@@ -122319,28 +122319,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Apex-Prädator",
       "en": "Apex Predator",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Depredador supremo",
+      "fr": "Superprédateur",
+      "it": "Predatore Apex",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Высший хищник",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "顶级掠食者"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erreiche Kills mit \"Apex\"-Waffen.",
       "en": "Earn kills using \"Apex\" weapons.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Consigue muertes con armas \"Apex\".",
+      "fr": "Faites des victimes en utilisant des armes \"Apex\".",
+      "it": "Ottieni uccisioni usando le armi \"Apex\".",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Уничтожайте врагов с помощью оружия «Апекс».",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "使用“Apex”武器完成击杀。"
     },
     "image_set_id": "13518",
     "image_id": "NULL",
@@ -122357,28 +122357,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Helfende Hand",
       "en": "Helping Hand",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Mano amiga",
+      "fr": "Coup de main",
+      "it": "Sostegno",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Рука помощи",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "援手"
     },
     "description": {
-      "de": "NULL",
+      "de": "Verdiene dieses Abzeichen, indem du Teammitglieder heilst oder ihre Strukturen, Fahrzeuge oder Ausrüstung reparierst.",
       "en": "Heal teammates or repair their structures, deployables, and vehicles to earn this ribbon.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Cura a tus aliados o repara sus estructuras, desplegables y vehículos para ganarte este galón.",
+      "fr": "Soignez vos coéquipiers, réparez leurs structures, leurs déployables et leurs véhicules pour gagner cette décoration.",
+      "it": "Cura i compagni di squadra o ripara le loro strutture, gli ordigni schierabili e i veicoli per guadagnare questa coccarda.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Заработайте ленту за исцеление товарищей по команде или ремонт их сооружений, развертываемых устройств и транспорта.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "为队友提供治疗或修理结构、可部署物和载具即可获得此绶带。"
     },
     "image_set_id": "802636",
     "image_id": "NULL",
@@ -122395,28 +122395,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Modul-Meister",
       "en": "Module Mastery",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Maestría de módulos",
+      "fr": "Maîtrise des modules",
+      "it": "Maestria nei moduli",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Мастерство по модулям",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "模块专精"
     },
     "description": {
-      "de": "NULL",
+      "de": "Verdiene diese Auszeichnung durch Installation, Übersteuern oder Entschärfen von Konstruktionsmodulen.",
       "en": "Earn this ribbon by installing, overloading, or disarming construction modules.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Gana este galón instalando, sobrecargando o desactivando módulos de construcción.",
+      "fr": " Gagnez cette décoration pour avoir installé, surchargé ou désamorcé des modules de construction.",
+      "it": "Guadagna questa coccarda installando, sovraccaricando o disinnescando i moduli di costruzione.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Лента присуждается за установку, перегрузку или обезвреживание строительных модулей.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "通过安装、过载或拆卸建筑模块来获取此绶带。"
     },
     "image_set_id": "14121",
     "image_id": "NULL",
@@ -122433,16 +122433,16 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Bausteine",
       "en": "Building Blocks",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Bloques de construcción",
+      "fr": "Blocs de construction",
+      "it": "Blocchi di costruzione",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Строительные блоки",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "建筑积木"
     },
     "description": {
       "de": "Deponiere Kortium in einem Silo in einer umkämpften Region.",
@@ -122471,16 +122471,16 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Schnellabwurf",
       "en": "Hot Drop",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Descenso en combate",
+      "fr": "Largage à chaud",
+      "it": "Lancio con paracadute",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Десантирование",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "空投"
     },
     "description": {
       "de": "Erhalte diese Auszeichung durch den Einsatz verbündeter Truppen auf dem Schlachtfeld, wo sie Kills verdienen können!",
@@ -122509,28 +122509,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Konzentrierter Angriff",
       "en": "Focused Assault",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Ataque concentrado",
+      "fr": "Assaut dirigé",
+      "it": "Assalto concentrato",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Направленное нападение",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "集中突击"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erziele Kills während einer Kontinent-Kernschmelze-Operation.",
       "en": "Earn kills during a continent Meltdown Alert.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Gana muertes durante una alerta de fusión del continente.",
+      "fr": "Faites des victimes lors d'une alerte Fusion instable sur un continent.",
+      "it": "Guadagna uccisioni durante un allarme di fusione del continente.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Уничтожайте врагов во время тревоги «Катастрофа» на континенте.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "在大陆灾难预警期间完成击杀。"
     },
     "image_set_id": "13518",
     "image_id": "NULL",
@@ -122547,16 +122547,16 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Panzerkonflikt",
       "en": "Armored Conflict",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Conflicto blindado",
+      "fr": "Conflit blindé",
+      "it": "Conflitto corazzato",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Вооруженный конфликт",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "装甲冲突"
     },
     "description": {
       "de": "Zerstöre feindliche Fahrzeuge oder unterstütze die Zerstörung, während du selbst in einem Fahrzeug bist.",
@@ -122585,28 +122585,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Haltet die Stellung",
       "en": "Hold the Line",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Mantén la posición",
+      "fr": "Tenir bon",
+      "it": "Mantieni la linea",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Держать оборону",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "坚守战线"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erhalte diese Auszeichnung für die Eroberung oder Verteidigung von Steuerungskonsolen und das Töten von Feinden um sie herum während einer Kontinent-Kernschmelze-Operation.",
       "en": "Earn this ribbon for capturing and defending control consoles, and for killing enemies around them during a continent Meltdown Alert.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Consigue este galón capturando y defendiendo consolas de control y matando enemigos en torno a ellas durante una alerta de fusión de continente.",
+      "fr": "Gagnez cette décoration pour avoir capturé et défendu des consoles de contrôle, et avoir fait des victimes autour de leur zone lors d'une alerte Fusion instable.",
+      "it": "Guadagna questa coccarda conquistando e difendendo le console di controllo, ma anche uccidendo i nemici intorno a essere durante un allarme di fusione.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Лента присуждается за захват и оборону пультов управления, а также уничтожение врагов вокруг них во время тревоги «Катастрофа» на континенте.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "在大陆灾难预警期间占领并守卫控制中心，击杀附近的敌人，赢得这枚绶带。"
     },
     "image_set_id": "14121",
     "image_id": "NULL",
@@ -122635,16 +122635,16 @@
       "zh": "据点"
     },
     "description": {
-      "de": "NULL",
+      "de": "Erobere Konstruktionseinrichtungen.",
       "en": "Capture construction facilities.",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Captura instalaciones de construcción",
+      "fr": "Capturez des installations de construction.",
+      "it": "Conquista le strutture di costruzione.",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Захватите строительные объекты.",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "占领建筑设施。"
     },
     "image_set_id": "14058",
     "image_id": "NULL",

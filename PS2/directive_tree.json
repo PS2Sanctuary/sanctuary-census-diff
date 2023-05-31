@@ -1518,28 +1518,28 @@
       "4"
     ],
     "name": {
-      "de": "NULL",
+      "de": "Jubiläum 20 Jahre PlanetSide",
       "en": "PlanetSide 20-Year Legacy",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Legado de 20 años de PlanetSide",
+      "fr": "20 ans d'Héritage de PlanetSide",
+      "it": "Legacy 20 anni PlanetSide",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "20-летнее наследие PlanetSide",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "《PlanetSide》20周年传奇"
     },
     "description": {
-      "de": "NULL",
+      "de": "Verfügbar bis 4. Juni",
       "en": "Available through June 4",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Disponible hasta el 4 de junio",
+      "fr": "Disponible jusqu'au 4 juin",
+      "it": "Disponibile fino al 4 giugno",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Доступно до 4 июня",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "活动持续至6月4日"
     },
     "image_set_id": "0",
     "image_id": "NULL",
