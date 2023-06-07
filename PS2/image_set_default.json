@@ -82222,5 +82222,37 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/96282.png"
+  },
+  {
+    "image_set_id": "807675",
+    "image_id": "96283",
+    "description": "profileBackground_PrimeGaming_June_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96283.png"
+  },
+  {
+    "image_set_id": "807676",
+    "image_id": "96286",
+    "description": "icon_Banner_PrimeGaming_June_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96286.png"
+  },
+  {
+    "image_set_id": "807677",
+    "image_id": "96287",
+    "description": "ProfileBackground_BannerFrame_PrimeGaming_June_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96287.png"
+  },
+  {
+    "image_set_id": "807678",
+    "image_id": "96290",
+    "description": "icon_ProfileBackground_BannerFrame_PrimeGaming_June_2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96290.png"
   }
 ]
