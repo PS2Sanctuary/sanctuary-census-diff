@@ -11461,14 +11461,14 @@
       "2"
     ],
     "name": {
-      "de": "MANA-Geschützturm",
+      "de": "Infanterieabwehr-MANA-Geschützturm",
       "en": "MANA Anti-Infantry Turret",
-      "es": "Torreta antipersonal MANA",
-      "fr": "Tourelle antipersonnel ANAH ",
-      "it": "Torretta antiuomo MANA",
+      "es": "Torreta antiinfantería MANA",
+      "fr": "Tourelle anti-infanterie ANAH ",
+      "it": "Torretta antifanteria MANA",
       "ko": "MANA 대인 포탑",
       "pt": "Torre AMNA Antipessoal",
-      "ru": "ПП турель MANA",
+      "ru": "Противопехотная турель MANA",
       "tr": "MANA Anti-Personel Tareti",
       "zh": "MANA反步兵炮塔"
     },
@@ -11749,14 +11749,14 @@
       "2"
     ],
     "name": {
-      "de": "MANA-Geschützturm",
+      "de": "Infanterieabwehr-MANA-Geschützturm",
       "en": "MANA Anti-Infantry Turret",
-      "es": "Torreta antipersonal MANA",
-      "fr": "Tourelle antipersonnel ANAH ",
-      "it": "Torretta antiuomo MANA",
+      "es": "Torreta antiinfantería MANA",
+      "fr": "Tourelle anti-infanterie ANAH ",
+      "it": "Torretta antifanteria MANA",
       "ko": "MANA 대인 포탑",
       "pt": "Torre AMNA Antipessoal",
-      "ru": "ПП турель MANA",
+      "ru": "Противопехотная турель MANA",
       "tr": "MANA Anti-Personel Tareti",
       "zh": "MANA反步兵炮塔"
     },
@@ -12074,14 +12074,14 @@
       "2"
     ],
     "name": {
-      "de": "MANA-Geschützturm",
+      "de": "Infanterieabwehr-MANA-Geschützturm",
       "en": "MANA Anti-Infantry Turret",
-      "es": "Torreta antipersonal MANA",
-      "fr": "Tourelle antipersonnel ANAH ",
-      "it": "Torretta antiuomo MANA",
+      "es": "Torreta antiinfantería MANA",
+      "fr": "Tourelle anti-infanterie ANAH ",
+      "it": "Torretta antifanteria MANA",
       "ko": "MANA 대인 포탑",
       "pt": "Torre AMNA Antipessoal",
-      "ru": "ПП турель MANA",
+      "ru": "Противопехотная турель MANA",
       "tr": "MANA Anti-Personel Tareti",
       "zh": "MANA反步兵炮塔"
     },
@@ -12471,14 +12471,14 @@
       "2"
     ],
     "name": {
-      "de": "MANA-Geschützturm",
+      "de": "Infanterieabwehr-MANA-Geschützturm",
       "en": "MANA Anti-Infantry Turret",
-      "es": "Torreta antipersonal MANA",
-      "fr": "Tourelle antipersonnel ANAH ",
-      "it": "Torretta antiuomo MANA",
+      "es": "Torreta antiinfantería MANA",
+      "fr": "Tourelle anti-infanterie ANAH ",
+      "it": "Torretta antifanteria MANA",
       "ko": "MANA 대인 포탑",
       "pt": "Torre AMNA Antipessoal",
-      "ru": "ПП турель MANA",
+      "ru": "Противопехотная турель MANA",
       "tr": "MANA Anti-Personel Tareti",
       "zh": "MANA反步兵炮塔"
     },
@@ -39708,7 +39708,7 @@
       "de": "Schließe Kernschmelze-Alarme mit mindestens 50% Teilnahme ab.",
       "en": "Complete Meltdown Alerts on Oshur with at least 50% participation.",
       "es": "Completa alertas de fusión en Oshur con una participación del 50% o más.",
-      "fr": "Terminez des alertes Fusion sur Oshur avec une participation d'au moins 50\u00A0%.",
+      "fr": "Terminez des alertes Fusion instable sur Oshur avec une participation d'au moins 50\u00A0%.",
       "it": "Completa gli allarmi di fusione su Oshur con almeno il 50% di partecipazione.",
       "ko": "NULL",
       "pt": "NULL",
@@ -39930,7 +39930,7 @@
       "de": "Schließe Kernschmelze-Alarme mit mindestens 50% Teilnahme ab.",
       "en": "Complete Meltdown Alerts on Oshur with at least 50% participation.",
       "es": "Completa alertas de fusión en Oshur con una participación del 50% o más.",
-      "fr": "Terminez des alertes Fusion sur Oshur avec une participation d'au moins 50\u00A0%.",
+      "fr": "Terminez des alertes Fusion instable sur Oshur avec une participation d'au moins 50\u00A0%.",
       "it": "Completa gli allarmi di fusione su Oshur con almeno il 50% di partecipazione.",
       "ko": "NULL",
       "pt": "NULL",
@@ -40152,7 +40152,7 @@
       "de": "Schließe Kernschmelze-Alarme mit mindestens 50% Teilnahme ab.",
       "en": "Complete Meltdown Alerts on Oshur with at least 50% participation.",
       "es": "Completa alertas de fusión en Oshur con una participación del 50% o más.",
-      "fr": "Terminez des alertes Fusion sur Oshur avec une participation d'au moins 50\u00A0%.",
+      "fr": "Terminez des alertes Fusion instable sur Oshur avec une participation d'au moins 50\u00A0%.",
       "it": "Completa gli allarmi di fusione su Oshur con almeno il 50% di partecipazione.",
       "ko": "NULL",
       "pt": "NULL",
@@ -40374,7 +40374,7 @@
       "de": "Schließe Kernschmelze-Alarme mit mindestens 50% Teilnahme ab.",
       "en": "Complete Meltdown Alerts on Oshur with at least 50% participation.",
       "es": "Completa alertas de fusión en Oshur con una participación del 50% o más.",
-      "fr": "Terminez des alertes Fusion sur Oshur avec une participation d'au moins 50\u00A0%.",
+      "fr": "Terminez des alertes Fusion instable sur Oshur avec une participation d'au moins 50\u00A0%.",
       "it": "Completa gli allarmi di fusione su Oshur con almeno il 50% di partecipazione.",
       "ko": "NULL",
       "pt": "NULL",
@@ -64671,14 +64671,14 @@
       "1"
     ],
     "name": {
-      "de": "MANA-Geschützturm",
+      "de": "Infanterieabwehr-MANA-Geschützturm",
       "en": "MANA Anti-Infantry Turret",
-      "es": "Torreta antipersonal MANA",
-      "fr": "Tourelle antipersonnel ANAH ",
-      "it": "Torretta antiuomo MANA",
+      "es": "Torreta antiinfantería MANA",
+      "fr": "Tourelle anti-infanterie ANAH ",
+      "it": "Torretta antifanteria MANA",
       "ko": "MANA 대인 포탑",
       "pt": "Torre AMNA Antipessoal",
-      "ru": "ПП турель MANA",
+      "ru": "Противопехотная турель MANA",
       "tr": "MANA Anti-Personel Tareti",
       "zh": "MANA反步兵炮塔"
     },
@@ -64881,14 +64881,14 @@
       "1"
     ],
     "name": {
-      "de": "MANA-Geschützturm",
+      "de": "Infanterieabwehr-MANA-Geschützturm",
       "en": "MANA Anti-Infantry Turret",
-      "es": "Torreta antipersonal MANA",
-      "fr": "Tourelle antipersonnel ANAH ",
-      "it": "Torretta antiuomo MANA",
+      "es": "Torreta antiinfantería MANA",
+      "fr": "Tourelle anti-infanterie ANAH ",
+      "it": "Torretta antifanteria MANA",
       "ko": "MANA 대인 포탑",
       "pt": "Torre AMNA Antipessoal",
-      "ru": "ПП турель MANA",
+      "ru": "Противопехотная турель MANA",
       "tr": "MANA Anti-Personel Tareti",
       "zh": "MANA反步兵炮塔"
     },
@@ -65021,14 +65021,14 @@
       "1"
     ],
     "name": {
-      "de": "MANA-Geschützturm",
+      "de": "Infanterieabwehr-MANA-Geschützturm",
       "en": "MANA Anti-Infantry Turret",
-      "es": "Torreta antipersonal MANA",
-      "fr": "Tourelle antipersonnel ANAH ",
-      "it": "Torretta antiuomo MANA",
+      "es": "Torreta antiinfantería MANA",
+      "fr": "Tourelle anti-infanterie ANAH ",
+      "it": "Torretta antifanteria MANA",
       "ko": "MANA 대인 포탑",
       "pt": "Torre AMNA Antipessoal",
-      "ru": "ПП турель MANA",
+      "ru": "Противопехотная турель MANA",
       "tr": "MANA Anti-Personel Tareti",
       "zh": "MANA反步兵炮塔"
     },
@@ -65161,14 +65161,14 @@
       "1"
     ],
     "name": {
-      "de": "MANA-Geschützturm",
+      "de": "Infanterieabwehr-MANA-Geschützturm",
       "en": "MANA Anti-Infantry Turret",
-      "es": "Torreta antipersonal MANA",
-      "fr": "Tourelle antipersonnel ANAH ",
-      "it": "Torretta antiuomo MANA",
+      "es": "Torreta antiinfantería MANA",
+      "fr": "Tourelle anti-infanterie ANAH ",
+      "it": "Torretta antifanteria MANA",
       "ko": "MANA 대인 포탑",
       "pt": "Torre AMNA Antipessoal",
-      "ru": "ПП турель MANA",
+      "ru": "Противопехотная турель MANA",
       "tr": "MANA Anti-Personel Tareti",
       "zh": "MANA反步兵炮塔"
     },
@@ -84166,14 +84166,14 @@
       "3"
     ],
     "name": {
-      "de": "MANA-Geschützturm",
+      "de": "Infanterieabwehr-MANA-Geschützturm",
       "en": "MANA Anti-Infantry Turret",
-      "es": "Torreta antipersonal MANA",
-      "fr": "Tourelle antipersonnel ANAH ",
-      "it": "Torretta antiuomo MANA",
+      "es": "Torreta antiinfantería MANA",
+      "fr": "Tourelle anti-infanterie ANAH ",
+      "it": "Torretta antifanteria MANA",
       "ko": "MANA 대인 포탑",
       "pt": "Torre AMNA Antipessoal",
-      "ru": "ПП турель MANA",
+      "ru": "Противопехотная турель MANA",
       "tr": "MANA Anti-Personel Tareti",
       "zh": "MANA反步兵炮塔"
     },
@@ -84306,14 +84306,14 @@
       "3"
     ],
     "name": {
-      "de": "MANA-Geschützturm",
+      "de": "Infanterieabwehr-MANA-Geschützturm",
       "en": "MANA Anti-Infantry Turret",
-      "es": "Torreta antipersonal MANA",
-      "fr": "Tourelle antipersonnel ANAH ",
-      "it": "Torretta antiuomo MANA",
+      "es": "Torreta antiinfantería MANA",
+      "fr": "Tourelle anti-infanterie ANAH ",
+      "it": "Torretta antifanteria MANA",
       "ko": "MANA 대인 포탑",
       "pt": "Torre AMNA Antipessoal",
-      "ru": "ПП турель MANA",
+      "ru": "Противопехотная турель MANA",
       "tr": "MANA Anti-Personel Tareti",
       "zh": "MANA反步兵炮塔"
     },
@@ -84446,14 +84446,14 @@
       "3"
     ],
     "name": {
-      "de": "MANA-Geschützturm",
+      "de": "Infanterieabwehr-MANA-Geschützturm",
       "en": "MANA Anti-Infantry Turret",
-      "es": "Torreta antipersonal MANA",
-      "fr": "Tourelle antipersonnel ANAH ",
-      "it": "Torretta antiuomo MANA",
+      "es": "Torreta antiinfantería MANA",
+      "fr": "Tourelle anti-infanterie ANAH ",
+      "it": "Torretta antifanteria MANA",
       "ko": "MANA 대인 포탑",
       "pt": "Torre AMNA Antipessoal",
-      "ru": "ПП турель MANA",
+      "ru": "Противопехотная турель MANA",
       "tr": "MANA Anti-Personel Tareti",
       "zh": "MANA反步兵炮塔"
     },
@@ -84586,14 +84586,14 @@
       "3"
     ],
     "name": {
-      "de": "MANA-Geschützturm",
+      "de": "Infanterieabwehr-MANA-Geschützturm",
       "en": "MANA Anti-Infantry Turret",
-      "es": "Torreta antipersonal MANA",
-      "fr": "Tourelle antipersonnel ANAH ",
-      "it": "Torretta antiuomo MANA",
+      "es": "Torreta antiinfantería MANA",
+      "fr": "Tourelle anti-infanterie ANAH ",
+      "it": "Torretta antifanteria MANA",
       "ko": "MANA 대인 포탑",
       "pt": "Torre AMNA Antipessoal",
-      "ru": "ПП турель MANA",
+      "ru": "Противопехотная турель MANA",
       "tr": "MANA Anti-Personel Tareti",
       "zh": "MANA反步兵炮塔"
     },
@@ -103482,16 +103482,16 @@
       "3"
     ],
     "name": {
-      "de": "Fischspeer",
+      "de": "Wogendorn-Harpune",
       "en": "Wavestinger Harpoon",
-      "es": "Lanza de pesca",
-      "fr": "Harpon",
-      "it": "Fiocina",
+      "es": "Arpón Wavestinger",
+      "fr": "Harpon Wavestinger",
+      "it": "Fiocina Wavestinger",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Острога",
+      "ru": "Гарпун Wavestinger",
       "tr": "NULL",
-      "zh": "鱼叉"
+      "zh": "Wavestinger鱼叉"
     },
     "description": {
       "de": "10 Feinde getötet",
@@ -103519,16 +103519,16 @@
       "3"
     ],
     "name": {
-      "de": "Fischspeer",
+      "de": "Wogendorn-Harpune",
       "en": "Wavestinger Harpoon",
-      "es": "Lanza de pesca",
-      "fr": "Harpon",
-      "it": "Fiocina",
+      "es": "Arpón Wavestinger",
+      "fr": "Harpon Wavestinger",
+      "it": "Fiocina Wavestinger",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Острога",
+      "ru": "Гарпун Wavestinger",
       "tr": "NULL",
-      "zh": "鱼叉"
+      "zh": "Wavestinger鱼叉"
     },
     "description": {
       "de": "50 Feinde getötet",
@@ -103556,16 +103556,16 @@
       "3"
     ],
     "name": {
-      "de": "Fischspeer",
+      "de": "Wogendorn-Harpune",
       "en": "Wavestinger Harpoon",
-      "es": "Lanza de pesca",
-      "fr": "Harpon",
-      "it": "Fiocina",
+      "es": "Arpón Wavestinger",
+      "fr": "Harpon Wavestinger",
+      "it": "Fiocina Wavestinger",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Острога",
+      "ru": "Гарпун Wavestinger",
       "tr": "NULL",
-      "zh": "鱼叉"
+      "zh": "Wavestinger鱼叉"
     },
     "description": {
       "de": "100 Feinde getötet",
@@ -103593,16 +103593,16 @@
       "3"
     ],
     "name": {
-      "de": "Fischspeer",
+      "de": "Wogendorn-Harpune",
       "en": "Wavestinger Harpoon",
-      "es": "Lanza de pesca",
-      "fr": "Harpon",
-      "it": "Fiocina",
+      "es": "Arpón Wavestinger",
+      "fr": "Harpon Wavestinger",
+      "it": "Fiocina Wavestinger",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Острога",
+      "ru": "Гарпун Wavestinger",
       "tr": "NULL",
-      "zh": "鱼叉"
+      "zh": "Wavestinger鱼叉"
     },
     "description": {
       "de": "1000 Feinde getötet",
@@ -103617,6 +103617,870 @@
       "zh": "杀敌1000人"
     },
     "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5302",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": {
+      "de": "NS-D Helios",
+      "en": "NS-D Helios",
+      "es": "NS-D Helios",
+      "fr": "NS-D Helios",
+      "it": "NS-D Helios",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios",
+      "tr": "NULL",
+      "zh": "NS-D Helios"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5306",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": {
+      "de": "NS-D Helios EX",
+      "en": "NS-D Helios EX",
+      "es": "NS-D Helios EX",
+      "fr": "NS-D Helios EX",
+      "it": "NS-D Helios EX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios EX",
+      "tr": "NULL",
+      "zh": "NS-D Helios EX"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5310",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": {
+      "de": "NSX Fusionsklinge",
+      "en": "NSX Fusion Blade",
+      "es": "Hoja de fusión NSX",
+      "fr": "Lame Fusion NSX",
+      "it": "NSX Fusion Blade",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX Fusion Blade",
+      "tr": "NULL",
+      "zh": "NSX融合之刃"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5325",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "\"Apex\" AF-4 Cyclone",
+      "en": "\"Apex\" AF-4 Cyclone",
+      "es": "AF-4 Cyclone \"Apex\"",
+      "fr": "Cyclone AF-4 \"Apex\"",
+      "it": "AF-4 Cyclone \"Apex\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "AF-4 Cyclone «Апекс»",
+      "tr": "NULL",
+      "zh": "\"苍穹\" AF-4 Cyclone"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5299",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": {
+      "de": "NS-D Helios",
+      "en": "NS-D Helios",
+      "es": "NS-D Helios",
+      "fr": "NS-D Helios",
+      "it": "NS-D Helios",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios",
+      "tr": "NULL",
+      "zh": "NS-D Helios"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5303",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": {
+      "de": "NS-D Helios EX",
+      "en": "NS-D Helios EX",
+      "es": "NS-D Helios EX",
+      "fr": "NS-D Helios EX",
+      "it": "NS-D Helios EX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios EX",
+      "tr": "NULL",
+      "zh": "NS-D Helios EX"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5307",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": {
+      "de": "NSX Fusionsklinge",
+      "en": "NSX Fusion Blade",
+      "es": "Hoja de fusión NSX",
+      "fr": "Lame Fusion NSX",
+      "it": "NSX Fusion Blade",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX Fusion Blade",
+      "tr": "NULL",
+      "zh": "NSX融合之刃"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5326",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "\"Apex\" AF-4 Cyclone",
+      "en": "\"Apex\" AF-4 Cyclone",
+      "es": "AF-4 Cyclone \"Apex\"",
+      "fr": "Cyclone AF-4 \"Apex\"",
+      "it": "AF-4 Cyclone \"Apex\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "AF-4 Cyclone «Апекс»",
+      "tr": "NULL",
+      "zh": "\"苍穹\" AF-4 Cyclone"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5300",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": {
+      "de": "NS-D Helios",
+      "en": "NS-D Helios",
+      "es": "NS-D Helios",
+      "fr": "NS-D Helios",
+      "it": "NS-D Helios",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios",
+      "tr": "NULL",
+      "zh": "NS-D Helios"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5304",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": {
+      "de": "NS-D Helios EX",
+      "en": "NS-D Helios EX",
+      "es": "NS-D Helios EX",
+      "fr": "NS-D Helios EX",
+      "it": "NS-D Helios EX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios EX",
+      "tr": "NULL",
+      "zh": "NS-D Helios EX"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5308",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": {
+      "de": "NSX Fusionsklinge",
+      "en": "NSX Fusion Blade",
+      "es": "Hoja de fusión NSX",
+      "fr": "Lame Fusion NSX",
+      "it": "NSX Fusion Blade",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX Fusion Blade",
+      "tr": "NULL",
+      "zh": "NSX融合之刃"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5323",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "\"Apex\" AF-4 Cyclone",
+      "en": "\"Apex\" AF-4 Cyclone",
+      "es": "AF-4 Cyclone \"Apex\"",
+      "fr": "Cyclone AF-4 \"Apex\"",
+      "it": "AF-4 Cyclone \"Apex\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "AF-4 Cyclone «Апекс»",
+      "tr": "NULL",
+      "zh": "\"苍穹\" AF-4 Cyclone"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5301",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": {
+      "de": "NS-D Helios",
+      "en": "NS-D Helios",
+      "es": "NS-D Helios",
+      "fr": "NS-D Helios",
+      "it": "NS-D Helios",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios",
+      "tr": "NULL",
+      "zh": "NS-D Helios"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5305",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": {
+      "de": "NS-D Helios EX",
+      "en": "NS-D Helios EX",
+      "es": "NS-D Helios EX",
+      "fr": "NS-D Helios EX",
+      "it": "NS-D Helios EX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios EX",
+      "tr": "NULL",
+      "zh": "NS-D Helios EX"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5309",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": {
+      "de": "NSX Fusionsklinge",
+      "en": "NSX Fusion Blade",
+      "es": "Hoja de fusión NSX",
+      "fr": "Lame Fusion NSX",
+      "it": "NSX Fusion Blade",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NSX Fusion Blade",
+      "tr": "NULL",
+      "zh": "NSX融合之刃"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5324",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "\"Apex\" AF-4 Cyclone",
+      "en": "\"Apex\" AF-4 Cyclone",
+      "es": "AF-4 Cyclone \"Apex\"",
+      "fr": "Cyclone AF-4 \"Apex\"",
+      "it": "AF-4 Cyclone \"Apex\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "AF-4 Cyclone «Апекс»",
+      "tr": "NULL",
+      "zh": "\"苍穹\" AF-4 Cyclone"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5311",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "\"Apex\" Eridani SX5",
+      "en": "\"Apex\" Eridani SX5",
+      "es": "Eridani SX5 \"Apex\"",
+      "fr": "Eridani SX5 \"Apex\"",
+      "it": "Eridani SX5 \"Apex\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Eridani SX5 «Апекс»",
+      "tr": "NULL",
+      "zh": "\"苍穹\" Eridani SX5"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5312",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "\"Apex\" Eridani SX5",
+      "en": "\"Apex\" Eridani SX5",
+      "es": "Eridani SX5 \"Apex\"",
+      "fr": "Eridani SX5 \"Apex\"",
+      "it": "Eridani SX5 \"Apex\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Eridani SX5 «Апекс»",
+      "tr": "NULL",
+      "zh": "\"苍穹\" Eridani SX5"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5313",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "\"Apex\" Eridani SX5",
+      "en": "\"Apex\" Eridani SX5",
+      "es": "Eridani SX5 \"Apex\"",
+      "fr": "Eridani SX5 \"Apex\"",
+      "it": "Eridani SX5 \"Apex\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Eridani SX5 «Апекс»",
+      "tr": "NULL",
+      "zh": "\"苍穹\" Eridani SX5"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5314",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "\"Apex\" Eridani SX5",
+      "en": "\"Apex\" Eridani SX5",
+      "es": "Eridani SX5 \"Apex\"",
+      "fr": "Eridani SX5 \"Apex\"",
+      "it": "Eridani SX5 \"Apex\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Eridani SX5 «Апекс»",
+      "tr": "NULL",
+      "zh": "\"苍穹\" Eridani SX5"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5318",
+    "directive_tree_id": "115",
+    "directive_tier_id": "1",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "\"Apex\" SMG-46 Armistice",
+      "en": "\"Apex\" SMG-46 Armistice",
+      "es": "SMG-46 Armistice \"Apex\"",
+      "fr": "Armistice MTR-46 \"Apex\"",
+      "it": "SMG-46 Armistice \"Apex\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "SMG-46 Armistice «Апекс»",
+      "tr": "NULL",
+      "zh": "\"苍穹\" SMG-46 Armistice"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5315",
+    "directive_tree_id": "115",
+    "directive_tier_id": "2",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "\"Apex\" SMG-46 Armistice",
+      "en": "\"Apex\" SMG-46 Armistice",
+      "es": "SMG-46 Armistice \"Apex\"",
+      "fr": "Armistice MTR-46 \"Apex\"",
+      "it": "SMG-46 Armistice \"Apex\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "SMG-46 Armistice «Апекс»",
+      "tr": "NULL",
+      "zh": "\"苍穹\" SMG-46 Armistice"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5316",
+    "directive_tree_id": "115",
+    "directive_tier_id": "3",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "\"Apex\" SMG-46 Armistice",
+      "en": "\"Apex\" SMG-46 Armistice",
+      "es": "SMG-46 Armistice \"Apex\"",
+      "fr": "Armistice MTR-46 \"Apex\"",
+      "it": "SMG-46 Armistice \"Apex\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "SMG-46 Armistice «Апекс»",
+      "tr": "NULL",
+      "zh": "\"苍穹\" SMG-46 Armistice"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5317",
+    "directive_tree_id": "115",
+    "directive_tier_id": "4",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "\"Apex\" SMG-46 Armistice",
+      "en": "\"Apex\" SMG-46 Armistice",
+      "es": "SMG-46 Armistice \"Apex\"",
+      "fr": "Armistice MTR-46 \"Apex\"",
+      "it": "SMG-46 Armistice \"Apex\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "SMG-46 Armistice «Апекс»",
+      "tr": "NULL",
+      "zh": "\"苍穹\" SMG-46 Armistice"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
     "image_id": "79737",
     "image_path": "/files/ps2/images/static/79737.png"
   }

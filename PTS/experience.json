@@ -36950,5 +36950,119 @@
     },
     "xp": "50",
     "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2144",
+    "award_type_id": "98",
+    "description": "Module Installed",
+    "localized_description": {
+      "de": "Modul installiert",
+      "en": "Module Installed",
+      "es": "Módulo instalado",
+      "fr": "Module installé",
+      "it": "Modulo installato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Модуль установлен",
+      "tr": "NULL",
+      "zh": "模块已安装"
+    },
+    "xp": "25",
+    "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2145",
+    "award_type_id": "102",
+    "description": "Cortium Bomb Installed",
+    "localized_description": {
+      "de": "Kortium-Bombe installiert",
+      "en": "Cortium Bomb Installed",
+      "es": "Bomba de cortium colocada",
+      "fr": "Bombe au Cortium installée",
+      "it": "Bomba al Cortium installata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Установлен Cortium Bomb",
+      "tr": "NULL",
+      "zh": "Cortium炸弹已安装"
+    },
+    "xp": "75",
+    "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2147",
+    "award_type_id": "99",
+    "description": "Module Overloaded",
+    "localized_description": {
+      "de": "Modul überladen",
+      "en": "Module Overloaded",
+      "es": "Módulo sobrecargado",
+      "fr": "Module surchargé",
+      "it": "Modulo sovraccaricato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Модуль перегружен",
+      "tr": "NULL",
+      "zh": "模块已过载"
+    },
+    "xp": "50",
+    "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2148",
+    "award_type_id": "100",
+    "description": "Module Stabilized",
+    "localized_description": {
+      "de": "Modul stabilisiert",
+      "en": "Module Stabilized",
+      "es": "Módulo estabilizado",
+      "fr": "Module stabilisé",
+      "it": "Modulo stabilizzato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Модуль стабилизирован",
+      "tr": "NULL",
+      "zh": "模块已稳定"
+    },
+    "xp": "50",
+    "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2149",
+    "award_type_id": "101",
+    "description": "Module Disarmed",
+    "localized_description": {
+      "de": "Modul entschärft",
+      "en": "Module Disarmed",
+      "es": "Módulo desactivado",
+      "fr": "Module désarmé",
+      "it": "Modulo disinnescato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Модуль обезврежен",
+      "tr": "NULL",
+      "zh": "模块已拆除"
+    },
+    "xp": "75",
+    "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2150",
+    "award_type_id": "102",
+    "description": "Tunnel Worm Installed",
+    "localized_description": {
+      "de": "Tunnelwurm installiert",
+      "en": "Tunnel Worm Installed",
+      "es": "Gusano tunelador instalado",
+      "fr": "Ver-tunnel installé",
+      "it": "Worm tunnel installato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Установлен Tunnel Worm",
+      "tr": "NULL",
+      "zh": "隧道蠕虫已安装"
+    },
+    "xp": "50",
+    "is_notable_event": "0"
   }
 ]

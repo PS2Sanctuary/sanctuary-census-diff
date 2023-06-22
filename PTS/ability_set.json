@@ -1303,5 +1303,15 @@
     "ability_set_id": "552",
     "ability_id": "1117614",
     "order_index": "0"
+  },
+  {
+    "ability_set_id": "554",
+    "ability_id": "1117640",
+    "order_index": "0"
+  },
+  {
+    "ability_set_id": "555",
+    "ability_id": "1117661",
+    "order_index": "0"
   }
 ]

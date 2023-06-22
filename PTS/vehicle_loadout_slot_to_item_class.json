@@ -6838,5 +6838,25 @@
     "loadout_id": "592",
     "slot_id": "22",
     "item_class_id": "51143"
+  },
+  {
+    "loadout_id": "577",
+    "slot_id": "16",
+    "item_class_id": "51168"
+  },
+  {
+    "loadout_id": "590",
+    "slot_id": "16",
+    "item_class_id": "51168"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "16",
+    "item_class_id": "51168"
+  },
+  {
+    "loadout_id": "592",
+    "slot_id": "16",
+    "item_class_id": "51168"
   }
 ]
