@@ -88198,5 +88198,35 @@
     "item_id": "6011412",
     "quantity": "1",
     "release_time": "1688454000"
+  },
+  {
+    "marketing_bundle_id": "813613",
+    "item_id": "6015066",
+    "quantity": "1",
+    "release_time": "1688454000"
+  },
+  {
+    "marketing_bundle_id": "813614",
+    "item_id": "6015067",
+    "quantity": "1",
+    "release_time": "1688454000"
+  },
+  {
+    "marketing_bundle_id": "813615",
+    "item_id": "6015068",
+    "quantity": "1",
+    "release_time": "1688454000"
+  },
+  {
+    "marketing_bundle_id": "813616",
+    "item_id": "6015053",
+    "quantity": "1",
+    "release_time": "1688454000"
+  },
+  {
+    "marketing_bundle_id": "813616",
+    "item_id": "6015052",
+    "quantity": "1",
+    "release_time": "1688454000"
   }
 ]
