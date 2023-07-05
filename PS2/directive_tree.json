@@ -1544,5 +1544,42 @@
     "image_set_id": "0",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "directive_tree_id": "122",
+    "directive_tree_category_id": "8",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Operation Tidebreaker",
+      "en": "Operation Tidebreaker",
+      "es": "Operación Rompeolas",
+      "fr": "Opération Brise-lames",
+      "it": "Operazione Tidebreaker",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Операция «Волнолом»",
+      "tr": "NULL",
+      "zh": "行动：破浪者"
+    },
+    "description": {
+      "de": "Verfügbar bis 31. Juli",
+      "en": "Available through July 31",
+      "es": "Disponible hasta el 31 de julio",
+      "fr": "Disponible jusqu'au 31 juillet",
+      "it": "Disponibile fino al 31 luglio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Доступно до 31 июля",
+      "tr": "NULL",
+      "zh": "活动持续至7月31日"
+    },
+    "image_set_id": "0",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

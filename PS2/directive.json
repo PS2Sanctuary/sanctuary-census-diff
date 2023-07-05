@@ -123069,5 +123069,917 @@
     "image_set_id": "1567",
     "image_id": "79737",
     "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5379",
+    "directive_tree_id": "122",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schlage die Hitze",
+      "en": "Beat the Heat",
+      "es": "Derrota al calor",
+      "fr": "Coup de chaleur",
+      "it": "Combatti il caldo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Одолей жару",
+      "tr": "NULL",
+      "zh": "解暑"
+    },
+    "description": {
+      "de": "Erziele Kills mit einer Sommerwaffe.",
+      "en": "Score kills with a Summer Holiday Weapon.",
+      "es": "Causa bajas con un arma de las vacaciones de verano.",
+      "fr": "Faites des victimes avec une arme des vacances d'été.",
+      "it": "Metti a punto delle uccisioni con un'arma Vacanze estive.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов летним праздничным оружием.",
+      "tr": "NULL",
+      "zh": "使用夏日假期武器完成击杀。"
+    },
+    "image_set_id": "804409",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5385",
+    "directive_tree_id": "122",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verstärkung \"Sommer\"",
+      "en": "Summer Support",
+      "es": "Apoyo de verano",
+      "fr": "Soutien de l'été",
+      "it": "Supporto Summer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Летняя поддержка",
+      "tr": "NULL",
+      "zh": "夏日支持"
+    },
+    "description": {
+      "de": "Erhalte die Verstärkungsauszeichnungen \"Sommer\", indem du Fahrzeuge nachrüstest oder reparierst, während du dich in einem Fahrzeug befindest.",
+      "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle.",
+      "es": "Gana galones de apoyo de verano al reponer suministros o reparar vehículos estando dentro de un vehículo.",
+      "fr": "Gagnez des décoration de soutien de l'été en réapprovisionnant ou en réparant des véhicules depuis un véhicule.",
+      "it": "Guadagna delle coccarde per mezzi Summer rifornendo o riparando i veicoli mentre ci sei dentro.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получайте ленты летней поддержки, пополняя запасы или ремонтируя транспорт, находясь при этом в транспорте.",
+      "tr": "NULL",
+      "zh": "通过在载具内补给或维修载具以获得夏日支援绶带。"
+    },
+    "image_set_id": "804411",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5393",
+    "directive_tree_id": "122",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Kanonenkugel!",
+      "en": "Cannonball!",
+      "es": "¡Bomba!",
+      "fr": "Boulet de canon\u00A0!",
+      "it": "Cannonata!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пушечное ядро!",
+      "tr": "NULL",
+      "zh": "炮弹！"
+    },
+    "description": {
+      "de": "Töte Feinde, nachdem du aus dem Passagiersitz der Corsair geschleudert wurdest.",
+      "en": "Kill enemies after you launch from the Corsair's passenger seat.",
+      "es": "Mata enemigos tras lanzarte desde el asiento de pasajeros de un Corsair.",
+      "fr": "Tuez des ennemis après avoir été éjecté du siège passager du Corsaire.",
+      "it": "Uccidi i nemici dopo aver effettuato un lancio dal sedile del passeggero del Corsair.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов, катапультировавшись с пассажирского места в Corsair.",
+      "tr": "NULL",
+      "zh": "从Corsair的乘员座位上弹射出去后击杀敌人。"
+    },
+    "image_set_id": "804410",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5401",
+    "directive_tree_id": "122",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Luft und Ozean",
+      "en": "Air and Ocean",
+      "es": "Mar y aire",
+      "fr": "Air et mer",
+      "it": "Aria e oceano",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Небо и океан",
+      "tr": "NULL",
+      "zh": "空中和海上"
+    },
+    "description": {
+      "de": "Erziele als Infanterie Kills, während du dich in der Luft oder unter Wasser befindest.",
+      "en": "Earn kills as infantry while airborne or underwater.",
+      "es": "Mata enemigos como infantería desde el aire o bajo el agua.",
+      "fr": "Faites des victimes en tant qu'infanterie tout en étant dans les airs ou sous l'eau.",
+      "it": "Ottieni delle uccisioni mentre sei in aria o sott'acqua.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожайте врагов пехотой, находясь в воздухе или воде.",
+      "tr": "NULL",
+      "zh": "作为步兵，在空中或水下获得击杀。"
+    },
+    "image_set_id": "13518",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5389",
+    "directive_tree_id": "122",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mini-Operation: Luftanomalien",
+      "en": "Mini-Alert: Aerial Anomalies",
+      "es": "Minialerta: Anomalía aérea",
+      "fr": "Mini-alerte\u00A0: Anomalies aériennes",
+      "it": "Mini-allerta: Anomalie aeree",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мини-тревога: Воздушные аномалии",
+      "tr": "NULL",
+      "zh": "小型预警：空中异常"
+    },
+    "description": {
+      "de": "Verdiene dir Luftanomalie-Abzeichen, indem du während des Events Tempest erntest und einlagerst.",
+      "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event.",
+      "es": "Consigue galones de Anomalía aérea obteniendo y depositando Tempestad durante el evento.",
+      "fr": "Gagnez des décorations Anomalies aériennes en récoltant et en déposant de la Tempête pendant l'événement.",
+      "it": "Guadagna le coccarde Anomalia aerea raccogliendo e depositando la Tempest durante l'evento.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте ленты за воздушную аномалию, собирая и храня Tempest во время события.",
+      "tr": "NULL",
+      "zh": "通过在事件进行期间收集和储存Tempest来获得空中异常绶带。"
+    },
+    "image_set_id": "14101",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5397",
+    "directive_tree_id": "122",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Hammerhead",
+      "en": "Hammerhead",
+      "es": "Hammerhead",
+      "fr": "Hammerhead",
+      "it": "Hammerhead",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Hammerhead",
+      "tr": "NULL",
+      "zh": "Hammerhead"
+    },
+    "description": {
+      "de": "Zerstöre feindliche Fahrzeuge oder unterstütze die Zerstörung, während du selbst in einem Fahrzeug bist.",
+      "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself.",
+      "es": "Destruye o ayuda a destruir vehículos enemigos usando un vehículo.",
+      "fr": "Détruisez et aidez à l'élimination des véhicules ennemis tout en étant vous-même dans un véhicule.",
+      "it": "Distruggi o aiuta a distruggere i veicoli nemici mentre ti trovi in un veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте вражеский транспорт или помогите в его уничтожении, также находясь в транспорте.",
+      "tr": "NULL",
+      "zh": "在载具内时击杀或协助击杀敌人的载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5378",
+    "directive_tree_id": "122",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schlage die Hitze",
+      "en": "Beat the Heat",
+      "es": "Derrota al calor",
+      "fr": "Coup de chaleur",
+      "it": "Combatti il caldo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Одолей жару",
+      "tr": "NULL",
+      "zh": "解暑"
+    },
+    "description": {
+      "de": "Erziele Kills mit einer Sommerwaffe.",
+      "en": "Score kills with a Summer Holiday Weapon.",
+      "es": "Causa bajas con un arma de las vacaciones de verano.",
+      "fr": "Faites des victimes avec une arme des vacances d'été.",
+      "it": "Metti a punto delle uccisioni con un'arma Vacanze estive.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов летним праздничным оружием.",
+      "tr": "NULL",
+      "zh": "使用夏日假期武器完成击杀。"
+    },
+    "image_set_id": "804409",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5384",
+    "directive_tree_id": "122",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verstärkung \"Sommer\"",
+      "en": "Summer Support",
+      "es": "Apoyo de verano",
+      "fr": "Soutien de l'été",
+      "it": "Supporto Summer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Летняя поддержка",
+      "tr": "NULL",
+      "zh": "夏日支持"
+    },
+    "description": {
+      "de": "Erhalte die Verstärkungsauszeichnungen \"Sommer\", indem du Fahrzeuge nachrüstest oder reparierst, während du dich in einem Fahrzeug befindest.",
+      "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle.",
+      "es": "Gana galones de apoyo de verano al reponer suministros o reparar vehículos estando dentro de un vehículo.",
+      "fr": "Gagnez des décoration de soutien de l'été en réapprovisionnant ou en réparant des véhicules depuis un véhicule.",
+      "it": "Guadagna delle coccarde per mezzi Summer rifornendo o riparando i veicoli mentre ci sei dentro.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получайте ленты летней поддержки, пополняя запасы или ремонтируя транспорт, находясь при этом в транспорте.",
+      "tr": "NULL",
+      "zh": "通过在载具内补给或维修载具以获得夏日支援绶带。"
+    },
+    "image_set_id": "804411",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5392",
+    "directive_tree_id": "122",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Kanonenkugel!",
+      "en": "Cannonball!",
+      "es": "¡Bomba!",
+      "fr": "Boulet de canon\u00A0!",
+      "it": "Cannonata!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пушечное ядро!",
+      "tr": "NULL",
+      "zh": "炮弹！"
+    },
+    "description": {
+      "de": "Töte Feinde, nachdem du aus dem Passagiersitz der Corsair geschleudert wurdest.",
+      "en": "Kill enemies after you launch from the Corsair's passenger seat.",
+      "es": "Mata enemigos tras lanzarte desde el asiento de pasajeros de un Corsair.",
+      "fr": "Tuez des ennemis après avoir été éjecté du siège passager du Corsaire.",
+      "it": "Uccidi i nemici dopo aver effettuato un lancio dal sedile del passeggero del Corsair.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов, катапультировавшись с пассажирского места в Corsair.",
+      "tr": "NULL",
+      "zh": "从Corsair的乘员座位上弹射出去后击杀敌人。"
+    },
+    "image_set_id": "804410",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5400",
+    "directive_tree_id": "122",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Luft und Ozean",
+      "en": "Air and Ocean",
+      "es": "Mar y aire",
+      "fr": "Air et mer",
+      "it": "Aria e oceano",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Небо и океан",
+      "tr": "NULL",
+      "zh": "空中和海上"
+    },
+    "description": {
+      "de": "Erziele als Infanterie Kills, während du dich in der Luft oder unter Wasser befindest.",
+      "en": "Earn kills as infantry while airborne or underwater.",
+      "es": "Mata enemigos como infantería desde el aire o bajo el agua.",
+      "fr": "Faites des victimes en tant qu'infanterie tout en étant dans les airs ou sous l'eau.",
+      "it": "Ottieni delle uccisioni mentre sei in aria o sott'acqua.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожайте врагов пехотой, находясь в воздухе или воде.",
+      "tr": "NULL",
+      "zh": "作为步兵，在空中或水下获得击杀。"
+    },
+    "image_set_id": "13518",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5388",
+    "directive_tree_id": "122",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mini-Operation: Luftanomalien",
+      "en": "Mini-Alert: Aerial Anomalies",
+      "es": "Minialerta: Anomalía aérea",
+      "fr": "Mini-alerte\u00A0: Anomalies aériennes",
+      "it": "Mini-allerta: Anomalie aeree",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мини-тревога: Воздушные аномалии",
+      "tr": "NULL",
+      "zh": "小型预警：空中异常"
+    },
+    "description": {
+      "de": "Verdiene dir Luftanomalie-Abzeichen, indem du während des Events Tempest erntest und einlagerst.",
+      "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event.",
+      "es": "Consigue galones de Anomalía aérea obteniendo y depositando Tempestad durante el evento.",
+      "fr": "Gagnez des décorations Anomalies aériennes en récoltant et en déposant de la Tempête pendant l'événement.",
+      "it": "Guadagna le coccarde Anomalia aerea raccogliendo e depositando la Tempest durante l'evento.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте ленты за воздушную аномалию, собирая и храня Tempest во время события.",
+      "tr": "NULL",
+      "zh": "通过在事件进行期间收集和储存Tempest来获得空中异常绶带。"
+    },
+    "image_set_id": "14101",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5396",
+    "directive_tree_id": "122",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Hammerhead",
+      "en": "Hammerhead",
+      "es": "Hammerhead",
+      "fr": "Hammerhead",
+      "it": "Hammerhead",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Hammerhead",
+      "tr": "NULL",
+      "zh": "Hammerhead"
+    },
+    "description": {
+      "de": "Zerstöre feindliche Fahrzeuge oder unterstütze die Zerstörung, während du selbst in einem Fahrzeug bist.",
+      "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself.",
+      "es": "Destruye o ayuda a destruir vehículos enemigos usando un vehículo.",
+      "fr": "Détruisez et aidez à l'élimination des véhicules ennemis tout en étant vous-même dans un véhicule.",
+      "it": "Distruggi o aiuta a distruggere i veicoli nemici mentre ti trovi in un veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте вражеский транспорт или помогите в его уничтожении, также находясь в транспорте.",
+      "tr": "NULL",
+      "zh": "在载具内时击杀或协助击杀敌人的载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5380",
+    "directive_tree_id": "122",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schlage die Hitze",
+      "en": "Beat the Heat",
+      "es": "Derrota al calor",
+      "fr": "Coup de chaleur",
+      "it": "Combatti il caldo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Одолей жару",
+      "tr": "NULL",
+      "zh": "解暑"
+    },
+    "description": {
+      "de": "Erziele Kills mit einer Sommerwaffe.",
+      "en": "Score kills with a Summer Holiday Weapon.",
+      "es": "Causa bajas con un arma de las vacaciones de verano.",
+      "fr": "Faites des victimes avec une arme des vacances d'été.",
+      "it": "Metti a punto delle uccisioni con un'arma Vacanze estive.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов летним праздничным оружием.",
+      "tr": "NULL",
+      "zh": "使用夏日假期武器完成击杀。"
+    },
+    "image_set_id": "804409",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5383",
+    "directive_tree_id": "122",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verstärkung \"Sommer\"",
+      "en": "Summer Support",
+      "es": "Apoyo de verano",
+      "fr": "Soutien de l'été",
+      "it": "Supporto Summer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Летняя поддержка",
+      "tr": "NULL",
+      "zh": "夏日支持"
+    },
+    "description": {
+      "de": "Erhalte die Verstärkungsauszeichnungen \"Sommer\", indem du Fahrzeuge nachrüstest oder reparierst, während du dich in einem Fahrzeug befindest.",
+      "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle.",
+      "es": "Gana galones de apoyo de verano al reponer suministros o reparar vehículos estando dentro de un vehículo.",
+      "fr": "Gagnez des décoration de soutien de l'été en réapprovisionnant ou en réparant des véhicules depuis un véhicule.",
+      "it": "Guadagna delle coccarde per mezzi Summer rifornendo o riparando i veicoli mentre ci sei dentro.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получайте ленты летней поддержки, пополняя запасы или ремонтируя транспорт, находясь при этом в транспорте.",
+      "tr": "NULL",
+      "zh": "通过在载具内补给或维修载具以获得夏日支援绶带。"
+    },
+    "image_set_id": "804411",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5391",
+    "directive_tree_id": "122",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Kanonenkugel!",
+      "en": "Cannonball!",
+      "es": "¡Bomba!",
+      "fr": "Boulet de canon\u00A0!",
+      "it": "Cannonata!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пушечное ядро!",
+      "tr": "NULL",
+      "zh": "炮弹！"
+    },
+    "description": {
+      "de": "Töte Feinde, nachdem du aus dem Passagiersitz der Corsair geschleudert wurdest.",
+      "en": "Kill enemies after you launch from the Corsair's passenger seat.",
+      "es": "Mata enemigos tras lanzarte desde el asiento de pasajeros de un Corsair.",
+      "fr": "Tuez des ennemis après avoir été éjecté du siège passager du Corsaire.",
+      "it": "Uccidi i nemici dopo aver effettuato un lancio dal sedile del passeggero del Corsair.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов, катапультировавшись с пассажирского места в Corsair.",
+      "tr": "NULL",
+      "zh": "从Corsair的乘员座位上弹射出去后击杀敌人。"
+    },
+    "image_set_id": "804410",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5399",
+    "directive_tree_id": "122",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Luft und Ozean",
+      "en": "Air and Ocean",
+      "es": "Mar y aire",
+      "fr": "Air et mer",
+      "it": "Aria e oceano",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Небо и океан",
+      "tr": "NULL",
+      "zh": "空中和海上"
+    },
+    "description": {
+      "de": "Erziele als Infanterie Kills, während du dich in der Luft oder unter Wasser befindest.",
+      "en": "Earn kills as infantry while airborne or underwater.",
+      "es": "Mata enemigos como infantería desde el aire o bajo el agua.",
+      "fr": "Faites des victimes en tant qu'infanterie tout en étant dans les airs ou sous l'eau.",
+      "it": "Ottieni delle uccisioni mentre sei in aria o sott'acqua.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожайте врагов пехотой, находясь в воздухе или воде.",
+      "tr": "NULL",
+      "zh": "作为步兵，在空中或水下获得击杀。"
+    },
+    "image_set_id": "13518",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5387",
+    "directive_tree_id": "122",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mini-Operation: Luftanomalien",
+      "en": "Mini-Alert: Aerial Anomalies",
+      "es": "Minialerta: Anomalía aérea",
+      "fr": "Mini-alerte\u00A0: Anomalies aériennes",
+      "it": "Mini-allerta: Anomalie aeree",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мини-тревога: Воздушные аномалии",
+      "tr": "NULL",
+      "zh": "小型预警：空中异常"
+    },
+    "description": {
+      "de": "Verdiene dir Luftanomalie-Abzeichen, indem du während des Events Tempest erntest und einlagerst.",
+      "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event.",
+      "es": "Consigue galones de Anomalía aérea obteniendo y depositando Tempestad durante el evento.",
+      "fr": "Gagnez des décorations Anomalies aériennes en récoltant et en déposant de la Tempête pendant l'événement.",
+      "it": "Guadagna le coccarde Anomalia aerea raccogliendo e depositando la Tempest durante l'evento.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте ленты за воздушную аномалию, собирая и храня Tempest во время события.",
+      "tr": "NULL",
+      "zh": "通过在事件进行期间收集和储存Tempest来获得空中异常绶带。"
+    },
+    "image_set_id": "14101",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5395",
+    "directive_tree_id": "122",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Hammerhead",
+      "en": "Hammerhead",
+      "es": "Hammerhead",
+      "fr": "Hammerhead",
+      "it": "Hammerhead",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Hammerhead",
+      "tr": "NULL",
+      "zh": "Hammerhead"
+    },
+    "description": {
+      "de": "Zerstöre feindliche Fahrzeuge oder unterstütze die Zerstörung, während du selbst in einem Fahrzeug bist.",
+      "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself.",
+      "es": "Destruye o ayuda a destruir vehículos enemigos usando un vehículo.",
+      "fr": "Détruisez et aidez à l'élimination des véhicules ennemis tout en étant vous-même dans un véhicule.",
+      "it": "Distruggi o aiuta a distruggere i veicoli nemici mentre ti trovi in un veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте вражеский транспорт или помогите в его уничтожении, также находясь в транспорте.",
+      "tr": "NULL",
+      "zh": "在载具内时击杀或协助击杀敌人的载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5381",
+    "directive_tree_id": "122",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schlage die Hitze",
+      "en": "Beat the Heat",
+      "es": "Derrota al calor",
+      "fr": "Coup de chaleur",
+      "it": "Combatti il caldo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Одолей жару",
+      "tr": "NULL",
+      "zh": "解暑"
+    },
+    "description": {
+      "de": "Erziele Kills mit einer Sommerwaffe.",
+      "en": "Score kills with a Summer Holiday Weapon.",
+      "es": "Causa bajas con un arma de las vacaciones de verano.",
+      "fr": "Faites des victimes avec une arme des vacances d'été.",
+      "it": "Metti a punto delle uccisioni con un'arma Vacanze estive.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов летним праздничным оружием.",
+      "tr": "NULL",
+      "zh": "使用夏日假期武器完成击杀。"
+    },
+    "image_set_id": "804409",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5382",
+    "directive_tree_id": "122",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verstärkung \"Sommer\"",
+      "en": "Summer Support",
+      "es": "Apoyo de verano",
+      "fr": "Soutien de l'été",
+      "it": "Supporto Summer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Летняя поддержка",
+      "tr": "NULL",
+      "zh": "夏日支持"
+    },
+    "description": {
+      "de": "Erhalte die Verstärkungsauszeichnungen \"Sommer\", indem du Fahrzeuge nachrüstest oder reparierst, während du dich in einem Fahrzeug befindest.",
+      "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle.",
+      "es": "Gana galones de apoyo de verano al reponer suministros o reparar vehículos estando dentro de un vehículo.",
+      "fr": "Gagnez des décoration de soutien de l'été en réapprovisionnant ou en réparant des véhicules depuis un véhicule.",
+      "it": "Guadagna delle coccarde per mezzi Summer rifornendo o riparando i veicoli mentre ci sei dentro.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получайте ленты летней поддержки, пополняя запасы или ремонтируя транспорт, находясь при этом в транспорте.",
+      "tr": "NULL",
+      "zh": "通过在载具内补给或维修载具以获得夏日支援绶带。"
+    },
+    "image_set_id": "804411",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5390",
+    "directive_tree_id": "122",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Kanonenkugel!",
+      "en": "Cannonball!",
+      "es": "¡Bomba!",
+      "fr": "Boulet de canon\u00A0!",
+      "it": "Cannonata!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пушечное ядро!",
+      "tr": "NULL",
+      "zh": "炮弹！"
+    },
+    "description": {
+      "de": "Töte Feinde, nachdem du aus dem Passagiersitz der Corsair geschleudert wurdest.",
+      "en": "Kill enemies after you launch from the Corsair's passenger seat.",
+      "es": "Mata enemigos tras lanzarte desde el asiento de pasajeros de un Corsair.",
+      "fr": "Tuez des ennemis après avoir été éjecté du siège passager du Corsaire.",
+      "it": "Uccidi i nemici dopo aver effettuato un lancio dal sedile del passeggero del Corsair.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов, катапультировавшись с пассажирского места в Corsair.",
+      "tr": "NULL",
+      "zh": "从Corsair的乘员座位上弹射出去后击杀敌人。"
+    },
+    "image_set_id": "804410",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5398",
+    "directive_tree_id": "122",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Luft und Ozean",
+      "en": "Air and Ocean",
+      "es": "Mar y aire",
+      "fr": "Air et mer",
+      "it": "Aria e oceano",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Небо и океан",
+      "tr": "NULL",
+      "zh": "空中和海上"
+    },
+    "description": {
+      "de": "Erziele als Infanterie Kills, während du dich in der Luft oder unter Wasser befindest.",
+      "en": "Earn kills as infantry while airborne or underwater.",
+      "es": "Mata enemigos como infantería desde el aire o bajo el agua.",
+      "fr": "Faites des victimes en tant qu'infanterie tout en étant dans les airs ou sous l'eau.",
+      "it": "Ottieni delle uccisioni mentre sei in aria o sott'acqua.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожайте врагов пехотой, находясь в воздухе или воде.",
+      "tr": "NULL",
+      "zh": "作为步兵，在空中或水下获得击杀。"
+    },
+    "image_set_id": "13518",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5386",
+    "directive_tree_id": "122",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mini-Operation: Luftanomalien",
+      "en": "Mini-Alert: Aerial Anomalies",
+      "es": "Minialerta: Anomalía aérea",
+      "fr": "Mini-alerte\u00A0: Anomalies aériennes",
+      "it": "Mini-allerta: Anomalie aeree",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мини-тревога: Воздушные аномалии",
+      "tr": "NULL",
+      "zh": "小型预警：空中异常"
+    },
+    "description": {
+      "de": "Verdiene dir Luftanomalie-Abzeichen, indem du während des Events Tempest erntest und einlagerst.",
+      "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event.",
+      "es": "Consigue galones de Anomalía aérea obteniendo y depositando Tempestad durante el evento.",
+      "fr": "Gagnez des décorations Anomalies aériennes en récoltant et en déposant de la Tempête pendant l'événement.",
+      "it": "Guadagna le coccarde Anomalia aerea raccogliendo e depositando la Tempest durante l'evento.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте ленты за воздушную аномалию, собирая и храня Tempest во время события.",
+      "tr": "NULL",
+      "zh": "通过在事件进行期间收集和储存Tempest来获得空中异常绶带。"
+    },
+    "image_set_id": "14101",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5394",
+    "directive_tree_id": "122",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Hammerhead",
+      "en": "Hammerhead",
+      "es": "Hammerhead",
+      "fr": "Hammerhead",
+      "it": "Hammerhead",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Hammerhead",
+      "tr": "NULL",
+      "zh": "Hammerhead"
+    },
+    "description": {
+      "de": "Zerstöre feindliche Fahrzeuge oder unterstütze die Zerstörung, während du selbst in einem Fahrzeug bist.",
+      "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself.",
+      "es": "Destruye o ayuda a destruir vehículos enemigos usando un vehículo.",
+      "fr": "Détruisez et aidez à l'élimination des véhicules ennemis tout en étant vous-même dans un véhicule.",
+      "it": "Distruggi o aiuta a distruggere i veicoli nemici mentre ti trovi in un veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте вражеский транспорт или помогите в его уничтожении, также находясь в транспорте.",
+      "tr": "NULL",
+      "zh": "在载具内时击杀或协助击杀敌人的载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

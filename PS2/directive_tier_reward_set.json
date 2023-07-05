@@ -10562,5 +10562,309 @@
     "image_set_id": "803815",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6232",
+    "faction_id": "4",
+    "name": {
+      "de": "100 ZERTS",
+      "en": "100 Certs",
+      "es": "100 Certs",
+      "fr": "100 Accréditations",
+      "it": "100 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 сертификатов",
+      "tr": "NULL",
+      "zh": "100证书点数"
+    },
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6233",
+    "faction_id": "4",
+    "name": {
+      "de": "100 ISO-4",
+      "en": "100 ISO-4",
+      "es": "100 ISO-4 ",
+      "fr": "100 ISO-4",
+      "it": "100 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 ISO-4",
+      "tr": "NULL",
+      "zh": "100 ISO-4"
+    },
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6234",
+    "faction_id": "4",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6235",
+    "faction_id": "4",
+    "name": {
+      "de": "Harrasser-Lumifaser-Zierleiste \"Sonnenstrahlen\"",
+      "en": "Sunburst Harasser Lumifiber Trim",
+      "es": "Adorno de lumifibra Estallido solar para Harrasser",
+      "fr": "Finition lumifibre Irruption solaire de l'Offenseur",
+      "it": "Rifinitura in lumifibra Harasser Sunburst",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Светопокрытие «Солнечные лучи» для Harrasser",
+      "tr": "NULL",
+      "zh": "艳阳当空Harrasser炫光迷彩"
+    },
+    "image_set_id": "807750",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6232",
+    "faction_id": "1",
+    "name": {
+      "de": "100 ZERTS",
+      "en": "100 Certs",
+      "es": "100 Certs",
+      "fr": "100 Accréditations",
+      "it": "100 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 сертификатов",
+      "tr": "NULL",
+      "zh": "100证书点数"
+    },
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6233",
+    "faction_id": "1",
+    "name": {
+      "de": "100 ISO-4",
+      "en": "100 ISO-4",
+      "es": "100 ISO-4 ",
+      "fr": "100 ISO-4",
+      "it": "100 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 ISO-4",
+      "tr": "NULL",
+      "zh": "100 ISO-4"
+    },
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6234",
+    "faction_id": "1",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6235",
+    "faction_id": "1",
+    "name": {
+      "de": "Corsair-Lumifaser-Zierleiste \"Sonnenstrahlen\"",
+      "en": "Sunburst Corsair Lumifiber Trim",
+      "es": "Adorno de lumifibra Estallido solar para Corsair",
+      "fr": "Finition lumifibre Irruption solaire du Corsaire",
+      "it": "Rifinitura in lumifibra Corsair Sunburst",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Светопокрытие «Солнечные лучи» для Corsair",
+      "tr": "NULL",
+      "zh": "艳阳当空Corsair炫光迷彩"
+    },
+    "image_set_id": "807751",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6232",
+    "faction_id": "3",
+    "name": {
+      "de": "100 ZERTS",
+      "en": "100 Certs",
+      "es": "100 Certs",
+      "fr": "100 Accréditations",
+      "it": "100 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 сертификатов",
+      "tr": "NULL",
+      "zh": "100证书点数"
+    },
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6233",
+    "faction_id": "3",
+    "name": {
+      "de": "100 ISO-4",
+      "en": "100 ISO-4",
+      "es": "100 ISO-4 ",
+      "fr": "100 ISO-4",
+      "it": "100 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 ISO-4",
+      "tr": "NULL",
+      "zh": "100 ISO-4"
+    },
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6234",
+    "faction_id": "3",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6235",
+    "faction_id": "3",
+    "name": {
+      "de": "Corsair-Lumifaser-Zierleiste \"Sonnenstrahlen\"",
+      "en": "Sunburst Corsair Lumifiber Trim",
+      "es": "Adorno de lumifibra Estallido solar para Corsair",
+      "fr": "Finition lumifibre Irruption solaire du Corsaire",
+      "it": "Rifinitura in lumifibra Corsair Sunburst",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Светопокрытие «Солнечные лучи» для Corsair",
+      "tr": "NULL",
+      "zh": "艳阳当空Corsair炫光迷彩"
+    },
+    "image_set_id": "807752",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6232",
+    "faction_id": "2",
+    "name": {
+      "de": "100 ZERTS",
+      "en": "100 Certs",
+      "es": "100 Certs",
+      "fr": "100 Accréditations",
+      "it": "100 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 сертификатов",
+      "tr": "NULL",
+      "zh": "100证书点数"
+    },
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6233",
+    "faction_id": "2",
+    "name": {
+      "de": "100 ISO-4",
+      "en": "100 ISO-4",
+      "es": "100 ISO-4 ",
+      "fr": "100 ISO-4",
+      "it": "100 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 ISO-4",
+      "tr": "NULL",
+      "zh": "100 ISO-4"
+    },
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6234",
+    "faction_id": "2",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6235",
+    "faction_id": "2",
+    "name": {
+      "de": "Corsair-Lumifaser-Zierleiste \"Sonnenstrahlen\"",
+      "en": "Sunburst Corsair Lumifiber Trim",
+      "es": "Adorno de lumifibra Estallido solar para Corsair",
+      "fr": "Finition lumifibre Irruption solaire du Corsaire",
+      "it": "Rifinitura in lumifibra Corsair Sunburst",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Светопокрытие «Солнечные лучи» для Corsair",
+      "tr": "NULL",
+      "zh": "艳阳当空Corsair炫光迷彩"
+    },
+    "image_set_id": "807753",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]
