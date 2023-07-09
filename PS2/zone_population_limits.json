@@ -145,11 +145,11 @@
   {
     "world_id": "10",
     "zone_id": "6",
-    "total": "747",
+    "total": "750",
     "population_limits": {
-      "VS": "249",
-      "NC": "249",
-      "TR": "249",
+      "VS": "250",
+      "NC": "250",
+      "TR": "250",
       "NSO": "0"
     }
   },
@@ -266,11 +266,11 @@
   {
     "world_id": "17",
     "zone_id": "97",
-    "total": "1090",
+    "total": "1098",
     "population_limits": {
       "VS": "366",
       "NC": "366",
-      "TR": "358",
+      "TR": "366",
       "NSO": "0"
     }
   },
@@ -376,11 +376,11 @@
   {
     "world_id": "40",
     "zone_id": "6",
-    "total": "731",
+    "total": "744",
     "population_limits": {
       "VS": "250",
       "NC": "250",
-      "TR": "231",
+      "TR": "244",
       "NSO": "0"
     }
   },
@@ -409,11 +409,11 @@
   {
     "world_id": "40",
     "zone_id": "344",
-    "total": "743",
+    "total": "750",
     "population_limits": {
       "VS": "250",
       "NC": "250",
-      "TR": "243",
+      "TR": "250",
       "NSO": "0"
     }
   },
@@ -668,6 +668,39 @@
       "NC": "100",
       "TR": "100",
       "NSO": "0"
+    }
+  },
+  {
+    "world_id": "17",
+    "zone_id": "364",
+    "total": "4",
+    "population_limits": {
+      "VS": "1",
+      "NC": "1",
+      "TR": "1",
+      "NSO": "1"
+    }
+  },
+  {
+    "world_id": "17",
+    "zone_id": "364",
+    "total": "4",
+    "population_limits": {
+      "VS": "1",
+      "NC": "1",
+      "TR": "1",
+      "NSO": "1"
+    }
+  },
+  {
+    "world_id": "17",
+    "zone_id": "364",
+    "total": "4",
+    "population_limits": {
+      "VS": "1",
+      "NC": "1",
+      "TR": "1",
+      "NSO": "1"
     }
   }
 ]
