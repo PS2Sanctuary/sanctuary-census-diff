@@ -365,10 +365,10 @@
   {
     "world_id": "40",
     "zone_id": "8",
-    "total": "737",
+    "total": "742",
     "population_limits": {
       "VS": "250",
-      "NC": "237",
+      "NC": "242",
       "TR": "250",
       "NSO": "0"
     }
@@ -376,11 +376,11 @@
   {
     "world_id": "40",
     "zone_id": "6",
-    "total": "732",
+    "total": "738",
     "population_limits": {
       "VS": "249",
       "NC": "249",
-      "TR": "234",
+      "TR": "240",
       "NSO": "0"
     }
   },
