@@ -277,9 +277,9 @@
   {
     "world_id": "17",
     "zone_id": "8",
-    "total": "750",
+    "total": "743",
     "population_limits": {
-      "VS": "250",
+      "VS": "243",
       "NC": "250",
       "TR": "250",
       "NSO": "0"
