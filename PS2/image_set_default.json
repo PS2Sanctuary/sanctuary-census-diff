@@ -82377,67 +82377,67 @@
   },
   {
     "image_set_id": "807694",
-    "image_id": "96338",
+    "image_id": "96336",
     "description": "icon_implant_hud_airDrop",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96338.png"
+    "image_path": "/files/ps2/images/static/96336.png"
   },
   {
     "image_set_id": "807695",
-    "image_id": "96341",
+    "image_id": "96339",
     "description": "icon_implant_hud_juggernaut",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96341.png"
+    "image_path": "/files/ps2/images/static/96339.png"
   },
   {
     "image_set_id": "807696",
-    "image_id": "96344",
+    "image_id": "96342",
     "description": "icon_implant_hud_karma",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96344.png"
+    "image_path": "/files/ps2/images/static/96342.png"
   },
   {
     "image_set_id": "807697",
-    "image_id": "96347",
+    "image_id": "96345",
     "description": "icon_implant_hud_livingOnTheEdge",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96347.png"
+    "image_path": "/files/ps2/images/static/96345.png"
   },
   {
     "image_set_id": "807698",
-    "image_id": "96350",
+    "image_id": "96348",
     "description": "icon_implant_hud_outmaneuver",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96350.png"
+    "image_path": "/files/ps2/images/static/96348.png"
   },
   {
     "image_set_id": "807699",
-    "image_id": "96353",
+    "image_id": "96351",
     "description": "icon_implant_hud_overcharge",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96353.png"
+    "image_path": "/files/ps2/images/static/96351.png"
   },
   {
     "image_set_id": "807700",
-    "image_id": "96356",
+    "image_id": "96354",
     "description": "icon_implant_hud_rallyMechanic",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96356.png"
+    "image_path": "/files/ps2/images/static/96354.png"
   },
   {
     "image_set_id": "807701",
-    "image_id": "96359",
+    "image_id": "96357",
     "description": "icon_implant_hud_rapidResponse",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96359.png"
+    "image_path": "/files/ps2/images/static/96357.png"
   },
   {
     "image_set_id": "807702",
@@ -82449,299 +82449,299 @@
   },
   {
     "image_set_id": "807703",
-    "image_id": "96365",
+    "image_id": "96363",
     "description": "icon_implant_hud_takeAWalk",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96365.png"
+    "image_path": "/files/ps2/images/static/96363.png"
   },
   {
     "image_set_id": "807704",
-    "image_id": "96368",
+    "image_id": "96366",
     "description": "icon_implant_ui_airDrop_tier1",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96368.png"
+    "image_path": "/files/ps2/images/static/96366.png"
   },
   {
     "image_set_id": "807705",
-    "image_id": "96371",
+    "image_id": "96369",
     "description": "icon_implant_ui_airDrop_tier2",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96371.png"
+    "image_path": "/files/ps2/images/static/96369.png"
   },
   {
     "image_set_id": "807706",
-    "image_id": "96374",
+    "image_id": "96372",
     "description": "icon_implant_ui_airDrop_tier3",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96374.png"
+    "image_path": "/files/ps2/images/static/96372.png"
   },
   {
     "image_set_id": "807707",
-    "image_id": "96377",
+    "image_id": "96375",
     "description": "icon_implant_ui_airDrop_tier4",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96377.png"
+    "image_path": "/files/ps2/images/static/96375.png"
   },
   {
     "image_set_id": "807708",
-    "image_id": "96380",
+    "image_id": "96378",
     "description": "icon_implant_ui_airDrop_tier5",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96380.png"
+    "image_path": "/files/ps2/images/static/96378.png"
   },
   {
     "image_set_id": "807709",
-    "image_id": "96383",
+    "image_id": "96381",
     "description": "icon_implant_ui_juggernaut_tier6",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96383.png"
+    "image_path": "/files/ps2/images/static/96381.png"
   },
   {
     "image_set_id": "807710",
-    "image_id": "96386",
+    "image_id": "96384",
     "description": "icon_implant_ui_karma_tier1",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96386.png"
+    "image_path": "/files/ps2/images/static/96384.png"
   },
   {
     "image_set_id": "807711",
-    "image_id": "96389",
+    "image_id": "96387",
     "description": "icon_implant_ui_karma_tier2",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96389.png"
+    "image_path": "/files/ps2/images/static/96387.png"
   },
   {
     "image_set_id": "807712",
-    "image_id": "96392",
+    "image_id": "96390",
     "description": "icon_implant_ui_karma_tier3",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96392.png"
+    "image_path": "/files/ps2/images/static/96390.png"
   },
   {
     "image_set_id": "807713",
-    "image_id": "96395",
+    "image_id": "96393",
     "description": "icon_implant_ui_karma_tier4",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96395.png"
+    "image_path": "/files/ps2/images/static/96393.png"
   },
   {
     "image_set_id": "807714",
-    "image_id": "96398",
+    "image_id": "96396",
     "description": "icon_implant_ui_karma_tier5",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96398.png"
+    "image_path": "/files/ps2/images/static/96396.png"
   },
   {
     "image_set_id": "807715",
-    "image_id": "96494",
+    "image_id": "96492",
     "description": "icon_implant_ui_livingOnTheEdge_tier1",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96494.png"
+    "image_path": "/files/ps2/images/static/96492.png"
   },
   {
     "image_set_id": "807716",
-    "image_id": "96497",
+    "image_id": "96495",
     "description": "icon_implant_ui_livingOnTheEdge_tier2",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96497.png"
+    "image_path": "/files/ps2/images/static/96495.png"
   },
   {
     "image_set_id": "807717",
-    "image_id": "96500",
+    "image_id": "96498",
     "description": "icon_implant_ui_livingOnTheEdge_tier3",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96500.png"
+    "image_path": "/files/ps2/images/static/96498.png"
   },
   {
     "image_set_id": "807718",
-    "image_id": "96503",
+    "image_id": "96501",
     "description": "icon_implant_ui_livingOnTheEdge_tier4",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96503.png"
+    "image_path": "/files/ps2/images/static/96501.png"
   },
   {
     "image_set_id": "807719",
-    "image_id": "96506",
+    "image_id": "96504",
     "description": "icon_implant_ui_livingOnTheEdge_tier5",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96506.png"
+    "image_path": "/files/ps2/images/static/96504.png"
   },
   {
     "image_set_id": "807720",
-    "image_id": "96509",
+    "image_id": "96507",
     "description": "icon_implant_ui_outmaneuver_tier1",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96509.png"
+    "image_path": "/files/ps2/images/static/96507.png"
   },
   {
     "image_set_id": "807721",
-    "image_id": "96512",
+    "image_id": "96510",
     "description": "icon_implant_ui_outmaneuver_tier2",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96512.png"
+    "image_path": "/files/ps2/images/static/96510.png"
   },
   {
     "image_set_id": "807722",
-    "image_id": "96515",
+    "image_id": "96513",
     "description": "icon_implant_ui_outmaneuver_tier3",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96515.png"
+    "image_path": "/files/ps2/images/static/96513.png"
   },
   {
     "image_set_id": "807723",
-    "image_id": "96518",
+    "image_id": "96516",
     "description": "icon_implant_ui_outmaneuver_tier4",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96518.png"
+    "image_path": "/files/ps2/images/static/96516.png"
   },
   {
     "image_set_id": "807724",
-    "image_id": "96521",
+    "image_id": "96519",
     "description": "icon_implant_ui_outmaneuver_tier5",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96521.png"
+    "image_path": "/files/ps2/images/static/96519.png"
   },
   {
     "image_set_id": "807725",
-    "image_id": "96524",
+    "image_id": "96522",
     "description": "icon_implant_ui_overcharge_tier1",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96524.png"
+    "image_path": "/files/ps2/images/static/96522.png"
   },
   {
     "image_set_id": "807726",
-    "image_id": "96527",
+    "image_id": "96525",
     "description": "icon_implant_ui_overcharge_tier2",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96527.png"
+    "image_path": "/files/ps2/images/static/96525.png"
   },
   {
     "image_set_id": "807727",
-    "image_id": "96530",
+    "image_id": "96528",
     "description": "icon_implant_ui_overcharge_tier3",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96530.png"
+    "image_path": "/files/ps2/images/static/96528.png"
   },
   {
     "image_set_id": "807728",
-    "image_id": "96533",
+    "image_id": "96531",
     "description": "icon_implant_ui_overcharge_tier4",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96533.png"
+    "image_path": "/files/ps2/images/static/96531.png"
   },
   {
     "image_set_id": "807729",
-    "image_id": "96536",
+    "image_id": "96534",
     "description": "icon_implant_ui_overcharge_tier5",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96536.png"
+    "image_path": "/files/ps2/images/static/96534.png"
   },
   {
     "image_set_id": "807730",
-    "image_id": "96539",
+    "image_id": "96537",
     "description": "icon_implant_ui_rallyMechanic_tier1",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96539.png"
+    "image_path": "/files/ps2/images/static/96537.png"
   },
   {
     "image_set_id": "807731",
-    "image_id": "96542",
+    "image_id": "96540",
     "description": "icon_implant_ui_rallyMechanic_tier2",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96542.png"
+    "image_path": "/files/ps2/images/static/96540.png"
   },
   {
     "image_set_id": "807732",
-    "image_id": "96545",
+    "image_id": "96543",
     "description": "icon_implant_ui_rallyMechanic_tier3",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96545.png"
+    "image_path": "/files/ps2/images/static/96543.png"
   },
   {
     "image_set_id": "807733",
-    "image_id": "96548",
+    "image_id": "96546",
     "description": "icon_implant_ui_rallyMechanic_tier4",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96548.png"
+    "image_path": "/files/ps2/images/static/96546.png"
   },
   {
     "image_set_id": "807734",
-    "image_id": "96551",
+    "image_id": "96549",
     "description": "icon_implant_ui_rallyMechanic_tier5",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96551.png"
+    "image_path": "/files/ps2/images/static/96549.png"
   },
   {
     "image_set_id": "807735",
-    "image_id": "96554",
+    "image_id": "96552",
     "description": "icon_implant_ui_rapidResponse_tier1",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96554.png"
+    "image_path": "/files/ps2/images/static/96552.png"
   },
   {
     "image_set_id": "807736",
-    "image_id": "96557",
+    "image_id": "96555",
     "description": "icon_implant_ui_rapidResponse_tier2",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96557.png"
+    "image_path": "/files/ps2/images/static/96555.png"
   },
   {
     "image_set_id": "807737",
-    "image_id": "96560",
+    "image_id": "96558",
     "description": "icon_implant_ui_rapidResponse_tier3",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96560.png"
+    "image_path": "/files/ps2/images/static/96558.png"
   },
   {
     "image_set_id": "807738",
-    "image_id": "96563",
+    "image_id": "96561",
     "description": "icon_implant_ui_rapidResponse_tier4",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96563.png"
+    "image_path": "/files/ps2/images/static/96561.png"
   },
   {
     "image_set_id": "807739",
-    "image_id": "96566",
+    "image_id": "96564",
     "description": "icon_implant_ui_rapidResponse_tier5",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96566.png"
+    "image_path": "/files/ps2/images/static/96564.png"
   },
   {
     "image_set_id": "807740",
@@ -82785,11 +82785,11 @@
   },
   {
     "image_set_id": "807745",
-    "image_id": "96584",
+    "image_id": "96582",
     "description": "icon_implant_ui_takeAWalk_tier6",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96584.png"
+    "image_path": "/files/ps2/images/static/96582.png"
   },
   {
     "image_set_id": "807747",
@@ -82854,5 +82854,13 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/96611.png"
+  },
+  {
+    "image_set_id": "807746",
+    "image_id": "96587",
+    "description": "icon_Vehicle_Common_AutoTurret_GroundMachineGun_PrimeDirective",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96587.png"
   }
 ]

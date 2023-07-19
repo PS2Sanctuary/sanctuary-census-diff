@@ -47078,5 +47078,15 @@
     "image_set_id": "NULL",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6333",
+    "resist_type_id": "47",
+    "resist_percent": "150",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "0",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]
