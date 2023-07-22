@@ -123,11 +123,11 @@
   {
     "world_id": "10",
     "zone_id": "4",
-    "total": "728",
+    "total": "750",
     "population_limits": {
-      "VS": "248",
-      "NC": "232",
-      "TR": "248",
+      "VS": "250",
+      "NC": "250",
+      "TR": "250",
       "NSO": "0"
     }
   },
@@ -266,11 +266,11 @@
   {
     "world_id": "17",
     "zone_id": "97",
-    "total": "1098",
+    "total": "1092",
     "population_limits": {
       "VS": "366",
       "NC": "366",
-      "TR": "366",
+      "TR": "360",
       "NSO": "0"
     }
   },
