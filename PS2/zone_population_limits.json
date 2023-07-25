@@ -354,10 +354,10 @@
   {
     "world_id": "40",
     "zone_id": "96",
-    "total": "1091",
+    "total": "1098",
     "population_limits": {
       "VS": "366",
-      "NC": "359",
+      "NC": "366",
       "TR": "366",
       "NSO": "0"
     }
