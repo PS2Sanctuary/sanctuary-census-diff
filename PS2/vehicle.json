@@ -3491,16 +3491,16 @@
   {
     "vehicle_id": "2145",
     "name": {
-      "de": "\"Zweiter\" Spitfire-Auto-Geschütz",
+      "de": "\"Deluxe\" Spitfire-Auto-Geschütz",
       "en": "Spitfire \"Deluxe\" Auto-Turret",
-      "es": "Torreta automática Spitfire \"Segunda\"",
-      "fr": "\"La Seconde\" tourelle automatique Spitfire",
-      "it": "Torretta automatica Spitfire \"The Second\"",
+      "es": "Torreta automática Spitfire \"Deluxe\"",
+      "fr": "Tourelle automatique Spitfire \"de luxe\"",
+      "it": "Torretta automatica Spitfire \"Deluxe\"",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "«Вторая» автоматическая турель Spitfire",
+      "ru": "Автоматическая турель Spitfire «Deluxe»",
       "tr": "NULL",
-      "zh": "“第二个”Spitfire自动炮塔"
+      "zh": "Spitfire“豪华”自动炮塔"
     },
     "description": {
       "de": "Die automatischen Spitfire-Geschütze werden von Ingenieuren platziert und greifen feindliche Infanterie innerhalb von 50 Metern automatisch an.",

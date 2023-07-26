@@ -82862,5 +82862,133 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/96587.png"
+  },
+  {
+    "image_set_id": "807755",
+    "image_id": "96615",
+    "description": "icon_Weapon_Common_Skins_Attachments_Wartime_IronSightBack_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96615.png"
+  },
+  {
+    "image_set_id": "807756",
+    "image_id": "96618",
+    "description": "icon_Weapon_Common_Skins_Attachments_Wartime_IronSightFront_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96618.png"
+  },
+  {
+    "image_set_id": "807757",
+    "image_id": "96621",
+    "description": "icon_Weapon_Common_Skins_Attachments_Wartime_Magazine",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96621.png"
+  },
+  {
+    "image_set_id": "807758",
+    "image_id": "96624",
+    "description": "icon_Weapon_Common_Skins_Attachments_Wartime_Flashlight",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96624.png"
+  },
+  {
+    "image_set_id": "807759",
+    "image_id": "96627",
+    "description": "icon_Weapon_Common_Skins_Attachments_Wartime_Reflex_001",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96627.png"
+  },
+  {
+    "image_set_id": "807760",
+    "image_id": "96628",
+    "description": "icon_Weapon_Common_Skins_Attachments_Wartime_Laser",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96628.png"
+  },
+  {
+    "image_set_id": "807761",
+    "image_id": "96633",
+    "description": "icon_Weapon_Common_Skins_Attachments_Wartime_Reflex_002",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96633.png"
+  },
+  {
+    "image_set_id": "807762",
+    "image_id": "96634",
+    "description": "icon_Weapon_Common_Skins_Attachments_Wartime_Compensator",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96634.png"
+  },
+  {
+    "image_set_id": "807763",
+    "image_id": "96639",
+    "description": "icon_Weapon_Common_Skins_Attachments_Wartime_Silencer",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96639.png"
+  },
+  {
+    "image_set_id": "807764",
+    "image_id": "96642",
+    "description": "icon_Weapon_Common_Skins_Attachments_Wartime_Muzzlebreak",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96642.png"
+  },
+  {
+    "image_set_id": "807765",
+    "image_id": "96645",
+    "description": "icon_Weapon_Common_Skins_AutoPistol001_Wartime",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96645.png"
+  },
+  {
+    "image_set_id": "807766",
+    "image_id": "96651",
+    "description": "Icon_Vehicle_Common_Lightning_Attachment_Natural Camoflage_Exterior",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96651.png"
+  },
+  {
+    "image_set_id": "807767",
+    "image_id": "96660",
+    "description": "Icon_Vehicle_TR_Prowler_Attachment_Natural Camoflage_Exterior",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96660.png"
+  },
+  {
+    "image_set_id": "807768",
+    "image_id": "96654",
+    "description": "Icon_Vehicle_NC_Vanguard_Attachment_Natural Camoflage_Exterior",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96654.png"
+  },
+  {
+    "image_set_id": "807769",
+    "image_id": "96663",
+    "description": "Icon_Vehicle_VS_Magrider_Attachment_Natural Camoflage_Exterior",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96663.png"
+  },
+  {
+    "image_set_id": "807770",
+    "image_id": "96657",
+    "description": "Icon_Vehicle_NSO_Chimera_Attachment_Natural Camoflage_Exterior",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96657.png"
   }
 ]
