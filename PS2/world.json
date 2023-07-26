@@ -13,7 +13,7 @@
       "tr": "SolTech",
       "zh": "SolTech"
     },
-    "is_locked": "1",
+    "is_locked": "0",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -30,7 +30,7 @@
       "tr": "Emerald",
       "zh": "Emerald"
     },
-    "is_locked": "1",
+    "is_locked": "0",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -47,7 +47,7 @@
       "tr": "Jaeger",
       "zh": "Jaeger"
     },
-    "is_locked": "1",
+    "is_locked": "0",
     "is_unprivileged_access_allowed": "0"
   },
   {
@@ -64,7 +64,7 @@
       "tr": "Cobalt",
       "zh": "Cobalt"
     },
-    "is_locked": "1",
+    "is_locked": "0",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -81,7 +81,7 @@
       "tr": "Connery",
       "zh": "Connery"
     },
-    "is_locked": "1",
+    "is_locked": "0",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -98,7 +98,7 @@
       "tr": "Miller",
       "zh": "Miller"
     },
-    "is_locked": "1",
+    "is_locked": "0",
     "is_unprivileged_access_allowed": "1"
   },
   {
