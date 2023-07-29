@@ -9684,5 +9684,25 @@
     "image_set_id": "807749",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6254",
+    "item_id": "6014027",
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "quantity": "1",
+    "image_set_id": "803651",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
   }
 ]
