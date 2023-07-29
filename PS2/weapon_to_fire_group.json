@@ -8633,5 +8633,10 @@
     "weapon_id": "78820",
     "fire_group_id": "80993",
     "fire_group_index": "0"
+  },
+  {
+    "weapon_id": "78822",
+    "fire_group_id": "80994",
+    "fire_group_index": "0"
   }
 ]
