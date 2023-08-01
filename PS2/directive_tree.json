@@ -1618,5 +1618,42 @@
     "image_set_id": "14396",
     "image_id": "79737",
     "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_tree_id": "123",
+    "directive_tree_category_id": "8",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Operation Emberfall",
+      "en": "Operation Emberfall",
+      "es": "Operación Caída de ascuas",
+      "fr": "Opération Emberfall",
+      "it": "Operazione Emberfall",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Операция «Падение пепла»",
+      "tr": "NULL",
+      "zh": "行动：Emberfall"
+    },
+    "description": {
+      "de": "Verfügbar bis 31. August",
+      "en": "Available through August 31",
+      "es": "Disponible hasta el 31 de agosto",
+      "fr": "Disponible jusqu'au 31 août",
+      "it": "Disponibile fino al 31 agosto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Доступно до 31 августа",
+      "tr": "NULL",
+      "zh": "活动持续至8月31日"
+    },
+    "image_set_id": "0",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

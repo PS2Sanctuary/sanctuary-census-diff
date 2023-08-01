@@ -10942,5 +10942,309 @@
     "image_set_id": "803651",
     "image_id": "79737",
     "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6236",
+    "faction_id": "4",
+    "name": {
+      "de": "100 ZERTS",
+      "en": "100 Certs",
+      "es": "100 Certs",
+      "fr": "100 Accréditations",
+      "it": "100 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 сертификатов",
+      "tr": "NULL",
+      "zh": "100证书点数"
+    },
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6237",
+    "faction_id": "4",
+    "name": {
+      "de": "100 ISO-4",
+      "en": "100 ISO-4",
+      "es": "100 ISO-4 ",
+      "fr": "100 ISO-4",
+      "it": "100 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 ISO-4",
+      "tr": "NULL",
+      "zh": "100 ISO-4"
+    },
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6238",
+    "faction_id": "4",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6239",
+    "faction_id": "4",
+    "name": {
+      "de": "Überraschungsimplantat",
+      "en": "Mystery Implant",
+      "es": "Implante sorpresa",
+      "fr": "Implant mystère",
+      "it": "Impianto misterioso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Таинственный имплант",
+      "tr": "NULL",
+      "zh": "神秘插件"
+    },
+    "image_set_id": "807679",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6236",
+    "faction_id": "1",
+    "name": {
+      "de": "100 ZERTS",
+      "en": "100 Certs",
+      "es": "100 Certs",
+      "fr": "100 Accréditations",
+      "it": "100 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 сертификатов",
+      "tr": "NULL",
+      "zh": "100证书点数"
+    },
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6237",
+    "faction_id": "1",
+    "name": {
+      "de": "100 ISO-4",
+      "en": "100 ISO-4",
+      "es": "100 ISO-4 ",
+      "fr": "100 ISO-4",
+      "it": "100 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 ISO-4",
+      "tr": "NULL",
+      "zh": "100 ISO-4"
+    },
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6238",
+    "faction_id": "1",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6239",
+    "faction_id": "1",
+    "name": {
+      "de": "Überraschungsimplantat",
+      "en": "Mystery Implant",
+      "es": "Implante sorpresa",
+      "fr": "Implant mystère",
+      "it": "Impianto misterioso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Таинственный имплант",
+      "tr": "NULL",
+      "zh": "神秘插件"
+    },
+    "image_set_id": "807679",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6236",
+    "faction_id": "3",
+    "name": {
+      "de": "100 ZERTS",
+      "en": "100 Certs",
+      "es": "100 Certs",
+      "fr": "100 Accréditations",
+      "it": "100 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 сертификатов",
+      "tr": "NULL",
+      "zh": "100证书点数"
+    },
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6237",
+    "faction_id": "3",
+    "name": {
+      "de": "100 ISO-4",
+      "en": "100 ISO-4",
+      "es": "100 ISO-4 ",
+      "fr": "100 ISO-4",
+      "it": "100 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 ISO-4",
+      "tr": "NULL",
+      "zh": "100 ISO-4"
+    },
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6238",
+    "faction_id": "3",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6239",
+    "faction_id": "3",
+    "name": {
+      "de": "Überraschungsimplantat",
+      "en": "Mystery Implant",
+      "es": "Implante sorpresa",
+      "fr": "Implant mystère",
+      "it": "Impianto misterioso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Таинственный имплант",
+      "tr": "NULL",
+      "zh": "神秘插件"
+    },
+    "image_set_id": "807679",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6236",
+    "faction_id": "2",
+    "name": {
+      "de": "100 ZERTS",
+      "en": "100 Certs",
+      "es": "100 Certs",
+      "fr": "100 Accréditations",
+      "it": "100 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 сертификатов",
+      "tr": "NULL",
+      "zh": "100证书点数"
+    },
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6237",
+    "faction_id": "2",
+    "name": {
+      "de": "100 ISO-4",
+      "en": "100 ISO-4",
+      "es": "100 ISO-4 ",
+      "fr": "100 ISO-4",
+      "it": "100 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 ISO-4",
+      "tr": "NULL",
+      "zh": "100 ISO-4"
+    },
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6238",
+    "faction_id": "2",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6239",
+    "faction_id": "2",
+    "name": {
+      "de": "Überraschungsimplantat",
+      "en": "Mystery Implant",
+      "es": "Implante sorpresa",
+      "fr": "Implant mystère",
+      "it": "Impianto misterioso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Таинственный имплант",
+      "tr": "NULL",
+      "zh": "神秘插件"
+    },
+    "image_set_id": "807679",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

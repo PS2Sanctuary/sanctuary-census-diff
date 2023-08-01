@@ -299,10 +299,10 @@
   {
     "world_id": "17",
     "zone_id": "4",
-    "total": "750",
+    "total": "742",
     "population_limits": {
       "VS": "250",
-      "NC": "250",
+      "NC": "242",
       "TR": "250",
       "NSO": "0"
     }
