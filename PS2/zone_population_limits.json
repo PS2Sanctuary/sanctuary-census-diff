@@ -365,11 +365,11 @@
   {
     "world_id": "40",
     "zone_id": "8",
-    "total": "738",
+    "total": "740",
     "population_limits": {
       "VS": "249",
       "NC": "249",
-      "TR": "240",
+      "TR": "242",
       "NSO": "0"
     }
   },
