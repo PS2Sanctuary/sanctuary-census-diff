@@ -343,21 +343,21 @@
   {
     "world_id": "40",
     "zone_id": "97",
-    "total": "1098",
+    "total": "1086",
     "population_limits": {
       "VS": "366",
       "NC": "366",
-      "TR": "366",
+      "TR": "354",
       "NSO": "0"
     }
   },
   {
     "world_id": "40",
     "zone_id": "96",
-    "total": "1098",
+    "total": "1085",
     "population_limits": {
       "VS": "366",
-      "NC": "366",
+      "NC": "353",
       "TR": "366",
       "NSO": "0"
     }
