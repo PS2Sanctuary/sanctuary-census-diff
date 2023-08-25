@@ -420,10 +420,10 @@
   {
     "world_id": "40",
     "zone_id": "362",
-    "total": "287",
+    "total": "300",
     "population_limits": {
       "VS": "100",
-      "NC": "87",
+      "NC": "100",
       "TR": "100",
       "NSO": "0"
     }
