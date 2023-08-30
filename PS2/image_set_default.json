@@ -82990,5 +82990,13 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/96657.png"
+  },
+  {
+    "image_set_id": "807771",
+    "image_id": "96648",
+    "description": "icon_Vehicle_Common_DropPod_Meteorite01",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96648.png"
   }
 ]
