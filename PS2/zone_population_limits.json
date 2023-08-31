@@ -398,9 +398,9 @@
   {
     "world_id": "40",
     "zone_id": "4",
-    "total": "743",
+    "total": "750",
     "population_limits": {
-      "VS": "243",
+      "VS": "250",
       "NC": "250",
       "TR": "250",
       "NSO": "0"
