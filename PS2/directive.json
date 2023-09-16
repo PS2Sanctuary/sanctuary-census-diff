@@ -125957,5 +125957,1125 @@
     "image_set_id": "804410",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "directive_id": "5497",
+    "directive_tree_id": "127",
+    "directive_tier_id": "1",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5498",
+    "directive_tree_id": "127",
+    "directive_tier_id": "2",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5544",
+    "directive_tree_id": "127",
+    "directive_tier_id": "3",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5500",
+    "directive_tree_id": "127",
+    "directive_tier_id": "4",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5580",
+    "directive_tree_id": "26",
+    "directive_tier_id": "1",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5576",
+    "directive_tree_id": "26",
+    "directive_tier_id": "2",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5499",
+    "directive_tree_id": "26",
+    "directive_tier_id": "3",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5586",
+    "directive_tree_id": "26",
+    "directive_tier_id": "4",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5488",
+    "directive_tree_id": "127",
+    "directive_tier_id": "1",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5487",
+    "directive_tree_id": "127",
+    "directive_tier_id": "2",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5546",
+    "directive_tree_id": "127",
+    "directive_tier_id": "3",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5486",
+    "directive_tree_id": "127",
+    "directive_tier_id": "4",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5582",
+    "directive_tree_id": "26",
+    "directive_tier_id": "1",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5578",
+    "directive_tree_id": "26",
+    "directive_tier_id": "2",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5485",
+    "directive_tree_id": "26",
+    "directive_tier_id": "3",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5584",
+    "directive_tree_id": "26",
+    "directive_tier_id": "4",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5493",
+    "directive_tree_id": "127",
+    "directive_tier_id": "1",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5494",
+    "directive_tree_id": "127",
+    "directive_tier_id": "2",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5545",
+    "directive_tree_id": "127",
+    "directive_tier_id": "3",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5496",
+    "directive_tree_id": "127",
+    "directive_tier_id": "4",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5581",
+    "directive_tree_id": "26",
+    "directive_tier_id": "1",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5577",
+    "directive_tree_id": "26",
+    "directive_tier_id": "2",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5495",
+    "directive_tree_id": "26",
+    "directive_tier_id": "3",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5587",
+    "directive_tree_id": "26",
+    "directive_tier_id": "4",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5489",
+    "directive_tree_id": "127",
+    "directive_tier_id": "1",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5490",
+    "directive_tree_id": "127",
+    "directive_tier_id": "2",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5543",
+    "directive_tree_id": "127",
+    "directive_tier_id": "3",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5492",
+    "directive_tree_id": "127",
+    "directive_tier_id": "4",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5583",
+    "directive_tree_id": "26",
+    "directive_tier_id": "1",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5579",
+    "directive_tree_id": "26",
+    "directive_tier_id": "2",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5491",
+    "directive_tree_id": "26",
+    "directive_tier_id": "3",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5585",
+    "directive_tree_id": "26",
+    "directive_tier_id": "4",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
   }
 ]
