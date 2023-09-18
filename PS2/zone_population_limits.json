@@ -321,10 +321,10 @@
   {
     "world_id": "17",
     "zone_id": "96",
-    "total": "1098",
+    "total": "1091",
     "population_limits": {
       "VS": "366",
-      "NC": "366",
+      "NC": "359",
       "TR": "366",
       "NSO": "0"
     }
