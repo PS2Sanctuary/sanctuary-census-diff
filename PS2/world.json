@@ -32,7 +32,7 @@
       "zh": "Emerald"
     },
     "is_locked": "0",
-    "lock_state": "Unlocked",
+    "lock_state": "3",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -50,7 +50,7 @@
       "zh": "Jaeger"
     },
     "is_locked": "0",
-    "lock_state": "Unlocked",
+    "lock_state": "3",
     "is_unprivileged_access_allowed": "0"
   },
   {
@@ -121,8 +121,8 @@
       "tr": "Apex",
       "zh": "苍穹"
     },
-    "is_locked": "1",
-    "lock_state": "Locked",
+    "is_locked": "0",
+    "lock_state": "3",
     "is_unprivileged_access_allowed": "0"
   },
   {
