@@ -82998,5 +82998,149 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/96648.png"
+  },
+  {
+    "image_set_id": "807772",
+    "image_id": "96666",
+    "description": "icon_Halloween 2023 Banner",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96666.png"
+  },
+  {
+    "image_set_id": "807773",
+    "image_id": "96667",
+    "description": "profileBackground_Halloween2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96667.png"
+  },
+  {
+    "image_set_id": "807774",
+    "image_id": "96672",
+    "description": "icon_Halloween 2023 Banner Frame",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96672.png"
+  },
+  {
+    "image_set_id": "807775",
+    "image_id": "96673",
+    "description": "profileBackground_BannerFrame_Halloween2023",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96673.png"
+  },
+  {
+    "image_set_id": "807776",
+    "image_id": "96678",
+    "description": "Icon_Vehicle_Common_ANT_Attachment_PumpkinSmasher_Tires",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96678.png"
+  },
+  {
+    "image_set_id": "807777",
+    "image_id": "96681",
+    "description": "Icon_Vehicle_Common_Sunderer_Attachment_PumpkinSmasher_Tires",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96681.png"
+  },
+  {
+    "image_set_id": "807778",
+    "image_id": "96684",
+    "description": "Icon_Vehicle_Common_Harasser_Attachment_PumpkinSmasher_Tires",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96684.png"
+  },
+  {
+    "image_set_id": "807779",
+    "image_id": "96687",
+    "description": "Icon_Vehicle_Common_Flash_Attachment_PumpkinSmasher_Tires",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96687.png"
+  },
+  {
+    "image_set_id": "807780",
+    "image_id": "96690",
+    "description": "icon_Weapon_Common_Flamethrower_001_Doombringer",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96690.png"
+  },
+  {
+    "image_set_id": "807781",
+    "image_id": "96693",
+    "description": "icon_weapon_ns_Knife_Homerun",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96693.png"
+  },
+  {
+    "image_set_id": "807782",
+    "image_id": "96696",
+    "description": "icon_Weapon_Common_Flamethrower_Attachments_ReflexSight001_Doombringer",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96696.png"
+  },
+  {
+    "image_set_id": "807783",
+    "image_id": "96699",
+    "description": "icon_Weapon_Common_Flamethrower_Attachments_ReflexSight002_Doombringer",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96699.png"
+  },
+  {
+    "image_set_id": "807784",
+    "image_id": "96702",
+    "description": "icon_Weapon_Common_Flamethrower_Attachments_4xScope_Doombringer",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96702.png"
+  },
+  {
+    "image_set_id": "807785",
+    "image_id": "96705",
+    "description": "icon_Weapon_Common_Flamethrower_Attachments_IRNV_Doombringer",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96705.png"
+  },
+  {
+    "image_set_id": "807786",
+    "image_id": "96708",
+    "description": "icon_implant_ui_Phylactery_Perfect",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96708.png"
+  },
+  {
+    "image_set_id": "807787",
+    "image_id": "96716",
+    "description": "icon_Helmet_Common_Male_All_Halloween_Mask002",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96716.png"
+  },
+  {
+    "image_set_id": "807788",
+    "image_id": "96715",
+    "description": "icon_Helmet_Common_Female_All_Halloween_Mask002",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96715.png"
+  },
+  {
+    "image_set_id": "807789",
+    "image_id": "96717",
+    "description": "icon_Helmet_NSO_Male_All_Halloween_Mask002",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96717.png"
   }
 ]
