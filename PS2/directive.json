@@ -127077,5 +127077,1449 @@
     "image_set_id": "1567",
     "image_id": "77989",
     "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_id": "5575",
+    "directive_tree_id": "127",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-D \"Doombringer\" Helios",
+      "en": "NS-D \"Doombringer\" Helios",
+      "es": "NS-D Helios \"Doombringer\"",
+      "fr": "NS-D \"Doombringer\" Helios",
+      "it": "NS-D Helios \"Doombringer\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D «Doombringer» Helios",
+      "tr": "NULL",
+      "zh": "NS-D \"Doombringer\" Helios"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5602",
+    "directive_tree_id": "127",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS Homerun",
+      "en": "NS Homerun",
+      "es": "NS Homerun",
+      "fr": "NS Homerun",
+      "it": "NS Homerun",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS Homerun",
+      "tr": "NULL",
+      "zh": "NS Homerun"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5574",
+    "directive_tree_id": "127",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-D \"Doombringer\" Helios",
+      "en": "NS-D \"Doombringer\" Helios",
+      "es": "NS-D Helios \"Doombringer\"",
+      "fr": "NS-D \"Doombringer\" Helios",
+      "it": "NS-D Helios \"Doombringer\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D «Doombringer» Helios",
+      "tr": "NULL",
+      "zh": "NS-D \"Doombringer\" Helios"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5603",
+    "directive_tree_id": "127",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS Homerun",
+      "en": "NS Homerun",
+      "es": "NS Homerun",
+      "fr": "NS Homerun",
+      "it": "NS Homerun",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS Homerun",
+      "tr": "NULL",
+      "zh": "NS Homerun"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5573",
+    "directive_tree_id": "127",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-D \"Doombringer\" Helios",
+      "en": "NS-D \"Doombringer\" Helios",
+      "es": "NS-D Helios \"Doombringer\"",
+      "fr": "NS-D \"Doombringer\" Helios",
+      "it": "NS-D Helios \"Doombringer\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D «Doombringer» Helios",
+      "tr": "NULL",
+      "zh": "NS-D \"Doombringer\" Helios"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5600",
+    "directive_tree_id": "127",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS Homerun",
+      "en": "NS Homerun",
+      "es": "NS Homerun",
+      "fr": "NS Homerun",
+      "it": "NS Homerun",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS Homerun",
+      "tr": "NULL",
+      "zh": "NS Homerun"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5572",
+    "directive_tree_id": "127",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-D \"Doombringer\" Helios",
+      "en": "NS-D \"Doombringer\" Helios",
+      "es": "NS-D Helios \"Doombringer\"",
+      "fr": "NS-D \"Doombringer\" Helios",
+      "it": "NS-D Helios \"Doombringer\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D «Doombringer» Helios",
+      "tr": "NULL",
+      "zh": "NS-D \"Doombringer\" Helios"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5601",
+    "directive_tree_id": "127",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS Homerun",
+      "en": "NS Homerun",
+      "es": "NS Homerun",
+      "fr": "NS Homerun",
+      "it": "NS Homerun",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS Homerun",
+      "tr": "NULL",
+      "zh": "NS Homerun"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5598",
+    "directive_tree_id": "27",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-D Helios",
+      "en": "NS-D Helios",
+      "es": "NS-D Helios",
+      "fr": "NS-D Helios",
+      "it": "NS-D Helios",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios",
+      "tr": "NULL",
+      "zh": "NS-D Helios"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "77990",
+    "image_path": "/files/ps2/images/static/77990.png"
+  },
+  {
+    "directive_id": "5599",
+    "directive_tree_id": "27",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-D Helios EX",
+      "en": "NS-D Helios EX",
+      "es": "NS-D Helios EX",
+      "fr": "NS-D Helios EX",
+      "it": "NS-D Helios EX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios EX",
+      "tr": "NULL",
+      "zh": "NS-D Helios EX"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "77990",
+    "image_path": "/files/ps2/images/static/77990.png"
+  },
+  {
+    "directive_id": "5593",
+    "directive_tree_id": "27",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-D Helios EX",
+      "en": "NS-D Helios EX",
+      "es": "NS-D Helios EX",
+      "fr": "NS-D Helios EX",
+      "it": "NS-D Helios EX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios EX",
+      "tr": "NULL",
+      "zh": "NS-D Helios EX"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "77990",
+    "image_path": "/files/ps2/images/static/77990.png"
+  },
+  {
+    "directive_id": "5595",
+    "directive_tree_id": "27",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-D Helios",
+      "en": "NS-D Helios",
+      "es": "NS-D Helios",
+      "fr": "NS-D Helios",
+      "it": "NS-D Helios",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios",
+      "tr": "NULL",
+      "zh": "NS-D Helios"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "77990",
+    "image_path": "/files/ps2/images/static/77990.png"
+  },
+  {
+    "directive_id": "5594",
+    "directive_tree_id": "27",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-D Helios EX",
+      "en": "NS-D Helios EX",
+      "es": "NS-D Helios EX",
+      "fr": "NS-D Helios EX",
+      "it": "NS-D Helios EX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios EX",
+      "tr": "NULL",
+      "zh": "NS-D Helios EX"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "77990",
+    "image_path": "/files/ps2/images/static/77990.png"
+  },
+  {
+    "directive_id": "5596",
+    "directive_tree_id": "27",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-D Helios",
+      "en": "NS-D Helios",
+      "es": "NS-D Helios",
+      "fr": "NS-D Helios",
+      "it": "NS-D Helios",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios",
+      "tr": "NULL",
+      "zh": "NS-D Helios"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "77990",
+    "image_path": "/files/ps2/images/static/77990.png"
+  },
+  {
+    "directive_id": "5592",
+    "directive_tree_id": "27",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-D Helios EX",
+      "en": "NS-D Helios EX",
+      "es": "NS-D Helios EX",
+      "fr": "NS-D Helios EX",
+      "it": "NS-D Helios EX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios EX",
+      "tr": "NULL",
+      "zh": "NS-D Helios EX"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "77990",
+    "image_path": "/files/ps2/images/static/77990.png"
+  },
+  {
+    "directive_id": "5597",
+    "directive_tree_id": "27",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-D Helios",
+      "en": "NS-D Helios",
+      "es": "NS-D Helios",
+      "fr": "NS-D Helios",
+      "it": "NS-D Helios",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-D Helios",
+      "tr": "NULL",
+      "zh": "NS-D Helios"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "77990",
+    "image_path": "/files/ps2/images/static/77990.png"
+  },
+  {
+    "directive_id": "5501",
+    "directive_tree_id": "126",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Trick-or-Treat (Reese)",
+      "en": "Trick-or-Treat (Reese)",
+      "es": "Truco o trato (Reese)",
+      "fr": "Bonbons-ou-sort (Reese)",
+      "it": "Dolcetto o scherzetto (Reese)",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сладость или гадость! (Reese)",
+      "tr": "NULL",
+      "zh": "不给糖就捣蛋（Reese）"
+    },
+    "description": {
+      "de": "Sprich mit Offizier Reese auf der westlichen Treppe in der Schutzzone.",
+      "en": "Speak to Officer Reese in the western stairway on Sanctuary.",
+      "es": "Habla con el sargento Reese en la escalera occidental del Santuario.",
+      "fr": "Parlez à l'officier Reese près des escaliers ouest du Sanctuaire.",
+      "it": "Parla con l'Agente Reese nella scalinata occidentale del Santuario.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Поговорите с сержантом Reese у западной лестницы в Sanctuary.",
+      "tr": "NULL",
+      "zh": "与Sanctuary的西部楼梯中的Reese长官交谈。"
+    },
+    "image_set_id": "82826",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5502",
+    "directive_tree_id": "126",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Trick-or-Treat (Nalla)",
+      "en": "Trick-or-Treat (Nalla)",
+      "es": "Truco o trato (Nalla)",
+      "fr": "Bonbons-ou-sort (Nalla)",
+      "it": "Dolcetto o scherzetto (Nalla)",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сладость или гадость! (Nalla)",
+      "tr": "NULL",
+      "zh": "不给糖就捣蛋（Nalla）"
+    },
+    "description": {
+      "de": "Sprich mit Repräsentant Nalla am Stand von Nascent Expeditions im Atrium der Schutzzone.",
+      "en": "Speak to Representative Nalla at the Nascent Expedition kiosk in the Atrium on Sanctuary",
+      "es": "Habla con la Representante Nalla en el kiosco de Nascent Expeditions, en el Atrio del Santuario.",
+      "fr": "Parlez à la représentante Nalla au kiosque de Nascent Expedition dans l'atrium au Sanctuaire",
+      "it": "Parla con l'agente Nalla presso il chiosco della Nascent Expeditions nell'atrio del Santuario.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Поговорите с представителем Nalla в помещении Nascent Expedition в атриуме Sanctuary",
+      "tr": "NULL",
+      "zh": "与位于Sanctuary的Atrium的Nascent Expedition售货亭的Nalla代表交谈"
+    },
+    "image_set_id": "82826",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5503",
+    "directive_tree_id": "126",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Trick-or-Treat (FL-34)",
+      "en": "Trick-or-Treat (FL-34)",
+      "es": "Truco o trato (FL-34)",
+      "fr": "Bonbons-ou-sort (FL-34)",
+      "it": "Dolcetto o scherzetto (FL-34)",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сладость или гадость! (FL-34)",
+      "tr": "NULL",
+      "zh": "不给糖就捣蛋（FL-34）"
+    },
+    "description": {
+      "de": "Sprich mit FL-34 auf dem Schwarzmarkt in der Schutzzone.",
+      "en": "Speak to FL-34 at the Black Market on Sanctuary",
+      "es": "Habla con FL-34 en el mercado negro del Santuario.",
+      "fr": "Parler à FL-34 au Marché noir du Sanctuaire",
+      "it": "Parla con FL-34 al Mercato nero nel Santuario",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Поговорите с FL-34 на черном рынке в Sanctuary",
+      "tr": "NULL",
+      "zh": "在Sanctuary的黑市与FL-34交谈"
+    },
+    "image_set_id": "82826",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5504",
+    "directive_tree_id": "126",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Süßes oder Saures (Emerson)",
+      "en": "Trick-or-Treat (Emerson)",
+      "es": "Truco o trato (Emerson)",
+      "fr": "Bonbons-ou-sort (Emerson)",
+      "it": "Dolcetto o scherzetto (Emerson)",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сладость или гадость (Emerson)",
+      "tr": "NULL",
+      "zh": "不给糖就捣蛋 (Emerson)"
+    },
+    "description": {
+      "de": "Sprich mit Vermittler Emerson auf dem Beobachtungsdeck in der Schutzzone.",
+      "en": "Speak to Facilitator Emerson on the Observation Deck on Sanctuary.",
+      "es": "Habla con el Facilitador Emerson en la cubierta de observación del Santuario.",
+      "fr": "Parlez au Facilitateur Emerson sur le pont d'observation du Sanctuaire.",
+      "it": "Parla con il facilitatore Emerson sul Ponte d'osservazione nel Santuario.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Поговорите с посредником Emerson на смотровой площадке в Sanctuary.",
+      "tr": "NULL",
+      "zh": "前往Sanctuary的Observation Deck与Emerson引导师对话"
+    },
+    "image_set_id": "82826",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5484",
+    "directive_tree_id": "126",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Kürbisschlitzer",
+      "en": "Slashing Pumpkins",
+      "es": "Reventar calabazas",
+      "fr": "Citrouilles lacérantes",
+      "it": "Tagliare le zucche",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Кромсание тыкв",
+      "tr": "NULL",
+      "zh": "砍南瓜"
+    },
+    "description": {
+      "de": "Zerstöre Weltall-Kürbisse und Galact-O-Lanterns.",
+      "en": "Destroy Space Pumpkins and Galact-O-Lanterns.",
+      "es": "Destruye calabazas espaciales y Galact-O-Lanterns.",
+      "fr": "Détruisez les Citrouilles de l'espace et les Citrouilles-lanternes galactiques.",
+      "it": "Distruggi le zucche spaziali e le Galact-O-Lanterne.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте космические тыквы и Галактических Джеков-Фонарей.",
+      "tr": "NULL",
+      "zh": "摧毁太空南瓜和银河南瓜灯。"
+    },
+    "image_set_id": "82824",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5508",
+    "directive_tree_id": "126",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Hexenwerk",
+      "en": "Witchy Ways",
+      "es": "Brujerías varias",
+      "fr": "Méthodes ensorcelantes",
+      "it": "Modi da strega",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Ведьмины дороги",
+      "tr": "NULL",
+      "zh": "巫诡之道"
+    },
+    "description": {
+      "de": "Verdiene Heilungs-, Nachschub- oder Reparatur-Erfahrung.",
+      "en": "Earn heal, resupply, or repair experience.",
+      "es": "Consigue experiencia curando, reabasteciendo o reparando.",
+      "fr": "Gagnez de l'expérience en guérison, réparation et réapprovisionnement.",
+      "it": "Guadagna esperienza di guarigione, rifornimento o riparazione.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получите опыт за лечение, ремонт или пополнение запасов.",
+      "tr": "NULL",
+      "zh": "获得治疗、补给或修理经验值。"
+    },
+    "image_set_id": "804569",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5505",
+    "directive_tree_id": "126",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Maskierter Mord",
+      "en": "Masked Murder",
+      "es": "Muerte enmascarada",
+      "fr": "Meurtrier masqué",
+      "it": "Omicidio mascherato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убийца в маске",
+      "tr": "NULL",
+      "zh": "假面杀手"
+    },
+    "description": {
+      "de": "Erledige Feinde, während du eine Halloween-Maske trägst.",
+      "en": "Kill enemies while wearing a Halloween mask.",
+      "es": "Acaba con enemigos mientras que usa una máscara de Halloween.",
+      "fr": "Tuez des ennemis portant des masques d'Halloween alors que vous portez un masque d'Halloween.",
+      "it": "Uccidere i nemici mentre indossa una maschera di Halloween.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убить врагов в масках Хэллоуина, надев маску Хэллоуина.",
+      "tr": "NULL",
+      "zh": "戴着万圣节面具击杀敌人。"
+    },
+    "image_set_id": "82828",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5511",
+    "directive_tree_id": "126",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Silber für Monster",
+      "en": "Silver for Monsters",
+      "es": "Plata para los monstruos",
+      "fr": "De l'argent pour monstres",
+      "it": "Argento per i mostri",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Серебро для монстров",
+      "tr": "NULL",
+      "zh": "给怪物的银子"
+    },
+    "description": {
+      "de": "Töte mit einer Nahkampfwaffe oder einer schweren Armbrust Feinde, die Halloween-Masken oder Gesichtsbemalung tragen.",
+      "en": "Use melee weapons or a heavy crossbow to kill enemies who are wearing Halloween Masks or Facepaint.",
+      "es": "Usa armas cuerpo a cuerpo o una ballesta pesada para matar enemigos que lleven máscaras o pintura facial de Halloween.",
+      "fr": "Utilisez des armes de corps-à-corps ou une arbalète lourde pour tuer des ennemis portant des masques ou des maquillages d'Halloween.",
+      "it": "Usa le armi da attacco ravvicinato per uccidere nemici che indossano maschere di Halloween o che hanno il volto dipinto.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убейте врагов в хэллоуинских масках или гриме, используя оружие ближнего боя или тяжелый арбалет.",
+      "tr": "NULL",
+      "zh": "用近战武器或重弩击杀戴着万圣节面具或脸谱的敌人。"
+    },
+    "image_set_id": "82825",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5514",
+    "directive_tree_id": "126",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Nekromant",
+      "en": "Necromancer",
+      "es": "Nigromante",
+      "fr": "Nécromancien",
+      "it": "Negromante",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Некромант",
+      "tr": "NULL",
+      "zh": "死灵法师"
+    },
+    "description": {
+      "de": "Belebe gefallene Verbündete wieder.",
+      "en": "Revive fallen allies.",
+      "es": "Revive a los aliados caídos.",
+      "fr": "Réanimez des alliés morts.",
+      "it": "Rianima gli alleati caduti.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Воскресите мертвых союзников.",
+      "tr": "NULL",
+      "zh": "让阵亡的队友重生。"
+    },
+    "image_set_id": "804084",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5517",
+    "directive_tree_id": "126",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Geisterschiff",
+      "en": "Ghost Ship",
+      "es": "Nave fantasma",
+      "fr": "Vaisseau fantôme",
+      "it": "Nave fantasma",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Корабль-призрак",
+      "tr": "NULL",
+      "zh": "Ghost战舰"
+    },
+    "description": {
+      "de": "Schließe die Warnmeldung \"Verlorene Flotte\" ab.",
+      "en": "Complete the Lost Fleet alert.",
+      "es": "Completa la alerta Flota perdida.",
+      "fr": "Terminez l'alerte \"La Flotte perdue\".",
+      "it": "Completa l'allarme della Flotta perduta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу «Потерянный флот».",
+      "tr": "NULL",
+      "zh": "完成迷失舰队警报。"
+    },
+    "image_set_id": "14137",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5482",
+    "directive_tree_id": "126",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Kürbisschlitzer",
+      "en": "Slashing Pumpkins",
+      "es": "Reventar calabazas",
+      "fr": "Citrouilles lacérantes",
+      "it": "Tagliare le zucche",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Кромсание тыкв",
+      "tr": "NULL",
+      "zh": "砍南瓜"
+    },
+    "description": {
+      "de": "Zerstöre Weltall-Kürbisse und Galact-O-Lanterns.",
+      "en": "Destroy Space Pumpkins and Galact-O-Lanterns.",
+      "es": "Destruye calabazas espaciales y Galact-O-Lanterns.",
+      "fr": "Détruisez les Citrouilles de l'espace et les Citrouilles-lanternes galactiques.",
+      "it": "Distruggi le zucche spaziali e le Galact-O-Lanterne.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте космические тыквы и Галактических Джеков-Фонарей.",
+      "tr": "NULL",
+      "zh": "摧毁太空南瓜和银河南瓜灯。"
+    },
+    "image_set_id": "82824",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5506",
+    "directive_tree_id": "126",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Maskierter Mord",
+      "en": "Masked Murder",
+      "es": "Muerte enmascarada",
+      "fr": "Meurtrier masqué",
+      "it": "Omicidio mascherato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убийца в маске",
+      "tr": "NULL",
+      "zh": "假面杀手"
+    },
+    "description": {
+      "de": "Erledige Feinde, während du eine Halloween-Maske trägst.",
+      "en": "Kill enemies while wearing a Halloween mask.",
+      "es": "Acaba con enemigos mientras que usa una máscara de Halloween.",
+      "fr": "Tuez des ennemis portant des masques d'Halloween alors que vous portez un masque d'Halloween.",
+      "it": "Uccidere i nemici mentre indossa una maschera di Halloween.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убить врагов в масках Хэллоуина, надев маску Хэллоуина.",
+      "tr": "NULL",
+      "zh": "戴着万圣节面具击杀敌人。"
+    },
+    "image_set_id": "82828",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5510",
+    "directive_tree_id": "126",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Hexenwerk",
+      "en": "Witchy Ways",
+      "es": "Brujerías varias",
+      "fr": "Méthodes ensorcelantes",
+      "it": "Modi da strega",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Ведьмины дороги",
+      "tr": "NULL",
+      "zh": "巫诡之道"
+    },
+    "description": {
+      "de": "Verdiene Heilungs-, Nachschub- oder Reparatur-Erfahrung.",
+      "en": "Earn heal, resupply, or repair experience.",
+      "es": "Consigue experiencia curando, reabasteciendo o reparando.",
+      "fr": "Gagnez de l'expérience en guérison, réparation et réapprovisionnement.",
+      "it": "Guadagna esperienza di guarigione, rifornimento o riparazione.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получите опыт за лечение, ремонт или пополнение запасов.",
+      "tr": "NULL",
+      "zh": "获得治疗、补给或修理经验值。"
+    },
+    "image_set_id": "804569",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5518",
+    "directive_tree_id": "126",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Geisterschiff",
+      "en": "Ghost Ship",
+      "es": "Nave fantasma",
+      "fr": "Vaisseau fantôme",
+      "it": "Nave fantasma",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Корабль-призрак",
+      "tr": "NULL",
+      "zh": "Ghost战舰"
+    },
+    "description": {
+      "de": "Schließe die Warnmeldung \"Verlorene Flotte\" ab.",
+      "en": "Complete the Lost Fleet alert.",
+      "es": "Completa la alerta Flota perdida.",
+      "fr": "Terminez l'alerte \"La Flotte perdue\".",
+      "it": "Completa l'allarme della Flotta perduta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу «Потерянный флот».",
+      "tr": "NULL",
+      "zh": "完成迷失舰队警报。"
+    },
+    "image_set_id": "14137",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5512",
+    "directive_tree_id": "126",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Silber für Monster",
+      "en": "Silver for Monsters",
+      "es": "Plata para los monstruos",
+      "fr": "De l'argent pour monstres",
+      "it": "Argento per i mostri",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Серебро для монстров",
+      "tr": "NULL",
+      "zh": "给怪物的银子"
+    },
+    "description": {
+      "de": "Töte mit einer Nahkampfwaffe oder einer schweren Armbrust Feinde, die Halloween-Masken oder Gesichtsbemalung tragen.",
+      "en": "Use melee weapons or a heavy crossbow to kill enemies who are wearing Halloween Masks or Facepaint.",
+      "es": "Usa armas cuerpo a cuerpo o una ballesta pesada para matar enemigos que lleven máscaras o pintura facial de Halloween.",
+      "fr": "Utilisez des armes de corps-à-corps ou une arbalète lourde pour tuer des ennemis portant des masques ou des maquillages d'Halloween.",
+      "it": "Usa le armi da attacco ravvicinato per uccidere nemici che indossano maschere di Halloween o che hanno il volto dipinto.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убейте врагов в хэллоуинских масках или гриме, используя оружие ближнего боя или тяжелый арбалет.",
+      "tr": "NULL",
+      "zh": "用近战武器或重弩击杀戴着万圣节面具或脸谱的敌人。"
+    },
+    "image_set_id": "82825",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5515",
+    "directive_tree_id": "126",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Nekromant",
+      "en": "Necromancer",
+      "es": "Nigromante",
+      "fr": "Nécromancien",
+      "it": "Negromante",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Некромант",
+      "tr": "NULL",
+      "zh": "死灵法师"
+    },
+    "description": {
+      "de": "Belebe gefallene Verbündete wieder.",
+      "en": "Revive fallen allies.",
+      "es": "Revive a los aliados caídos.",
+      "fr": "Réanimez des alliés morts.",
+      "it": "Rianima gli alleati caduti.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Воскресите мертвых союзников.",
+      "tr": "NULL",
+      "zh": "让阵亡的队友重生。"
+    },
+    "image_set_id": "804084",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5483",
+    "directive_tree_id": "126",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Kürbisschlitzer",
+      "en": "Slashing Pumpkins",
+      "es": "Reventar calabazas",
+      "fr": "Citrouilles lacérantes",
+      "it": "Tagliare le zucche",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Кромсание тыкв",
+      "tr": "NULL",
+      "zh": "砍南瓜"
+    },
+    "description": {
+      "de": "Zerstöre Weltall-Kürbisse und Galact-O-Lanterns.",
+      "en": "Destroy Space Pumpkins and Galact-O-Lanterns.",
+      "es": "Destruye calabazas espaciales y Galact-O-Lanterns.",
+      "fr": "Détruisez les Citrouilles de l'espace et les Citrouilles-lanternes galactiques.",
+      "it": "Distruggi le zucche spaziali e le Galact-O-Lanterne.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте космические тыквы и Галактических Джеков-Фонарей.",
+      "tr": "NULL",
+      "zh": "摧毁太空南瓜和银河南瓜灯。"
+    },
+    "image_set_id": "82824",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5507",
+    "directive_tree_id": "126",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Maskierter Mord",
+      "en": "Masked Murder",
+      "es": "Muerte enmascarada",
+      "fr": "Meurtrier masqué",
+      "it": "Omicidio mascherato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убийца в маске",
+      "tr": "NULL",
+      "zh": "假面杀手"
+    },
+    "description": {
+      "de": "Erledige Feinde, während du eine Halloween-Maske trägst.",
+      "en": "Kill enemies while wearing a Halloween mask.",
+      "es": "Acaba con enemigos mientras que usa una máscara de Halloween.",
+      "fr": "Tuez des ennemis portant des masques d'Halloween alors que vous portez un masque d'Halloween.",
+      "it": "Uccidere i nemici mentre indossa una maschera di Halloween.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убить врагов в масках Хэллоуина, надев маску Хэллоуина.",
+      "tr": "NULL",
+      "zh": "戴着万圣节面具击杀敌人。"
+    },
+    "image_set_id": "82828",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5509",
+    "directive_tree_id": "126",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Hexenwerk",
+      "en": "Witchy Ways",
+      "es": "Brujerías varias",
+      "fr": "Méthodes ensorcelantes",
+      "it": "Modi da strega",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Ведьмины дороги",
+      "tr": "NULL",
+      "zh": "巫诡之道"
+    },
+    "description": {
+      "de": "Verdiene Heilungs-, Nachschub- oder Reparatur-Erfahrung.",
+      "en": "Earn heal, resupply, or repair experience.",
+      "es": "Consigue experiencia curando, reabasteciendo o reparando.",
+      "fr": "Gagnez de l'expérience en guérison, réparation et réapprovisionnement.",
+      "it": "Guadagna esperienza di guarigione, rifornimento o riparazione.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получите опыт за лечение, ремонт или пополнение запасов.",
+      "tr": "NULL",
+      "zh": "获得治疗、补给或修理经验值。"
+    },
+    "image_set_id": "804569",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5513",
+    "directive_tree_id": "126",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Silber für Monster",
+      "en": "Silver for Monsters",
+      "es": "Plata para los monstruos",
+      "fr": "De l'argent pour monstres",
+      "it": "Argento per i mostri",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Серебро для монстров",
+      "tr": "NULL",
+      "zh": "给怪物的银子"
+    },
+    "description": {
+      "de": "Töte mit einer Nahkampfwaffe oder einer schweren Armbrust Feinde, die Halloween-Masken oder Gesichtsbemalung tragen.",
+      "en": "Use melee weapons or a heavy crossbow to kill enemies who are wearing Halloween Masks or Facepaint.",
+      "es": "Usa armas cuerpo a cuerpo o una ballesta pesada para matar enemigos que lleven máscaras o pintura facial de Halloween.",
+      "fr": "Utilisez des armes de corps-à-corps ou une arbalète lourde pour tuer des ennemis portant des masques ou des maquillages d'Halloween.",
+      "it": "Usa le armi da attacco ravvicinato per uccidere nemici che indossano maschere di Halloween o che hanno il volto dipinto.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убейте врагов в хэллоуинских масках или гриме, используя оружие ближнего боя или тяжелый арбалет.",
+      "tr": "NULL",
+      "zh": "用近战武器或重弩击杀戴着万圣节面具或脸谱的敌人。"
+    },
+    "image_set_id": "82825",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5516",
+    "directive_tree_id": "126",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Nekromant",
+      "en": "Necromancer",
+      "es": "Nigromante",
+      "fr": "Nécromancien",
+      "it": "Negromante",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Некромант",
+      "tr": "NULL",
+      "zh": "死灵法师"
+    },
+    "description": {
+      "de": "Belebe gefallene Verbündete wieder.",
+      "en": "Revive fallen allies.",
+      "es": "Revive a los aliados caídos.",
+      "fr": "Réanimez des alliés morts.",
+      "it": "Rianima gli alleati caduti.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Воскресите мертвых союзников.",
+      "tr": "NULL",
+      "zh": "让阵亡的队友重生。"
+    },
+    "image_set_id": "804084",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5519",
+    "directive_tree_id": "126",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Geisterschiff",
+      "en": "Ghost Ship",
+      "es": "Nave fantasma",
+      "fr": "Vaisseau fantôme",
+      "it": "Nave fantasma",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Корабль-призрак",
+      "tr": "NULL",
+      "zh": "Ghost战舰"
+    },
+    "description": {
+      "de": "Schließe die Warnmeldung \"Verlorene Flotte\" ab.",
+      "en": "Complete the Lost Fleet alert.",
+      "es": "Completa la alerta Flota perdida.",
+      "fr": "Terminez l'alerte \"La Flotte perdue\".",
+      "it": "Completa l'allarme della Flotta perduta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу «Потерянный флот».",
+      "tr": "NULL",
+      "zh": "完成迷失舰队警报。"
+    },
+    "image_set_id": "14137",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
   }
 ]

@@ -9784,5 +9784,225 @@
     "image_set_id": "807679",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6250",
+    "item_id": "6008573",
+    "name": {
+      "de": "Ichabod-Krone (Spukversion)",
+      "en": "Haunted Ichabod Crown",
+      "es": "Corona de Ichabod encantada",
+      "fr": "Couronne d'Ichabod hantée",
+      "it": "Corona Ichabod stregata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Корона Ихавода",
+      "tr": "NULL",
+      "zh": "幽灵以迦博皇冠"
+    },
+    "quantity": "1",
+    "image_set_id": "806152",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6250",
+    "item_id": "70366",
+    "name": {
+      "de": "100 ZERT-Punkte",
+      "en": "100 Cert Points",
+      "es": "100 puntos de cert.",
+      "fr": "100 points d'accréditation",
+      "it": "100 punti certificazione",
+      "ko": "100 인증 포인트",
+      "pt": "100 Certificados",
+      "ru": "100 очков серт.",
+      "tr": "100 Sertifika Puanı",
+      "zh": "100个证书点数"
+    },
+    "quantity": "1",
+    "image_set_id": "2208",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6251",
+    "item_id": "6015120",
+    "name": {
+      "de": "Titel: Infernal",
+      "en": "Title: Infernal",
+      "es": "Título: Infernal",
+      "fr": "Titre : Infernal",
+      "it": "Titolo: Infernale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Название: Дьявольщина",
+      "tr": "NULL",
+      "zh": "头衔：地狱"
+    },
+    "quantity": "1",
+    "image_set_id": "82824",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6251",
+    "item_id": "6007283",
+    "name": {
+      "de": "100 ISO-4",
+      "en": "100 ISO-4",
+      "es": "100 ISO-4 ",
+      "fr": "100 ISO-4",
+      "it": "100 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "100 ISO-4",
+      "tr": "NULL",
+      "zh": "100 ISO-4"
+    },
+    "quantity": "1",
+    "image_set_id": "803815",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6252",
+    "item_id": "6009591",
+    "name": {
+      "de": "450 A7",
+      "en": "450 A7",
+      "es": "450 A7",
+      "fr": "450 A7",
+      "it": "450 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "450 A7",
+      "tr": "NULL",
+      "zh": "450 A7"
+    },
+    "quantity": "1",
+    "image_set_id": "806266",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6252",
+    "item_id": "6015050",
+    "name": {
+      "de": "Überraschungsimplantat",
+      "en": "Mystery Implant",
+      "es": "Implante sorpresa",
+      "fr": "Implant mystère",
+      "it": "Impianto misterioso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Таинственный имплант",
+      "tr": "NULL",
+      "zh": "神秘插件"
+    },
+    "quantity": "1",
+    "image_set_id": "807679",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6253",
+    "item_id": "6015125",
+    "name": {
+      "de": "Halloween 2023 Bannerrahmen",
+      "en": "Halloween 2023 Banner Frame",
+      "es": "Marco de estandarte de Halloween 2023",
+      "fr": "Cadre de bannière \"Halloween 2023\"",
+      "it": "Cornice per insegna Halloween 2023",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Хэллоуин 2023»",
+      "tr": "NULL",
+      "zh": "2023万圣节横幅框"
+    },
+    "quantity": "1",
+    "image_set_id": "807774",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6253",
+    "item_id": "6015124",
+    "name": {
+      "de": "Halloween 2023 Banner",
+      "en": "Halloween 2023 Banner",
+      "es": "Estandarte de Halloween 2023",
+      "fr": "Bannière \"Halloween 2023\"",
+      "it": "Insegna Halloween 2023",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Хэллоуин 2023»",
+      "tr": "NULL",
+      "zh": "2023万圣节横幅"
+    },
+    "quantity": "1",
+    "image_set_id": "807772",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6250",
+    "item_id": "801964",
+    "name": {
+      "de": "Ichabod-Krone (Spukversion)",
+      "en": "Haunted Ichabod Crown",
+      "es": "Corona de Ichabod encantada",
+      "fr": "Couronne d'Ichabod hantée",
+      "it": "Corona Ichabod stregata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Корона Ихавода",
+      "tr": "NULL",
+      "zh": "幽灵以迦博皇冠"
+    },
+    "quantity": "1",
+    "image_set_id": "82833",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6250",
+    "item_id": "801963",
+    "name": {
+      "de": "Ichabod-Krone (Spukversion)",
+      "en": "Haunted Ichabod Crown",
+      "es": "Corona de Ichabod encantada",
+      "fr": "Couronne d'Ichabod hantée",
+      "it": "Corona Ichabod stregata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Корона Ихавода",
+      "tr": "NULL",
+      "zh": "幽灵以迦博皇冠"
+    },
+    "quantity": "1",
+    "image_set_id": "82832",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6250",
+    "item_id": "801959",
+    "name": {
+      "de": "Ichabod-Krone (Spukversion)",
+      "en": "Haunted Ichabod Crown",
+      "es": "Corona de Ichabod encantada",
+      "fr": "Couronne d'Ichabod hantée",
+      "it": "Corona Ichabod stregata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Корона Ихавода",
+      "tr": "NULL",
+      "zh": "幽灵以迦博皇冠"
+    },
+    "quantity": "1",
+    "image_set_id": "82831",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
   }
 ]

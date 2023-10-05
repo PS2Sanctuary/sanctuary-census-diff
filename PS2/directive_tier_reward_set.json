@@ -11246,5 +11246,309 @@
     "image_set_id": "807679",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6250",
+    "faction_id": "4",
+    "name": {
+      "de": "Ichabod-Krone (Spukversion)",
+      "en": "Haunted Ichabod Crown",
+      "es": "Corona de Ichabod encantada",
+      "fr": "Couronne d'Ichabod hantée",
+      "it": "Corona Ichabod stregata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Корона Ихавода",
+      "tr": "NULL",
+      "zh": "幽灵以迦博皇冠"
+    },
+    "image_set_id": "806152",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6251",
+    "faction_id": "4",
+    "name": {
+      "de": "Titel: Infernal",
+      "en": "Title: Infernal",
+      "es": "Título: Infernal",
+      "fr": "Titre : Infernal",
+      "it": "Titolo: Infernale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Название: Дьявольщина",
+      "tr": "NULL",
+      "zh": "头衔：地狱"
+    },
+    "image_set_id": "82824",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6252",
+    "faction_id": "4",
+    "name": {
+      "de": "450 A7",
+      "en": "450 A7",
+      "es": "450 A7",
+      "fr": "450 A7",
+      "it": "450 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "450 A7",
+      "tr": "NULL",
+      "zh": "450 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6253",
+    "faction_id": "4",
+    "name": {
+      "de": "Halloween 2023 Bannerrahmen",
+      "en": "Halloween 2023 Banner Frame",
+      "es": "Marco de estandarte de Halloween 2023",
+      "fr": "Cadre de bannière \"Halloween 2023\"",
+      "it": "Cornice per insegna Halloween 2023",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Хэллоуин 2023»",
+      "tr": "NULL",
+      "zh": "2023万圣节横幅框"
+    },
+    "image_set_id": "807774",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6250",
+    "faction_id": "1",
+    "name": {
+      "de": "Ichabod-Krone (Spukversion)",
+      "en": "Haunted Ichabod Crown",
+      "es": "Corona de Ichabod encantada",
+      "fr": "Couronne d'Ichabod hantée",
+      "it": "Corona Ichabod stregata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Корона Ихавода",
+      "tr": "NULL",
+      "zh": "幽灵以迦博皇冠"
+    },
+    "image_set_id": "82833",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6251",
+    "faction_id": "1",
+    "name": {
+      "de": "Titel: Infernal",
+      "en": "Title: Infernal",
+      "es": "Título: Infernal",
+      "fr": "Titre : Infernal",
+      "it": "Titolo: Infernale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Название: Дьявольщина",
+      "tr": "NULL",
+      "zh": "头衔：地狱"
+    },
+    "image_set_id": "82824",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6252",
+    "faction_id": "1",
+    "name": {
+      "de": "450 A7",
+      "en": "450 A7",
+      "es": "450 A7",
+      "fr": "450 A7",
+      "it": "450 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "450 A7",
+      "tr": "NULL",
+      "zh": "450 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6253",
+    "faction_id": "1",
+    "name": {
+      "de": "Halloween 2023 Bannerrahmen",
+      "en": "Halloween 2023 Banner Frame",
+      "es": "Marco de estandarte de Halloween 2023",
+      "fr": "Cadre de bannière \"Halloween 2023\"",
+      "it": "Cornice per insegna Halloween 2023",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Хэллоуин 2023»",
+      "tr": "NULL",
+      "zh": "2023万圣节横幅框"
+    },
+    "image_set_id": "807774",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6250",
+    "faction_id": "3",
+    "name": {
+      "de": "Ichabod-Krone (Spukversion)",
+      "en": "Haunted Ichabod Crown",
+      "es": "Corona de Ichabod encantada",
+      "fr": "Couronne d'Ichabod hantée",
+      "it": "Corona Ichabod stregata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Корона Ихавода",
+      "tr": "NULL",
+      "zh": "幽灵以迦博皇冠"
+    },
+    "image_set_id": "82832",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6251",
+    "faction_id": "3",
+    "name": {
+      "de": "Titel: Infernal",
+      "en": "Title: Infernal",
+      "es": "Título: Infernal",
+      "fr": "Titre : Infernal",
+      "it": "Titolo: Infernale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Название: Дьявольщина",
+      "tr": "NULL",
+      "zh": "头衔：地狱"
+    },
+    "image_set_id": "82824",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6252",
+    "faction_id": "3",
+    "name": {
+      "de": "450 A7",
+      "en": "450 A7",
+      "es": "450 A7",
+      "fr": "450 A7",
+      "it": "450 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "450 A7",
+      "tr": "NULL",
+      "zh": "450 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6253",
+    "faction_id": "3",
+    "name": {
+      "de": "Halloween 2023 Bannerrahmen",
+      "en": "Halloween 2023 Banner Frame",
+      "es": "Marco de estandarte de Halloween 2023",
+      "fr": "Cadre de bannière \"Halloween 2023\"",
+      "it": "Cornice per insegna Halloween 2023",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Хэллоуин 2023»",
+      "tr": "NULL",
+      "zh": "2023万圣节横幅框"
+    },
+    "image_set_id": "807774",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6250",
+    "faction_id": "2",
+    "name": {
+      "de": "Ichabod-Krone (Spukversion)",
+      "en": "Haunted Ichabod Crown",
+      "es": "Corona de Ichabod encantada",
+      "fr": "Couronne d'Ichabod hantée",
+      "it": "Corona Ichabod stregata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Корона Ихавода",
+      "tr": "NULL",
+      "zh": "幽灵以迦博皇冠"
+    },
+    "image_set_id": "82831",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6251",
+    "faction_id": "2",
+    "name": {
+      "de": "Titel: Infernal",
+      "en": "Title: Infernal",
+      "es": "Título: Infernal",
+      "fr": "Titre : Infernal",
+      "it": "Titolo: Infernale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Название: Дьявольщина",
+      "tr": "NULL",
+      "zh": "头衔：地狱"
+    },
+    "image_set_id": "82824",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6252",
+    "faction_id": "2",
+    "name": {
+      "de": "450 A7",
+      "en": "450 A7",
+      "es": "450 A7",
+      "fr": "450 A7",
+      "it": "450 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "450 A7",
+      "tr": "NULL",
+      "zh": "450 A7"
+    },
+    "image_set_id": "806266",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6253",
+    "faction_id": "2",
+    "name": {
+      "de": "Halloween 2023 Bannerrahmen",
+      "en": "Halloween 2023 Banner Frame",
+      "es": "Marco de estandarte de Halloween 2023",
+      "fr": "Cadre de bannière \"Halloween 2023\"",
+      "it": "Cornice per insegna Halloween 2023",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Хэллоуин 2023»",
+      "tr": "NULL",
+      "zh": "2023万圣节横幅框"
+    },
+    "image_set_id": "807774",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
   }
 ]
