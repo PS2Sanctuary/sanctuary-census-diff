@@ -266,11 +266,11 @@
   {
     "world_id": "17",
     "zone_id": "97",
-    "total": "1091",
+    "total": "1098",
     "population_limits": {
       "VS": "366",
       "NC": "366",
-      "TR": "359",
+      "TR": "366",
       "NSO": "0"
     }
   },
