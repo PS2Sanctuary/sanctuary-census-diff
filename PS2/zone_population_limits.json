@@ -258,8 +258,8 @@
     "total": "294",
     "population_limits": {
       "VS": "100",
-      "NC": "94",
-      "TR": "100",
+      "NC": "100",
+      "TR": "94",
       "NSO": "0"
     }
   },
@@ -365,10 +365,10 @@
   {
     "world_id": "40",
     "zone_id": "8",
-    "total": "750",
+    "total": "738",
     "population_limits": {
-      "VS": "250",
-      "NC": "250",
+      "VS": "244",
+      "NC": "244",
       "TR": "250",
       "NSO": "0"
     }
@@ -420,10 +420,10 @@
   {
     "world_id": "40",
     "zone_id": "362",
-    "total": "293",
+    "total": "300",
     "population_limits": {
       "VS": "100",
-      "NC": "93",
+      "NC": "100",
       "TR": "100",
       "NSO": "0"
     }
