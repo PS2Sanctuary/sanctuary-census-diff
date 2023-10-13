@@ -420,10 +420,10 @@
   {
     "world_id": "40",
     "zone_id": "362",
-    "total": "294",
+    "total": "300",
     "population_limits": {
       "VS": "100",
-      "NC": "94",
+      "NC": "100",
       "TR": "100",
       "NSO": "0"
     }
@@ -585,10 +585,10 @@
   {
     "world_id": "17",
     "zone_id": "362",
-    "total": "294",
+    "total": "291",
     "population_limits": {
       "VS": "100",
-      "NC": "94",
+      "NC": "91",
       "TR": "100",
       "NSO": "0"
     }
