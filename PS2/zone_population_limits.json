@@ -420,11 +420,11 @@
   {
     "world_id": "40",
     "zone_id": "362",
-    "total": "300",
+    "total": "294",
     "population_limits": {
       "VS": "100",
       "NC": "100",
-      "TR": "100",
+      "TR": "94",
       "NSO": "0"
     }
   },
