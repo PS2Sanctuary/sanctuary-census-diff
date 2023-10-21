@@ -486,11 +486,11 @@
   {
     "world_id": "40",
     "zone_id": "2",
-    "total": "738",
+    "total": "740",
     "population_limits": {
-      "VS": "248",
+      "VS": "249",
       "NC": "242",
-      "TR": "248",
+      "TR": "249",
       "NSO": "0"
     }
   },
