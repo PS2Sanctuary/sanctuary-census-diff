@@ -662,9 +662,9 @@
   {
     "world_id": "10",
     "zone_id": "362",
-    "total": "292",
+    "total": "300",
     "population_limits": {
-      "VS": "92",
+      "VS": "100",
       "NC": "100",
       "TR": "100",
       "NSO": "0"
