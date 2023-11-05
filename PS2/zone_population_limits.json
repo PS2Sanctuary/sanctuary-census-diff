@@ -310,9 +310,9 @@
   {
     "world_id": "17",
     "zone_id": "98",
-    "total": "1098",
+    "total": "1091",
     "population_limits": {
-      "VS": "366",
+      "VS": "359",
       "NC": "366",
       "TR": "366",
       "NSO": "0"
@@ -486,9 +486,9 @@
   {
     "world_id": "40",
     "zone_id": "2",
-    "total": "739",
+    "total": "741",
     "population_limits": {
-      "VS": "239",
+      "VS": "241",
       "NC": "250",
       "TR": "250",
       "NSO": "0"
