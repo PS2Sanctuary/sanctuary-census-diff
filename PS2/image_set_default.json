@@ -83142,5 +83142,373 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/96717.png"
+  },
+  {
+    "image_set_id": "807790",
+    "image_id": "96720",
+    "description": "icon_Weapon_Common_RocketLauncher_Dumbfire",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96720.png"
+  },
+  {
+    "image_set_id": "807792",
+    "image_id": "96729",
+    "description": "Icon_Helmet_TR_Male_Max_Volcanic_Glass",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96729.png"
+  },
+  {
+    "image_set_id": "807793",
+    "image_id": "96732",
+    "description": "icon_Armor_TR_Max_VolcanicGlass",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96732.png"
+  },
+  {
+    "image_set_id": "807794",
+    "image_id": "96735",
+    "description": "icon_Helmet_NC_Male_Body_Max_Volcanic_Glass",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96735.png"
+  },
+  {
+    "image_set_id": "807795",
+    "image_id": "96738",
+    "description": "icon_Armor_NC_Male_Body_Max_Volcanic_Glass",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96738.png"
+  },
+  {
+    "image_set_id": "807796",
+    "image_id": "96741",
+    "description": "icon_Armor_Common_Max_VolcanicGlass_NSO (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96741.png"
+  },
+  {
+    "image_set_id": "807797",
+    "image_id": "96744",
+    "description": "icon_Helmet_Common_Max_VolcanicGlass_NSO (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96744.png"
+  },
+  {
+    "image_set_id": "807798",
+    "image_id": "96747",
+    "description": "icon_Armor_VS_Skins_Male_MAX_Geode",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96747.png"
+  },
+  {
+    "image_set_id": "807799",
+    "image_id": "96750",
+    "description": "icon_Helmet_VS_Male_Max_Volcanic_Glass",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96750.png"
+  },
+  {
+    "image_set_id": "807800",
+    "image_id": "96752",
+    "description": "ProfileBackground_BannerFrame_MetalGeometry_2023_NSO (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96752.png"
+  },
+  {
+    "image_set_id": "807801",
+    "image_id": "96754",
+    "description": "ProfileBackground_BannerFrame_RedSteel_2023_TR (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96754.png"
+  },
+  {
+    "image_set_id": "807802",
+    "image_id": "96755",
+    "description": "ProfileBackground_BannerFrame_Pink&Green_2023_VS (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96755.png"
+  },
+  {
+    "image_set_id": "807803",
+    "image_id": "96756",
+    "description": "ProfileBackground_BannerFrame_YellowEagle_2023_NC (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96756.png"
+  },
+  {
+    "image_set_id": "807804",
+    "image_id": "96759",
+    "description": "icon_ProfileBackground_BannerFrame_YellowEagle_2023_NC (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96759.png"
+  },
+  {
+    "image_set_id": "807805",
+    "image_id": "96762",
+    "description": "icon_ProfileBackground_BannerFrame_Pink&Green_2023_VS (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96762.png"
+  },
+  {
+    "image_set_id": "807806",
+    "image_id": "96765",
+    "description": "icon_ProfileBackground_BannerFrame_RedSteel_2023_TR (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96765.png"
+  },
+  {
+    "image_set_id": "807807",
+    "image_id": "96768",
+    "description": "icon_ProfileBackground_BannerFrame_MetalGeometry_2023_NSO (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96768.png"
+  },
+  {
+    "image_set_id": "807808",
+    "image_id": "96769",
+    "description": "ProfileBackground_MetalGeometry_2023_NSO (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96769.png"
+  },
+  {
+    "image_set_id": "807810",
+    "image_id": "96772",
+    "description": "icon_ProfileBackground_MetalGeometry_2023_NSO (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96772.png"
+  },
+  {
+    "image_set_id": "807811",
+    "image_id": "96773",
+    "description": "ProfileBackground_RedSteel_2023_TR (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96773.png"
+  },
+  {
+    "image_set_id": "807812",
+    "image_id": "96776",
+    "description": "icon_ProfileBackground_RedSteel_2023_TR (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96776.png"
+  },
+  {
+    "image_set_id": "807813",
+    "image_id": "96779",
+    "description": "icon_ProfileBackground_Pink&Green_2023_VS (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96779.png"
+  },
+  {
+    "image_set_id": "807814",
+    "image_id": "96780",
+    "description": "ProfileBackground_Pink&Green_2023_VS (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96780.png"
+  },
+  {
+    "image_set_id": "807815",
+    "image_id": "96783",
+    "description": "icon_ProfileBackground_YellowEagle_2023_NC (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96783.png"
+  },
+  {
+    "image_set_id": "807816",
+    "image_id": "96784",
+    "description": "ProfileBackground_YellowEagle_2023_NC (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96784.png"
+  },
+  {
+    "image_set_id": "807817",
+    "image_id": "96787",
+    "description": "icon_Weapon_Common_Crossbow001_Scope3x (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96787.png"
+  },
+  {
+    "image_set_id": "807818",
+    "image_id": "96790",
+    "description": "icon_Weapon_Common_Crossbow001_Scope1x (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96790.png"
+  },
+  {
+    "image_set_id": "807819",
+    "image_id": "96793",
+    "description": "Icon_Vehicle_Common_Lightning_Attachment_LitTrim_Anniversary11_grey (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96793.png"
+  },
+  {
+    "image_set_id": "807820",
+    "image_id": "96796",
+    "description": "icon_Weapons_Common_HeavyCrossbow001_FortuneSeeker (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96796.png"
+  },
+  {
+    "image_set_id": "807821",
+    "image_id": "96799",
+    "description": "icon_Vehicle_Common_DropPod_Mining_Drill (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96799.png"
+  },
+  {
+    "image_set_id": "807822",
+    "image_id": "96802",
+    "description": "icon_Vehicle_Common_Sunderer_Attachment_LitTrim_Anniversary11_grey (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96802.png"
+  },
+  {
+    "image_set_id": "807824",
+    "image_id": "96805",
+    "description": "icon_Vehicle_Common_ANT_Attachment_LitTrim_Anniversary11_Grey (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96805.png"
+  },
+  {
+    "image_set_id": "807825",
+    "image_id": "96808",
+    "description": "icon_vehicle_litTrim_vehicle_Liberator_geode (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96808.png"
+  },
+  {
+    "image_set_id": "807826",
+    "image_id": "96811",
+    "description": "icon_vehicle_Valkyrie_LitTrim_geode (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96811.png"
+  },
+  {
+    "image_set_id": "807829",
+    "image_id": "96814",
+    "description": "icon_litTrim_Galaxy_Geode_Crystal (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96814.png"
+  },
+  {
+    "image_set_id": "807830",
+    "image_id": "96817",
+    "description": "icon_litTrim_Corsair_Attachment_Geode_Crystal (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96817.png"
+  },
+  {
+    "image_set_id": "807831",
+    "image_id": "96826",
+    "description": "icon_bundle_Anniversary_11_2023_Tier01 (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96826.png"
+  },
+  {
+    "image_set_id": "807832",
+    "image_id": "96829",
+    "description": "icon_bundle_Anniversary_11_2023_Tier02 (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96829.png"
+  },
+  {
+    "image_set_id": "807833",
+    "image_id": "96832",
+    "description": "icon_bundle_Anniversary_11_2023_Tier03 (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96832.png"
+  },
+  {
+    "image_set_id": "807834",
+    "image_id": "96820",
+    "description": "icon_Weapon_Common_Revolver_Commissioner (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96820.png"
+  },
+  {
+    "image_set_id": "807835",
+    "image_id": "96823",
+    "description": "icon_Weapon_Common_Attachment_Revolver_ReflexSight (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96823.png"
+  },
+  {
+    "image_set_id": "807842",
+    "image_id": "96835",
+    "description": "icon_Weapon_Common_Attachment_Revolver_ReflexSight_Chevron (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96835.png"
+  },
+  {
+    "image_set_id": "807845",
+    "image_id": "96838",
+    "description": "icon_Weapon_Common_Attachment_Revolver_ReflexSight_Square (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96838.png"
+  },
+  {
+    "image_set_id": "807846",
+    "image_id": "96841",
+    "description": "icon_Weapon_Common_Attachment_Revolver_ReflexSight_Cross (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96841.png"
+  },
+  {
+    "image_set_id": "807847",
+    "image_id": "96844",
+    "description": "icon_Weapon_Common_Attachment_Revolver_ReflexSight_YellowDot (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96844.png"
+  },
+  {
+    "image_set_id": "807848",
+    "image_id": "96847",
+    "description": "icon_Decal_11thAnniversary (11th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96847.png"
   }
 ]
