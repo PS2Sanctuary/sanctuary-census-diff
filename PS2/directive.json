@@ -128521,5 +128521,765 @@
     "image_set_id": "14137",
     "image_id": "80676",
     "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "5655",
+    "directive_tree_id": "127",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-R3 \"Mountain Buster\" Swarm",
+      "en": "NS-R3 \"Mountain Buster\" Swarm",
+      "es": "NS-R3 Swarm \"Revientamontañas\"",
+      "fr": "NS-R3 \"Mountain Buster\" Swarm",
+      "it": "NS-R3 Swarm \"Mountain Buster\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-R3 «‎Mountain Buster» Swarm",
+      "tr": "NULL",
+      "zh": "NS-R3 \"Mountain Buster\" Swarm"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5610",
+    "directive_tree_id": "127",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Amethyst\" Commissioner",
+      "en": "NS-44 \"Primed Amethyst\" Commissioner",
+      "es": "NS-44 Commissioner \"Amatista preparada\"",
+      "fr": "NS-44 \"Primed Amethyst\" Commissioner",
+      "it": "NS-44 Commissioner \"Primed Amethyst\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Amethyst» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Amethyst\" Commissioner"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5614",
+    "directive_tree_id": "127",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fortune Seeker HLX",
+      "en": "Fortune Seeker HLX",
+      "es": "Buscafortunas HLX",
+      "fr": "Fortune Seeker HLX",
+      "it": "Fortune Seeker HLX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Fortune Seeker HLX",
+      "tr": "NULL",
+      "zh": "财富搜索者HLX"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5652",
+    "directive_tree_id": "127",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-R3 \"Mountain Buster\" Swarm",
+      "en": "NS-R3 \"Mountain Buster\" Swarm",
+      "es": "NS-R3 Swarm \"Revientamontañas\"",
+      "fr": "NS-R3 \"Mountain Buster\" Swarm",
+      "it": "NS-R3 Swarm \"Mountain Buster\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-R3 «‎Mountain Buster» Swarm",
+      "tr": "NULL",
+      "zh": "NS-R3 \"Mountain Buster\" Swarm"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5611",
+    "directive_tree_id": "127",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Amethyst\" Commissioner",
+      "en": "NS-44 \"Primed Amethyst\" Commissioner",
+      "es": "NS-44 Commissioner \"Amatista preparada\"",
+      "fr": "NS-44 \"Primed Amethyst\" Commissioner",
+      "it": "NS-44 Commissioner \"Primed Amethyst\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Amethyst» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Amethyst\" Commissioner"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5615",
+    "directive_tree_id": "127",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fortune Seeker HLX",
+      "en": "Fortune Seeker HLX",
+      "es": "Buscafortunas HLX",
+      "fr": "Fortune Seeker HLX",
+      "it": "Fortune Seeker HLX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Fortune Seeker HLX",
+      "tr": "NULL",
+      "zh": "财富搜索者HLX"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5653",
+    "directive_tree_id": "127",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-R3 \"Mountain Buster\" Swarm",
+      "en": "NS-R3 \"Mountain Buster\" Swarm",
+      "es": "NS-R3 Swarm \"Revientamontañas\"",
+      "fr": "NS-R3 \"Mountain Buster\" Swarm",
+      "it": "NS-R3 Swarm \"Mountain Buster\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-R3 «‎Mountain Buster» Swarm",
+      "tr": "NULL",
+      "zh": "NS-R3 \"Mountain Buster\" Swarm"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5608",
+    "directive_tree_id": "127",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Amethyst\" Commissioner",
+      "en": "NS-44 \"Primed Amethyst\" Commissioner",
+      "es": "NS-44 Commissioner \"Amatista preparada\"",
+      "fr": "NS-44 \"Primed Amethyst\" Commissioner",
+      "it": "NS-44 Commissioner \"Primed Amethyst\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Amethyst» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Amethyst\" Commissioner"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5612",
+    "directive_tree_id": "127",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fortune Seeker HLX",
+      "en": "Fortune Seeker HLX",
+      "es": "Buscafortunas HLX",
+      "fr": "Fortune Seeker HLX",
+      "it": "Fortune Seeker HLX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Fortune Seeker HLX",
+      "tr": "NULL",
+      "zh": "财富搜索者HLX"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5654",
+    "directive_tree_id": "127",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-R3 \"Mountain Buster\" Swarm",
+      "en": "NS-R3 \"Mountain Buster\" Swarm",
+      "es": "NS-R3 Swarm \"Revientamontañas\"",
+      "fr": "NS-R3 \"Mountain Buster\" Swarm",
+      "it": "NS-R3 Swarm \"Mountain Buster\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-R3 «‎Mountain Buster» Swarm",
+      "tr": "NULL",
+      "zh": "NS-R3 \"Mountain Buster\" Swarm"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5609",
+    "directive_tree_id": "127",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Amethyst\" Commissioner",
+      "en": "NS-44 \"Primed Amethyst\" Commissioner",
+      "es": "NS-44 Commissioner \"Amatista preparada\"",
+      "fr": "NS-44 \"Primed Amethyst\" Commissioner",
+      "it": "NS-44 Commissioner \"Primed Amethyst\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Amethyst» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Amethyst\" Commissioner"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5613",
+    "directive_tree_id": "127",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fortune Seeker HLX",
+      "en": "Fortune Seeker HLX",
+      "es": "Buscafortunas HLX",
+      "fr": "Fortune Seeker HLX",
+      "it": "Fortune Seeker HLX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Fortune Seeker HLX",
+      "tr": "NULL",
+      "zh": "财富搜索者HLX"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5648",
+    "directive_tree_id": "47",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-R3 \"Mountain Buster\" Swarm",
+      "en": "NS-R3 \"Mountain Buster\" Swarm",
+      "es": "NS-R3 Swarm \"Revientamontañas\"",
+      "fr": "NS-R3 \"Mountain Buster\" Swarm",
+      "it": "NS-R3 Swarm \"Mountain Buster\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-R3 «‎Mountain Buster» Swarm",
+      "tr": "NULL",
+      "zh": "NS-R3 \"Mountain Buster\" Swarm"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79605",
+    "image_path": "/files/ps2/images/static/79605.png"
+  },
+  {
+    "directive_id": "5649",
+    "directive_tree_id": "47",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-R3 \"Mountain Buster\" Swarm",
+      "en": "NS-R3 \"Mountain Buster\" Swarm",
+      "es": "NS-R3 Swarm \"Revientamontañas\"",
+      "fr": "NS-R3 \"Mountain Buster\" Swarm",
+      "it": "NS-R3 Swarm \"Mountain Buster\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-R3 «‎Mountain Buster» Swarm",
+      "tr": "NULL",
+      "zh": "NS-R3 \"Mountain Buster\" Swarm"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79605",
+    "image_path": "/files/ps2/images/static/79605.png"
+  },
+  {
+    "directive_id": "5650",
+    "directive_tree_id": "47",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-R3 \"Mountain Buster\" Swarm",
+      "en": "NS-R3 \"Mountain Buster\" Swarm",
+      "es": "NS-R3 Swarm \"Revientamontañas\"",
+      "fr": "NS-R3 \"Mountain Buster\" Swarm",
+      "it": "NS-R3 Swarm \"Mountain Buster\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-R3 «‎Mountain Buster» Swarm",
+      "tr": "NULL",
+      "zh": "NS-R3 \"Mountain Buster\" Swarm"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79605",
+    "image_path": "/files/ps2/images/static/79605.png"
+  },
+  {
+    "directive_id": "5651",
+    "directive_tree_id": "47",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-R3 \"Mountain Buster\" Swarm",
+      "en": "NS-R3 \"Mountain Buster\" Swarm",
+      "es": "NS-R3 Swarm \"Revientamontañas\"",
+      "fr": "NS-R3 \"Mountain Buster\" Swarm",
+      "it": "NS-R3 Swarm \"Mountain Buster\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-R3 «‎Mountain Buster» Swarm",
+      "tr": "NULL",
+      "zh": "NS-R3 \"Mountain Buster\" Swarm"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79605",
+    "image_path": "/files/ps2/images/static/79605.png"
+  },
+  {
+    "directive_id": "5658",
+    "directive_tree_id": "17",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Amethyst\" Commissioner",
+      "en": "NS-44 \"Primed Amethyst\" Commissioner",
+      "es": "NS-44 Commissioner \"Amatista preparada\"",
+      "fr": "NS-44 \"Primed Amethyst\" Commissioner",
+      "it": "NS-44 Commissioner \"Primed Amethyst\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Amethyst» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Amethyst\" Commissioner"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "directive_id": "5659",
+    "directive_tree_id": "17",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Amethyst\" Commissioner",
+      "en": "NS-44 \"Primed Amethyst\" Commissioner",
+      "es": "NS-44 Commissioner \"Amatista preparada\"",
+      "fr": "NS-44 \"Primed Amethyst\" Commissioner",
+      "it": "NS-44 Commissioner \"Primed Amethyst\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Amethyst» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Amethyst\" Commissioner"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "directive_id": "5657",
+    "directive_tree_id": "17",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Amethyst\" Commissioner",
+      "en": "NS-44 \"Primed Amethyst\" Commissioner",
+      "es": "NS-44 Commissioner \"Amatista preparada\"",
+      "fr": "NS-44 \"Primed Amethyst\" Commissioner",
+      "it": "NS-44 Commissioner \"Primed Amethyst\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Amethyst» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Amethyst\" Commissioner"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "directive_id": "5656",
+    "directive_tree_id": "17",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Amethyst\" Commissioner",
+      "en": "NS-44 \"Primed Amethyst\" Commissioner",
+      "es": "NS-44 Commissioner \"Amatista preparada\"",
+      "fr": "NS-44 \"Primed Amethyst\" Commissioner",
+      "it": "NS-44 Commissioner \"Primed Amethyst\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Amethyst» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Amethyst\" Commissioner"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
   }
 ]

@@ -14,7 +14,7 @@
       "zh": "SolTech"
     },
     "is_locked": "0",
-    "lock_state": "3",
+    "lock_state": "Unlocked",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -140,7 +140,7 @@
       "zh": "荣耀"
     },
     "is_locked": "0",
-    "lock_state": "3",
+    "lock_state": "Maintenance",
     "is_unprivileged_access_allowed": "1"
   }
 ]
