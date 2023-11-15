@@ -1554,10 +1554,10 @@
       "tr": "NULL",
       "zh": "Astria Solar Station"
     },
-    "facility_type_id": "9",
-    "location_x": "-1850.98",
-    "location_y": "153.0711",
-    "location_z": "527.9398"
+    "facility_type_id": "6",
+    "location_x": "-1779.42",
+    "location_y": "157.4047",
+    "location_z": "773.3341"
   },
   {
     "zone_id": "344",
@@ -2054,10 +2054,10 @@
       "tr": "NULL",
       "zh": "Veridad Pass"
     },
-    "facility_type_id": "9",
-    "location_x": "-185.9929",
-    "location_y": "131.749",
-    "location_z": "-2597.929"
+    "facility_type_id": "6",
+    "location_x": "-207.4052",
+    "location_y": "129.3922",
+    "location_z": "-2555.201"
   },
   {
     "zone_id": "344",
