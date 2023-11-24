@@ -1902,5 +1902,39 @@
       "GlobalRank": "0",
       "DisplayRank": "0"
     }
+  },
+  {
+    "round_id": "339341532104249374",
+    "outfit_id": "37566111340569915",
+    "faction_id": "1",
+    "outfit_war_id": "45",
+    "order": "2",
+    "ranking_parameters": {
+      "MatchRank": "0",
+      "TotalScore": "0",
+      "MatchesPlayed": "0",
+      "Wins": "0",
+      "Losses": "0",
+      "TiebreakerPoints": "0",
+      "GlobalRank": "0",
+      "DisplayRank": "0"
+    }
+  },
+  {
+    "round_id": "339341532104249374",
+    "outfit_id": "37599881127529487",
+    "faction_id": "2",
+    "outfit_war_id": "45",
+    "order": "3",
+    "ranking_parameters": {
+      "MatchRank": "0",
+      "TotalScore": "0",
+      "MatchesPlayed": "0",
+      "Wins": "0",
+      "Losses": "0",
+      "TiebreakerPoints": "0",
+      "GlobalRank": "0",
+      "DisplayRank": "0"
+    }
   }
 ]
