@@ -42,7 +42,7 @@
     "outfit_war_id": "42",
     "registration_order": "4",
     "status": "Partial",
-    "member_signup_count": "22"
+    "member_signup_count": "23"
   },
   {
     "outfit_id": "37581466630118542",
@@ -77,8 +77,8 @@
     "world_id": "1",
     "outfit_war_id": "42",
     "registration_order": "7",
-    "status": "Partial",
-    "member_signup_count": "20"
+    "status": "Full",
+    "member_signup_count": "24"
   },
   {
     "outfit_id": "37575759950005295",
@@ -105,7 +105,7 @@
     "outfit_war_id": "42",
     "registration_order": "8",
     "status": "Partial",
-    "member_signup_count": "16"
+    "member_signup_count": "20"
   },
   {
     "outfit_id": "37562651025774546",
@@ -176,8 +176,8 @@
     "world_id": "1",
     "outfit_war_id": "42",
     "registration_order": "6",
-    "status": "Partial",
-    "member_signup_count": "8"
+    "status": "WaitingOnNextFullReg",
+    "member_signup_count": "24"
   },
   {
     "outfit_id": "37561648861942444",
@@ -842,8 +842,8 @@
     "world_id": "17",
     "outfit_war_id": "43",
     "registration_order": "6",
-    "status": "Partial",
-    "member_signup_count": "23"
+    "status": "Full",
+    "member_signup_count": "24"
   },
   {
     "outfit_id": "37509507321445897",
@@ -1013,8 +1013,8 @@
     "world_id": "17",
     "outfit_war_id": "43",
     "registration_order": "15",
-    "status": "Partial",
-    "member_signup_count": "23"
+    "status": "Full",
+    "member_signup_count": "24"
   },
   {
     "outfit_id": "37530159341115681",
@@ -1038,10 +1038,10 @@
     "outfit_id": "37569919291786376",
     "faction_id": "3",
     "world_id": "17",
-    "outfit_war_id": "36",
+    "outfit_war_id": "43",
     "registration_order": "19",
     "status": "Partial",
-    "member_signup_count": "0"
+    "member_signup_count": "8"
   },
   {
     "outfit_id": "37510184933832476",
@@ -1059,7 +1059,7 @@
     "outfit_war_id": "43",
     "registration_order": "9",
     "status": "Partial",
-    "member_signup_count": "7"
+    "member_signup_count": "9"
   },
   {
     "outfit_id": "37535059393436717",
@@ -1167,7 +1167,7 @@
     "outfit_war_id": "45",
     "registration_order": "8",
     "status": "Partial",
-    "member_signup_count": "2"
+    "member_signup_count": "3"
   },
   {
     "outfit_id": "37557526595139684",
@@ -1715,7 +1715,7 @@
     "world_id": "1",
     "outfit_war_id": "42",
     "registration_order": "5",
-    "status": "WaitingOnNextFullReg",
+    "status": "Full",
     "member_signup_count": "24"
   },
   {
@@ -1815,7 +1815,7 @@
     "outfit_war_id": "43",
     "registration_order": "18",
     "status": "Partial",
-    "member_signup_count": "2"
+    "member_signup_count": "1"
   },
   {
     "outfit_id": "37589416562402578",
@@ -1877,6 +1877,15 @@
     "world_id": "1",
     "outfit_war_id": "42",
     "registration_order": "17",
+    "status": "Partial",
+    "member_signup_count": "1"
+  },
+  {
+    "outfit_id": "37596709659892116",
+    "faction_id": "3",
+    "world_id": "17",
+    "outfit_war_id": "43",
+    "registration_order": "20",
     "status": "Partial",
     "member_signup_count": "1"
   }
