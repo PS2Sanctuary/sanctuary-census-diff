@@ -33,7 +33,7 @@
     "outfit_war_id": "42",
     "registration_order": "10",
     "status": "Full",
-    "member_signup_count": "24"
+    "member_signup_count": "0"
   },
   {
     "outfit_id": "37570718551025021",
@@ -42,7 +42,7 @@
     "outfit_war_id": "42",
     "registration_order": "4",
     "status": "Full",
-    "member_signup_count": "24"
+    "member_signup_count": "0"
   },
   {
     "outfit_id": "37581466630118542",
@@ -60,7 +60,7 @@
     "outfit_war_id": "42",
     "registration_order": "0",
     "status": "Full",
-    "member_signup_count": "24"
+    "member_signup_count": "0"
   },
   {
     "outfit_id": "37554038458831449",
@@ -78,7 +78,7 @@
     "outfit_war_id": "42",
     "registration_order": "7",
     "status": "Full",
-    "member_signup_count": "24"
+    "member_signup_count": "0"
   },
   {
     "outfit_id": "37575759950005295",
@@ -177,7 +177,7 @@
     "outfit_war_id": "42",
     "registration_order": "6",
     "status": "Full",
-    "member_signup_count": "24"
+    "member_signup_count": "0"
   },
   {
     "outfit_id": "37561648861942444",
@@ -1698,7 +1698,7 @@
     "outfit_war_id": "42",
     "registration_order": "1",
     "status": "Full",
-    "member_signup_count": "24"
+    "member_signup_count": "0"
   },
   {
     "outfit_id": "37526022285734792",
@@ -1707,7 +1707,7 @@
     "outfit_war_id": "42",
     "registration_order": "2",
     "status": "Full",
-    "member_signup_count": "24"
+    "member_signup_count": "0"
   },
   {
     "outfit_id": "37569919291767213",
@@ -1716,7 +1716,7 @@
     "outfit_war_id": "42",
     "registration_order": "5",
     "status": "Full",
-    "member_signup_count": "24"
+    "member_signup_count": "0"
   },
   {
     "outfit_id": "37509488620602318",
@@ -1913,6 +1913,15 @@
     "world_id": "1",
     "outfit_war_id": "42",
     "registration_order": "19",
+    "status": "Partial",
+    "member_signup_count": "1"
+  },
+  {
+    "outfit_id": "37596551084508475",
+    "faction_id": "2",
+    "world_id": "10",
+    "outfit_war_id": "44",
+    "registration_order": "15",
     "status": "Partial",
     "member_signup_count": "1"
   }
