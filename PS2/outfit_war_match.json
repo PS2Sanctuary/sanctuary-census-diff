@@ -2818,5 +2818,65 @@
     "world_id": "17",
     "outfit_a_faction_id": "3",
     "outfit_b_faction_id": "3"
+  },
+  {
+    "match_id": "339341532104474116",
+    "round_id": "339341532104246539",
+    "outfit_war_id": "42",
+    "outfit_a_id": "37526022285734741",
+    "outfit_b_id": "37571208657509284",
+    "start_time": "1701576000",
+    "order": "2",
+    "world_id": "1",
+    "outfit_a_faction_id": "1",
+    "outfit_b_faction_id": "1"
+  },
+  {
+    "match_id": "339341532104474117",
+    "round_id": "339341532104246539",
+    "outfit_war_id": "42",
+    "outfit_a_id": "37570718551025021",
+    "outfit_b_id": "37526022285734792",
+    "start_time": "1701577800",
+    "order": "3",
+    "world_id": "1",
+    "outfit_a_faction_id": "3",
+    "outfit_b_faction_id": "1"
+  },
+  {
+    "match_id": "339341532104474118",
+    "round_id": "339341532104246539",
+    "outfit_war_id": "42",
+    "outfit_a_id": "37570391403474491",
+    "outfit_b_id": "37530800324382312",
+    "start_time": "1701489600",
+    "order": "4",
+    "world_id": "1",
+    "outfit_a_faction_id": "3",
+    "outfit_b_faction_id": "2"
+  },
+  {
+    "match_id": "339341532104474119",
+    "round_id": "339341532104246539",
+    "outfit_war_id": "42",
+    "outfit_a_id": "37565476819960505",
+    "outfit_b_id": "37510184933883643",
+    "start_time": "1701491400",
+    "order": "0",
+    "world_id": "1",
+    "outfit_a_faction_id": "2",
+    "outfit_b_faction_id": "2"
+  },
+  {
+    "match_id": "339341532104474120",
+    "round_id": "339341532104246539",
+    "outfit_war_id": "42",
+    "outfit_a_id": "37569919291767213",
+    "outfit_b_id": "37514425118786832",
+    "start_time": "1701576000",
+    "order": "1",
+    "world_id": "1",
+    "outfit_a_faction_id": "1",
+    "outfit_b_faction_id": "2"
   }
 ]
