@@ -1500,7 +1500,7 @@
     "outfit_id": "37570233680537841",
     "faction_id": "3",
     "outfit_war_id": "43",
-    "order": "5",
+    "order": "4",
     "ranking_parameters": {
       "MatchRank": "5",
       "TotalScore": "10266",
@@ -1517,7 +1517,7 @@
     "outfit_id": "37567362753123442",
     "faction_id": "1",
     "outfit_war_id": "43",
-    "order": "11",
+    "order": "10",
     "ranking_parameters": {
       "MatchRank": "2",
       "TotalScore": "135",
@@ -1551,7 +1551,7 @@
     "outfit_id": "37594653251078061",
     "faction_id": "2",
     "outfit_war_id": "43",
-    "order": "1",
+    "order": "0",
     "ranking_parameters": {
       "MatchRank": "7",
       "TotalScore": "10390",
@@ -1619,7 +1619,7 @@
     "outfit_id": "37509488620601829",
     "faction_id": "1",
     "outfit_war_id": "43",
-    "order": "4",
+    "order": "5",
     "ranking_parameters": {
       "MatchRank": "5",
       "TotalScore": "10286",
@@ -1670,7 +1670,7 @@
     "outfit_id": "37565159127660775",
     "faction_id": "2",
     "outfit_war_id": "43",
-    "order": "0",
+    "order": "1",
     "ranking_parameters": {
       "MatchRank": "7",
       "TotalScore": "10414",
@@ -2061,7 +2061,7 @@
     "outfit_id": "37552793831868382",
     "faction_id": "2",
     "outfit_war_id": "43",
-    "order": "10",
+    "order": "11",
     "ranking_parameters": {
       "MatchRank": "2",
       "TotalScore": "151",
