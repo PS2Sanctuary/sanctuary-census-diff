@@ -10004,5 +10004,265 @@
     "image_set_id": "82831",
     "image_id": "80676",
     "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6264",
+    "item_id": "6015351",
+    "name": {
+      "de": "Titel: Eisdrache",
+      "en": "Title: Ice Dragon",
+      "es": "Título: Dragón de hielo",
+      "fr": "Titre : Dragon de glace",
+      "it": "Titolo: Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: Ледяной дракон",
+      "tr": "NULL",
+      "zh": "头衔：冰龙"
+    },
+    "quantity": "1",
+    "image_set_id": "3083",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6264",
+    "item_id": "6015343",
+    "name": {
+      "de": "NSA-Weihnachtsmütze",
+      "en": "NSO Holiday Beanie",
+      "es": "Gorro festivo de NSO",
+      "fr": "Bonnet des fêtes d'ANS",
+      "it": "Berretto natalizio NSO",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Новогодняя шапочка NSO",
+      "tr": "NULL",
+      "zh": "NSO节日小圆帽"
+    },
+    "quantity": "1",
+    "image_set_id": "807894",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6264",
+    "item_id": "77893",
+    "name": {
+      "de": "250 ZERTS",
+      "en": "250 Certs",
+      "es": "250 Certs",
+      "fr": "250 Accréditations",
+      "it": "250 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "250 сертификатов",
+      "tr": "NULL",
+      "zh": "250证书点"
+    },
+    "quantity": "1",
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6265",
+    "item_id": "6015347",
+    "name": {
+      "de": "Bannerrahmen \"Eisdrache\"",
+      "en": "Ice Dragon Banner Frame",
+      "es": "Marco de pancarta Dragón de hielo",
+      "fr": "Cadre de bannière \"Dragon de glace\"",
+      "it": "Cornice per insegna Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера: Ледяной дракон",
+      "tr": "NULL",
+      "zh": "冰龙横幅框"
+    },
+    "quantity": "1",
+    "image_set_id": "807889",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6265",
+    "item_id": "6015348",
+    "name": {
+      "de": "Banner \"Eisdrache\"",
+      "en": "Ice Dragon Banner",
+      "es": "Pancarta Dragón de hielo",
+      "fr": "Bannière \"Dragon de glace\"",
+      "it": "Insegna Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер: Ледяной дракон",
+      "tr": "NULL",
+      "zh": "冰龙横幅"
+    },
+    "quantity": "1",
+    "image_set_id": "807888",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6265",
+    "item_id": "6008708",
+    "name": {
+      "de": "500 ISO-4",
+      "en": "500 ISO-4",
+      "es": "500 ISO-4",
+      "fr": "500 ISO-4",
+      "it": "500 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 ISO-4",
+      "tr": "NULL",
+      "zh": "500 ISO-4"
+    },
+    "quantity": "1",
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6266",
+    "item_id": "6015349",
+    "name": {
+      "de": "Tarnung \"Eisdrache\"",
+      "en": "Ice Dragon Camo",
+      "es": "Camuflaje Dragón de hielo",
+      "fr": "Camo : Dragon de glace",
+      "it": "Mimetizzazione Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Ледяной дракон»",
+      "tr": "NULL",
+      "zh": "冰龙迷彩"
+    },
+    "quantity": "1",
+    "image_set_id": "807887",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6266",
+    "item_id": "6003486",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "quantity": "1",
+    "image_set_id": "803836",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6266",
+    "item_id": "6009498",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "quantity": "1",
+    "image_set_id": "806266",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6267",
+    "item_id": "6015350",
+    "name": {
+      "de": "Blitzeis",
+      "en": "Flash Freeze",
+      "es": "Congelación repentina",
+      "fr": "Gel rapide",
+      "it": "Congelamento improvviso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мгновенная заморозка",
+      "tr": "NULL",
+      "zh": "Flash Freeze"
+    },
+    "quantity": "1",
+    "image_set_id": "807892",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6264",
+    "item_id": "6015341",
+    "name": {
+      "de": "Vanu-Weihnachtsmütze",
+      "en": "Vanu Holiday Beanie",
+      "es": "Gorro festivo de Vanu",
+      "fr": "Bonnet des fêtes vanu",
+      "it": "Berretto natalizio Vanu",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Новогодняя шапочка VS",
+      "tr": "NULL",
+      "zh": "Vanu节日小圆帽"
+    },
+    "quantity": "1",
+    "image_set_id": "807896",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6264",
+    "item_id": "6015342",
+    "name": {
+      "de": "Terranische Weihnachtsmütze",
+      "en": "Terran Holiday Beanie",
+      "es": "Gorro festivo Terran",
+      "fr": "Bonnet des fêtes terran",
+      "it": "Berretto natalizio Terrestre",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Новогодняя шапочка Terran",
+      "tr": "NULL",
+      "zh": "Terran节日小圆帽"
+    },
+    "quantity": "1",
+    "image_set_id": "807895",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6264",
+    "item_id": "6015344",
+    "name": {
+      "de": "Konglomerat-Weihnachtsmütze",
+      "en": "Conglomerate Holiday Beanie",
+      "es": "Gorro festivo del Conglomerado",
+      "fr": "Bonnet des fêtes du Conglomérat",
+      "it": "Berretto natalizio del Conglomerato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Новогодняя шапочка NC",
+      "tr": "NULL",
+      "zh": "Conglomerate节日小圆帽"
+    },
+    "quantity": "1",
+    "image_set_id": "807893",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

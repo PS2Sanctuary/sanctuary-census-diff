@@ -583,7 +583,7 @@
     "outfit_size_requirement": "24",
     "outfit_signup_requirement": "24",
     "start_time": "1700701800",
-    "end_time": "1731492600",
+    "end_time": "1731487200",
     "image_set_id": "806642",
     "image_id": "93426",
     "image_path": "/files/ps2/images/static/93426.png",
@@ -615,7 +615,7 @@
           "zh": "报名参加下一场军团战争！"
         },
         "start_time": "1700701800",
-        "end_time": "1701051000"
+        "end_time": "1701045600"
       },
       {
         "order": "1",
@@ -643,8 +643,8 @@
           "tr": "NULL",
           "zh": "战争已经开始！"
         },
-        "start_time": "1701051000",
-        "end_time": "1705284600"
+        "start_time": "1701045600",
+        "end_time": "1705279200"
       },
       {
         "order": "2",
@@ -672,8 +672,8 @@
           "tr": "NULL",
           "zh": "战争已结束。"
         },
-        "start_time": "1705284600",
-        "end_time": "1731492600"
+        "start_time": "1705279200",
+        "end_time": "1731487200"
       }
     ]
   },

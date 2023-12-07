@@ -1681,5 +1681,42 @@
     "image_set_id": "82818",
     "image_id": "80676",
     "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_tree_id": "131",
+    "directive_tree_category_id": "8",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Auraximas 2023",
+      "en": "Auraximas 2023",
+      "es": "Auraxidad 2023",
+      "fr": "Auraximas 2023",
+      "it": "Auraximas 2023",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Новый год 2024",
+      "tr": "NULL",
+      "zh": "2023奥拉西斯圣诞节"
+    },
+    "description": {
+      "de": "Verfügbar bis 1. Januar",
+      "en": "Available through January 1",
+      "es": "Disponible hasta el 1 de enero",
+      "fr": "Disponible jusqu'au 1 janvier",
+      "it": "Disponibile fino al 1° gennaio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Доступно до 1 января",
+      "tr": "NULL",
+      "zh": "活动持续至1月1日"
+    },
+    "image_set_id": "0",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

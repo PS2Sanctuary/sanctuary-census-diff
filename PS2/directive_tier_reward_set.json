@@ -11550,5 +11550,309 @@
     "image_set_id": "807774",
     "image_id": "80676",
     "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6264",
+    "faction_id": "4",
+    "name": {
+      "de": "Titel: Eisdrache",
+      "en": "Title: Ice Dragon",
+      "es": "Título: Dragón de hielo",
+      "fr": "Titre : Dragon de glace",
+      "it": "Titolo: Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: Ледяной дракон",
+      "tr": "NULL",
+      "zh": "头衔：冰龙"
+    },
+    "image_set_id": "3083",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6265",
+    "faction_id": "4",
+    "name": {
+      "de": "Bannerrahmen \"Eisdrache\"",
+      "en": "Ice Dragon Banner Frame",
+      "es": "Marco de pancarta Dragón de hielo",
+      "fr": "Cadre de bannière \"Dragon de glace\"",
+      "it": "Cornice per insegna Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера: Ледяной дракон",
+      "tr": "NULL",
+      "zh": "冰龙横幅框"
+    },
+    "image_set_id": "807889",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6266",
+    "faction_id": "4",
+    "name": {
+      "de": "Tarnung \"Eisdrache\"",
+      "en": "Ice Dragon Camo",
+      "es": "Camuflaje Dragón de hielo",
+      "fr": "Camo : Dragon de glace",
+      "it": "Mimetizzazione Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Ледяной дракон»",
+      "tr": "NULL",
+      "zh": "冰龙迷彩"
+    },
+    "image_set_id": "807887",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6267",
+    "faction_id": "4",
+    "name": {
+      "de": "Blitzeis",
+      "en": "Flash Freeze",
+      "es": "Congelación repentina",
+      "fr": "Gel rapide",
+      "it": "Congelamento improvviso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мгновенная заморозка",
+      "tr": "NULL",
+      "zh": "Flash Freeze"
+    },
+    "image_set_id": "807892",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6264",
+    "faction_id": "1",
+    "name": {
+      "de": "Titel: Eisdrache",
+      "en": "Title: Ice Dragon",
+      "es": "Título: Dragón de hielo",
+      "fr": "Titre : Dragon de glace",
+      "it": "Titolo: Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: Ледяной дракон",
+      "tr": "NULL",
+      "zh": "头衔：冰龙"
+    },
+    "image_set_id": "3083",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6265",
+    "faction_id": "1",
+    "name": {
+      "de": "Bannerrahmen \"Eisdrache\"",
+      "en": "Ice Dragon Banner Frame",
+      "es": "Marco de pancarta Dragón de hielo",
+      "fr": "Cadre de bannière \"Dragon de glace\"",
+      "it": "Cornice per insegna Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера: Ледяной дракон",
+      "tr": "NULL",
+      "zh": "冰龙横幅框"
+    },
+    "image_set_id": "807889",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6266",
+    "faction_id": "1",
+    "name": {
+      "de": "Tarnung \"Eisdrache\"",
+      "en": "Ice Dragon Camo",
+      "es": "Camuflaje Dragón de hielo",
+      "fr": "Camo : Dragon de glace",
+      "it": "Mimetizzazione Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Ледяной дракон»",
+      "tr": "NULL",
+      "zh": "冰龙迷彩"
+    },
+    "image_set_id": "807887",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6267",
+    "faction_id": "1",
+    "name": {
+      "de": "Blitzeis",
+      "en": "Flash Freeze",
+      "es": "Congelación repentina",
+      "fr": "Gel rapide",
+      "it": "Congelamento improvviso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мгновенная заморозка",
+      "tr": "NULL",
+      "zh": "Flash Freeze"
+    },
+    "image_set_id": "807892",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6264",
+    "faction_id": "3",
+    "name": {
+      "de": "Titel: Eisdrache",
+      "en": "Title: Ice Dragon",
+      "es": "Título: Dragón de hielo",
+      "fr": "Titre : Dragon de glace",
+      "it": "Titolo: Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: Ледяной дракон",
+      "tr": "NULL",
+      "zh": "头衔：冰龙"
+    },
+    "image_set_id": "3083",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6265",
+    "faction_id": "3",
+    "name": {
+      "de": "Bannerrahmen \"Eisdrache\"",
+      "en": "Ice Dragon Banner Frame",
+      "es": "Marco de pancarta Dragón de hielo",
+      "fr": "Cadre de bannière \"Dragon de glace\"",
+      "it": "Cornice per insegna Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера: Ледяной дракон",
+      "tr": "NULL",
+      "zh": "冰龙横幅框"
+    },
+    "image_set_id": "807889",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6266",
+    "faction_id": "3",
+    "name": {
+      "de": "Tarnung \"Eisdrache\"",
+      "en": "Ice Dragon Camo",
+      "es": "Camuflaje Dragón de hielo",
+      "fr": "Camo : Dragon de glace",
+      "it": "Mimetizzazione Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Ледяной дракон»",
+      "tr": "NULL",
+      "zh": "冰龙迷彩"
+    },
+    "image_set_id": "807887",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6267",
+    "faction_id": "3",
+    "name": {
+      "de": "Blitzeis",
+      "en": "Flash Freeze",
+      "es": "Congelación repentina",
+      "fr": "Gel rapide",
+      "it": "Congelamento improvviso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мгновенная заморозка",
+      "tr": "NULL",
+      "zh": "Flash Freeze"
+    },
+    "image_set_id": "807892",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6264",
+    "faction_id": "2",
+    "name": {
+      "de": "Titel: Eisdrache",
+      "en": "Title: Ice Dragon",
+      "es": "Título: Dragón de hielo",
+      "fr": "Titre : Dragon de glace",
+      "it": "Titolo: Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: Ледяной дракон",
+      "tr": "NULL",
+      "zh": "头衔：冰龙"
+    },
+    "image_set_id": "3083",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6265",
+    "faction_id": "2",
+    "name": {
+      "de": "Bannerrahmen \"Eisdrache\"",
+      "en": "Ice Dragon Banner Frame",
+      "es": "Marco de pancarta Dragón de hielo",
+      "fr": "Cadre de bannière \"Dragon de glace\"",
+      "it": "Cornice per insegna Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера: Ледяной дракон",
+      "tr": "NULL",
+      "zh": "冰龙横幅框"
+    },
+    "image_set_id": "807889",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6266",
+    "faction_id": "2",
+    "name": {
+      "de": "Tarnung \"Eisdrache\"",
+      "en": "Ice Dragon Camo",
+      "es": "Camuflaje Dragón de hielo",
+      "fr": "Camo : Dragon de glace",
+      "it": "Mimetizzazione Drago di ghiaccio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Ледяной дракон»",
+      "tr": "NULL",
+      "zh": "冰龙迷彩"
+    },
+    "image_set_id": "807887",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6267",
+    "faction_id": "2",
+    "name": {
+      "de": "Blitzeis",
+      "en": "Flash Freeze",
+      "es": "Congelación repentina",
+      "fr": "Gel rapide",
+      "it": "Congelamento improvviso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мгновенная заморозка",
+      "tr": "NULL",
+      "zh": "Flash Freeze"
+    },
+    "image_set_id": "807892",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

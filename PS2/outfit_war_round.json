@@ -330,7 +330,7 @@
     "order": "1",
     "stage": "Qualifier",
     "start_time": "1701655800",
-    "end_time": "1702260600"
+    "end_time": "1702255200"
   },
   {
     "round_id": "339341532104246541",
@@ -338,8 +338,8 @@
     "primary_round_id": "339341532104246538",
     "order": "2",
     "stage": "Qualifier",
-    "start_time": "1702260600",
-    "end_time": "1702865400"
+    "start_time": "1702255200",
+    "end_time": "1702860000"
   },
   {
     "round_id": "339341532104246542",
@@ -347,8 +347,8 @@
     "primary_round_id": "339341532104246538",
     "order": "3",
     "stage": "Qualifier",
-    "start_time": "1702865400",
-    "end_time": "1703470200"
+    "start_time": "1702860000",
+    "end_time": "1703464800"
   },
   {
     "round_id": "339341532104246543",
@@ -356,8 +356,8 @@
     "primary_round_id": "339341532104246538",
     "order": "4",
     "stage": "Playoff",
-    "start_time": "1703470200",
-    "end_time": "1704075000"
+    "start_time": "1703464800",
+    "end_time": "1704069600"
   },
   {
     "round_id": "339341532104246544",
@@ -365,8 +365,8 @@
     "primary_round_id": "339341532104246538",
     "order": "5",
     "stage": "Playoff",
-    "start_time": "1704075000",
-    "end_time": "1704679800"
+    "start_time": "1704069600",
+    "end_time": "1704674400"
   },
   {
     "round_id": "339341532104246545",
@@ -374,8 +374,8 @@
     "primary_round_id": "339341532104246538",
     "order": "6",
     "stage": "Final",
-    "start_time": "1704679800",
-    "end_time": "1705284600"
+    "start_time": "1704674400",
+    "end_time": "1705279200"
   },
   {
     "round_id": "525418959815344291",

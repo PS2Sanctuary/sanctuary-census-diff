@@ -129281,5 +129281,1373 @@
     "image_set_id": "1567",
     "image_id": "79658",
     "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "directive_id": "5695",
+    "directive_tree_id": "127",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-66 \"Cold Fusion\" Punisher",
+      "en": "NS-66 \"Cold Fusion\" Punisher",
+      "es": "NS-66 Punisher \"Fusión Fría\" ",
+      "fr": "NS-66 \"Cold Fusion\" Punisher",
+      "it": "NS-66 Punisher \"Cold Fusion\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-66 «Cold Fusion» Punisher",
+      "tr": "NULL",
+      "zh": "NS-66“冷聚变”Punisher"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5694",
+    "directive_tree_id": "127",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-66 \"Cold Fusion\" Punisher",
+      "en": "NS-66 \"Cold Fusion\" Punisher",
+      "es": "NS-66 Punisher \"Fusión Fría\" ",
+      "fr": "NS-66 \"Cold Fusion\" Punisher",
+      "it": "NS-66 Punisher \"Cold Fusion\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-66 «Cold Fusion» Punisher",
+      "tr": "NULL",
+      "zh": "NS-66“冷聚变”Punisher"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5693",
+    "directive_tree_id": "127",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-66 \"Cold Fusion\" Punisher",
+      "en": "NS-66 \"Cold Fusion\" Punisher",
+      "es": "NS-66 Punisher \"Fusión Fría\" ",
+      "fr": "NS-66 \"Cold Fusion\" Punisher",
+      "it": "NS-66 Punisher \"Cold Fusion\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-66 «Cold Fusion» Punisher",
+      "tr": "NULL",
+      "zh": "NS-66“冷聚变”Punisher"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5692",
+    "directive_tree_id": "127",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-66 \"Cold Fusion\" Punisher",
+      "en": "NS-66 \"Cold Fusion\" Punisher",
+      "es": "NS-66 Punisher \"Fusión Fría\" ",
+      "fr": "NS-66 \"Cold Fusion\" Punisher",
+      "it": "NS-66 Punisher \"Cold Fusion\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-66 «Cold Fusion» Punisher",
+      "tr": "NULL",
+      "zh": "NS-66“冷聚变”Punisher"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "5664",
+    "directive_tree_id": "131",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Akt der Güte",
+      "en": "Acts of Kindness",
+      "es": "Actos de amabilidad",
+      "fr": "Actes de bonté",
+      "it": "Atti di gentilezza",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Добрые дела",
+      "tr": "NULL",
+      "zh": "善行"
+    },
+    "description": {
+      "de": "Belebe gefallenen Verbündete wieder oder verdiene Sunderer-Spawn-Erfahrung.",
+      "en": "Revive fallen allies, or earn Sunderer spawn experience.",
+      "es": "Revive a aliados caídos o gana experiencia de aparición con un Sunderer.",
+      "fr": "Ranimez des alliés épuisés ou gagnez de l'expérience avec les réapparitions de Disperseur",
+      "it": "Rianima gli alleati caduti o guadagna esperienza a generare su Sunderer.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Воскрешайте мертвых союзников или получайте опыт за вызов Sunderer.",
+      "tr": "NULL",
+      "zh": "复活倒下的队友，或获得Sunderer重生经验。"
+    },
+    "image_set_id": "93182",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5672",
+    "directive_tree_id": "131",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schnee-Totschlag",
+      "en": "Snow-ManSlaughter",
+      "es": "Homicidio de muñecos de nieve",
+      "fr": "Massacreur d'homme des neiges",
+      "it": "Pupazzicidio di neve",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожить снеговиков",
+      "tr": "NULL",
+      "zh": "雪人杀手"
+    },
+    "description": {
+      "de": "Finde und vernichte die Schneemänner.",
+      "en": "Locate and destroy Snowmen.",
+      "es": "Encuentra y destruye muñecos de nieve.",
+      "fr": "Trouvez et détruisez les bonshommes de neige.",
+      "it": "Localizza e distruggi i pupazzi di neve.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Найдите и уничтожьте снеговиков.",
+      "tr": "NULL",
+      "zh": "找到并摧毁雪人。"
+    },
+    "image_set_id": "93046",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5680",
+    "directive_tree_id": "131",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schlitzerfahrt",
+      "en": "Slay Ride",
+      "es": "Cabalgata letal",
+      "fr": "Une virée de massacre",
+      "it": "Slitta mortale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убийственные санки",
+      "tr": "NULL",
+      "zh": "杀戮雪橇"
+    },
+    "description": {
+      "de": "Überfahre Feinde, während du eine Weihnachtsmütze trägst.",
+      "en": "Roadkill enemies while wearing a Holiday Hat.",
+      "es": "Atropella enemigos mientras llevas un gorro navideño.",
+      "fr": "Écrasez des ennemis avec votre véhicule en portant un chapeau des fêtes.",
+      "it": "Investi i nemici con un veicolo mentre indossi un cappello di Natale.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Наденьте новогоднюю шапку и давите врагов.",
+      "tr": "NULL",
+      "zh": "戴着节日帽子完成道路击杀。"
+    },
+    "image_set_id": "93044",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5676",
+    "directive_tree_id": "131",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Frohe Fäuste",
+      "en": "Seasons Beatings",
+      "es": "Golpes de temporada",
+      "fr": "Les tabassages de saisons",
+      "it": "Botte festive",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "С новым счастьем!",
+      "tr": "NULL",
+      "zh": "赛季冠军"
+    },
+    "description": {
+      "de": "Eliminiere Feinde mit NS Frostgewehr, Kleiner Helfer, NS-W Survivor, C-4 Geschenk, Icikill, NS-11C Frostbite, NS-15M Frostbite oder Sweet Tooth.",
+      "en": "Kill enemies with the NS Deep Freeze, Little Helper, NS-W Survivor, C-4 Present, Icikill, NS-11C Frostbite, NS-15M Frostbite, or Sweet Tooth.",
+      "es": "Mata enemigos con la Pistola congeladora de NS, El pequeño ayudante, el NS-W Superviviente, el Regalo de C4, el Icikill, la NS-11C Frostbite, la NS-15M Frostbite o la Golosa.",
+      "fr": "Tuez des ennemis avec les Congélateur NS, Petit Lutin, NS-W Survivor, Cadeau C-4, Lame de glace, NS-11C Frostbite, NS-15M Frostbite ou Bouche à sucre.",
+      "it": "Uccidi i nemici con NS Deep Freeze, Piccolo aiutante, NS-W Survivor, C-4 Presente, Icikill, NS-11C Frostbite, NS-15M Frostbite o Sweet Tooth.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов при помощи NS Deep Freeze, Little Helper, NS-W Survivor, C-4 в подарок, Icikill, NS-11C «Обмороз», NS-15M «Обмороз» или «Сладкоежки».",
+      "tr": "NULL",
+      "zh": "使用NS\u00A0Deep\u00A0Freeze、Little\u00A0Helper、NS-W\u00A0Survivor、C-4\u00A0Present、Icikill、NS-11C Frostbite、NS-15M Frostbite或嗜甜食击杀敌人。"
+    },
+    "image_set_id": "93045",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5684",
+    "directive_tree_id": "131",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Operation: Schneefestung",
+      "en": "Operation: Snow Fort",
+      "es": "Operación: Fuerte de nieve",
+      "fr": "Opération\u00A0: Forteresse de neige",
+      "it": "Operazione: Fortino di neve",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Операция «Снежная крепость»",
+      "tr": "NULL",
+      "zh": "行动：雪堡"
+    },
+    "description": {
+      "de": "Deponiere Kortium in einem Silo in einer umkämpften Region.",
+      "en": "Deposit Cortium into a Silo in a contested region.",
+      "es": "Deposita cortium en un silo en una región disputada.",
+      "fr": "Déposez du Cortium dans un silo dans une région contestée.",
+      "it": "Deposita Cortium in un silo in una regione contesa.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Складируйте Cortium в Silo на оспариваемой области.",
+      "tr": "NULL",
+      "zh": "在一个争议地区将Cortium存入筒仓。"
+    },
+    "image_set_id": "803460",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5699",
+    "directive_tree_id": "131",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mit Mühe und Not",
+      "en": "Toil and Trouble",
+      "es": "Hierve, olla",
+      "fr": "Peine et panique",
+      "it": "Fatiche e preoccupazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "В трудах и заботах",
+      "tr": "NULL",
+      "zh": "辛劳与烦恼"
+    },
+    "description": {
+      "de": "Verdiene Nachschub-Erfahrung.",
+      "en": "Earn resupply experience",
+      "es": "Gana experiencia reabasteciendo.",
+      "fr": "Gagnez de l'expérience en réapprovisionnement",
+      "it": "Guadagna esperienza nel rifornimento",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получите опыт за пополнение запасов",
+      "tr": "NULL",
+      "zh": "获得补给经验值"
+    },
+    "image_set_id": "93043",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5707",
+    "directive_tree_id": "131",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fremdenführer",
+      "en": "Tour Guide",
+      "es": "Guía de turistas",
+      "fr": "Visite guidée",
+      "it": "Guida turistica",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Экскурсовод",
+      "tr": "NULL",
+      "zh": "旅行指南"
+    },
+    "description": {
+      "de": "Fahre oder steuere ein Fahrzeug mit einem Passagier, um Fortschritt für diese Anweisung zu erreichen.",
+      "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive.",
+      "es": "Conduce o pilota un vehículo con pasajeros para avanzar en esta directiva.",
+      "fr": "Plongez ou pilotez un véhicule avec un passager pour progresser dans cette directive.",
+      "it": "Guida o pilota un veicolo con un passeggero per progredire in questa direttiva.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Управляйте транспортом с пассажиром для прогресса в выполнении этой директивы.",
+      "tr": "NULL",
+      "zh": "驾驶搭载乘员的载具来积累完成此成就的进度。"
+    },
+    "image_set_id": "14062",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5703",
+    "directive_tree_id": "131",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Helfende Hand",
+      "en": "Helping Hand",
+      "es": "Mano amiga",
+      "fr": "Coup de main",
+      "it": "Sostegno",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рука помощи",
+      "tr": "NULL",
+      "zh": "援手"
+    },
+    "description": {
+      "de": "Verdiene dieses Verdienstabzeichen, indem du deine Verbünderen mit der medizinischen Infusionspistole, der Naniten-Heilungsgranate oder dem Nano-Regenerationsgerät heilst.",
+      "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability.",
+      "es": "Este galón se otorga por curar a tus aliados con el aplicador médico, la granada de curación nanítica o el nanoregenerador.",
+      "fr": "Gagnez cette décoration pour service rendu en guérissant des alliés avec l'applicateur médical, une grenade vivifiante Nanite ou la capacité de l'appareil de nanorégénération.",
+      "it": "Ottieni questa coccarda di servizio curando i tuoi alleati con l'Applicatore medico, la Granata curativa a naniti o il Dispositivo di nano-rigenerazione.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эта лента вручается за исцеление союзников с помощью медицинского нанооблучателя, реанимирующей гранаты или нанорегенератора.",
+      "tr": "NULL",
+      "zh": "使用医疗枪、纳能治疗手雷、或[#NANO_REGEN_DEVICE#]能力治疗盟军，获得这一服务绶带。"
+    },
+    "image_set_id": "93043",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5665",
+    "directive_tree_id": "131",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Akt der Güte",
+      "en": "Acts of Kindness",
+      "es": "Actos de amabilidad",
+      "fr": "Actes de bonté",
+      "it": "Atti di gentilezza",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Добрые дела",
+      "tr": "NULL",
+      "zh": "善行"
+    },
+    "description": {
+      "de": "Belebe gefallenen Verbündete wieder oder verdiene Sunderer-Spawn-Erfahrung.",
+      "en": "Revive fallen allies, or earn Sunderer spawn experience.",
+      "es": "Revive a aliados caídos o gana experiencia de aparición con un Sunderer.",
+      "fr": "Ranimez des alliés épuisés ou gagnez de l'expérience avec les réapparitions de Disperseur",
+      "it": "Rianima gli alleati caduti o guadagna esperienza a generare su Sunderer.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Воскрешайте мертвых союзников или получайте опыт за вызов Sunderer.",
+      "tr": "NULL",
+      "zh": "复活倒下的队友，或获得Sunderer重生经验。"
+    },
+    "image_set_id": "93182",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5673",
+    "directive_tree_id": "131",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schnee-Totschlag",
+      "en": "Snow-ManSlaughter",
+      "es": "Homicidio de muñecos de nieve",
+      "fr": "Massacreur d'homme des neiges",
+      "it": "Pupazzicidio di neve",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожить снеговиков",
+      "tr": "NULL",
+      "zh": "雪人杀手"
+    },
+    "description": {
+      "de": "Finde und vernichte die Schneemänner.",
+      "en": "Locate and destroy Snowmen.",
+      "es": "Encuentra y destruye muñecos de nieve.",
+      "fr": "Trouvez et détruisez les bonshommes de neige.",
+      "it": "Localizza e distruggi i pupazzi di neve.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Найдите и уничтожьте снеговиков.",
+      "tr": "NULL",
+      "zh": "找到并摧毁雪人。"
+    },
+    "image_set_id": "93046",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5681",
+    "directive_tree_id": "131",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schlitzerfahrt",
+      "en": "Slay Ride",
+      "es": "Cabalgata letal",
+      "fr": "Une virée de massacre",
+      "it": "Slitta mortale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убийственные санки",
+      "tr": "NULL",
+      "zh": "杀戮雪橇"
+    },
+    "description": {
+      "de": "Überfahre Feinde, während du eine Weihnachtsmütze trägst.",
+      "en": "Roadkill enemies while wearing a Holiday Hat.",
+      "es": "Atropella enemigos mientras llevas un gorro navideño.",
+      "fr": "Écrasez des ennemis avec votre véhicule en portant un chapeau des fêtes.",
+      "it": "Investi i nemici con un veicolo mentre indossi un cappello di Natale.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Наденьте новогоднюю шапку и давите врагов.",
+      "tr": "NULL",
+      "zh": "戴着节日帽子完成道路击杀。"
+    },
+    "image_set_id": "93044",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5677",
+    "directive_tree_id": "131",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Frohe Fäuste",
+      "en": "Seasons Beatings",
+      "es": "Golpes de temporada",
+      "fr": "Les tabassages de saisons",
+      "it": "Botte festive",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "С новым счастьем!",
+      "tr": "NULL",
+      "zh": "赛季冠军"
+    },
+    "description": {
+      "de": "Eliminiere Feinde mit NS Frostgewehr, Kleiner Helfer, NS-W Survivor, C-4 Geschenk, Icikill, NS-11C Frostbite, NS-15M Frostbite oder Sweet Tooth.",
+      "en": "Kill enemies with the NS Deep Freeze, Little Helper, NS-W Survivor, C-4 Present, Icikill, NS-11C Frostbite, NS-15M Frostbite, or Sweet Tooth.",
+      "es": "Mata enemigos con la Pistola congeladora de NS, El pequeño ayudante, el NS-W Superviviente, el Regalo de C4, el Icikill, la NS-11C Frostbite, la NS-15M Frostbite o la Golosa.",
+      "fr": "Tuez des ennemis avec les Congélateur NS, Petit Lutin, NS-W Survivor, Cadeau C-4, Lame de glace, NS-11C Frostbite, NS-15M Frostbite ou Bouche à sucre.",
+      "it": "Uccidi i nemici con NS Deep Freeze, Piccolo aiutante, NS-W Survivor, C-4 Presente, Icikill, NS-11C Frostbite, NS-15M Frostbite o Sweet Tooth.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов при помощи NS Deep Freeze, Little Helper, NS-W Survivor, C-4 в подарок, Icikill, NS-11C «Обмороз», NS-15M «Обмороз» или «Сладкоежки».",
+      "tr": "NULL",
+      "zh": "使用NS\u00A0Deep\u00A0Freeze、Little\u00A0Helper、NS-W\u00A0Survivor、C-4\u00A0Present、Icikill、NS-11C Frostbite、NS-15M Frostbite或嗜甜食击杀敌人。"
+    },
+    "image_set_id": "93045",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5685",
+    "directive_tree_id": "131",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Operation: Schneefestung",
+      "en": "Operation: Snow Fort",
+      "es": "Operación: Fuerte de nieve",
+      "fr": "Opération\u00A0: Forteresse de neige",
+      "it": "Operazione: Fortino di neve",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Операция «Снежная крепость»",
+      "tr": "NULL",
+      "zh": "行动：雪堡"
+    },
+    "description": {
+      "de": "Deponiere Kortium in einem Silo in einer umkämpften Region.",
+      "en": "Deposit Cortium into a Silo in a contested region.",
+      "es": "Deposita cortium en un silo en una región disputada.",
+      "fr": "Déposez du Cortium dans un silo dans une région contestée.",
+      "it": "Deposita Cortium in un silo in una regione contesa.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Складируйте Cortium в Silo на оспариваемой области.",
+      "tr": "NULL",
+      "zh": "在一个争议地区将Cortium存入筒仓。"
+    },
+    "image_set_id": "803460",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5696",
+    "directive_tree_id": "131",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fremdenführer",
+      "en": "Tour Guide",
+      "es": "Guía de turistas",
+      "fr": "Visite guidée",
+      "it": "Guida turistica",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Экскурсовод",
+      "tr": "NULL",
+      "zh": "旅行指南"
+    },
+    "description": {
+      "de": "Fahre oder steuere ein Fahrzeug mit einem Passagier, um Fortschritt für diese Anweisung zu erreichen.",
+      "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive.",
+      "es": "Conduce o pilota un vehículo con pasajeros para avanzar en esta directiva.",
+      "fr": "Plongez ou pilotez un véhicule avec un passager pour progresser dans cette directive.",
+      "it": "Guida o pilota un veicolo con un passeggero per progredire in questa direttiva.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Управляйте транспортом с пассажиром для прогресса в выполнении этой директивы.",
+      "tr": "NULL",
+      "zh": "驾驶搭载乘员的载具来积累完成此成就的进度。"
+    },
+    "image_set_id": "14062",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5704",
+    "directive_tree_id": "131",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Helfende Hand",
+      "en": "Helping Hand",
+      "es": "Mano amiga",
+      "fr": "Coup de main",
+      "it": "Sostegno",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рука помощи",
+      "tr": "NULL",
+      "zh": "援手"
+    },
+    "description": {
+      "de": "Verdiene dieses Verdienstabzeichen, indem du deine Verbünderen mit der medizinischen Infusionspistole, der Naniten-Heilungsgranate oder dem Nano-Regenerationsgerät heilst.",
+      "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability.",
+      "es": "Este galón se otorga por curar a tus aliados con el aplicador médico, la granada de curación nanítica o el nanoregenerador.",
+      "fr": "Gagnez cette décoration pour service rendu en guérissant des alliés avec l'applicateur médical, une grenade vivifiante Nanite ou la capacité de l'appareil de nanorégénération.",
+      "it": "Ottieni questa coccarda di servizio curando i tuoi alleati con l'Applicatore medico, la Granata curativa a naniti o il Dispositivo di nano-rigenerazione.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эта лента вручается за исцеление союзников с помощью медицинского нанооблучателя, реанимирующей гранаты или нанорегенератора.",
+      "tr": "NULL",
+      "zh": "使用医疗枪、纳能治疗手雷、或[#NANO_REGEN_DEVICE#]能力治疗盟军，获得这一服务绶带。"
+    },
+    "image_set_id": "93043",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5700",
+    "directive_tree_id": "131",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mit Mühe und Not",
+      "en": "Toil and Trouble",
+      "es": "Hierve, olla",
+      "fr": "Peine et panique",
+      "it": "Fatiche e preoccupazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "В трудах и заботах",
+      "tr": "NULL",
+      "zh": "辛劳与烦恼"
+    },
+    "description": {
+      "de": "Verdiene Nachschub-Erfahrung.",
+      "en": "Earn resupply experience",
+      "es": "Gana experiencia reabasteciendo.",
+      "fr": "Gagnez de l'expérience en réapprovisionnement",
+      "it": "Guadagna esperienza nel rifornimento",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получите опыт за пополнение запасов",
+      "tr": "NULL",
+      "zh": "获得补给经验值"
+    },
+    "image_set_id": "93043",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5666",
+    "directive_tree_id": "131",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Akt der Güte",
+      "en": "Acts of Kindness",
+      "es": "Actos de amabilidad",
+      "fr": "Actes de bonté",
+      "it": "Atti di gentilezza",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Добрые дела",
+      "tr": "NULL",
+      "zh": "善行"
+    },
+    "description": {
+      "de": "Belebe gefallenen Verbündete wieder oder verdiene Sunderer-Spawn-Erfahrung.",
+      "en": "Revive fallen allies, or earn Sunderer spawn experience.",
+      "es": "Revive a aliados caídos o gana experiencia de aparición con un Sunderer.",
+      "fr": "Ranimez des alliés épuisés ou gagnez de l'expérience avec les réapparitions de Disperseur",
+      "it": "Rianima gli alleati caduti o guadagna esperienza a generare su Sunderer.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Воскрешайте мертвых союзников или получайте опыт за вызов Sunderer.",
+      "tr": "NULL",
+      "zh": "复活倒下的队友，或获得Sunderer重生经验。"
+    },
+    "image_set_id": "93182",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5674",
+    "directive_tree_id": "131",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schnee-Totschlag",
+      "en": "Snow-ManSlaughter",
+      "es": "Homicidio de muñecos de nieve",
+      "fr": "Massacreur d'homme des neiges",
+      "it": "Pupazzicidio di neve",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожить снеговиков",
+      "tr": "NULL",
+      "zh": "雪人杀手"
+    },
+    "description": {
+      "de": "Finde und vernichte die Schneemänner.",
+      "en": "Locate and destroy Snowmen.",
+      "es": "Encuentra y destruye muñecos de nieve.",
+      "fr": "Trouvez et détruisez les bonshommes de neige.",
+      "it": "Localizza e distruggi i pupazzi di neve.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Найдите и уничтожьте снеговиков.",
+      "tr": "NULL",
+      "zh": "找到并摧毁雪人。"
+    },
+    "image_set_id": "93046",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5682",
+    "directive_tree_id": "131",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schlitzerfahrt",
+      "en": "Slay Ride",
+      "es": "Cabalgata letal",
+      "fr": "Une virée de massacre",
+      "it": "Slitta mortale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убийственные санки",
+      "tr": "NULL",
+      "zh": "杀戮雪橇"
+    },
+    "description": {
+      "de": "Überfahre Feinde, während du eine Weihnachtsmütze trägst.",
+      "en": "Roadkill enemies while wearing a Holiday Hat.",
+      "es": "Atropella enemigos mientras llevas un gorro navideño.",
+      "fr": "Écrasez des ennemis avec votre véhicule en portant un chapeau des fêtes.",
+      "it": "Investi i nemici con un veicolo mentre indossi un cappello di Natale.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Наденьте новогоднюю шапку и давите врагов.",
+      "tr": "NULL",
+      "zh": "戴着节日帽子完成道路击杀。"
+    },
+    "image_set_id": "93044",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5678",
+    "directive_tree_id": "131",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Frohe Fäuste",
+      "en": "Seasons Beatings",
+      "es": "Golpes de temporada",
+      "fr": "Les tabassages de saisons",
+      "it": "Botte festive",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "С новым счастьем!",
+      "tr": "NULL",
+      "zh": "赛季冠军"
+    },
+    "description": {
+      "de": "Eliminiere Feinde mit NS Frostgewehr, Kleiner Helfer, NS-W Survivor, C-4 Geschenk, Icikill, NS-11C Frostbite, NS-15M Frostbite oder Sweet Tooth.",
+      "en": "Kill enemies with the NS Deep Freeze, Little Helper, NS-W Survivor, C-4 Present, Icikill, NS-11C Frostbite, NS-15M Frostbite, or Sweet Tooth.",
+      "es": "Mata enemigos con la Pistola congeladora de NS, El pequeño ayudante, el NS-W Superviviente, el Regalo de C4, el Icikill, la NS-11C Frostbite, la NS-15M Frostbite o la Golosa.",
+      "fr": "Tuez des ennemis avec les Congélateur NS, Petit Lutin, NS-W Survivor, Cadeau C-4, Lame de glace, NS-11C Frostbite, NS-15M Frostbite ou Bouche à sucre.",
+      "it": "Uccidi i nemici con NS Deep Freeze, Piccolo aiutante, NS-W Survivor, C-4 Presente, Icikill, NS-11C Frostbite, NS-15M Frostbite o Sweet Tooth.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов при помощи NS Deep Freeze, Little Helper, NS-W Survivor, C-4 в подарок, Icikill, NS-11C «Обмороз», NS-15M «Обмороз» или «Сладкоежки».",
+      "tr": "NULL",
+      "zh": "使用NS\u00A0Deep\u00A0Freeze、Little\u00A0Helper、NS-W\u00A0Survivor、C-4\u00A0Present、Icikill、NS-11C Frostbite、NS-15M Frostbite或嗜甜食击杀敌人。"
+    },
+    "image_set_id": "93045",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5686",
+    "directive_tree_id": "131",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Operation: Schneefestung",
+      "en": "Operation: Snow Fort",
+      "es": "Operación: Fuerte de nieve",
+      "fr": "Opération\u00A0: Forteresse de neige",
+      "it": "Operazione: Fortino di neve",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Операция «Снежная крепость»",
+      "tr": "NULL",
+      "zh": "行动：雪堡"
+    },
+    "description": {
+      "de": "Deponiere Kortium in einem Silo in einer umkämpften Region.",
+      "en": "Deposit Cortium into a Silo in a contested region.",
+      "es": "Deposita cortium en un silo en una región disputada.",
+      "fr": "Déposez du Cortium dans un silo dans une région contestée.",
+      "it": "Deposita Cortium in un silo in una regione contesa.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Складируйте Cortium в Silo на оспариваемой области.",
+      "tr": "NULL",
+      "zh": "在一个争议地区将Cortium存入筒仓。"
+    },
+    "image_set_id": "803460",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5697",
+    "directive_tree_id": "131",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fremdenführer",
+      "en": "Tour Guide",
+      "es": "Guía de turistas",
+      "fr": "Visite guidée",
+      "it": "Guida turistica",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Экскурсовод",
+      "tr": "NULL",
+      "zh": "旅行指南"
+    },
+    "description": {
+      "de": "Fahre oder steuere ein Fahrzeug mit einem Passagier, um Fortschritt für diese Anweisung zu erreichen.",
+      "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive.",
+      "es": "Conduce o pilota un vehículo con pasajeros para avanzar en esta directiva.",
+      "fr": "Plongez ou pilotez un véhicule avec un passager pour progresser dans cette directive.",
+      "it": "Guida o pilota un veicolo con un passeggero per progredire in questa direttiva.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Управляйте транспортом с пассажиром для прогресса в выполнении этой директивы.",
+      "tr": "NULL",
+      "zh": "驾驶搭载乘员的载具来积累完成此成就的进度。"
+    },
+    "image_set_id": "14062",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5705",
+    "directive_tree_id": "131",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Helfende Hand",
+      "en": "Helping Hand",
+      "es": "Mano amiga",
+      "fr": "Coup de main",
+      "it": "Sostegno",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рука помощи",
+      "tr": "NULL",
+      "zh": "援手"
+    },
+    "description": {
+      "de": "Verdiene dieses Verdienstabzeichen, indem du deine Verbünderen mit der medizinischen Infusionspistole, der Naniten-Heilungsgranate oder dem Nano-Regenerationsgerät heilst.",
+      "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability.",
+      "es": "Este galón se otorga por curar a tus aliados con el aplicador médico, la granada de curación nanítica o el nanoregenerador.",
+      "fr": "Gagnez cette décoration pour service rendu en guérissant des alliés avec l'applicateur médical, une grenade vivifiante Nanite ou la capacité de l'appareil de nanorégénération.",
+      "it": "Ottieni questa coccarda di servizio curando i tuoi alleati con l'Applicatore medico, la Granata curativa a naniti o il Dispositivo di nano-rigenerazione.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эта лента вручается за исцеление союзников с помощью медицинского нанооблучателя, реанимирующей гранаты или нанорегенератора.",
+      "tr": "NULL",
+      "zh": "使用医疗枪、纳能治疗手雷、或[#NANO_REGEN_DEVICE#]能力治疗盟军，获得这一服务绶带。"
+    },
+    "image_set_id": "93043",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5701",
+    "directive_tree_id": "131",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mit Mühe und Not",
+      "en": "Toil and Trouble",
+      "es": "Hierve, olla",
+      "fr": "Peine et panique",
+      "it": "Fatiche e preoccupazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "В трудах и заботах",
+      "tr": "NULL",
+      "zh": "辛劳与烦恼"
+    },
+    "description": {
+      "de": "Verdiene Nachschub-Erfahrung.",
+      "en": "Earn resupply experience",
+      "es": "Gana experiencia reabasteciendo.",
+      "fr": "Gagnez de l'expérience en réapprovisionnement",
+      "it": "Guadagna esperienza nel rifornimento",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получите опыт за пополнение запасов",
+      "tr": "NULL",
+      "zh": "获得补给经验值"
+    },
+    "image_set_id": "93043",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5667",
+    "directive_tree_id": "131",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Akt der Güte",
+      "en": "Acts of Kindness",
+      "es": "Actos de amabilidad",
+      "fr": "Actes de bonté",
+      "it": "Atti di gentilezza",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Добрые дела",
+      "tr": "NULL",
+      "zh": "善行"
+    },
+    "description": {
+      "de": "Belebe gefallenen Verbündete wieder oder verdiene Sunderer-Spawn-Erfahrung.",
+      "en": "Revive fallen allies, or earn Sunderer spawn experience.",
+      "es": "Revive a aliados caídos o gana experiencia de aparición con un Sunderer.",
+      "fr": "Ranimez des alliés épuisés ou gagnez de l'expérience avec les réapparitions de Disperseur",
+      "it": "Rianima gli alleati caduti o guadagna esperienza a generare su Sunderer.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Воскрешайте мертвых союзников или получайте опыт за вызов Sunderer.",
+      "tr": "NULL",
+      "zh": "复活倒下的队友，或获得Sunderer重生经验。"
+    },
+    "image_set_id": "93182",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5675",
+    "directive_tree_id": "131",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schnee-Totschlag",
+      "en": "Snow-ManSlaughter",
+      "es": "Homicidio de muñecos de nieve",
+      "fr": "Massacreur d'homme des neiges",
+      "it": "Pupazzicidio di neve",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожить снеговиков",
+      "tr": "NULL",
+      "zh": "雪人杀手"
+    },
+    "description": {
+      "de": "Finde und vernichte die Schneemänner.",
+      "en": "Locate and destroy Snowmen.",
+      "es": "Encuentra y destruye muñecos de nieve.",
+      "fr": "Trouvez et détruisez les bonshommes de neige.",
+      "it": "Localizza e distruggi i pupazzi di neve.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Найдите и уничтожьте снеговиков.",
+      "tr": "NULL",
+      "zh": "找到并摧毁雪人。"
+    },
+    "image_set_id": "93046",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5683",
+    "directive_tree_id": "131",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schlitzerfahrt",
+      "en": "Slay Ride",
+      "es": "Cabalgata letal",
+      "fr": "Une virée de massacre",
+      "it": "Slitta mortale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убийственные санки",
+      "tr": "NULL",
+      "zh": "杀戮雪橇"
+    },
+    "description": {
+      "de": "Überfahre Feinde, während du eine Weihnachtsmütze trägst.",
+      "en": "Roadkill enemies while wearing a Holiday Hat.",
+      "es": "Atropella enemigos mientras llevas un gorro navideño.",
+      "fr": "Écrasez des ennemis avec votre véhicule en portant un chapeau des fêtes.",
+      "it": "Investi i nemici con un veicolo mentre indossi un cappello di Natale.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Наденьте новогоднюю шапку и давите врагов.",
+      "tr": "NULL",
+      "zh": "戴着节日帽子完成道路击杀。"
+    },
+    "image_set_id": "93044",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5679",
+    "directive_tree_id": "131",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Frohe Fäuste",
+      "en": "Seasons Beatings",
+      "es": "Golpes de temporada",
+      "fr": "Les tabassages de saisons",
+      "it": "Botte festive",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "С новым счастьем!",
+      "tr": "NULL",
+      "zh": "赛季冠军"
+    },
+    "description": {
+      "de": "Eliminiere Feinde mit NS Frostgewehr, Kleiner Helfer, NS-W Survivor, C-4 Geschenk, Icikill, NS-11C Frostbite, NS-15M Frostbite oder Sweet Tooth.",
+      "en": "Kill enemies with the NS Deep Freeze, Little Helper, NS-W Survivor, C-4 Present, Icikill, NS-11C Frostbite, NS-15M Frostbite, or Sweet Tooth.",
+      "es": "Mata enemigos con la Pistola congeladora de NS, El pequeño ayudante, el NS-W Superviviente, el Regalo de C4, el Icikill, la NS-11C Frostbite, la NS-15M Frostbite o la Golosa.",
+      "fr": "Tuez des ennemis avec les Congélateur NS, Petit Lutin, NS-W Survivor, Cadeau C-4, Lame de glace, NS-11C Frostbite, NS-15M Frostbite ou Bouche à sucre.",
+      "it": "Uccidi i nemici con NS Deep Freeze, Piccolo aiutante, NS-W Survivor, C-4 Presente, Icikill, NS-11C Frostbite, NS-15M Frostbite o Sweet Tooth.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов при помощи NS Deep Freeze, Little Helper, NS-W Survivor, C-4 в подарок, Icikill, NS-11C «Обмороз», NS-15M «Обмороз» или «Сладкоежки».",
+      "tr": "NULL",
+      "zh": "使用NS\u00A0Deep\u00A0Freeze、Little\u00A0Helper、NS-W\u00A0Survivor、C-4\u00A0Present、Icikill、NS-11C Frostbite、NS-15M Frostbite或嗜甜食击杀敌人。"
+    },
+    "image_set_id": "93045",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5687",
+    "directive_tree_id": "131",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Operation: Schneefestung",
+      "en": "Operation: Snow Fort",
+      "es": "Operación: Fuerte de nieve",
+      "fr": "Opération\u00A0: Forteresse de neige",
+      "it": "Operazione: Fortino di neve",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Операция «Снежная крепость»",
+      "tr": "NULL",
+      "zh": "行动：雪堡"
+    },
+    "description": {
+      "de": "Deponiere Kortium in einem Silo in einer umkämpften Region.",
+      "en": "Deposit Cortium into a Silo in a contested region.",
+      "es": "Deposita cortium en un silo en una región disputada.",
+      "fr": "Déposez du Cortium dans un silo dans une région contestée.",
+      "it": "Deposita Cortium in un silo in una regione contesa.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Складируйте Cortium в Silo на оспариваемой области.",
+      "tr": "NULL",
+      "zh": "在一个争议地区将Cortium存入筒仓。"
+    },
+    "image_set_id": "803460",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5698",
+    "directive_tree_id": "131",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fremdenführer",
+      "en": "Tour Guide",
+      "es": "Guía de turistas",
+      "fr": "Visite guidée",
+      "it": "Guida turistica",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Экскурсовод",
+      "tr": "NULL",
+      "zh": "旅行指南"
+    },
+    "description": {
+      "de": "Fahre oder steuere ein Fahrzeug mit einem Passagier, um Fortschritt für diese Anweisung zu erreichen.",
+      "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive.",
+      "es": "Conduce o pilota un vehículo con pasajeros para avanzar en esta directiva.",
+      "fr": "Plongez ou pilotez un véhicule avec un passager pour progresser dans cette directive.",
+      "it": "Guida o pilota un veicolo con un passeggero per progredire in questa direttiva.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Управляйте транспортом с пассажиром для прогресса в выполнении этой директивы.",
+      "tr": "NULL",
+      "zh": "驾驶搭载乘员的载具来积累完成此成就的进度。"
+    },
+    "image_set_id": "14062",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5706",
+    "directive_tree_id": "131",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Helfende Hand",
+      "en": "Helping Hand",
+      "es": "Mano amiga",
+      "fr": "Coup de main",
+      "it": "Sostegno",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рука помощи",
+      "tr": "NULL",
+      "zh": "援手"
+    },
+    "description": {
+      "de": "Verdiene dieses Verdienstabzeichen, indem du deine Verbünderen mit der medizinischen Infusionspistole, der Naniten-Heilungsgranate oder dem Nano-Regenerationsgerät heilst.",
+      "en": "Earn this service ribbon by healing your allies with the Medical Applicator, Nanite Healing Grenade, or Nano-Regen Device ability.",
+      "es": "Este galón se otorga por curar a tus aliados con el aplicador médico, la granada de curación nanítica o el nanoregenerador.",
+      "fr": "Gagnez cette décoration pour service rendu en guérissant des alliés avec l'applicateur médical, une grenade vivifiante Nanite ou la capacité de l'appareil de nanorégénération.",
+      "it": "Ottieni questa coccarda di servizio curando i tuoi alleati con l'Applicatore medico, la Granata curativa a naniti o il Dispositivo di nano-rigenerazione.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эта лента вручается за исцеление союзников с помощью медицинского нанооблучателя, реанимирующей гранаты или нанорегенератора.",
+      "tr": "NULL",
+      "zh": "使用医疗枪、纳能治疗手雷、或[#NANO_REGEN_DEVICE#]能力治疗盟军，获得这一服务绶带。"
+    },
+    "image_set_id": "93043",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5702",
+    "directive_tree_id": "131",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mit Mühe und Not",
+      "en": "Toil and Trouble",
+      "es": "Hierve, olla",
+      "fr": "Peine et panique",
+      "it": "Fatiche e preoccupazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "В трудах и заботах",
+      "tr": "NULL",
+      "zh": "辛劳与烦恼"
+    },
+    "description": {
+      "de": "Verdiene Nachschub-Erfahrung.",
+      "en": "Earn resupply experience",
+      "es": "Gana experiencia reabasteciendo.",
+      "fr": "Gagnez de l'expérience en réapprovisionnement",
+      "it": "Guadagna esperienza nel rifornimento",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получите опыт за пополнение запасов",
+      "tr": "NULL",
+      "zh": "获得补给经验值"
+    },
+    "image_set_id": "93043",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]
