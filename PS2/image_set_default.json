@@ -83510,5 +83510,293 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/96847.png"
+  },
+  {
+    "image_set_id": "807851",
+    "image_id": "96852",
+    "description": "icon_ProfileBackground_BannerFrame_Bronze_2023 (Outfit Wars Nexus Season 2)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96852.png"
+  },
+  {
+    "image_set_id": "807852",
+    "image_id": "96855",
+    "description": "icon_ProfileBackground_BannerFrame_Silver_2023 (Outfit Wars Nexus Season 2)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96855.png"
+  },
+  {
+    "image_set_id": "807853",
+    "image_id": "96858",
+    "description": "icon_ProfileBackground_BannerFrame_Gold_2023 (Outfit Wars Nexus Season 2)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96858.png"
+  },
+  {
+    "image_set_id": "807854",
+    "image_id": "96861",
+    "description": "icon_ProfileBackground_Banner_NoMedal_2023 (Outfit Wars Nexus Season 2) [Unused]",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96861.png"
+  },
+  {
+    "image_set_id": "807855",
+    "image_id": "96864",
+    "description": "icon_ProfileBackground_Banner_2023 (Outfit Wars Nexus Season 2)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96864.png"
+  },
+  {
+    "image_set_id": "807856",
+    "image_id": "96867",
+    "description": "icon_ProfileBackground_Banner_Silver_2023 (Outfit Wars Nexus Season 2) [Unused]",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96867.png"
+  },
+  {
+    "image_set_id": "807857",
+    "image_id": "96870",
+    "description": "icon_ProfileBackground_Banner_Gold_2023 (Outfit Wars Nexus Season 2) [Unused]",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96870.png"
+  },
+  {
+    "image_set_id": "807858",
+    "image_id": "96874",
+    "description": "icon_Decal_OutfitWars_MatchMedal_Brass (Outfit Wars Nexus Season 2)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96874.png"
+  },
+  {
+    "image_set_id": "807859",
+    "image_id": "96878",
+    "description": "icon_Decal_OutfitWars_MatchMedal_Gold (Outfit Wars Nexus Season 2)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96878.png"
+  },
+  {
+    "image_set_id": "807860",
+    "image_id": "96882",
+    "description": "icon_Decal_OutfitWars_MatchMedal_Green (Outfit Wars Nexus Season 2)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96882.png"
+  },
+  {
+    "image_set_id": "807861",
+    "image_id": "96886",
+    "description": "icon_Decal_OutfitWars_MatchMedal_Purple (Outfit Wars Nexus Season 2)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96886.png"
+  },
+  {
+    "image_set_id": "807862",
+    "image_id": "96890",
+    "description": "icon_Decal_OutfitWars_MatchMedal_Silver (Outfit Wars Nexus Season 2)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96890.png"
+  },
+  {
+    "image_set_id": "807863",
+    "image_id": "96892",
+    "description": "ProfileBackground_Banner_2023 (Outfit Wars Nexus Season 2)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96892.png"
+  },
+  {
+    "image_set_id": "807864",
+    "image_id": "96893",
+    "description": "ProfileBackground_BannerFrame_Bronze_2023 (Outfit Wars Nexus Season 2)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96893.png"
+  },
+  {
+    "image_set_id": "807865",
+    "image_id": "96894",
+    "description": "ProfileBackground_BannerFrame_Silver_2023 (Outfit Wars Nexus Season 2)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96894.png"
+  },
+  {
+    "image_set_id": "807866",
+    "image_id": "96895",
+    "description": "ProfileBackground_BannerFrame_Gold_2023 (Outfit Wars Nexus Season 2)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96895.png"
+  },
+  {
+    "image_set_id": "807867",
+    "image_id": "96898",
+    "description": "Icon_Weapons_Common_Punisher_Cold_Fusion (Auraximas 2023)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96898.png"
+  },
+  {
+    "image_set_id": "807881",
+    "image_id": "96936",
+    "description": "icon_Camo_Christmas_FW_NC",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96936.png"
+  },
+  {
+    "image_set_id": "807882",
+    "image_id": "96939",
+    "description": "icon_Camo_Christmas_FW_TR",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96939.png"
+  },
+  {
+    "image_set_id": "807883",
+    "image_id": "96942",
+    "description": "icon_Camo_Christmas_FW_VS",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96942.png"
+  },
+  {
+    "image_set_id": "807884",
+    "image_id": "96945",
+    "description": "icon_Camo_Christmas_FW_NSO",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96945.png"
+  },
+  {
+    "image_set_id": "807885",
+    "image_id": "96989",
+    "description": "icon_bundle_NewYears_2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96989.png"
+  },
+  {
+    "image_set_id": "807887",
+    "image_id": "96951",
+    "description": "icon_Camo_Ice_Dragon_02 (Auraximas 2023)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96951.png"
+  },
+  {
+    "image_set_id": "807888",
+    "image_id": "96954",
+    "description": "icon_ProfileBackground_Ice_Dragon_2023 (Auraximas 2023)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96954.png"
+  },
+  {
+    "image_set_id": "807889",
+    "image_id": "96957",
+    "description": "icon_ProfileBackground_BannerFrame_Ice_Dragon_2023 (Auraximas 2023)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96957.png"
+  },
+  {
+    "image_set_id": "807890",
+    "image_id": "96958",
+    "description": "ProfileBackground_BannerFrame_Ice_Dragon_2023 (Auraximas 2023)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96958.png"
+  },
+  {
+    "image_set_id": "807891",
+    "image_id": "96959",
+    "description": "ProfileBackground_Ice_Dragon_2023 (Auraximas 2023)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96959.png"
+  },
+  {
+    "image_set_id": "807892",
+    "image_id": "96962",
+    "description": "icon_Vehicle_Common_Quad_Base_Chassis_Ice_Flash (Auraximas 2023)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96962.png"
+  },
+  {
+    "image_set_id": "807893",
+    "image_id": "96965",
+    "description": "icon_Helmet_NC_Christmas_Hat (Auraximas 2023)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96965.png"
+  },
+  {
+    "image_set_id": "807894",
+    "image_id": "96968",
+    "description": "icon_Helmet_NSO_Christmas_Hat (Auraximas 2023)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96968.png"
+  },
+  {
+    "image_set_id": "807895",
+    "image_id": "96971",
+    "description": "icon_Helmet_TR_Christmas_Hat (Auraximas 2023)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96971.png"
+  },
+  {
+    "image_set_id": "807896",
+    "image_id": "96974",
+    "description": "icon_Helmet_VS_Christmas_Hat (Auraximas 2023)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96974.png"
+  },
+  {
+    "image_set_id": "807897",
+    "image_id": "96977",
+    "description": "icon_Helmet_Common_All_KnittedScarf (Auraximas 2023)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96977.png"
+  },
+  {
+    "image_set_id": "807898",
+    "image_id": "96980",
+    "description": "Icon_Weapons_Common_Punisher_Attachments_Cold_Fusion_Underbarrel (Auraximas 2023)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96980.png"
+  },
+  {
+    "image_set_id": "807899",
+    "image_id": "96983",
+    "description": "Icon_WeaponAttachment_common_Punisher_Cold_Fusion_Scope3x (Auraximas 2023)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96983.png"
+  },
+  {
+    "image_set_id": "807900",
+    "image_id": "96986",
+    "description": "Icon_WeaponAttachment_common_punisher_1xScore (Auraximas 2023)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96986.png"
   }
 ]
