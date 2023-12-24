@@ -1491,7 +1491,7 @@
       "Wins": "4",
       "Losses": "1",
       "TiebreakerPoints": "1305",
-      "GlobalRank": "14",
+      "GlobalRank": "8",
       "DisplayRank": "1"
     }
   },
@@ -1500,16 +1500,16 @@
     "outfit_id": "37570233680537841",
     "faction_id": "3",
     "outfit_war_id": "43",
-    "order": "1",
+    "order": "6",
     "ranking_parameters": {
-      "MatchRank": "7",
+      "MatchRank": "4",
       "TotalScore": "31139",
       "MatchesPlayed": "5",
       "Wins": "3",
       "Losses": "2",
       "TiebreakerPoints": "1139",
-      "GlobalRank": "13",
-      "DisplayRank": "2"
+      "GlobalRank": "5",
+      "DisplayRank": "4"
     }
   },
   {
@@ -1517,16 +1517,16 @@
     "outfit_id": "37567362753123442",
     "faction_id": "1",
     "outfit_war_id": "43",
-    "order": "3",
+    "order": "5",
     "ranking_parameters": {
-      "MatchRank": "6",
+      "MatchRank": "5",
       "TotalScore": "21108",
       "MatchesPlayed": "5",
       "Wins": "2",
       "Losses": "3",
       "TiebreakerPoints": "1108",
-      "GlobalRank": "11",
-      "DisplayRank": "4"
+      "GlobalRank": "3",
+      "DisplayRank": "6"
     }
   },
   {
@@ -1534,16 +1534,16 @@
     "outfit_id": "37594015397579551",
     "faction_id": "1",
     "outfit_war_id": "43",
-    "order": "10",
+    "order": "9",
     "ranking_parameters": {
-      "MatchRank": "2",
+      "MatchRank": "-1",
       "TotalScore": "10718",
       "MatchesPlayed": "5",
       "Wins": "1",
       "Losses": "4",
       "TiebreakerPoints": "718",
-      "GlobalRank": "4",
-      "DisplayRank": "11"
+      "GlobalRank": "2",
+      "DisplayRank": "13"
     }
   },
   {
@@ -1551,7 +1551,7 @@
     "outfit_id": "37594653251078061",
     "faction_id": "2",
     "outfit_war_id": "43",
-    "order": "5",
+    "order": "4",
     "ranking_parameters": {
       "MatchRank": "5",
       "TotalScore": "31144",
@@ -1559,8 +1559,8 @@
       "Wins": "3",
       "Losses": "2",
       "TiebreakerPoints": "1144",
-      "GlobalRank": "9",
-      "DisplayRank": "6"
+      "GlobalRank": "6",
+      "DisplayRank": "3"
     }
   },
   {
@@ -1678,8 +1678,8 @@
       "Wins": "3",
       "Losses": "2",
       "TiebreakerPoints": "1445",
-      "GlobalRank": "12",
-      "DisplayRank": "3"
+      "GlobalRank": "7",
+      "DisplayRank": "2"
     }
   },
   {
@@ -1687,16 +1687,16 @@
     "outfit_id": "37581330734909223",
     "faction_id": "3",
     "outfit_war_id": "43",
-    "order": "8",
+    "order": "7",
     "ranking_parameters": {
-      "MatchRank": "3",
+      "MatchRank": "4",
       "TotalScore": "21186",
       "MatchesPlayed": "5",
       "Wins": "2",
       "Losses": "3",
       "TiebreakerPoints": "1186",
-      "GlobalRank": "6",
-      "DisplayRank": "9"
+      "GlobalRank": "4",
+      "DisplayRank": "5"
     }
   },
   {
@@ -1857,16 +1857,16 @@
     "outfit_id": "37510184933832476",
     "faction_id": "3",
     "outfit_war_id": "43",
-    "order": "7",
+    "order": "3",
     "ranking_parameters": {
-      "MatchRank": "4",
+      "MatchRank": "6",
       "TotalScore": "21105",
       "MatchesPlayed": "5",
       "Wins": "2",
       "Losses": "3",
       "TiebreakerPoints": "1105",
-      "GlobalRank": "7",
-      "DisplayRank": "8"
+      "GlobalRank": "2",
+      "DisplayRank": "7"
     }
   },
   {
@@ -2044,16 +2044,16 @@
     "outfit_id": "37576258294147955",
     "faction_id": "2",
     "outfit_war_id": "43",
-    "order": "11",
+    "order": "1",
     "ranking_parameters": {
-      "MatchRank": "2",
+      "MatchRank": "7",
       "TotalScore": "20955",
       "MatchesPlayed": "5",
       "Wins": "2",
       "Losses": "3",
       "TiebreakerPoints": "955",
-      "GlobalRank": "3",
-      "DisplayRank": "12"
+      "GlobalRank": "1",
+      "DisplayRank": "8"
     }
   },
   {
@@ -2061,9 +2061,9 @@
     "outfit_id": "37552793831868382",
     "faction_id": "2",
     "outfit_war_id": "43",
-    "order": "12",
+    "order": "8",
     "ranking_parameters": {
-      "MatchRank": "1",
+      "MatchRank": "-1",
       "TotalScore": "387",
       "MatchesPlayed": "5",
       "Wins": "0",
