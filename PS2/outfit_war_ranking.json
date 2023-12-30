@@ -1588,11 +1588,11 @@
     "order": "2",
     "ranking_parameters": {
       "MatchRank": "5",
-      "TotalScore": "31292",
-      "MatchesPlayed": "4",
-      "Wins": "3",
+      "TotalScore": "241736",
+      "MatchesPlayed": "5",
+      "Wins": "4",
       "Losses": "1",
-      "TiebreakerPoints": "1292",
+      "TiebreakerPoints": "1736",
       "GlobalRank": "7",
       "DisplayRank": "2"
     }
@@ -1656,11 +1656,11 @@
     "order": "0",
     "ranking_parameters": {
       "MatchRank": "6",
-      "TotalScore": "41452",
-      "MatchesPlayed": "4",
-      "Wins": "4",
+      "TotalScore": "251790",
+      "MatchesPlayed": "5",
+      "Wins": "5",
       "Losses": "0",
-      "TiebreakerPoints": "1452",
+      "TiebreakerPoints": "1790",
       "GlobalRank": "8",
       "DisplayRank": "1"
     }
@@ -1741,11 +1741,11 @@
     "order": "1",
     "ranking_parameters": {
       "MatchRank": "6",
-      "TotalScore": "20927",
-      "MatchesPlayed": "4",
+      "TotalScore": "121089",
+      "MatchesPlayed": "5",
       "Wins": "2",
-      "Losses": "2",
-      "TiebreakerPoints": "927",
+      "Losses": "3",
+      "TiebreakerPoints": "1089",
       "GlobalRank": "1",
       "DisplayRank": "8"
     }
@@ -1775,11 +1775,11 @@
     "order": "0",
     "ranking_parameters": {
       "MatchRank": "2",
-      "TotalScore": "41644",
-      "MatchesPlayed": "4",
-      "Wins": "4",
+      "TotalScore": "252066",
+      "MatchesPlayed": "5",
+      "Wins": "5",
       "Losses": "0",
-      "TiebreakerPoints": "1644",
+      "TiebreakerPoints": "2066",
       "GlobalRank": "4",
       "DisplayRank": "1"
     }
@@ -1792,11 +1792,11 @@
     "order": "3",
     "ranking_parameters": {
       "MatchRank": "1",
-      "TotalScore": "10730",
-      "MatchesPlayed": "4",
-      "Wins": "1",
+      "TotalScore": "221104",
+      "MatchesPlayed": "5",
+      "Wins": "2",
       "Losses": "3",
-      "TiebreakerPoints": "730",
+      "TiebreakerPoints": "1104",
       "GlobalRank": "2",
       "DisplayRank": "3"
     }
@@ -1945,11 +1945,11 @@
     "order": "2",
     "ranking_parameters": {
       "MatchRank": "1",
-      "TotalScore": "20922",
-      "MatchesPlayed": "4",
+      "TotalScore": "121048",
+      "MatchesPlayed": "5",
       "Wins": "2",
-      "Losses": "2",
-      "TiebreakerPoints": "922",
+      "Losses": "3",
+      "TiebreakerPoints": "1048",
       "GlobalRank": "3",
       "DisplayRank": "2"
     }
@@ -1962,11 +1962,11 @@
     "order": "1",
     "ranking_parameters": {
       "MatchRank": "2",
-      "TotalScore": "10704",
-      "MatchesPlayed": "4",
+      "TotalScore": "110782",
+      "MatchesPlayed": "5",
       "Wins": "1",
-      "Losses": "3",
-      "TiebreakerPoints": "704",
+      "Losses": "4",
+      "TiebreakerPoints": "782",
       "GlobalRank": "1",
       "DisplayRank": "4"
     }
@@ -1996,11 +1996,11 @@
     "order": "3",
     "ranking_parameters": {
       "MatchRank": "5",
-      "TotalScore": "20951",
-      "MatchesPlayed": "4",
+      "TotalScore": "121007",
+      "MatchesPlayed": "5",
       "Wins": "2",
-      "Losses": "2",
-      "TiebreakerPoints": "951",
+      "Losses": "3",
+      "TiebreakerPoints": "1007",
       "GlobalRank": "2",
       "DisplayRank": "7"
     }
