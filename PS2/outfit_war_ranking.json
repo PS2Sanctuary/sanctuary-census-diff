@@ -1568,15 +1568,15 @@
     "outfit_id": "37514584004240963",
     "faction_id": "1",
     "outfit_war_id": "44",
-    "order": "4",
+    "order": "3",
     "ranking_parameters": {
-      "MatchRank": "4",
+      "MatchRank": "5",
       "TotalScore": "241594",
       "MatchesPlayed": "5",
       "Wins": "4",
       "Losses": "1",
       "TiebreakerPoints": "1594",
-      "GlobalRank": "6",
+      "GlobalRank": "2",
       "DisplayRank": "3"
     }
   },
@@ -1593,7 +1593,7 @@
       "Wins": "4",
       "Losses": "1",
       "TiebreakerPoints": "1736",
-      "GlobalRank": "7",
+      "GlobalRank": "3",
       "DisplayRank": "2"
     }
   },
@@ -1636,16 +1636,16 @@
     "outfit_id": "37577209674207479",
     "faction_id": "3",
     "outfit_war_id": "44",
-    "order": "7",
+    "order": "1",
     "ranking_parameters": {
-      "MatchRank": "3",
+      "MatchRank": "6",
       "TotalScore": "231458",
       "MatchesPlayed": "5",
       "Wins": "3",
       "Losses": "2",
       "TiebreakerPoints": "1458",
-      "GlobalRank": "4",
-      "DisplayRank": "5"
+      "GlobalRank": "1",
+      "DisplayRank": "4"
     }
   },
   {
@@ -1661,7 +1661,7 @@
       "Wins": "5",
       "Losses": "0",
       "TiebreakerPoints": "1790",
-      "GlobalRank": "8",
+      "GlobalRank": "4",
       "DisplayRank": "1"
     }
   },
@@ -1797,8 +1797,8 @@
       "Wins": "2",
       "Losses": "3",
       "TiebreakerPoints": "1104",
-      "GlobalRank": "2",
-      "DisplayRank": "3"
+      "GlobalRank": "3",
+      "DisplayRank": "2"
     }
   },
   {
@@ -1950,8 +1950,8 @@
       "Wins": "2",
       "Losses": "3",
       "TiebreakerPoints": "1048",
-      "GlobalRank": "3",
-      "DisplayRank": "2"
+      "GlobalRank": "2",
+      "DisplayRank": "3"
     }
   },
   {
@@ -2180,7 +2180,7 @@
     "outfit_id": "37509488620604883",
     "faction_id": "1",
     "outfit_war_id": "44",
-    "order": "8",
+    "order": "4",
     "ranking_parameters": {
       "MatchRank": "-1",
       "TotalScore": "10630",
@@ -2197,7 +2197,7 @@
     "outfit_id": "37581967406665292",
     "faction_id": "2",
     "outfit_war_id": "44",
-    "order": "9",
+    "order": "5",
     "ranking_parameters": {
       "MatchRank": "-1",
       "TotalScore": "10683",
