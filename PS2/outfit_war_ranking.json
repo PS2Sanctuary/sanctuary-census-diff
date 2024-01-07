@@ -1568,16 +1568,16 @@
     "outfit_id": "37514584004240963",
     "faction_id": "1",
     "outfit_war_id": "44",
-    "order": "3",
+    "order": "1",
     "ranking_parameters": {
-      "MatchRank": "5",
+      "MatchRank": "6",
       "TotalScore": "2251924",
       "MatchesPlayed": "6",
       "Wins": "5",
       "Losses": "1",
       "TiebreakerPoints": "1924",
-      "GlobalRank": "2",
-      "DisplayRank": "3"
+      "GlobalRank": "3",
+      "DisplayRank": "2"
     }
   },
   {
@@ -1593,8 +1593,8 @@
       "Wins": "4",
       "Losses": "2",
       "TiebreakerPoints": "1906",
-      "GlobalRank": "3",
-      "DisplayRank": "2"
+      "GlobalRank": "2",
+      "DisplayRank": "3"
     }
   },
   {
@@ -1636,9 +1636,9 @@
     "outfit_id": "37577209674207479",
     "faction_id": "3",
     "outfit_war_id": "44",
-    "order": "1",
+    "order": "3",
     "ranking_parameters": {
-      "MatchRank": "6",
+      "MatchRank": "5",
       "TotalScore": "1231616",
       "MatchesPlayed": "6",
       "Wins": "3",
