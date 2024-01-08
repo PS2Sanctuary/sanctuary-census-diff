@@ -4174,5 +4174,29 @@
     "world_id": "1",
     "outfit_a_faction_id": "1",
     "outfit_b_faction_id": "3"
+  },
+  {
+    "match_id": "525482765211557889",
+    "round_id": "525418959814951391",
+    "outfit_war_id": "41",
+    "outfit_a_id": "37587356685180456",
+    "outfit_b_id": "37599881127529666",
+    "start_time": "1705186800",
+    "order": "0",
+    "world_id": "13",
+    "outfit_a_faction_id": "2",
+    "outfit_b_faction_id": "2"
+  },
+  {
+    "match_id": "525482765211557890",
+    "round_id": "525418959814951391",
+    "outfit_war_id": "41",
+    "outfit_a_id": "37581967406662856",
+    "outfit_b_id": "37537074285161814",
+    "start_time": "1705188600",
+    "order": "1",
+    "world_id": "13",
+    "outfit_a_faction_id": "1",
+    "outfit_b_faction_id": "3"
   }
 ]
