@@ -1534,7 +1534,7 @@
     "outfit_id": "37594015397579551",
     "faction_id": "1",
     "outfit_war_id": "43",
-    "order": "5",
+    "order": "1",
     "ranking_parameters": {
       "MatchRank": "-1",
       "TotalScore": "10718",
@@ -2061,7 +2061,7 @@
     "outfit_id": "37552793831868382",
     "faction_id": "2",
     "outfit_war_id": "43",
-    "order": "4",
+    "order": "0",
     "ranking_parameters": {
       "MatchRank": "-1",
       "TotalScore": "387",
