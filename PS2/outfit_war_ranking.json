@@ -2010,7 +2010,7 @@
     "outfit_id": "37569919291767213",
     "faction_id": "1",
     "outfit_war_id": "42",
-    "order": "5",
+    "order": "1",
     "ranking_parameters": {
       "MatchRank": "-1",
       "TotalScore": "10594",
@@ -2146,7 +2146,7 @@
     "outfit_id": "37570718551025021",
     "faction_id": "3",
     "outfit_war_id": "42",
-    "order": "4",
+    "order": "0",
     "ranking_parameters": {
       "MatchRank": "-1",
       "TotalScore": "459",
