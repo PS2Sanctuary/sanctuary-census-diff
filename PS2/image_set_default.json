@@ -47921,11 +47921,11 @@
   },
   {
     "image_set_id": "92953",
-    "image_id": "81562",
+    "image_id": "81561",
     "description": "icon_weapon_common_Shotgun_Anniversary",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/81562.png"
+    "image_path": "/files/ps2/images/static/81561.png"
   },
   {
     "image_set_id": "92954",
@@ -83798,5 +83798,69 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/96986.png"
+  },
+  {
+    "image_set_id": "807902",
+    "image_id": "96992",
+    "description": "icon_Dragon_Helmet_Lunar_NY (Lunar New Year 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96992.png"
+  },
+  {
+    "image_set_id": "807903",
+    "image_id": "96995",
+    "description": "icon_Bundle_LunarNewYear_Dragon_2024 (Lunar New Year 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96995.png"
+  },
+  {
+    "image_set_id": "807904",
+    "image_id": "96998",
+    "description": "Icon_Banner_LunarNewYear_Dragon_2024 (Lunar New Year 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96998.png"
+  },
+  {
+    "image_set_id": "807905",
+    "image_id": "96999",
+    "description": "profileBackground_LunarNewYear_Dragon_2024 (Lunar New Year 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96999.png"
+  },
+  {
+    "image_set_id": "807906",
+    "image_id": "97002",
+    "description": "Icon_ProfileBackground_BannerFrame_LunarNewYear_Dragon_2024 (Lunar New Year 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97002.png"
+  },
+  {
+    "image_set_id": "807907",
+    "image_id": "97003",
+    "description": "ProfileBackground_BannerFrame_LunarNewYear_Dragon_2024 (Lunar New Year 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97003.png"
+  },
+  {
+    "image_set_id": "807908",
+    "image_id": "97006",
+    "description": "icon_Decal_LunarNewYear_Dragon_2024 (Lunar New Year 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97006.png"
+  },
+  {
+    "image_set_id": "807909",
+    "image_id": "97011",
+    "description": "icons_Helmet_Common_ValentineDay_2024 (Valentines Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97011.png"
   }
 ]
