@@ -68,7 +68,7 @@
       "zh": "Cobalt"
     },
     "is_locked": "0",
-    "lock_state": "Offline",
+    "lock_state": "Unlocked",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -86,7 +86,7 @@
       "zh": "Connery"
     },
     "is_locked": "0",
-    "lock_state": "Offline",
+    "lock_state": "Unlocked",
     "is_unprivileged_access_allowed": "1"
   },
   {
