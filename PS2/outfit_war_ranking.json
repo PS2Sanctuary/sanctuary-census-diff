@@ -1672,13 +1672,13 @@
     "outfit_war_id": "43",
     "order": "1",
     "ranking_parameters": {
-      "MatchRank": "7",
+      "MatchRank": "-1",
       "TotalScore": "102252504",
       "MatchesPlayed": "8",
       "Wins": "5",
       "Losses": "3",
       "TiebreakerPoints": "2504",
-      "GlobalRank": "3",
+      "GlobalRank": "13",
       "DisplayRank": "2"
     }
   },
@@ -1740,14 +1740,14 @@
     "outfit_war_id": "44",
     "order": "1",
     "ranking_parameters": {
-      "MatchRank": "6",
+      "MatchRank": "-1",
       "TotalScore": "121089",
       "MatchesPlayed": "5",
       "Wins": "2",
       "Losses": "3",
       "TiebreakerPoints": "1089",
-      "GlobalRank": "1",
-      "DisplayRank": "8"
+      "GlobalRank": "6",
+      "DisplayRank": "7"
     }
   },
   {
