@@ -1791,7 +1791,7 @@
     "outfit_war_id": "41",
     "order": "1",
     "ranking_parameters": {
-      "MatchRank": "2",
+      "MatchRank": "-1",
       "TotalScore": "103231702",
       "MatchesPlayed": "8",
       "Wins": "3",
