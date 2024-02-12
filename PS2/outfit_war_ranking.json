@@ -1517,16 +1517,16 @@
     "outfit_id": "37567362753123442",
     "faction_id": "1",
     "outfit_war_id": "43",
-    "order": "3",
+    "order": "1",
     "ranking_parameters": {
-      "MatchRank": "6",
+      "MatchRank": "-1",
       "TotalScore": "21241835",
       "MatchesPlayed": "8",
       "Wins": "4",
       "Losses": "4",
       "TiebreakerPoints": "1835",
-      "GlobalRank": "1",
-      "DisplayRank": "4"
+      "GlobalRank": "12",
+      "DisplayRank": "3"
     }
   },
   {
