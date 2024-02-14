@@ -83862,5 +83862,237 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97011.png"
+  },
+  {
+    "image_set_id": "807913",
+    "image_id": "97027",
+    "description": "icon_camo_ValentinesDay_2024_NC (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97027.png"
+  },
+  {
+    "image_set_id": "807914",
+    "image_id": "97030",
+    "description": "icon_camo_ValentinesDay_2024_TR (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97030.png"
+  },
+  {
+    "image_set_id": "807915",
+    "image_id": "97033",
+    "description": "icon_camo_ValentinesDay_2024_VS (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97033.png"
+  },
+  {
+    "image_set_id": "807916",
+    "image_id": "97036",
+    "description": "icon_camo_ValentinesDay_2024_NSO (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97036.png"
+  },
+  {
+    "image_set_id": "807917",
+    "image_id": "97039",
+    "description": "Decal_ValentinesDay_2024 (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97039.png"
+  },
+  {
+    "image_set_id": "807918",
+    "image_id": "97042",
+    "description": "icon_Bundle_ValentinesDay_2024 (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97042.png"
+  },
+  {
+    "image_set_id": "807919",
+    "image_id": "97045",
+    "description": "Icon_Banner_ValentinesDay_2024 (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97045.png"
+  },
+  {
+    "image_set_id": "807920",
+    "image_id": "97047",
+    "description": "ProfileBackground_ValentinesDay_2024 (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97047.png"
+  },
+  {
+    "image_set_id": "807921",
+    "image_id": "97050",
+    "description": "Icon_ProfileBackground_BannerFrame_ValentinesDay_2024_VS (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97050.png"
+  },
+  {
+    "image_set_id": "807922",
+    "image_id": "97053",
+    "description": "Icon_ProfileBackground_BannerFrame_ValentinesDay_2024_TR (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97053.png"
+  },
+  {
+    "image_set_id": "807923",
+    "image_id": "97056",
+    "description": "Icon_ProfileBackground_BannerFrame_ValentinesDay_2024_NC (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97056.png"
+  },
+  {
+    "image_set_id": "807924",
+    "image_id": "97059",
+    "description": "Icon_ProfileBackground_BannerFrame_ValentinesDay_2024_NSO (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97059.png"
+  },
+  {
+    "image_set_id": "807925",
+    "image_id": "97060",
+    "description": "ProfileBackground_BannerFrame_ValentinesDay_2024_VS (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97060.png"
+  },
+  {
+    "image_set_id": "807926",
+    "image_id": "97061",
+    "description": "ProfileBackground_BannerFrame_ValentinesDay_2024_TR (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97061.png"
+  },
+  {
+    "image_set_id": "807927",
+    "image_id": "97062",
+    "description": "ProfileBackground_BannerFrame_ValentinesDay_2024_NC (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97062.png"
+  },
+  {
+    "image_set_id": "807928",
+    "image_id": "97063",
+    "description": "ProfileBackground_BannerFrame_ValentinesDay_2024_NSO (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97063.png"
+  },
+  {
+    "image_set_id": "807929",
+    "image_id": "97066",
+    "description": "I_CAMO_VehicleGraffiti_NC (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97066.png"
+  },
+  {
+    "image_set_id": "807930",
+    "image_id": "97069",
+    "description": "I_CAMO_VehicleGraffiti_TR (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97069.png"
+  },
+  {
+    "image_set_id": "807931",
+    "image_id": "97072",
+    "description": "I_CAMO_VehicleGraffiti_VS (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97072.png"
+  },
+  {
+    "image_set_id": "807932",
+    "image_id": "97075",
+    "description": "I_CAMO_VehicleGraffiti_NSO (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97075.png"
+  },
+  {
+    "image_set_id": "807933",
+    "image_id": "97078",
+    "description": "I_DCL_FactionGraffiti_TR (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97078.png"
+  },
+  {
+    "image_set_id": "807934",
+    "image_id": "97082",
+    "description": "I_DCL_FactionGraffiti_NC (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97082.png"
+  },
+  {
+    "image_set_id": "807935",
+    "image_id": "97086",
+    "description": "I_DCL_FactionGraffiti_VS (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97086.png"
+  },
+  {
+    "image_set_id": "807936",
+    "image_id": "97090",
+    "description": "I_DCL_FactionGraffiti_NSO (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97090.png"
+  },
+  {
+    "image_set_id": "807937",
+    "image_id": "97094",
+    "description": "<I_BNR_IWasThereOW2024> (Outfit Wars remembrance 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97094.png"
+  },
+  {
+    "image_set_id": "807938",
+    "image_id": "97095",
+    "description": "ProfileBackground__IWasThereOW2024 (Outfit Wars remembrance 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97095.png"
+  },
+  {
+    "image_set_id": "807939",
+    "image_id": "97098",
+    "description": "Decal I_WasThereOW2024 (Outfit Wars rememberanse 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97098.png"
+  },
+  {
+    "image_set_id": "807940",
+    "image_id": "97102",
+    "description": "I_DCL_GalaxyGlassHearth (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97102.png"
+  },
+  {
+    "image_set_id": "807941",
+    "image_id": "97105",
+    "description": "I_LoveBomber (Valentine's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97105.png"
   }
 ]
