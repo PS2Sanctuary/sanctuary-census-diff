@@ -130649,5 +130649,917 @@
     "image_set_id": "93043",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "directive_id": "5768",
+    "directive_tree_id": "134",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Für Immer Zusammen",
+      "en": "Always Better Together",
+      "es": "Siempre mejor en compañía",
+      "fr": "Toujours plus forts ensemble",
+      "it": "L'unione fa sempre la forza",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Вместе веселее",
+      "tr": "NULL",
+      "zh": "双人搭配，杀人不累"
+    },
+    "description": {
+      "de": "Töte Feinde als Passagier oder Bordschütze in einem Fahrzeug mit mindestens zwei Insassen.",
+      "en": "Kill enemies as a passenger or gunner while in a vehicle with at least two occupants.",
+      "es": "Mata enemigos como pasajero o artillero en un vehículo con al menos dos ocupantes.",
+      "fr": "Tuez des ennemis en tant que passager ou canonnier, à bord d'un véhicule ayant au moins deux occupants.",
+      "it": "Uccidi i nemici come passeggero o artigliere quando sei in un veicolo con almeno due passeggeri.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убейте врагов, находясь в транспорте на месте стрелка или пассажира как минимум с двумя пассажирами.",
+      "tr": "NULL",
+      "zh": "在至少载有两人的载具中作为乘客或炮手击杀敌人。 "
+    },
+    "image_set_id": "14132",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5776",
+    "directive_tree_id": "134",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Freunde auf ewig",
+      "en": "Friends Forever",
+      "es": "Amigos para siempre",
+      "fr": "Amis pour la vie",
+      "it": "Amici per sempre",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Друзья навек",
+      "tr": "NULL",
+      "zh": "友谊万岁"
+    },
+    "description": {
+      "de": "Beschütze als MAX-Einheit Verbündete, indem du Schaden nimmst, wenn sich mindestens ein Verbündeter weniger als 10 Meter entfernt befindet.",
+      "en": "As a MAX suit, guard allies by taking damage with at least one ally within 10 meters.",
+      "es": "Usando un traje MAX, protege a tus aliados sufriendo ataques con al menos un aliado a 10 metros o menos.",
+      "fr": "Dans une combinaison XAM, protégez des alliés en encaissant les dégâts, lorsqu'il y a au moins un allié dans un périmètre de 10 mètres.",
+      "it": "Come tuta MAX, proteggi gli alleati assorbendo i danni con almeno un alleato entro 10 metri.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Играя за класс MAX, получайте урон вместо своих союзников, находясь на расстоянии не более 10 метров от ближайшего союзника.",
+      "tr": "NULL",
+      "zh": "作为MAX机甲，同10米以内的队友（至少一个）一起承受伤害，以保护其他队友。"
+    },
+    "image_set_id": "14098",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5784",
+    "directive_tree_id": "134",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scharfe MAX-Einheit",
+      "en": "Your MAX Looks Great",
+      "es": "Tu MAX mola",
+      "fr": "Votre XAM a l'air au top",
+      "it": "Il tuo MAX è bellissimo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "У вас прекрасный MAX",
+      "tr": "NULL",
+      "zh": "一起扛"
+    },
+    "description": {
+      "de": "Repariere als Ingenieur verbündete MAX-Einheiten.",
+      "en": "As an Engineer, repair allied MAX suits.",
+      "es": "Siendo ingeniero, repara trajes MAX aliados.",
+      "fr": "Dans le rôle d'ingénieur, réparez les combinaisons XAM alliées.",
+      "it": "Come geniere, ripara le tute MAX alleate.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Ремонтируйте союзные единицы MAX, играя за класс Engineer.",
+      "tr": "NULL",
+      "zh": "作为工程兵修理友方的MAX机甲。"
+    },
+    "image_set_id": "14063",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5772",
+    "directive_tree_id": "134",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Amors Pfeil",
+      "en": "Cupid's Arrow",
+      "es": "Flecha de Cupido",
+      "fr": "Flèche de Cupidon",
+      "it": "Freccia di Cupido",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Стрела Амура",
+      "tr": "NULL",
+      "zh": "丘比特之箭"
+    },
+    "description": {
+      "de": "Töte Feinde mit einer Armbrust.",
+      "en": "Kill enemies with crossbows.",
+      "es": "Mata enemigos con ballestas.",
+      "fr": "Tuez des ennemis à l'aide d'arbalètes.",
+      "it": "Uccidi i nemici con la balestra.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убейте врагов с помощью арбалета.",
+      "tr": "NULL",
+      "zh": "使用十字弓击杀敌人。"
+    },
+    "image_set_id": "13579",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5780",
+    "directive_tree_id": "134",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Nur noch 500 Meter",
+      "en": "I'd Walk 500 Meters",
+      "es": "Andaría 500 metros",
+      "fr": "500 mètres à pied",
+      "it": "Farei 500 metri a piedi",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Я лучше пройду 500 метров пешком",
+      "tr": "NULL",
+      "zh": "与我同行"
+    },
+    "description": {
+      "de": "Bewege dich zu Fuß mit mindestens einem Verbündeten in weniger als 10 Metern Entfernung. Kann nicht in der Schutzzone oder bei Warptoren erfüllt werden.",
+      "en": "Travel on foot with at least 1 ally within 10 meters. Cannot be completed in Sanctuary or at warpgates.",
+      "es": "Viaja a pie con al menos un aliado a 10 metros de distancia o menos. No se puede completar en el Santuario ni en Warpgates.",
+      "fr": "Voyagez à pied avec au moins 1 allié dans un périmètre de 10 mètres. Ne peut pas être validé au Sanctuaire ou aux Warpgates.",
+      "it": "Fai almeno 10 metri a piedi con un alleato. Non si può fare nel Santuario o presso i warpgate.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пройдите указанное расстояние пешком хотя бы с одним союзником в радиусе не более 10 метров. Нельзя выполнить в Sanctuary или около Warpgate.",
+      "tr": "NULL",
+      "zh": "同10米以内的队友（至少一个）一起步行。需要在Sanctuary和传送门以外的地点完成。"
+    },
+    "image_set_id": "806629",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5788",
+    "directive_tree_id": "134",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Matchmaker",
+      "en": "Matchmaker",
+      "es": "Emparejador",
+      "fr": "Entremetteur",
+      "it": "Matchmaker",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сводник",
+      "tr": "NULL",
+      "zh": "比赛达人"
+    },
+    "description": {
+      "de": "Schließe tägliche Matchmaker-Missionen ab.",
+      "en": "Complete daily Matchmaker missions",
+      "es": "Completa misiones diarias de Emparejador",
+      "fr": "Terminez les missions quotidiennes d'Entremetteur.",
+      "it": "Completa le missioni giornaliere del Matchmaker",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполняйте ежедневные задания сводника",
+      "tr": "NULL",
+      "zh": "完成每日中间人任务"
+    },
+    "image_set_id": "13127",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5769",
+    "directive_tree_id": "134",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Für Immer Zusammen",
+      "en": "Always Better Together",
+      "es": "Siempre mejor en compañía",
+      "fr": "Toujours plus forts ensemble",
+      "it": "L'unione fa sempre la forza",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Вместе веселее",
+      "tr": "NULL",
+      "zh": "双人搭配，杀人不累"
+    },
+    "description": {
+      "de": "Töte Feinde als Passagier oder Bordschütze in einem Fahrzeug mit mindestens zwei Insassen.",
+      "en": "Kill enemies as a passenger or gunner while in a vehicle with at least two occupants.",
+      "es": "Mata enemigos como pasajero o artillero en un vehículo con al menos dos ocupantes.",
+      "fr": "Tuez des ennemis en tant que passager ou canonnier, à bord d'un véhicule ayant au moins deux occupants.",
+      "it": "Uccidi i nemici come passeggero o artigliere quando sei in un veicolo con almeno due passeggeri.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убейте врагов, находясь в транспорте на месте стрелка или пассажира как минимум с двумя пассажирами.",
+      "tr": "NULL",
+      "zh": "在至少载有两人的载具中作为乘客或炮手击杀敌人。 "
+    },
+    "image_set_id": "14132",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5777",
+    "directive_tree_id": "134",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Freunde auf ewig",
+      "en": "Friends Forever",
+      "es": "Amigos para siempre",
+      "fr": "Amis pour la vie",
+      "it": "Amici per sempre",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Друзья навек",
+      "tr": "NULL",
+      "zh": "友谊万岁"
+    },
+    "description": {
+      "de": "Beschütze als MAX-Einheit Verbündete, indem du Schaden nimmst, wenn sich mindestens ein Verbündeter weniger als 10 Meter entfernt befindet.",
+      "en": "As a MAX suit, guard allies by taking damage with at least one ally within 10 meters.",
+      "es": "Usando un traje MAX, protege a tus aliados sufriendo ataques con al menos un aliado a 10 metros o menos.",
+      "fr": "Dans une combinaison XAM, protégez des alliés en encaissant les dégâts, lorsqu'il y a au moins un allié dans un périmètre de 10 mètres.",
+      "it": "Come tuta MAX, proteggi gli alleati assorbendo i danni con almeno un alleato entro 10 metri.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Играя за класс MAX, получайте урон вместо своих союзников, находясь на расстоянии не более 10 метров от ближайшего союзника.",
+      "tr": "NULL",
+      "zh": "作为MAX机甲，同10米以内的队友（至少一个）一起承受伤害，以保护其他队友。"
+    },
+    "image_set_id": "14098",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5785",
+    "directive_tree_id": "134",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scharfe MAX-Einheit",
+      "en": "Your MAX Looks Great",
+      "es": "Tu MAX mola",
+      "fr": "Votre XAM a l'air au top",
+      "it": "Il tuo MAX è bellissimo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "У вас прекрасный MAX",
+      "tr": "NULL",
+      "zh": "一起扛"
+    },
+    "description": {
+      "de": "Repariere als Ingenieur verbündete MAX-Einheiten.",
+      "en": "As an Engineer, repair allied MAX suits.",
+      "es": "Siendo ingeniero, repara trajes MAX aliados.",
+      "fr": "Dans le rôle d'ingénieur, réparez les combinaisons XAM alliées.",
+      "it": "Come geniere, ripara le tute MAX alleate.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Ремонтируйте союзные единицы MAX, играя за класс Engineer.",
+      "tr": "NULL",
+      "zh": "作为工程兵修理友方的MAX机甲。"
+    },
+    "image_set_id": "14063",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5773",
+    "directive_tree_id": "134",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Amors Pfeil",
+      "en": "Cupid's Arrow",
+      "es": "Flecha de Cupido",
+      "fr": "Flèche de Cupidon",
+      "it": "Freccia di Cupido",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Стрела Амура",
+      "tr": "NULL",
+      "zh": "丘比特之箭"
+    },
+    "description": {
+      "de": "Töte Feinde mit einer Armbrust.",
+      "en": "Kill enemies with crossbows.",
+      "es": "Mata enemigos con ballestas.",
+      "fr": "Tuez des ennemis à l'aide d'arbalètes.",
+      "it": "Uccidi i nemici con la balestra.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убейте врагов с помощью арбалета.",
+      "tr": "NULL",
+      "zh": "使用十字弓击杀敌人。"
+    },
+    "image_set_id": "13579",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5781",
+    "directive_tree_id": "134",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Nur noch 500 Meter",
+      "en": "I'd Walk 500 Meters",
+      "es": "Andaría 500 metros",
+      "fr": "500 mètres à pied",
+      "it": "Farei 500 metri a piedi",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Я лучше пройду 500 метров пешком",
+      "tr": "NULL",
+      "zh": "与我同行"
+    },
+    "description": {
+      "de": "Bewege dich zu Fuß mit mindestens einem Verbündeten in weniger als 10 Metern Entfernung. Kann nicht in der Schutzzone oder bei Warptoren erfüllt werden.",
+      "en": "Travel on foot with at least 1 ally within 10 meters. Cannot be completed in Sanctuary or at warpgates.",
+      "es": "Viaja a pie con al menos un aliado a 10 metros de distancia o menos. No se puede completar en el Santuario ni en Warpgates.",
+      "fr": "Voyagez à pied avec au moins 1 allié dans un périmètre de 10 mètres. Ne peut pas être validé au Sanctuaire ou aux Warpgates.",
+      "it": "Fai almeno 10 metri a piedi con un alleato. Non si può fare nel Santuario o presso i warpgate.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пройдите указанное расстояние пешком хотя бы с одним союзником в радиусе не более 10 метров. Нельзя выполнить в Sanctuary или около Warpgate.",
+      "tr": "NULL",
+      "zh": "同10米以内的队友（至少一个）一起步行。需要在Sanctuary和传送门以外的地点完成。"
+    },
+    "image_set_id": "806629",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5789",
+    "directive_tree_id": "134",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Matchmaker",
+      "en": "Matchmaker",
+      "es": "Emparejador",
+      "fr": "Entremetteur",
+      "it": "Matchmaker",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сводник",
+      "tr": "NULL",
+      "zh": "比赛达人"
+    },
+    "description": {
+      "de": "Schließe tägliche Matchmaker-Missionen ab.",
+      "en": "Complete daily Matchmaker missions",
+      "es": "Completa misiones diarias de Emparejador",
+      "fr": "Terminez les missions quotidiennes d'Entremetteur.",
+      "it": "Completa le missioni giornaliere del Matchmaker",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполняйте ежедневные задания сводника",
+      "tr": "NULL",
+      "zh": "完成每日中间人任务"
+    },
+    "image_set_id": "13127",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5770",
+    "directive_tree_id": "134",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Für Immer Zusammen",
+      "en": "Always Better Together",
+      "es": "Siempre mejor en compañía",
+      "fr": "Toujours plus forts ensemble",
+      "it": "L'unione fa sempre la forza",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Вместе веселее",
+      "tr": "NULL",
+      "zh": "双人搭配，杀人不累"
+    },
+    "description": {
+      "de": "Töte Feinde als Passagier oder Bordschütze in einem Fahrzeug mit mindestens zwei Insassen.",
+      "en": "Kill enemies as a passenger or gunner while in a vehicle with at least two occupants.",
+      "es": "Mata enemigos como pasajero o artillero en un vehículo con al menos dos ocupantes.",
+      "fr": "Tuez des ennemis en tant que passager ou canonnier, à bord d'un véhicule ayant au moins deux occupants.",
+      "it": "Uccidi i nemici come passeggero o artigliere quando sei in un veicolo con almeno due passeggeri.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убейте врагов, находясь в транспорте на месте стрелка или пассажира как минимум с двумя пассажирами.",
+      "tr": "NULL",
+      "zh": "在至少载有两人的载具中作为乘客或炮手击杀敌人。 "
+    },
+    "image_set_id": "14132",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5778",
+    "directive_tree_id": "134",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Freunde auf ewig",
+      "en": "Friends Forever",
+      "es": "Amigos para siempre",
+      "fr": "Amis pour la vie",
+      "it": "Amici per sempre",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Друзья навек",
+      "tr": "NULL",
+      "zh": "友谊万岁"
+    },
+    "description": {
+      "de": "Beschütze als MAX-Einheit Verbündete, indem du Schaden nimmst, wenn sich mindestens ein Verbündeter weniger als 10 Meter entfernt befindet.",
+      "en": "As a MAX suit, guard allies by taking damage with at least one ally within 10 meters.",
+      "es": "Usando un traje MAX, protege a tus aliados sufriendo ataques con al menos un aliado a 10 metros o menos.",
+      "fr": "Dans une combinaison XAM, protégez des alliés en encaissant les dégâts, lorsqu'il y a au moins un allié dans un périmètre de 10 mètres.",
+      "it": "Come tuta MAX, proteggi gli alleati assorbendo i danni con almeno un alleato entro 10 metri.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Играя за класс MAX, получайте урон вместо своих союзников, находясь на расстоянии не более 10 метров от ближайшего союзника.",
+      "tr": "NULL",
+      "zh": "作为MAX机甲，同10米以内的队友（至少一个）一起承受伤害，以保护其他队友。"
+    },
+    "image_set_id": "14098",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5786",
+    "directive_tree_id": "134",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scharfe MAX-Einheit",
+      "en": "Your MAX Looks Great",
+      "es": "Tu MAX mola",
+      "fr": "Votre XAM a l'air au top",
+      "it": "Il tuo MAX è bellissimo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "У вас прекрасный MAX",
+      "tr": "NULL",
+      "zh": "一起扛"
+    },
+    "description": {
+      "de": "Repariere als Ingenieur verbündete MAX-Einheiten.",
+      "en": "As an Engineer, repair allied MAX suits.",
+      "es": "Siendo ingeniero, repara trajes MAX aliados.",
+      "fr": "Dans le rôle d'ingénieur, réparez les combinaisons XAM alliées.",
+      "it": "Come geniere, ripara le tute MAX alleate.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Ремонтируйте союзные единицы MAX, играя за класс Engineer.",
+      "tr": "NULL",
+      "zh": "作为工程兵修理友方的MAX机甲。"
+    },
+    "image_set_id": "14063",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5774",
+    "directive_tree_id": "134",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Amors Pfeil",
+      "en": "Cupid's Arrow",
+      "es": "Flecha de Cupido",
+      "fr": "Flèche de Cupidon",
+      "it": "Freccia di Cupido",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Стрела Амура",
+      "tr": "NULL",
+      "zh": "丘比特之箭"
+    },
+    "description": {
+      "de": "Töte Feinde mit einer Armbrust.",
+      "en": "Kill enemies with crossbows.",
+      "es": "Mata enemigos con ballestas.",
+      "fr": "Tuez des ennemis à l'aide d'arbalètes.",
+      "it": "Uccidi i nemici con la balestra.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убейте врагов с помощью арбалета.",
+      "tr": "NULL",
+      "zh": "使用十字弓击杀敌人。"
+    },
+    "image_set_id": "13579",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5782",
+    "directive_tree_id": "134",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Nur noch 500 Meter",
+      "en": "I'd Walk 500 Meters",
+      "es": "Andaría 500 metros",
+      "fr": "500 mètres à pied",
+      "it": "Farei 500 metri a piedi",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Я лучше пройду 500 метров пешком",
+      "tr": "NULL",
+      "zh": "与我同行"
+    },
+    "description": {
+      "de": "Bewege dich zu Fuß mit mindestens einem Verbündeten in weniger als 10 Metern Entfernung. Kann nicht in der Schutzzone oder bei Warptoren erfüllt werden.",
+      "en": "Travel on foot with at least 1 ally within 10 meters. Cannot be completed in Sanctuary or at warpgates.",
+      "es": "Viaja a pie con al menos un aliado a 10 metros de distancia o menos. No se puede completar en el Santuario ni en Warpgates.",
+      "fr": "Voyagez à pied avec au moins 1 allié dans un périmètre de 10 mètres. Ne peut pas être validé au Sanctuaire ou aux Warpgates.",
+      "it": "Fai almeno 10 metri a piedi con un alleato. Non si può fare nel Santuario o presso i warpgate.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пройдите указанное расстояние пешком хотя бы с одним союзником в радиусе не более 10 метров. Нельзя выполнить в Sanctuary или около Warpgate.",
+      "tr": "NULL",
+      "zh": "同10米以内的队友（至少一个）一起步行。需要在Sanctuary和传送门以外的地点完成。"
+    },
+    "image_set_id": "806629",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5790",
+    "directive_tree_id": "134",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Matchmaker",
+      "en": "Matchmaker",
+      "es": "Emparejador",
+      "fr": "Entremetteur",
+      "it": "Matchmaker",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сводник",
+      "tr": "NULL",
+      "zh": "比赛达人"
+    },
+    "description": {
+      "de": "Schließe tägliche Matchmaker-Missionen ab.",
+      "en": "Complete daily Matchmaker missions",
+      "es": "Completa misiones diarias de Emparejador",
+      "fr": "Terminez les missions quotidiennes d'Entremetteur.",
+      "it": "Completa le missioni giornaliere del Matchmaker",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполняйте ежедневные задания сводника",
+      "tr": "NULL",
+      "zh": "完成每日中间人任务"
+    },
+    "image_set_id": "13127",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5771",
+    "directive_tree_id": "134",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Für Immer Zusammen",
+      "en": "Always Better Together",
+      "es": "Siempre mejor en compañía",
+      "fr": "Toujours plus forts ensemble",
+      "it": "L'unione fa sempre la forza",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Вместе веселее",
+      "tr": "NULL",
+      "zh": "双人搭配，杀人不累"
+    },
+    "description": {
+      "de": "Töte Feinde als Passagier oder Bordschütze in einem Fahrzeug mit mindestens zwei Insassen.",
+      "en": "Kill enemies as a passenger or gunner while in a vehicle with at least two occupants.",
+      "es": "Mata enemigos como pasajero o artillero en un vehículo con al menos dos ocupantes.",
+      "fr": "Tuez des ennemis en tant que passager ou canonnier, à bord d'un véhicule ayant au moins deux occupants.",
+      "it": "Uccidi i nemici come passeggero o artigliere quando sei in un veicolo con almeno due passeggeri.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убейте врагов, находясь в транспорте на месте стрелка или пассажира как минимум с двумя пассажирами.",
+      "tr": "NULL",
+      "zh": "在至少载有两人的载具中作为乘客或炮手击杀敌人。 "
+    },
+    "image_set_id": "14132",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5779",
+    "directive_tree_id": "134",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Freunde auf ewig",
+      "en": "Friends Forever",
+      "es": "Amigos para siempre",
+      "fr": "Amis pour la vie",
+      "it": "Amici per sempre",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Друзья навек",
+      "tr": "NULL",
+      "zh": "友谊万岁"
+    },
+    "description": {
+      "de": "Beschütze als MAX-Einheit Verbündete, indem du Schaden nimmst, wenn sich mindestens ein Verbündeter weniger als 10 Meter entfernt befindet.",
+      "en": "As a MAX suit, guard allies by taking damage with at least one ally within 10 meters.",
+      "es": "Usando un traje MAX, protege a tus aliados sufriendo ataques con al menos un aliado a 10 metros o menos.",
+      "fr": "Dans une combinaison XAM, protégez des alliés en encaissant les dégâts, lorsqu'il y a au moins un allié dans un périmètre de 10 mètres.",
+      "it": "Come tuta MAX, proteggi gli alleati assorbendo i danni con almeno un alleato entro 10 metri.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Играя за класс MAX, получайте урон вместо своих союзников, находясь на расстоянии не более 10 метров от ближайшего союзника.",
+      "tr": "NULL",
+      "zh": "作为MAX机甲，同10米以内的队友（至少一个）一起承受伤害，以保护其他队友。"
+    },
+    "image_set_id": "14098",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5787",
+    "directive_tree_id": "134",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scharfe MAX-Einheit",
+      "en": "Your MAX Looks Great",
+      "es": "Tu MAX mola",
+      "fr": "Votre XAM a l'air au top",
+      "it": "Il tuo MAX è bellissimo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "У вас прекрасный MAX",
+      "tr": "NULL",
+      "zh": "一起扛"
+    },
+    "description": {
+      "de": "Repariere als Ingenieur verbündete MAX-Einheiten.",
+      "en": "As an Engineer, repair allied MAX suits.",
+      "es": "Siendo ingeniero, repara trajes MAX aliados.",
+      "fr": "Dans le rôle d'ingénieur, réparez les combinaisons XAM alliées.",
+      "it": "Come geniere, ripara le tute MAX alleate.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Ремонтируйте союзные единицы MAX, играя за класс Engineer.",
+      "tr": "NULL",
+      "zh": "作为工程兵修理友方的MAX机甲。"
+    },
+    "image_set_id": "14063",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5775",
+    "directive_tree_id": "134",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Amors Pfeil",
+      "en": "Cupid's Arrow",
+      "es": "Flecha de Cupido",
+      "fr": "Flèche de Cupidon",
+      "it": "Freccia di Cupido",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Стрела Амура",
+      "tr": "NULL",
+      "zh": "丘比特之箭"
+    },
+    "description": {
+      "de": "Töte Feinde mit einer Armbrust.",
+      "en": "Kill enemies with crossbows.",
+      "es": "Mata enemigos con ballestas.",
+      "fr": "Tuez des ennemis à l'aide d'arbalètes.",
+      "it": "Uccidi i nemici con la balestra.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убейте врагов с помощью арбалета.",
+      "tr": "NULL",
+      "zh": "使用十字弓击杀敌人。"
+    },
+    "image_set_id": "13579",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5783",
+    "directive_tree_id": "134",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Und jetzt nochmal 500 Meter",
+      "en": "And I'd Walk 500 More",
+      "es": "Y luego andaría 500 más",
+      "fr": "Et j'en ferai 500 de plus",
+      "it": "Farei altri 500 metri a piedi",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "И я пройду еще 500",
+      "tr": "NULL",
+      "zh": "再次与我同行"
+    },
+    "description": {
+      "de": "Bewege dich zu Fuß mit mindestens einem Verbündeten in weniger als 10 Metern Entfernung. Kann nicht in der Schutzzone oder bei Warptoren erfüllt werden.",
+      "en": "Travel on foot with at least 1 ally within 10 meters. Cannot be completed in Sanctuary or at warpgates.",
+      "es": "Viaja a pie con al menos un aliado a 10 metros de distancia o menos. No se puede completar en el Santuario ni en Warpgates.",
+      "fr": "Voyagez à pied avec au moins 1 allié dans un périmètre de 10 mètres. Ne peut pas être validé au Sanctuaire ou aux Warpgates.",
+      "it": "Fai almeno 10 metri a piedi con un alleato. Non si può fare nel Santuario o presso i warpgate.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пройдите указанное расстояние пешком хотя бы с одним союзником в радиусе не более 10 метров. Нельзя выполнить в Sanctuary или около Warpgate.",
+      "tr": "NULL",
+      "zh": "同10米以内的队友（至少一个）一起步行。需要在Sanctuary和传送门以外的地点完成。"
+    },
+    "image_set_id": "806629",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5791",
+    "directive_tree_id": "134",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Matchmaker",
+      "en": "Matchmaker",
+      "es": "Emparejador",
+      "fr": "Entremetteur",
+      "it": "Matchmaker",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сводник",
+      "tr": "NULL",
+      "zh": "比赛达人"
+    },
+    "description": {
+      "de": "Schließe tägliche Matchmaker-Missionen ab.",
+      "en": "Complete daily Matchmaker missions",
+      "es": "Completa misiones diarias de Emparejador",
+      "fr": "Terminez les missions quotidiennes d'Entremetteur.",
+      "it": "Completa le missioni giornaliere del Matchmaker",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполняйте ежедневные задания сводника",
+      "tr": "NULL",
+      "zh": "完成每日中间人任务"
+    },
+    "image_set_id": "13127",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

@@ -9634,5 +9634,93 @@
     "image_set_id": "93047",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "directive_tree_id": "134",
+    "directive_tier_id": "1",
+    "name": {
+      "de": "Anfänger",
+      "en": "Novice",
+      "es": "Novato",
+      "fr": "Novice",
+      "it": "Novizi",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Новичок",
+      "tr": "NULL",
+      "zh": "新手"
+    },
+    "reward_set_id": "6272",
+    "directive_points": "0",
+    "completion_count": "2",
+    "image_set_id": "80233",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_tree_id": "134",
+    "directive_tier_id": "2",
+    "name": {
+      "de": "Adept",
+      "en": "Adept",
+      "es": "Adepto",
+      "fr": "Adepte",
+      "it": "Adepto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Адепт",
+      "tr": "NULL",
+      "zh": "专家"
+    },
+    "reward_set_id": "6273",
+    "directive_points": "0",
+    "completion_count": "3",
+    "image_set_id": "80235",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_tree_id": "134",
+    "directive_tier_id": "3",
+    "name": {
+      "de": "Experte",
+      "en": "Expert",
+      "es": "Experto",
+      "fr": "Expert",
+      "it": "Esperti",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эксперт",
+      "tr": "NULL",
+      "zh": "专家"
+    },
+    "reward_set_id": "6274",
+    "directive_points": "0",
+    "completion_count": "4",
+    "image_set_id": "80234",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_tree_id": "134",
+    "directive_tier_id": "4",
+    "name": {
+      "de": "Meister",
+      "en": "Master",
+      "es": "Maestro",
+      "fr": "Maître",
+      "it": "Maestri",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мастер",
+      "tr": "NULL",
+      "zh": "大师"
+    },
+    "reward_set_id": "6275",
+    "directive_points": "0",
+    "completion_count": "4",
+    "image_set_id": "80232",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

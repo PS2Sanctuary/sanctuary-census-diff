@@ -1718,5 +1718,42 @@
     "image_set_id": "0",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "directive_tree_id": "134",
+    "directive_tree_category_id": "8",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NULL",
+      "en": "Valentine's Day 2024",
+      "es": "NULL",
+      "fr": "NULL",
+      "it": "NULL",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NULL",
+      "tr": "NULL",
+      "zh": "NULL"
+    },
+    "description": {
+      "de": "8. Feb. - 14. Feb.",
+      "en": "Feb. 14 - Feb. 28",
+      "es": "8 de feb. - 14 de feb.",
+      "fr": "8 fév. - 14 fév.",
+      "it": "8-14 febbraio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "С 8 по 14 февраля",
+      "tr": "NULL",
+      "zh": "2月8日——2月14日"
+    },
+    "image_set_id": "0",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]
