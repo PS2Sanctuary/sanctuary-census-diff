@@ -83905,19 +83905,19 @@
   },
   {
     "image_set_id": "807918",
-    "image_id": "97042",
+    "image_id": "97043",
     "description": "icon_Bundle_ValentinesDay_2024 (Valentine's Day 2024)",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97042.png"
+    "image_path": "/files/ps2/images/static/97043.png"
   },
   {
     "image_set_id": "807919",
-    "image_id": "97045",
+    "image_id": "97046",
     "description": "Icon_Banner_ValentinesDay_2024 (Valentine's Day 2024)",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97045.png"
+    "image_path": "/files/ps2/images/static/97046.png"
   },
   {
     "image_set_id": "807920",
@@ -84094,5 +84094,77 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97105.png"
+  },
+  {
+    "image_set_id": "807943",
+    "image_id": "97112",
+    "description": "icons_Helmet_NC_Ice_Dragon_2024 (Ice Dragon Helmet 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97112.png"
+  },
+  {
+    "image_set_id": "807945",
+    "image_id": "97116",
+    "description": "icons_Helmet_NSO_Ice_Dragon_2024 (Ice Dragon Helmet 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97116.png"
+  },
+  {
+    "image_set_id": "807946",
+    "image_id": "97119",
+    "description": "icons_Helmet_TR_Ice_Dragon_2024 (Ice Dragon Helmet 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97119.png"
+  },
+  {
+    "image_set_id": "807947",
+    "image_id": "97122",
+    "description": "icons_Helmet_VS_Ice_Dragon_2024 (Ice Dragon Helmet 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97122.png"
+  },
+  {
+    "image_set_id": "807948",
+    "image_id": "97125",
+    "description": "Icon_BNR_Infiltrator_Class_Profile_Banner_2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97125.png"
+  },
+  {
+    "image_set_id": "807949",
+    "image_id": "97126",
+    "description": "BNR_Infiltrator (Infiltrator Profile Banner 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97126.png"
+  },
+  {
+    "image_set_id": "807950",
+    "image_id": "97129",
+    "description": "I_FRM_Infiltrator (Infiltrator Class Banner Frame 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97129.png"
+  },
+  {
+    "image_set_id": "807951",
+    "image_id": "97130",
+    "description": "FRM_Infiltrator (Class Banner Frame Infiltrator 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97130.png"
+  },
+  {
+    "image_set_id": "807952",
+    "image_id": "97133",
+    "description": "I_DCL_Infiltrator (Infiltrator Class Decal 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97133.png"
   }
 ]
