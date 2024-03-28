@@ -84166,5 +84166,221 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97133.png"
+  },
+  {
+    "image_set_id": "807954",
+    "image_id": "97143",
+    "description": "I_CAMO_Puzzler_NC (April Fools Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97143.png"
+  },
+  {
+    "image_set_id": "807955",
+    "image_id": "97140",
+    "description": "icon_Weapon_Common_Revolver_Commissioner_Red",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97140.png"
+  },
+  {
+    "image_set_id": "807956",
+    "image_id": "97159",
+    "description": "I_DCL_Puzzler (April Fools Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97159.png"
+  },
+  {
+    "image_set_id": "807957",
+    "image_id": "97146",
+    "description": "I_CAMO_Puzzler_NSO (April Fools Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97146.png"
+  },
+  {
+    "image_set_id": "807958",
+    "image_id": "97149",
+    "description": "I_CAMO_Puzzler_TR (April Fools Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97149.png"
+  },
+  {
+    "image_set_id": "807959",
+    "image_id": "97152",
+    "description": "I_CAMO_Puzzler_VS (April Fools Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97152.png"
+  },
+  {
+    "image_set_id": "807960",
+    "image_id": "97155",
+    "description": "I_Vehicle_Puzzler_Glass_Attachment (April Fools Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97155.png"
+  },
+  {
+    "image_set_id": "807961",
+    "image_id": "97163",
+    "description": "I_BNR_Puzzler (April Fools Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97163.png"
+  },
+  {
+    "image_set_id": "807962",
+    "image_id": "97164",
+    "description": "BNR_Puzzler (April Fools Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97164.png"
+  },
+  {
+    "image_set_id": "807963",
+    "image_id": "97170",
+    "description": "I_FRM_Puzzler (April Fools DAy 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97170.png"
+  },
+  {
+    "image_set_id": "807964",
+    "image_id": "97171",
+    "description": "FRM_Puzzler (April Fools Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97171.png"
+  },
+  {
+    "image_set_id": "807965",
+    "image_id": "97174",
+    "description": "I_Weapon_Common_Attachment_Red_Commissioner_ReflexSight_Chevron (11th Anniversary : Primed Ruby)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97174.png"
+  },
+  {
+    "image_set_id": "807966",
+    "image_id": "97177",
+    "description": "I_Weapon_Common_Attachment_Red_Commissioner_ReflexSight_Square (11th Anniversary : Primed Ruby)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97177.png"
+  },
+  {
+    "image_set_id": "807967",
+    "image_id": "97180",
+    "description": "I_Weapon_Common_Attachment_Red_Commissioner_ReflexSight_YellowDot (11th Anniversary : Primed Ruby)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97180.png"
+  },
+  {
+    "image_set_id": "807968",
+    "image_id": "97183",
+    "description": "I_Weapon_Common_Attachment_Red_Commissioner_ReflexSight_RedDot(11th Anniversary : Primed Ruby)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97183.png"
+  },
+  {
+    "image_set_id": "807969",
+    "image_id": "97186",
+    "description": "I_Weapon_Common_Attachment_Red_Commissioner_ReflexSight_Cross(11th Anniversary : Primed Ruby)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97186.png"
+  },
+  {
+    "image_set_id": "807970",
+    "image_id": "97189",
+    "description": "I_BND_AprilFool's_2024 (April Fool's Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97189.png"
+  },
+  {
+    "image_set_id": "807971",
+    "image_id": "97194",
+    "description": "I_Vehicle_Puzzler_HoodOrnaments_Attachment (April Fools Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97194.png"
+  },
+  {
+    "image_set_id": "807972",
+    "image_id": "97197",
+    "description": "icon_Puzzler_Hair_Helmet_NSO_ (April Fools Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97197.png"
+  },
+  {
+    "image_set_id": "807973",
+    "image_id": "97200",
+    "description": "icon_Puzzler_Hair_Helmet_All_NC_ (April Fools Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97200.png"
+  },
+  {
+    "image_set_id": "807974",
+    "image_id": "97203",
+    "description": "icon_Puzzler_Hair_Helmet_All_TR_ (April Fools Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97203.png"
+  },
+  {
+    "image_set_id": "807975",
+    "image_id": "97206",
+    "description": "icon_Puzzler_Hair_Helmet_All_VS_ (April Fools Day 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97206.png"
+  },
+  {
+    "image_set_id": "807976",
+    "image_id": "97209",
+    "description": "I_BNR_LightAssault_ (Light Assault Class Banner 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97209.png"
+  },
+  {
+    "image_set_id": "807977",
+    "image_id": "97210",
+    "description": "BNR_LightAssault (Light Assault Class Banner 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97210.png"
+  },
+  {
+    "image_set_id": "807978",
+    "image_id": "97213",
+    "description": "I_FRM_LightAssault_(Light Assault Class Banner Frame 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97213.png"
+  },
+  {
+    "image_set_id": "807979",
+    "image_id": "97214",
+    "description": "FRM_LightAssault (Light Assault Class Banner Frame 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97214.png"
+  },
+  {
+    "image_set_id": "807980",
+    "image_id": "97217",
+    "description": "I_DCL_LightAssault (Light Assault Decal 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97217.png"
   }
 ]
