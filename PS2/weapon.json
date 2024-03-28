@@ -52300,5 +52300,39 @@
     "max_view_pitch": "85",
     "requires_ammo": "0",
     "use_cooldown_ms": "0"
+  },
+  {
+    "weapon_id": "78836",
+    "weapon_group_id": "77989",
+    "equip_ms": "450",
+    "unequip_ms": "250",
+    "to_iron_sights_ms": "150",
+    "from_iron_sights_ms": "150",
+    "to_iron_sights_anim_ms": "125",
+    "from_iron_sights_anim_ms": "150",
+    "sprint_recovery_ms": "300",
+    "turn_modifier": "1",
+    "move_modifier": "1",
+    "heat_bleed_off_rate": "NULL",
+    "heat_overheat_penalty_ms": "NULL",
+    "range_description": {
+      "de": "Kurz",
+      "en": "Short",
+      "es": "Corto",
+      "fr": "Court",
+      "it": "Corto",
+      "ko": "짧음",
+      "pt": "Curta",
+      "ru": "Ближняя",
+      "tr": "Kısa",
+      "zh": "近距离"
+    },
+    "melee_detect_width": "NULL",
+    "melee_detect_height": "NULL",
+    "animation_wield_type_name": "Pistol",
+    "min_view_pitch": "-85",
+    "max_view_pitch": "85",
+    "requires_ammo": "1",
+    "use_cooldown_ms": "0"
   }
 ]
