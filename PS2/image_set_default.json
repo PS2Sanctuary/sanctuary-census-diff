@@ -84382,5 +84382,301 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97217.png"
+  },
+  {
+    "image_set_id": "807983",
+    "image_id": "97225",
+    "description": "I_Fishing_Scanner(Fishing 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97225.png"
+  },
+  {
+    "image_set_id": "807992",
+    "image_id": "97250",
+    "description": "I_Pilot_Helmet_Common (2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97250.png"
+  },
+  {
+    "image_set_id": "807993",
+    "image_id": "97253",
+    "description": "I_Pilot_Helmet_NSO (2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97253.png"
+  },
+  {
+    "image_set_id": "807994",
+    "image_id": "97256",
+    "description": "icon_Weapon_Common_Revolver_Commissioner_Blue",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97256.png"
+  },
+  {
+    "image_set_id": "807995",
+    "image_id": "97259",
+    "description": "I_Weapon_Common_Attachment_Blue_Commissioner_ReflexSight_Chevron (11th Anniversary : Primed Lapis)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97259.png"
+  },
+  {
+    "image_set_id": "807996",
+    "image_id": "97262",
+    "description": "I_Weapon_Common_Attachment_Blue_Commissioner_ReflexSight_Square (11th Anniversary : Primed Lapis)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97262.png"
+  },
+  {
+    "image_set_id": "807997",
+    "image_id": "97265",
+    "description": "I_Weapon_Common_Attachment_Blue_Commissioner_ReflexSight_YellowDot (11th Anniversary : Primed Lapis)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97265.png"
+  },
+  {
+    "image_set_id": "807998",
+    "image_id": "97268",
+    "description": "I_Weapon_Common_Attachment_Blue_Commissioner_ReflexSight_RedDot(11th Anniversary : Primed Lapis)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97268.png"
+  },
+  {
+    "image_set_id": "807999",
+    "image_id": "97271",
+    "description": "I_Weapon_Common_Attachment_Blue_Commissioner_ReflexSight_Cross(11th Anniversary : Primed Lapis)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97271.png"
+  },
+  {
+    "image_set_id": "808004",
+    "image_id": "97368",
+    "description": "CAMO_RazzleDazzle_NC (Exceptional VIII Directive Tree Reward)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97368.png"
+  },
+  {
+    "image_set_id": "808005",
+    "image_id": "97377",
+    "description": "CAMO_RazzleDazzle_NSO (Exceptional VIII Directive Tree Reward)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97377.png"
+  },
+  {
+    "image_set_id": "808006",
+    "image_id": "97374",
+    "description": "CAMO_RazzleDazzle_TR (Exceptional VIII Directive Tree Reward)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97374.png"
+  },
+  {
+    "image_set_id": "808007",
+    "image_id": "97371",
+    "description": "CAMO_RazzleDazzle_VS (Exceptional VIII Directive Tree Reward)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97371.png"
+  },
+  {
+    "image_set_id": "808008",
+    "image_id": "97380",
+    "description": "I_Generic_Title (use this with Titles)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97380.png"
+  },
+  {
+    "image_set_id": "808009",
+    "image_id": "97356",
+    "description": "I_BNR_CombatMedic (Combat Medic Class Banner 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97356.png"
+  },
+  {
+    "image_set_id": "808010",
+    "image_id": "97364",
+    "description": "BNR_CombatMedic (Combat Medic Profile Banner 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97364.png"
+  },
+  {
+    "image_set_id": "808011",
+    "image_id": "97359",
+    "description": "I_FRM_CombatMedic (Combat Medic Class Banner Frame 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97359.png"
+  },
+  {
+    "image_set_id": "808012",
+    "image_id": "97365",
+    "description": "FRM_CombatMedic (Combat Medic Class Banner Frame 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97365.png"
+  },
+  {
+    "image_set_id": "808013",
+    "image_id": "97362",
+    "description": "I_DCL_CombatMedic (Combat Medic Class Decal 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97362.png"
+  },
+  {
+    "image_set_id": "808014",
+    "image_id": "97315",
+    "description": "I_BNR_21stAnniversary (21st Franchise Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97315.png"
+  },
+  {
+    "image_set_id": "808015",
+    "image_id": "97316",
+    "description": "ProfileBackgrownd_BNR_21stAnniversary(21st Franchise Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97316.png"
+  },
+  {
+    "image_set_id": "808016",
+    "image_id": "97319",
+    "description": "I_FRM_21stAnniversary (21st Franchise Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97319.png"
+  },
+  {
+    "image_set_id": "808017",
+    "image_id": "97383",
+    "description": "FRM_21stAnniversary (21st Franchise Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97383.png"
+  },
+  {
+    "image_set_id": "808019",
+    "image_id": "97327",
+    "description": "Decal I_DCL_21stAnniversary (21st Franchise Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97327.png"
+  },
+  {
+    "image_set_id": "808020",
+    "image_id": "97331",
+    "description": "I_CAMO_21stAnniversary_NC (21st Franchise Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97331.png"
+  },
+  {
+    "image_set_id": "808021",
+    "image_id": "97334",
+    "description": "I_CAMO_21stAnniversary_VS (21st Franchise Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97334.png"
+  },
+  {
+    "image_set_id": "808022",
+    "image_id": "97337",
+    "description": "I_CAMO_21stAnniversary_TR (21st Franchise Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97337.png"
+  },
+  {
+    "image_set_id": "808023",
+    "image_id": "97340",
+    "description": "I_CAMO_21stAnniversary_NSO (21st Franchise Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97340.png"
+  },
+  {
+    "image_set_id": "808025",
+    "image_id": "97347",
+    "description": "I_BND_21stAnniversary (21st Franchise Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97347.png"
+  },
+  {
+    "image_set_id": "808026",
+    "image_id": "97351",
+    "description": "I_DCL_Serbia_Flag (Flag Decal)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97351.png"
+  },
+  {
+    "image_set_id": "808027",
+    "image_id": "97386",
+    "description": "I_SundererDeployment_PointDefense",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97386.png"
+  },
+  {
+    "image_set_id": "808028",
+    "image_id": "97389",
+    "description": "I_SundererArmor_ReactiveArmor",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97389.png"
+  },
+  {
+    "image_set_id": "808029",
+    "image_id": "97392",
+    "description": "I_SundererArmor_EnhancedPlating",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97392.png"
+  },
+  {
+    "image_set_id": "808030",
+    "image_id": "97395",
+    "description": "I_SundererCargo_AmmoTower",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97395.png"
+  },
+  {
+    "image_set_id": "808031",
+    "image_id": "97398",
+    "description": "I_SundererCargo_ProximityRadar",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97398.png"
+  },
+  {
+    "image_set_id": "808032",
+    "image_id": "97401",
+    "description": "I_SundererCargo_RepairStation",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97401.png"
+  },
+  {
+    "image_set_id": "808033",
+    "image_id": "97404",
+    "description": "I_SundererCargo_ShieldDisruptor",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97404.png"
   }
 ]
