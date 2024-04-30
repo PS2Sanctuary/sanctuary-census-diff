@@ -4244,5 +4244,93 @@
     "image_set_id": "80232",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "directive_tree_id": "127",
+    "directive_tier_id": "1",
+    "name": {
+      "de": "Anfänger",
+      "en": "Novice",
+      "es": "Novato",
+      "fr": "Novice",
+      "it": "Novizi",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Новичок",
+      "tr": "NULL",
+      "zh": "新手"
+    },
+    "reward_set_id": "NULL",
+    "directive_points": "5",
+    "completion_count": "5",
+    "image_set_id": "14392",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_tree_id": "127",
+    "directive_tier_id": "2",
+    "name": {
+      "de": "Adept",
+      "en": "Adept",
+      "es": "Adepto",
+      "fr": "Adepte",
+      "it": "Adepto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Адепт",
+      "tr": "NULL",
+      "zh": "专家"
+    },
+    "reward_set_id": "NULL",
+    "directive_points": "10",
+    "completion_count": "5",
+    "image_set_id": "14394",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_tree_id": "127",
+    "directive_tier_id": "3",
+    "name": {
+      "de": "Experte",
+      "en": "Expert",
+      "es": "Experto",
+      "fr": "Expert",
+      "it": "Esperti",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эксперт",
+      "tr": "NULL",
+      "zh": "专家"
+    },
+    "reward_set_id": "NULL",
+    "directive_points": "25",
+    "completion_count": "6",
+    "image_set_id": "14393",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_tree_id": "127",
+    "directive_tier_id": "4",
+    "name": {
+      "de": "Meister",
+      "en": "Master",
+      "es": "Maestro",
+      "fr": "Maître",
+      "it": "Maestri",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мастер",
+      "tr": "NULL",
+      "zh": "大师"
+    },
+    "reward_set_id": "6254",
+    "directive_points": "100",
+    "completion_count": "6",
+    "image_set_id": "14391",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
   }
 ]

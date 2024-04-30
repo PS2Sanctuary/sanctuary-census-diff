@@ -9226,5 +9226,129 @@
   {
     "fire_mode_id": "81398",
     "projectile_id": "80616"
+  },
+  {
+    "fire_mode_id": "81399",
+    "projectile_id": "80100"
+  },
+  {
+    "fire_mode_id": "81400",
+    "projectile_id": "80100"
+  },
+  {
+    "fire_mode_id": "81410",
+    "projectile_id": "80621"
+  },
+  {
+    "fire_mode_id": "81411",
+    "projectile_id": "80622"
+  },
+  {
+    "fire_mode_id": "81412",
+    "projectile_id": "80622"
+  },
+  {
+    "fire_mode_id": "81413",
+    "projectile_id": "80623"
+  },
+  {
+    "fire_mode_id": "81414",
+    "projectile_id": "80623"
+  },
+  {
+    "fire_mode_id": "81415",
+    "projectile_id": "80624"
+  },
+  {
+    "fire_mode_id": "81416",
+    "projectile_id": "80624"
+  },
+  {
+    "fire_mode_id": "81417",
+    "projectile_id": "80625"
+  },
+  {
+    "fire_mode_id": "81418",
+    "projectile_id": "80625"
+  },
+  {
+    "fire_mode_id": "81419",
+    "projectile_id": "80626"
+  },
+  {
+    "fire_mode_id": "81420",
+    "projectile_id": "80626"
+  },
+  {
+    "fire_mode_id": "81421",
+    "projectile_id": "80627"
+  },
+  {
+    "fire_mode_id": "81422",
+    "projectile_id": "80627"
+  },
+  {
+    "fire_mode_id": "81423",
+    "projectile_id": "80628"
+  },
+  {
+    "fire_mode_id": "81424",
+    "projectile_id": "80628"
+  },
+  {
+    "fire_mode_id": "81425",
+    "projectile_id": "80629"
+  },
+  {
+    "fire_mode_id": "81426",
+    "projectile_id": "80629"
+  },
+  {
+    "fire_mode_id": "81427",
+    "projectile_id": "80635"
+  },
+  {
+    "fire_mode_id": "81428",
+    "projectile_id": "80634"
+  },
+  {
+    "fire_mode_id": "81429",
+    "projectile_id": "80633"
+  },
+  {
+    "fire_mode_id": "81430",
+    "projectile_id": "80632"
+  },
+  {
+    "fire_mode_id": "81431",
+    "projectile_id": "80631"
+  },
+  {
+    "fire_mode_id": "81432",
+    "projectile_id": "80630"
+  },
+  {
+    "fire_mode_id": "81433",
+    "projectile_id": "80636"
+  },
+  {
+    "fire_mode_id": "81437",
+    "projectile_id": "80637"
+  },
+  {
+    "fire_mode_id": "81438",
+    "projectile_id": "80637"
+  },
+  {
+    "fire_mode_id": "81439",
+    "projectile_id": "80638"
+  },
+  {
+    "fire_mode_id": "81441",
+    "projectile_id": "80639"
+  },
+  {
+    "fire_mode_id": "81442",
+    "projectile_id": "80639"
   }
 ]

@@ -1377,5 +1377,33 @@
     "faction_id": "0",
     "is_customizable": "0",
     "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "594",
+    "vehicle_id": "2145",
+    "faction_id": "1",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "595",
+    "vehicle_id": "2145",
+    "faction_id": "2",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "596",
+    "vehicle_id": "2145",
+    "faction_id": "3",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "597",
+    "vehicle_id": "2145",
+    "faction_id": "4",
+    "is_customizable": "0",
+    "is_hidden_from_loadout_screen": "0"
   }
 ]

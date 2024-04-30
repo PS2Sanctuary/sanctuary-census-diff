@@ -234,7 +234,7 @@
       "tr": "The Traverse",
       "zh": "横贯线"
     },
-    "facility_type_id": "15",
+    "facility_type_id": "6",
     "location_x": "311.3915",
     "location_y": "64.40758",
     "location_z": "-1349.821"
@@ -514,7 +514,7 @@
       "tr": "Mattherson's Triumph",
       "zh": "Mattherson's Triumph"
     },
-    "facility_type_id": "14",
+    "facility_type_id": "5",
     "location_x": "161.4596",
     "location_y": "125.3721",
     "location_z": "-785.2059"
@@ -954,7 +954,7 @@
       "tr": "NULL",
       "zh": "Baldur"
     },
-    "facility_type_id": "16",
+    "facility_type_id": "2",
     "location_x": "-828.2235",
     "location_y": "121.1476",
     "location_z": "-559.6824"
@@ -1054,7 +1054,7 @@
       "tr": "NULL",
       "zh": "Spral Oasis"
     },
-    "facility_type_id": "17",
+    "facility_type_id": "9",
     "location_x": "-1454.66",
     "location_y": "82.26",
     "location_z": "1098.23"
@@ -1874,7 +1874,7 @@
       "tr": "The Bastion",
       "zh": "Bastion"
     },
-    "facility_type_id": "14",
+    "facility_type_id": "5",
     "location_x": "464.033",
     "location_y": "116.5065",
     "location_z": "-417.8023"
@@ -1914,7 +1914,7 @@
       "tr": "Splitpeak Pass",
       "zh": "Splitpeak山口"
     },
-    "facility_type_id": "14",
+    "facility_type_id": "5",
     "location_x": "-719.2085",
     "location_y": "159.57",
     "location_z": "1922.303"
@@ -1934,7 +1934,7 @@
       "tr": "West Pass Watchtower",
       "zh": "西部哨所瞭望塔"
     },
-    "facility_type_id": "14",
+    "facility_type_id": "5",
     "location_x": "-1052.092",
     "location_y": "76.26325",
     "location_z": "-1927.831"
@@ -3914,7 +3914,7 @@
       "tr": "Indar Excavation Site",
       "zh": "Indar遗迹挖掘场"
     },
-    "facility_type_id": "14",
+    "facility_type_id": "5",
     "location_x": "999.1142",
     "location_y": "106.0155",
     "location_z": "-2385.058"
@@ -3934,7 +3934,7 @@
       "tr": "J908 Impact Site",
       "zh": "J908撞击点"
     },
-    "facility_type_id": "14",
+    "facility_type_id": "5",
     "location_x": "1112.449",
     "location_y": "-86.38023",
     "location_z": "48.47856"
@@ -4994,10 +4994,10 @@
       "tr": "NULL",
       "zh": "Astria Solar Station"
     },
-    "facility_type_id": "9",
-    "location_x": "-1850.98",
-    "location_y": "153.0711",
-    "location_z": "527.9398"
+    "facility_type_id": "6",
+    "location_x": "-1779.42",
+    "location_y": "157.4047",
+    "location_z": "773.3341"
   },
   {
     "zone_id": "344",
@@ -5494,10 +5494,10 @@
       "tr": "NULL",
       "zh": "Veridad Pass"
     },
-    "facility_type_id": "9",
-    "location_x": "-185.9929",
-    "location_y": "131.749",
-    "location_z": "-2597.929"
+    "facility_type_id": "6",
+    "location_x": "-207.4052",
+    "location_y": "129.3922",
+    "location_z": "-2555.201"
   },
   {
     "zone_id": "344",
@@ -6214,7 +6214,7 @@
       "tr": "Hunter's Blind",
       "zh": "Hunter's Blind"
     },
-    "facility_type_id": "15",
+    "facility_type_id": "6",
     "location_x": "-1767.462",
     "location_y": "-12.75825",
     "location_z": "68.10875"
@@ -6654,7 +6654,7 @@
       "tr": "Fort Drexler",
       "zh": "Drexler堡垒"
     },
-    "facility_type_id": "14",
+    "facility_type_id": "5",
     "location_x": "-739.2179",
     "location_y": "29.67773",
     "location_z": "-1772.752"

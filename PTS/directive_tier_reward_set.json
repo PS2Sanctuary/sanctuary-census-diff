@@ -3703,5 +3703,62 @@
     "image_set_id": "803815",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6254",
+    "faction_id": "2",
+    "name": {
+      "de": "NULL",
+      "en": "Razzle Dazzle Camo",
+      "es": "NULL",
+      "fr": "NULL",
+      "it": "NULL",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NULL",
+      "tr": "NULL",
+      "zh": "NULL"
+    },
+    "image_set_id": "808004",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6254",
+    "faction_id": "1",
+    "name": {
+      "de": "NULL",
+      "en": "Razzle Dazzle Camo",
+      "es": "NULL",
+      "fr": "NULL",
+      "it": "NULL",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NULL",
+      "tr": "NULL",
+      "zh": "NULL"
+    },
+    "image_set_id": "808007",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6254",
+    "faction_id": "3",
+    "name": {
+      "de": "NULL",
+      "en": "Razzle Dazzle Camo",
+      "es": "NULL",
+      "fr": "NULL",
+      "it": "NULL",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NULL",
+      "tr": "NULL",
+      "zh": "NULL"
+    },
+    "image_set_id": "808006",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
   }
 ]

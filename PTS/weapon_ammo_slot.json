@@ -13762,13 +13762,6 @@
     "clip_model_name": "NULL"
   },
   {
-    "weapon_id": "78796",
-    "weapon_slot_index": "0",
-    "clip_size": "150",
-    "capacity": "450",
-    "clip_model_name": "NULL"
-  },
-  {
     "weapon_id": "78803",
     "weapon_slot_index": "0",
     "clip_size": "0",
@@ -13822,6 +13815,125 @@
     "weapon_slot_index": "0",
     "clip_size": "1",
     "capacity": "1",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78816",
+    "weapon_slot_index": "0",
+    "clip_size": "1",
+    "capacity": "1",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78817",
+    "weapon_slot_index": "0",
+    "clip_size": "1",
+    "capacity": "1",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78818",
+    "weapon_slot_index": "0",
+    "clip_size": "1",
+    "capacity": "1",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78819",
+    "weapon_slot_index": "0",
+    "clip_size": "0",
+    "capacity": "0",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78820",
+    "weapon_slot_index": "0",
+    "clip_size": "0",
+    "capacity": "0",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78822",
+    "weapon_slot_index": "0",
+    "clip_size": "25",
+    "capacity": "150",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78825",
+    "weapon_slot_index": "0",
+    "clip_size": "150",
+    "capacity": "450",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78829",
+    "weapon_slot_index": "0",
+    "clip_size": "1",
+    "capacity": "1",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78830",
+    "weapon_slot_index": "0",
+    "clip_size": "6",
+    "capacity": "42",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78831",
+    "weapon_slot_index": "0",
+    "clip_size": "40",
+    "capacity": "40",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78832",
+    "weapon_slot_index": "0",
+    "clip_size": "1",
+    "capacity": "9",
+    "clip_model_name": "TankShell_AP_NC.adr"
+  },
+  {
+    "weapon_id": "78833",
+    "weapon_slot_index": "0",
+    "clip_size": "3",
+    "capacity": "30",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78834",
+    "weapon_slot_index": "0",
+    "clip_size": "25",
+    "capacity": "200",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78834",
+    "weapon_slot_index": "1",
+    "clip_size": "1",
+    "capacity": "2",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78836",
+    "weapon_slot_index": "0",
+    "clip_size": "6",
+    "capacity": "42",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78837",
+    "weapon_slot_index": "0",
+    "clip_size": "0",
+    "capacity": "0",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78838",
+    "weapon_slot_index": "0",
+    "clip_size": "6",
+    "capacity": "42",
     "clip_model_name": "NULL"
   }
 ]

@@ -15778,5 +15778,245 @@
     "spool_up_initial_refire_time_ms": "NULL",
     "image_set_override_id": "NULL",
     "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "80992",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "NULL",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "80993",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "NULL",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "80994",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "NULL",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81001",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "500",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "1"
+  },
+  {
+    "fire_group_id": "81002",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "500",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "1"
+  },
+  {
+    "fire_group_id": "81003",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "500",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "1"
+  },
+  {
+    "fire_group_id": "81004",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "500",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "1"
+  },
+  {
+    "fire_group_id": "81005",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "NULL",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81006",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "NULL",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81007",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "NULL",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81008",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "NULL",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "1"
+  },
+  {
+    "fire_group_id": "81009",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "NULL",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81010",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "NULL",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81011",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "NULL",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81012",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "250",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81013",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "250",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "432",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81014",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "250",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "432",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81015",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "250",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "432",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81016",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "250",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "432",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81017",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "250",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "432",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81018",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "250",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "432",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81021",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "NULL",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81023",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "NULL",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "0"
+  },
+  {
+    "fire_group_id": "81024",
+    "chamber_duration_ms": "NULL",
+    "transition_duration_ms": "NULL",
+    "spin_up_time_ms": "NULL",
+    "spool_up_time_ms": "NULL",
+    "spool_up_initial_refire_time_ms": "NULL",
+    "image_set_override_id": "NULL",
+    "can_chamber_ironsights": "0"
   }
 ]

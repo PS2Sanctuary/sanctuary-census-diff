@@ -3487,5 +3487,51 @@
     "auto_detect_radius": "2500",
     "lockon_time_add": "NULL",
     "lockon_time_mult": "NULL"
+  },
+  {
+    "vehicle_id": "2145",
+    "name": {
+      "de": "Spitfire-Auto-Geschütz \"Oberste Direktive\"",
+      "en": "Spitfire \"Prime Directive\" Auto-Turret",
+      "es": "Torreta automática Spitfire \"Primera Directiva\"",
+      "fr": "Tourelle automatique Spitfire \"Directive Prime\"",
+      "it": "Torretta automatica Spitfire \"Direttiva Prime\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматическая турель Spitfire «Prime Directive»",
+      "tr": "NULL",
+      "zh": "Spitfire“豪华成就”自动炮塔"
+    },
+    "description": {
+      "de": "Die automatischen Spitfire-Geschütze werden von Ingenieuren platziert und greifen feindliche Infanterie innerhalb von 50 Metern automatisch an.",
+      "en": "Spitfire Auto-Turrets are placed by engineers and automatically engage hostile infantry within 50 meters.",
+      "es": "Las torretas automáticas Spitfire las colocan los ingenieros y entablan combate automáticamente con la infantería enemiga a un alcance de 50 metros.",
+      "fr": "Les tourelles automatiques Spitfire sont placées par les Ingénieurs et attaquent automatiquement l'infanterie hostile présente dans les 50 mètres.",
+      "it": "Le torrette automatiche Spitfire vengono posizionate dai genieri ed entrano automaticamente in contatto con la fanteria nemica nel raggio di 50 metri.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Автоматические турели устанавливаются инженерами и открывают автоматический огонь по пехоте противника на расстоянии до 50 м.",
+      "tr": "NULL",
+      "zh": "烈焰炮塔由[#Engineer#]放置，能够自动攻击50米内的敌方步兵。"
+    },
+    "type_id": "7",
+    "decay_sec": "60",
+    "purchase_cooldown": "1",
+    "image_set_id": "82962",
+    "image_id": "NULL",
+    "image_path": "NULL",
+    "cost": "0",
+    "cost_resource_id": "0",
+    "landing_height": "NULL",
+    "impact_damage_blocked": "0",
+    "impact_damage_multiplier": "1",
+    "impact_damage_inflicted_multiplier": "1",
+    "propulsion_type": "0",
+    "schematic_image_set_id": "NULL",
+    "health_image_set_id": "NULL",
+    "minimap_range": "100",
+    "auto_detect_radius": "5",
+    "lockon_time_add": "NULL",
+    "lockon_time_mult": "NULL"
   }
 ]

@@ -14,6 +14,7 @@
       "zh": "测试服务器"
     },
     "is_locked": "0",
+    "lock_state": "Unlocked",
     "is_unprivileged_access_allowed": "1"
   }
 ]

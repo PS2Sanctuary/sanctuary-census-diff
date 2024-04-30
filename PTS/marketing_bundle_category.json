@@ -59,16 +59,16 @@
   {
     "marketing_bundle_category_id": "4",
     "name": {
-      "de": "Vorzeitiger Zugang für Mitglieder",
-      "en": "Member Early Access",
-      "es": "Acceso de miembro anticipado",
-      "fr": "Accès privilégié pour les Membres",
-      "it": "Accesso anticipato abbonati",
-      "ko": "프리미엄 우선 구매",
-      "pt": "Acesso Prévio Premium",
-      "ru": "Премиум-доступ",
-      "tr": "Member Early Access",
-      "zh": "会员抢先体验"
+      "de": "NULL",
+      "en": "Members Only",
+      "es": "NULL",
+      "fr": "NULL",
+      "it": "NULL",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NULL",
+      "tr": "NULL",
+      "zh": "NULL"
     },
     "display_index": "150",
     "image_set_id": "0",
