@@ -84678,5 +84678,85 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97404.png"
+  },
+  {
+    "image_set_id": "808000",
+    "image_id": "97275",
+    "description": "Icon_SundererCargo_RepairStation",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97275.png"
+  },
+  {
+    "image_set_id": "808001",
+    "image_id": "97278",
+    "description": "Icon_SundererCargo_ShieldDisruptor",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97278.png"
+  },
+  {
+    "image_set_id": "808002",
+    "image_id": "97281",
+    "description": "Icon_SM_SundererCargo_AmmoTower",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97281.png"
+  },
+  {
+    "image_set_id": "808003",
+    "image_id": "97284",
+    "description": "Icon_SundererCargo_ProximityRadar",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97284.png"
+  },
+  {
+    "image_set_id": "808034",
+    "image_id": "97385",
+    "description": "icon_SundererDeployment_PointDefense",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97385.png"
+  },
+  {
+    "image_set_id": "808035",
+    "image_id": "97411",
+    "description": "I_BNR_Engineer (Engineer Class Banner 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97411.png"
+  },
+  {
+    "image_set_id": "808036",
+    "image_id": "97412",
+    "description": "BNR_Engineer (Engineer Class Banner 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97412.png"
+  },
+  {
+    "image_set_id": "808037",
+    "image_id": "97415",
+    "description": "I_FRM_Engineer (Engineer Class Banner Frame 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97415.png"
+  },
+  {
+    "image_set_id": "808038",
+    "image_id": "97416",
+    "description": "FRM_Engineer (Engineer Banner Frame 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97416.png"
+  },
+  {
+    "image_set_id": "808039",
+    "image_id": "97419",
+    "description": "I_DCL_Engineer (Engineer Class Decal 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97419.png"
   }
 ]
