@@ -68,7 +68,7 @@
       "zh": "Cobalt"
     },
     "is_locked": "0",
-    "lock_state": "Maintenance",
+    "lock_state": "Unlocked",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -104,7 +104,7 @@
       "zh": "Miller"
     },
     "is_locked": "0",
-    "lock_state": "Maintenance",
+    "lock_state": "Unlocked",
     "is_unprivileged_access_allowed": "1"
   },
   {
