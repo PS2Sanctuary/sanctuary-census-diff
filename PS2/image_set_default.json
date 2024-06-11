@@ -84758,5 +84758,229 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97419.png"
+  },
+  {
+    "image_set_id": "807982",
+    "image_id": "97222",
+    "description": "I_CRRNC_fishing_up(Fishing 2024)",
+    "type_id": "8",
+    "type_description": "Very Large (256 pixel height)",
+    "image_path": "/files/ps2/images/static/97222.png"
+  },
+  {
+    "image_set_id": "807990",
+    "image_id": "97243",
+    "description": "I_Fishing_AuraxisFish_Common_CoastalThornbill(Fishing 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97243.png"
+  },
+  {
+    "image_set_id": "807991",
+    "image_id": "97246",
+    "description": "I_Fishing_AuraxisFish_Rare_AstraxianWormech",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97246.png"
+  },
+  {
+    "image_set_id": "808040",
+    "image_id": "97423",
+    "description": "I_Frogman_Helmet_VS (Frogman Helmet)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97423.png"
+  },
+  {
+    "image_set_id": "808041",
+    "image_id": "97426",
+    "description": "I_Frogman_Helmet_NC (Frogman Helmet)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97426.png"
+  },
+  {
+    "image_set_id": "808042",
+    "image_id": "97429",
+    "description": "I_Frogman_Helmet_TR (Frogman Helmet)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97429.png"
+  },
+  {
+    "image_set_id": "808043",
+    "image_id": "97436",
+    "description": "I_Frogman_Helmet_NSO (Frogman Helmet)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97436.png"
+  },
+  {
+    "image_set_id": "808044",
+    "image_id": "97438",
+    "description": "I_DCL_TrueNorth (True North Decal 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97438.png"
+  },
+  {
+    "image_set_id": "808045",
+    "image_id": "97443",
+    "description": "I_BNR_TrueNorth (True North Banner 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97443.png"
+  },
+  {
+    "image_set_id": "808046",
+    "image_id": "97444",
+    "description": "BNR_TrueNorth (True North Banner 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97444.png"
+  },
+  {
+    "image_set_id": "808047",
+    "image_id": "97447",
+    "description": "I_FRM_TrueNorth (True North Banner Frame 2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97447.png"
+  },
+  {
+    "image_set_id": "808048",
+    "image_id": "97448",
+    "description": "FRM_TrueNorth (True North Banner Frame 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97448.png"
+  },
+  {
+    "image_set_id": "808049",
+    "image_id": "97451",
+    "description": "I_Cammo_Starscape_VS (Summer Alpha 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97451.png"
+  },
+  {
+    "image_set_id": "808050",
+    "image_id": "97454",
+    "description": "I_Cammo_Starscape_NC (Summer Alpha 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97454.png"
+  },
+  {
+    "image_set_id": "808051",
+    "image_id": "97457",
+    "description": "I_Cammo_Starscape_TR (Summer Alpha 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97457.png"
+  },
+  {
+    "image_set_id": "808052",
+    "image_id": "97460",
+    "description": "I_Cammo_Starscape_NSO (Summer Alpha 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97460.png"
+  },
+  {
+    "image_set_id": "808053",
+    "image_id": "97463",
+    "description": "I_BNR_Heavy_Assault (Heavy Assault Class Banner)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97463.png"
+  },
+  {
+    "image_set_id": "808054",
+    "image_id": "97464",
+    "description": "BNR_HeavyAssault (Heavy Assault Class Banner 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97464.png"
+  },
+  {
+    "image_set_id": "808055",
+    "image_id": "97468",
+    "description": "I_FRM_Heavy Assault_(Heavy Assault Class Banner Frame 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97468.png"
+  },
+  {
+    "image_set_id": "808056",
+    "image_id": "97469",
+    "description": "FRM_Heavy Assault (Heavy Assault Class Banner Frame 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97469.png"
+  },
+  {
+    "image_set_id": "808057",
+    "image_id": "97472",
+    "description": "I_DCL_Heavy Assault (Heavy Assault Class Decal 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97472.png"
+  },
+  {
+    "image_set_id": "808059",
+    "image_id": "97477",
+    "description": "I_CRRNC_fishing_up (Fishing 2024)",
+    "type_id": "4",
+    "type_description": "Very Small (16 pixel height)",
+    "image_path": "/files/ps2/images/static/97477.png"
+  },
+  {
+    "image_set_id": "808060",
+    "image_id": "97479",
+    "description": "I_CRRNC_fishing_selected (Fishing 2024)",
+    "type_id": "4",
+    "type_description": "Very Small (16 pixel height)",
+    "image_path": "/files/ps2/images/static/97479.png"
+  },
+  {
+    "image_set_id": "808061",
+    "image_id": "97493",
+    "description": "I_BNR_Max (Max Class Banner 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97493.png"
+  },
+  {
+    "image_set_id": "808062",
+    "image_id": "97483",
+    "description": "BNR_Max (Max Class Banner 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97483.png"
+  },
+  {
+    "image_set_id": "808063",
+    "image_id": "97486",
+    "description": "I_FRM_Max_(Max Class Banner Frame 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97486.png"
+  },
+  {
+    "image_set_id": "808064",
+    "image_id": "97487",
+    "description": "FRM_Max_(Max Class Banner Frame 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97487.png"
+  },
+  {
+    "image_set_id": "808069",
+    "image_id": "97508",
+    "description": "I_DCL_Max (Max Class Decal 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97508.png"
   }
 ]

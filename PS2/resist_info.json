@@ -47448,5 +47448,105 @@
     "image_set_id": "NULL",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6370",
+    "resist_type_id": "1",
+    "resist_percent": "100",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6371",
+    "resist_type_id": "2",
+    "resist_percent": "95",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6372",
+    "resist_type_id": "6",
+    "resist_percent": "95",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6373",
+    "resist_type_id": "4",
+    "resist_percent": "80",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6374",
+    "resist_type_id": "22",
+    "resist_percent": "80",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6375",
+    "resist_type_id": "12",
+    "resist_percent": "95",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6376",
+    "resist_type_id": "28",
+    "resist_percent": "75",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6377",
+    "resist_type_id": "8",
+    "resist_percent": "95",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6378",
+    "resist_type_id": "40",
+    "resist_percent": "40",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "resist_info_id": "6379",
+    "resist_type_id": "45",
+    "resist_percent": "20",
+    "resist_amount": "NULL",
+    "multiplier_when_headshot": "1",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]
