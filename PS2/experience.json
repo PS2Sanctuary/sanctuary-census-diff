@@ -37064,5 +37064,157 @@
     },
     "xp": "50",
     "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2151",
+    "award_type_id": "1",
+    "description": "Cargo Deployable Killed",
+    "localized_description": {
+      "de": "Stationäre Ausrüstungs-Fracht zerstört",
+      "en": "Cargo Deployable Killed",
+      "es": "Desplegable de carga destruido",
+      "fr": "Déployable de cargaison anéanti",
+      "it": "Schierabile cargo ucciso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Размещаемый груз уничтожен",
+      "tr": "NULL",
+      "zh": "已击杀可部署货物"
+    },
+    "xp": "25",
+    "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2152",
+    "award_type_id": "37",
+    "description": "Ram Bonus",
+    "localized_description": {
+      "de": "Ramm-Bonus",
+      "en": "Ram Bonus",
+      "es": "Bonificación por disparo con Ram",
+      "fr": "Bonus de Ram",
+      "it": "Bonus Ram",
+      "ko": "램 보너스",
+      "pt": "Bônus de Batida",
+      "ru": "Бонус за таран",
+      "tr": "Çarpma Bonusu",
+      "zh": "随机奖励"
+    },
+    "xp": "20",
+    "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2153",
+    "award_type_id": "6",
+    "description": "Repair",
+    "localized_description": {
+      "de": "Reparatur",
+      "en": "Repair",
+      "es": "Reparar",
+      "fr": "Réparation",
+      "it": "Riparazione",
+      "ko": "수리",
+      "pt": "Reparar",
+      "ru": "Ремонт",
+      "tr": "Tamir",
+      "zh": "修理"
+    },
+    "xp": "5",
+    "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2154",
+    "award_type_id": "2",
+    "description": "Cargo Deployable Kill Assist",
+    "localized_description": {
+      "de": "Stationäre Ausrüstungs-Fracht Kill-Assistenz",
+      "en": "Cargo Deployable Kill Assist",
+      "es": "Asistencia en destrucción de desplegable de carga",
+      "fr": "Aide à l'élimination de déployable de cargaison",
+      "it": "Assistenza uccisione schierabile cargo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Помощь в уничтожении размещаемого груза",
+      "tr": "NULL",
+      "zh": "可部署货物协助击杀"
+    },
+    "xp": "25",
+    "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2155",
+    "award_type_id": "3",
+    "description": "Cargo Deployable Crit Kill Assist",
+    "localized_description": {
+      "de": "Kritische stationäre Ausrüstungs-Fracht Kill-Assistenz",
+      "en": "Cargo Deployable Crit Kill Assist",
+      "es": "Asistencia crítica en destrucción de desplegable de carga",
+      "fr": "Aide à l'élimination critique de déployable de cargaison",
+      "it": "Assistenza distruzione critica schierabile cargo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Решающая помощь в уничтожении размещаемого груза",
+      "tr": "NULL",
+      "zh": "可部署货物致命协助击杀"
+    },
+    "xp": "15",
+    "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2156",
+    "award_type_id": "40",
+    "description": "Squad Repair",
+    "localized_description": {
+      "de": "Truppen-Heilung",
+      "en": "Squad Repair",
+      "es": "Reparar escuadrón",
+      "fr": "Réparation d'escouade",
+      "it": "Riparazione squadra",
+      "ko": "스쿼드 수리",
+      "pt": "Reparo do Esquadrão",
+      "ru": "Ремонт отряда",
+      "tr": "Manga Tamiri",
+      "zh": "小队修复"
+    },
+    "xp": "10",
+    "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2157",
+    "award_type_id": "31",
+    "description": "Cargo Deployable Spot Bonus",
+    "localized_description": {
+      "de": "Stationäre Ausrüstungs-Fracht Sichtungsbonus",
+      "en": "Cargo Deployable Spot Bonus",
+      "es": "Bonificación por avistamiento de desplegable de carga",
+      "fr": "Bonus de détection de déployable de cargaison",
+      "it": "Bonus avvistamento schierabile cargo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Бонус за обнаружение размещаемого груза",
+      "tr": "NULL",
+      "zh": "可部署货物侦察奖励"
+    },
+    "xp": "20",
+    "is_notable_event": "0"
+  },
+  {
+    "experience_id": "2158",
+    "award_type_id": "43",
+    "description": "Cargo Deployable Squad Spot Bonus",
+    "localized_description": {
+      "de": "Stationäre Ausrüstungs-Fracht Trupp-Sichtungsbonus",
+      "en": "Cargo Deployable Squad Spot Bonus",
+      "es": "Bonificación por avistamiento de escuadrón de desplegable de carga",
+      "fr": "Bonus de détection d'escouade de déployable de cargaison",
+      "it": "Bonus avvistamento di squadra schierabile cargo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Бонус отряда за обнаружение размещаемого груза",
+      "tr": "NULL",
+      "zh": "可部署货物小队侦察奖励"
+    },
+    "xp": "30",
+    "is_notable_event": "0"
   }
 ]

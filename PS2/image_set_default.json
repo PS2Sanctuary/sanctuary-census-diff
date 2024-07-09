@@ -25129,11 +25129,11 @@
   },
   {
     "image_set_id": "8228",
-    "image_id": "9110",
+    "image_id": "97677",
     "description": "icon_Decal_Pinup_NC",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/9110.png"
+    "image_path": "/files/ps2/images/static/97677.png"
   },
   {
     "image_set_id": "8229",
@@ -84982,5 +84982,373 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97508.png"
+  },
+  {
+    "image_set_id": "808073",
+    "image_id": "97546",
+    "description": "I_TrueNorth_Contrails (Tides of Summer Alpha 202 Directive Reward)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97546.png"
+  },
+  {
+    "image_set_id": "808074",
+    "image_id": "97514",
+    "description": "I_SundererArmor_NaniteArmor",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97514.png"
+  },
+  {
+    "image_set_id": "808075",
+    "image_id": "97524",
+    "description": "I_Galaxy_SpaceWhale_Attachment (Tides of Summer Alpha 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97524.png"
+  },
+  {
+    "image_set_id": "808084",
+    "image_id": "97549",
+    "description": "I_BNR_AmerishPostcard (Conquest Amerish long term directive)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97549.png"
+  },
+  {
+    "image_set_id": "808085",
+    "image_id": "97550",
+    "description": "BNR_AmerishPostcard (Conquest Amerish long term directive)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97550.png"
+  },
+  {
+    "image_set_id": "808086",
+    "image_id": "97553",
+    "description": "I_BNR_HossinPostcard (Conquest Hossin long term directive)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97553.png"
+  },
+  {
+    "image_set_id": "808087",
+    "image_id": "97554",
+    "description": "BNR_HossinPostcard (Conquest Hossin long term directive)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97554.png"
+  },
+  {
+    "image_set_id": "808088",
+    "image_id": "97557",
+    "description": "I_BNR_IndarPostcard (Conquest Indar long term directive)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97557.png"
+  },
+  {
+    "image_set_id": "808089",
+    "image_id": "97558",
+    "description": "BNR_IndarPostcard (Conquest Indar long term directive)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97558.png"
+  },
+  {
+    "image_set_id": "808090",
+    "image_id": "97561",
+    "description": "I_BNR_EsamirPostcard (Conquest Esamir long term directive)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97561.png"
+  },
+  {
+    "image_set_id": "808091",
+    "image_id": "97562",
+    "description": "BNR_EsamirPostcard (Conquest Esamir long term directive)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97562.png"
+  },
+  {
+    "image_set_id": "808092",
+    "image_id": "97565",
+    "description": "DCL_AmerishStamp (Conquest Amerish long term directive)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97565.png"
+  },
+  {
+    "image_set_id": "808093",
+    "image_id": "97569",
+    "description": "DCL_IndarStamp (Conquest Indar long term directive)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97569.png"
+  },
+  {
+    "image_set_id": "808094",
+    "image_id": "97573",
+    "description": "DCL_HossinStamp (Conquest Hossin long term directive)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97573.png"
+  },
+  {
+    "image_set_id": "808095",
+    "image_id": "97577",
+    "description": "DCL_EsamirStamp (Conquest Esamir long term directive)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97577.png"
+  },
+  {
+    "image_set_id": "808096",
+    "image_id": "97581",
+    "description": "I_Frogman_Armor_VS_EN (2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97581.png"
+  },
+  {
+    "image_set_id": "808097",
+    "image_id": "97584",
+    "description": "I_Frogman_Armor_VS_HA (2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97584.png"
+  },
+  {
+    "image_set_id": "808098",
+    "image_id": "97587",
+    "description": "I_Frogman_Armor_VS_INF (2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97587.png"
+  },
+  {
+    "image_set_id": "808100",
+    "image_id": "97596",
+    "description": "I_Frogman_Armor_VS_LA (2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97596.png"
+  },
+  {
+    "image_set_id": "808101",
+    "image_id": "97599",
+    "description": "I_Frogman_Armor_VS_CM",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97599.png"
+  },
+  {
+    "image_set_id": "808102",
+    "image_id": "97602",
+    "description": "icon_Weapon_Common_Revolver_Commissioner_White",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97602.png"
+  },
+  {
+    "image_set_id": "808103",
+    "image_id": "97605",
+    "description": "I_Weapon_Common_Attachment_White_Commissioner_ReflexSight_Chevron (Primed Diamond 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97605.png"
+  },
+  {
+    "image_set_id": "808104",
+    "image_id": "97608",
+    "description": "I_Weapon_Common_Attachment_White_Commissioner_ReflexSight_Square",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97608.png"
+  },
+  {
+    "image_set_id": "808105",
+    "image_id": "97611",
+    "description": "I_Weapon_Common_Attachment_White_Commissioner_ReflexSight_YellowDot",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97611.png"
+  },
+  {
+    "image_set_id": "808106",
+    "image_id": "97614",
+    "description": "I_Weapon_Common_Attachment_White_Commissioner_ReflexSight_RedDot",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97614.png"
+  },
+  {
+    "image_set_id": "808107",
+    "image_id": "97617",
+    "description": "I_Weapon_Common_Attachment_White_Commissioner_ReflexSight_Cross",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97617.png"
+  },
+  {
+    "image_set_id": "808108",
+    "image_id": "97620",
+    "description": "I_Galaxy_SpaceWhale_Intake_Attachment (Tides of Summer Alpha)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97620.png"
+  },
+  {
+    "image_set_id": "808109",
+    "image_id": "97623",
+    "description": "I_DCL_NascentExpeditions (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97623.png"
+  },
+  {
+    "image_set_id": "808110",
+    "image_id": "97627",
+    "description": "I_BNR_Nascent Expeditions (Tidess of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97627.png"
+  },
+  {
+    "image_set_id": "808111",
+    "image_id": "97628",
+    "description": "BNR_NascentExpeditions (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97628.png"
+  },
+  {
+    "image_set_id": "808112",
+    "image_id": "97630",
+    "description": "I_FRM_NascentExpeditions (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97630.png"
+  },
+  {
+    "image_set_id": "808113",
+    "image_id": "97632",
+    "description": "FRM_NascentExpeditions",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97632.png"
+  },
+  {
+    "image_set_id": "808114",
+    "image_id": "97635",
+    "description": "I_CAMO_NascentExpeditions (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97635.png"
+  },
+  {
+    "image_set_id": "808115",
+    "image_id": "97638",
+    "description": "I_RM_SundererCargo_ProximityRadar",
+    "type_id": "6",
+    "type_description": "Medium (64 pixel height)",
+    "image_path": "/files/ps2/images/static/97638.png"
+  },
+  {
+    "image_set_id": "808116",
+    "image_id": "97641",
+    "description": "I_RM_SundererCargo_ShieldDisruptor",
+    "type_id": "6",
+    "type_description": "Medium (64 pixel height)",
+    "image_path": "/files/ps2/images/static/97641.png"
+  },
+  {
+    "image_set_id": "808117",
+    "image_id": "97644",
+    "description": "I_RM_SundererCargo_AmmoTower",
+    "type_id": "6",
+    "type_description": "Medium (64 pixel height)",
+    "image_path": "/files/ps2/images/static/97644.png"
+  },
+  {
+    "image_set_id": "808118",
+    "image_id": "97647",
+    "description": "I_RM_SundererCargo_RepairStation",
+    "type_id": "6",
+    "type_description": "Medium (64 pixel height)",
+    "image_path": "/files/ps2/images/static/97647.png"
+  },
+  {
+    "image_set_id": "808123",
+    "image_id": "97651",
+    "description": "I_BNR_ExtraLife",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97651.png"
+  },
+  {
+    "image_set_id": "808124",
+    "image_id": "97652",
+    "description": "BNR_ExtraLife",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97652.png"
+  },
+  {
+    "image_set_id": "808125",
+    "image_id": "97655",
+    "description": "I_FRM_ExtraLife",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97655.png"
+  },
+  {
+    "image_set_id": "808126",
+    "image_id": "97656",
+    "description": "FRM_ExtraLife (2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97656.png"
+  },
+  {
+    "image_set_id": "808127",
+    "image_id": "97659",
+    "description": "I_CAMO_ExtraLife_NSO",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97659.png"
+  },
+  {
+    "image_set_id": "808128",
+    "image_id": "97662",
+    "description": "I_CAMO_ExtraLife_TR",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97662.png"
+  },
+  {
+    "image_set_id": "808129",
+    "image_id": "97665",
+    "description": "I_CAMO_ExtraLife_VS",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97665.png"
+  },
+  {
+    "image_set_id": "808130",
+    "image_id": "97668",
+    "description": "I_CAMO_ExtraLife_NC",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97668.png"
+  },
+  {
+    "image_set_id": "808131",
+    "image_id": "97671",
+    "description": "I_DCL_ExtraLife (2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97671.png"
   }
 ]

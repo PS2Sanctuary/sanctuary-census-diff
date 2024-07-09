@@ -20975,7 +20975,7 @@
     "activated_ability_id": "NULL",
     "depleted_ability_id": "NULL",
     "removed_ability_id": "NULL",
-    "initial_value": "3000",
+    "initial_value": "600",
     "initial_value_max": "NULL",
     "use_initial_value_as_max": "0",
     "max_value": "3000",
