@@ -4970,36 +4970,6 @@
     "item_line_index": "0"
   },
   {
-    "item_id": "2964",
-    "item_line_id": "1298",
-    "item_line_index": "0"
-  },
-  {
-    "item_id": "2965",
-    "item_line_id": "1298",
-    "item_line_index": "1"
-  },
-  {
-    "item_id": "2966",
-    "item_line_id": "1298",
-    "item_line_index": "2"
-  },
-  {
-    "item_id": "2967",
-    "item_line_id": "1298",
-    "item_line_index": "3"
-  },
-  {
-    "item_id": "2968",
-    "item_line_id": "1298",
-    "item_line_index": "4"
-  },
-  {
-    "item_id": "2969",
-    "item_line_id": "1298",
-    "item_line_index": "5"
-  },
-  {
     "item_id": "3100",
     "item_line_id": "1301",
     "item_line_index": "0"
@@ -7295,36 +7265,6 @@
     "item_line_index": "2"
   },
   {
-    "item_id": "3055",
-    "item_line_id": "2068",
-    "item_line_index": "0"
-  },
-  {
-    "item_id": "3053",
-    "item_line_id": "2068",
-    "item_line_index": "1"
-  },
-  {
-    "item_id": "3045",
-    "item_line_id": "2068",
-    "item_line_index": "2"
-  },
-  {
-    "item_id": "3056",
-    "item_line_id": "2069",
-    "item_line_index": "0"
-  },
-  {
-    "item_id": "3054",
-    "item_line_id": "2069",
-    "item_line_index": "1"
-  },
-  {
-    "item_id": "3046",
-    "item_line_id": "2069",
-    "item_line_index": "2"
-  },
-  {
     "item_id": "3293",
     "item_line_id": "2070",
     "item_line_index": "0"
@@ -9600,46 +9540,6 @@
     "item_line_index": "0"
   },
   {
-    "item_id": "2846",
-    "item_line_id": "2811",
-    "item_line_index": "0"
-  },
-  {
-    "item_id": "2847",
-    "item_line_id": "2811",
-    "item_line_index": "1"
-  },
-  {
-    "item_id": "2848",
-    "item_line_id": "2811",
-    "item_line_index": "2"
-  },
-  {
-    "item_id": "2849",
-    "item_line_id": "2811",
-    "item_line_index": "3"
-  },
-  {
-    "item_id": "2812",
-    "item_line_id": "2812",
-    "item_line_index": "0"
-  },
-  {
-    "item_id": "2813",
-    "item_line_id": "2812",
-    "item_line_index": "1"
-  },
-  {
-    "item_id": "2814",
-    "item_line_id": "2812",
-    "item_line_index": "2"
-  },
-  {
-    "item_id": "2998",
-    "item_line_id": "2812",
-    "item_line_index": "3"
-  },
-  {
     "item_id": "2815",
     "item_line_id": "2815",
     "item_line_index": "0"
@@ -9705,114 +9605,9 @@
     "item_line_index": "0"
   },
   {
-    "item_id": "2830",
-    "item_line_id": "2830",
-    "item_line_index": "0"
-  },
-  {
-    "item_id": "2961",
-    "item_line_id": "2830",
-    "item_line_index": "1"
-  },
-  {
-    "item_id": "2962",
-    "item_line_id": "2830",
-    "item_line_index": "2"
-  },
-  {
-    "item_id": "2963",
-    "item_line_id": "2830",
-    "item_line_index": "3"
-  },
-  {
     "item_id": "2831",
     "item_line_id": "2831",
     "item_line_index": "0"
-  },
-  {
-    "item_id": "2838",
-    "item_line_id": "2838",
-    "item_line_index": "0"
-  },
-  {
-    "item_id": "2839",
-    "item_line_id": "2838",
-    "item_line_index": "1"
-  },
-  {
-    "item_id": "2840",
-    "item_line_id": "2838",
-    "item_line_index": "2"
-  },
-  {
-    "item_id": "2841",
-    "item_line_id": "2838",
-    "item_line_index": "3"
-  },
-  {
-    "item_id": "2842",
-    "item_line_id": "2838",
-    "item_line_index": "4"
-  },
-  {
-    "item_id": "2843",
-    "item_line_id": "2843",
-    "item_line_index": "0"
-  },
-  {
-    "item_id": "3011",
-    "item_line_id": "2843",
-    "item_line_index": "1"
-  },
-  {
-    "item_id": "3012",
-    "item_line_id": "2843",
-    "item_line_index": "2"
-  },
-  {
-    "item_id": "3013",
-    "item_line_id": "2843",
-    "item_line_index": "3"
-  },
-  {
-    "item_id": "2844",
-    "item_line_id": "2844",
-    "item_line_index": "0"
-  },
-  {
-    "item_id": "3014",
-    "item_line_id": "2844",
-    "item_line_index": "1"
-  },
-  {
-    "item_id": "3015",
-    "item_line_id": "2844",
-    "item_line_index": "2"
-  },
-  {
-    "item_id": "3016",
-    "item_line_id": "2844",
-    "item_line_index": "3"
-  },
-  {
-    "item_id": "2845",
-    "item_line_id": "2845",
-    "item_line_index": "0"
-  },
-  {
-    "item_id": "3017",
-    "item_line_id": "2845",
-    "item_line_index": "1"
-  },
-  {
-    "item_id": "3018",
-    "item_line_id": "2845",
-    "item_line_index": "2"
-  },
-  {
-    "item_id": "3019",
-    "item_line_id": "2845",
-    "item_line_index": "3"
   },
   {
     "item_id": "3127",
@@ -10410,46 +10205,6 @@
     "item_line_index": "0"
   },
   {
-    "item_id": "3007",
-    "item_line_id": "2997",
-    "item_line_index": "0"
-  },
-  {
-    "item_id": "3008",
-    "item_line_id": "2997",
-    "item_line_index": "1"
-  },
-  {
-    "item_id": "3009",
-    "item_line_id": "2997",
-    "item_line_index": "2"
-  },
-  {
-    "item_id": "3010",
-    "item_line_id": "2997",
-    "item_line_index": "3"
-  },
-  {
-    "item_id": "2999",
-    "item_line_id": "2999",
-    "item_line_index": "0"
-  },
-  {
-    "item_id": "3000",
-    "item_line_id": "2999",
-    "item_line_index": "1"
-  },
-  {
-    "item_id": "3001",
-    "item_line_id": "2999",
-    "item_line_index": "2"
-  },
-  {
-    "item_id": "3002",
-    "item_line_id": "2999",
-    "item_line_index": "3"
-  },
-  {
     "item_id": "77848",
     "item_line_id": "3000",
     "item_line_index": "0"
@@ -10463,26 +10218,6 @@
     "item_id": "77850",
     "item_line_id": "3002",
     "item_line_index": "0"
-  },
-  {
-    "item_id": "3003",
-    "item_line_id": "3003",
-    "item_line_index": "0"
-  },
-  {
-    "item_id": "3004",
-    "item_line_id": "3003",
-    "item_line_index": "1"
-  },
-  {
-    "item_id": "3005",
-    "item_line_id": "3003",
-    "item_line_index": "2"
-  },
-  {
-    "item_id": "3006",
-    "item_line_id": "3003",
-    "item_line_index": "3"
   },
   {
     "item_id": "77851",
@@ -12248,26 +11983,6 @@
     "item_id": "77858",
     "item_line_id": "3097",
     "item_line_index": "0"
-  },
-  {
-    "item_id": "3098",
-    "item_line_id": "3098",
-    "item_line_index": "0"
-  },
-  {
-    "item_id": "3099",
-    "item_line_id": "3098",
-    "item_line_index": "1"
-  },
-  {
-    "item_id": "5922",
-    "item_line_id": "3098",
-    "item_line_index": "2"
-  },
-  {
-    "item_id": "5923",
-    "item_line_id": "3098",
-    "item_line_index": "3"
   },
   {
     "item_id": "77859",
@@ -114853,26 +114568,6 @@
     "item_id": "6006701",
     "item_line_id": "808253",
     "item_line_index": "0"
-  },
-  {
-    "item_id": "6006841",
-    "item_line_id": "808295",
-    "item_line_index": "0"
-  },
-  {
-    "item_id": "6006842",
-    "item_line_id": "808295",
-    "item_line_index": "1"
-  },
-  {
-    "item_id": "6006843",
-    "item_line_id": "808295",
-    "item_line_index": "2"
-  },
-  {
-    "item_id": "6006844",
-    "item_line_id": "808295",
-    "item_line_index": "3"
   },
   {
     "item_id": "6006428",
