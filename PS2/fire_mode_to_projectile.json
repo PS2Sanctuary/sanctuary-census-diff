@@ -9354,5 +9354,13 @@
   {
     "fire_mode_id": "81440",
     "projectile_id": "0"
+  },
+  {
+    "fire_mode_id": "81453",
+    "projectile_id": "80645"
+  },
+  {
+    "fire_mode_id": "81454",
+    "projectile_id": "80645"
   }
 ]
