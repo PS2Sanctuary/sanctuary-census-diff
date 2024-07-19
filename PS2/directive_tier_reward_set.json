@@ -12158,5 +12158,1525 @@
     "image_set_id": "807940",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6291",
+    "faction_id": "4",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6299",
+    "faction_id": "4",
+    "name": {
+      "de": "Banner \"Esamir-Postkarte\"",
+      "en": "Esamir Postcard Banner",
+      "es": "Pancarta postal de Esamir",
+      "fr": "Bannière \"Carte postale d'Esamir\"",
+      "it": "Insegna cartolina Esamir",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Esamir»‎",
+      "tr": "NULL",
+      "zh": "Esamir明信片旗帜"
+    },
+    "image_set_id": "808090",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6300",
+    "faction_id": "4",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6292",
+    "faction_id": "4",
+    "name": {
+      "de": "Titel: von Esamir",
+      "en": "Title: of Esamir",
+      "es": "Título: de Esamir",
+      "fr": "Titre : d'Esamir",
+      "it": "Titolo: di Esamir",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Esamir",
+      "tr": "NULL",
+      "zh": "头衔：Esamir"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6289",
+    "faction_id": "4",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6297",
+    "faction_id": "4",
+    "name": {
+      "de": "Banner \"Amerish-Postkarte\"",
+      "en": "Amerish Postcard Banner",
+      "es": "Pancarta postal de Amerish",
+      "fr": "Bannière \"Carte postale d'Amerish\"",
+      "it": "Insegna cartolina Amerish",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Amerish»‎",
+      "tr": "NULL",
+      "zh": "Amerish明信片旗帜"
+    },
+    "image_set_id": "808084",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6298",
+    "faction_id": "4",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6290",
+    "faction_id": "4",
+    "name": {
+      "de": "Titel: von Amerish",
+      "en": "Title: of Amerish",
+      "es": "Título: de Amerish",
+      "fr": "Titre : d'Amerish",
+      "it": "Titolo: di Amerish",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Amerish",
+      "tr": "NULL",
+      "zh": "头衔：Amerish"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6287",
+    "faction_id": "4",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6295",
+    "faction_id": "4",
+    "name": {
+      "de": "Banner \"Hossin-Postkarte\"",
+      "en": "Hossin Postcard Banner",
+      "es": "Pancarta postal de Hossin",
+      "fr": "Bannière \"Carte postale d'Hossin\"",
+      "it": "Insegna cartolina Hossin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Hossin»‎",
+      "tr": "NULL",
+      "zh": "Hossin明信片旗帜"
+    },
+    "image_set_id": "808086",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6296",
+    "faction_id": "4",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6288",
+    "faction_id": "4",
+    "name": {
+      "de": "Titel: von Hossin",
+      "en": "Title: of Hossin",
+      "es": "Título: de Hossin",
+      "fr": "Titre : d'Hossin",
+      "it": "Titolo: di Hossin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Hossin",
+      "tr": "NULL",
+      "zh": "头衔：Hossin"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6285",
+    "faction_id": "4",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6293",
+    "faction_id": "4",
+    "name": {
+      "de": "Banner \"Indar-Postkarte\"",
+      "en": "Indar Postcard Banner",
+      "es": "Pancarta postal de Indar",
+      "fr": "Bannière \"Carte postale d'Indar\"",
+      "it": "Insegna cartolina Indar",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Indar»‎",
+      "tr": "NULL",
+      "zh": "Indar明信片旗帜"
+    },
+    "image_set_id": "808088",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6294",
+    "faction_id": "4",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6286",
+    "faction_id": "4",
+    "name": {
+      "de": "Titel: von Indar",
+      "en": "Title: of Indar",
+      "es": "Título: de Indar",
+      "fr": "Titre : d'Indar",
+      "it": "Titolo: di Indar",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Indar",
+      "tr": "NULL",
+      "zh": "头衔：Indar"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6277",
+    "faction_id": "4",
+    "name": {
+      "de": "Emblem \"Wahrer Norden\"",
+      "en": "True North Decal",
+      "es": "Emblema Verdadero Norte",
+      "fr": "Décalco : Vrai nord",
+      "it": "Adesivo \"Vero nord\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема «Истинный север»",
+      "tr": "NULL",
+      "zh": "True North涂装"
+    },
+    "image_set_id": "808044",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6278",
+    "faction_id": "4",
+    "name": {
+      "de": "Bannerrahmen \"Wahrer Norden\"",
+      "en": "True North Banner Frame ",
+      "es": "Marco de pancarta Verdadero Norte",
+      "fr": "Cadre de bannière \"Vrai nord\"",
+      "it": "Cornice per insegna \"Vero nord\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Истинный север»",
+      "tr": "NULL",
+      "zh": "True North旗帜框"
+    },
+    "image_set_id": "808047",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6279",
+    "faction_id": "4",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6280",
+    "faction_id": "4",
+    "name": {
+      "de": "Kondensstreifen \"Wahrer Norden\"",
+      "en": "True North Contrails",
+      "es": "Estela Verdadero Norte",
+      "fr": "Traînées \"Vrai nord\"",
+      "it": "Scie di condensazione del Vero nord",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Инверсионный след «Истинный север»",
+      "tr": "NULL",
+      "zh": "真北航迹云"
+    },
+    "image_set_id": "808073",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6291",
+    "faction_id": "1",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6299",
+    "faction_id": "1",
+    "name": {
+      "de": "Banner \"Esamir-Postkarte\"",
+      "en": "Esamir Postcard Banner",
+      "es": "Pancarta postal de Esamir",
+      "fr": "Bannière \"Carte postale d'Esamir\"",
+      "it": "Insegna cartolina Esamir",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Esamir»‎",
+      "tr": "NULL",
+      "zh": "Esamir明信片旗帜"
+    },
+    "image_set_id": "808090",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6300",
+    "faction_id": "1",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6292",
+    "faction_id": "1",
+    "name": {
+      "de": "Titel: von Esamir",
+      "en": "Title: of Esamir",
+      "es": "Título: de Esamir",
+      "fr": "Titre : d'Esamir",
+      "it": "Titolo: di Esamir",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Esamir",
+      "tr": "NULL",
+      "zh": "头衔：Esamir"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6289",
+    "faction_id": "1",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6297",
+    "faction_id": "1",
+    "name": {
+      "de": "Banner \"Amerish-Postkarte\"",
+      "en": "Amerish Postcard Banner",
+      "es": "Pancarta postal de Amerish",
+      "fr": "Bannière \"Carte postale d'Amerish\"",
+      "it": "Insegna cartolina Amerish",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Amerish»‎",
+      "tr": "NULL",
+      "zh": "Amerish明信片旗帜"
+    },
+    "image_set_id": "808084",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6298",
+    "faction_id": "1",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6290",
+    "faction_id": "1",
+    "name": {
+      "de": "Titel: von Amerish",
+      "en": "Title: of Amerish",
+      "es": "Título: de Amerish",
+      "fr": "Titre : d'Amerish",
+      "it": "Titolo: di Amerish",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Amerish",
+      "tr": "NULL",
+      "zh": "头衔：Amerish"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6287",
+    "faction_id": "1",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6295",
+    "faction_id": "1",
+    "name": {
+      "de": "Banner \"Hossin-Postkarte\"",
+      "en": "Hossin Postcard Banner",
+      "es": "Pancarta postal de Hossin",
+      "fr": "Bannière \"Carte postale d'Hossin\"",
+      "it": "Insegna cartolina Hossin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Hossin»‎",
+      "tr": "NULL",
+      "zh": "Hossin明信片旗帜"
+    },
+    "image_set_id": "808086",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6296",
+    "faction_id": "1",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6288",
+    "faction_id": "1",
+    "name": {
+      "de": "Titel: von Hossin",
+      "en": "Title: of Hossin",
+      "es": "Título: de Hossin",
+      "fr": "Titre : d'Hossin",
+      "it": "Titolo: di Hossin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Hossin",
+      "tr": "NULL",
+      "zh": "头衔：Hossin"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6285",
+    "faction_id": "1",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6293",
+    "faction_id": "1",
+    "name": {
+      "de": "Banner \"Indar-Postkarte\"",
+      "en": "Indar Postcard Banner",
+      "es": "Pancarta postal de Indar",
+      "fr": "Bannière \"Carte postale d'Indar\"",
+      "it": "Insegna cartolina Indar",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Indar»‎",
+      "tr": "NULL",
+      "zh": "Indar明信片旗帜"
+    },
+    "image_set_id": "808088",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6294",
+    "faction_id": "1",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6286",
+    "faction_id": "1",
+    "name": {
+      "de": "Titel: von Indar",
+      "en": "Title: of Indar",
+      "es": "Título: de Indar",
+      "fr": "Titre : d'Indar",
+      "it": "Titolo: di Indar",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Indar",
+      "tr": "NULL",
+      "zh": "头衔：Indar"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6277",
+    "faction_id": "1",
+    "name": {
+      "de": "Emblem \"Wahrer Norden\"",
+      "en": "True North Decal",
+      "es": "Emblema Verdadero Norte",
+      "fr": "Décalco : Vrai nord",
+      "it": "Adesivo \"Vero nord\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема «Истинный север»",
+      "tr": "NULL",
+      "zh": "True North涂装"
+    },
+    "image_set_id": "808044",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6278",
+    "faction_id": "1",
+    "name": {
+      "de": "Bannerrahmen \"Wahrer Norden\"",
+      "en": "True North Banner Frame ",
+      "es": "Marco de pancarta Verdadero Norte",
+      "fr": "Cadre de bannière \"Vrai nord\"",
+      "it": "Cornice per insegna \"Vero nord\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Истинный север»",
+      "tr": "NULL",
+      "zh": "True North旗帜框"
+    },
+    "image_set_id": "808047",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6279",
+    "faction_id": "1",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6280",
+    "faction_id": "1",
+    "name": {
+      "de": "Kondensstreifen \"Wahrer Norden\"",
+      "en": "True North Contrails",
+      "es": "Estela Verdadero Norte",
+      "fr": "Traînées \"Vrai nord\"",
+      "it": "Scie di condensazione del Vero nord",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Инверсионный след «Истинный север»",
+      "tr": "NULL",
+      "zh": "真北航迹云"
+    },
+    "image_set_id": "808073",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6291",
+    "faction_id": "3",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6299",
+    "faction_id": "3",
+    "name": {
+      "de": "Banner \"Esamir-Postkarte\"",
+      "en": "Esamir Postcard Banner",
+      "es": "Pancarta postal de Esamir",
+      "fr": "Bannière \"Carte postale d'Esamir\"",
+      "it": "Insegna cartolina Esamir",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Esamir»‎",
+      "tr": "NULL",
+      "zh": "Esamir明信片旗帜"
+    },
+    "image_set_id": "808090",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6300",
+    "faction_id": "3",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6292",
+    "faction_id": "3",
+    "name": {
+      "de": "Titel: von Esamir",
+      "en": "Title: of Esamir",
+      "es": "Título: de Esamir",
+      "fr": "Titre : d'Esamir",
+      "it": "Titolo: di Esamir",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Esamir",
+      "tr": "NULL",
+      "zh": "头衔：Esamir"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6289",
+    "faction_id": "3",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6297",
+    "faction_id": "3",
+    "name": {
+      "de": "Banner \"Amerish-Postkarte\"",
+      "en": "Amerish Postcard Banner",
+      "es": "Pancarta postal de Amerish",
+      "fr": "Bannière \"Carte postale d'Amerish\"",
+      "it": "Insegna cartolina Amerish",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Amerish»‎",
+      "tr": "NULL",
+      "zh": "Amerish明信片旗帜"
+    },
+    "image_set_id": "808084",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6298",
+    "faction_id": "3",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6290",
+    "faction_id": "3",
+    "name": {
+      "de": "Titel: von Amerish",
+      "en": "Title: of Amerish",
+      "es": "Título: de Amerish",
+      "fr": "Titre : d'Amerish",
+      "it": "Titolo: di Amerish",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Amerish",
+      "tr": "NULL",
+      "zh": "头衔：Amerish"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6287",
+    "faction_id": "3",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6295",
+    "faction_id": "3",
+    "name": {
+      "de": "Banner \"Hossin-Postkarte\"",
+      "en": "Hossin Postcard Banner",
+      "es": "Pancarta postal de Hossin",
+      "fr": "Bannière \"Carte postale d'Hossin\"",
+      "it": "Insegna cartolina Hossin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Hossin»‎",
+      "tr": "NULL",
+      "zh": "Hossin明信片旗帜"
+    },
+    "image_set_id": "808086",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6296",
+    "faction_id": "3",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6288",
+    "faction_id": "3",
+    "name": {
+      "de": "Titel: von Hossin",
+      "en": "Title: of Hossin",
+      "es": "Título: de Hossin",
+      "fr": "Titre : d'Hossin",
+      "it": "Titolo: di Hossin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Hossin",
+      "tr": "NULL",
+      "zh": "头衔：Hossin"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6285",
+    "faction_id": "3",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6293",
+    "faction_id": "3",
+    "name": {
+      "de": "Banner \"Indar-Postkarte\"",
+      "en": "Indar Postcard Banner",
+      "es": "Pancarta postal de Indar",
+      "fr": "Bannière \"Carte postale d'Indar\"",
+      "it": "Insegna cartolina Indar",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Indar»‎",
+      "tr": "NULL",
+      "zh": "Indar明信片旗帜"
+    },
+    "image_set_id": "808088",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6294",
+    "faction_id": "3",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6286",
+    "faction_id": "3",
+    "name": {
+      "de": "Titel: von Indar",
+      "en": "Title: of Indar",
+      "es": "Título: de Indar",
+      "fr": "Titre : d'Indar",
+      "it": "Titolo: di Indar",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Indar",
+      "tr": "NULL",
+      "zh": "头衔：Indar"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6277",
+    "faction_id": "3",
+    "name": {
+      "de": "Emblem \"Wahrer Norden\"",
+      "en": "True North Decal",
+      "es": "Emblema Verdadero Norte",
+      "fr": "Décalco : Vrai nord",
+      "it": "Adesivo \"Vero nord\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема «Истинный север»",
+      "tr": "NULL",
+      "zh": "True North涂装"
+    },
+    "image_set_id": "808044",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6278",
+    "faction_id": "3",
+    "name": {
+      "de": "Bannerrahmen \"Wahrer Norden\"",
+      "en": "True North Banner Frame ",
+      "es": "Marco de pancarta Verdadero Norte",
+      "fr": "Cadre de bannière \"Vrai nord\"",
+      "it": "Cornice per insegna \"Vero nord\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Истинный север»",
+      "tr": "NULL",
+      "zh": "True North旗帜框"
+    },
+    "image_set_id": "808047",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6279",
+    "faction_id": "3",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6280",
+    "faction_id": "3",
+    "name": {
+      "de": "Kondensstreifen \"Wahrer Norden\"",
+      "en": "True North Contrails",
+      "es": "Estela Verdadero Norte",
+      "fr": "Traînées \"Vrai nord\"",
+      "it": "Scie di condensazione del Vero nord",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Инверсионный след «Истинный север»",
+      "tr": "NULL",
+      "zh": "真北航迹云"
+    },
+    "image_set_id": "808073",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6291",
+    "faction_id": "2",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6299",
+    "faction_id": "2",
+    "name": {
+      "de": "Banner \"Esamir-Postkarte\"",
+      "en": "Esamir Postcard Banner",
+      "es": "Pancarta postal de Esamir",
+      "fr": "Bannière \"Carte postale d'Esamir\"",
+      "it": "Insegna cartolina Esamir",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Esamir»‎",
+      "tr": "NULL",
+      "zh": "Esamir明信片旗帜"
+    },
+    "image_set_id": "808090",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6300",
+    "faction_id": "2",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6292",
+    "faction_id": "2",
+    "name": {
+      "de": "Titel: von Esamir",
+      "en": "Title: of Esamir",
+      "es": "Título: de Esamir",
+      "fr": "Titre : d'Esamir",
+      "it": "Titolo: di Esamir",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Esamir",
+      "tr": "NULL",
+      "zh": "头衔：Esamir"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6289",
+    "faction_id": "2",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6297",
+    "faction_id": "2",
+    "name": {
+      "de": "Banner \"Amerish-Postkarte\"",
+      "en": "Amerish Postcard Banner",
+      "es": "Pancarta postal de Amerish",
+      "fr": "Bannière \"Carte postale d'Amerish\"",
+      "it": "Insegna cartolina Amerish",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Amerish»‎",
+      "tr": "NULL",
+      "zh": "Amerish明信片旗帜"
+    },
+    "image_set_id": "808084",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6298",
+    "faction_id": "2",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6290",
+    "faction_id": "2",
+    "name": {
+      "de": "Titel: von Amerish",
+      "en": "Title: of Amerish",
+      "es": "Título: de Amerish",
+      "fr": "Titre : d'Amerish",
+      "it": "Titolo: di Amerish",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Amerish",
+      "tr": "NULL",
+      "zh": "头衔：Amerish"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6287",
+    "faction_id": "2",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6295",
+    "faction_id": "2",
+    "name": {
+      "de": "Banner \"Hossin-Postkarte\"",
+      "en": "Hossin Postcard Banner",
+      "es": "Pancarta postal de Hossin",
+      "fr": "Bannière \"Carte postale d'Hossin\"",
+      "it": "Insegna cartolina Hossin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Hossin»‎",
+      "tr": "NULL",
+      "zh": "Hossin明信片旗帜"
+    },
+    "image_set_id": "808086",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6296",
+    "faction_id": "2",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6288",
+    "faction_id": "2",
+    "name": {
+      "de": "Titel: von Hossin",
+      "en": "Title: of Hossin",
+      "es": "Título: de Hossin",
+      "fr": "Titre : d'Hossin",
+      "it": "Titolo: di Hossin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Hossin",
+      "tr": "NULL",
+      "zh": "头衔：Hossin"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6285",
+    "faction_id": "2",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6293",
+    "faction_id": "2",
+    "name": {
+      "de": "Banner \"Indar-Postkarte\"",
+      "en": "Indar Postcard Banner",
+      "es": "Pancarta postal de Indar",
+      "fr": "Bannière \"Carte postale d'Indar\"",
+      "it": "Insegna cartolina Indar",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Открытка из Indar»‎",
+      "tr": "NULL",
+      "zh": "Indar明信片旗帜"
+    },
+    "image_set_id": "808088",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6294",
+    "faction_id": "2",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "image_set_id": "803838",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6286",
+    "faction_id": "2",
+    "name": {
+      "de": "Titel: von Indar",
+      "en": "Title: of Indar",
+      "es": "Título: de Indar",
+      "fr": "Titre : d'Indar",
+      "it": "Titolo: di Indar",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: из Indar",
+      "tr": "NULL",
+      "zh": "头衔：Indar"
+    },
+    "image_set_id": "808008",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "reward_set_id": "6277",
+    "faction_id": "2",
+    "name": {
+      "de": "Emblem \"Wahrer Norden\"",
+      "en": "True North Decal",
+      "es": "Emblema Verdadero Norte",
+      "fr": "Décalco : Vrai nord",
+      "it": "Adesivo \"Vero nord\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема «Истинный север»",
+      "tr": "NULL",
+      "zh": "True North涂装"
+    },
+    "image_set_id": "808044",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6278",
+    "faction_id": "2",
+    "name": {
+      "de": "Bannerrahmen \"Wahrer Norden\"",
+      "en": "True North Banner Frame ",
+      "es": "Marco de pancarta Verdadero Norte",
+      "fr": "Cadre de bannière \"Vrai nord\"",
+      "it": "Cornice per insegna \"Vero nord\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Истинный север»",
+      "tr": "NULL",
+      "zh": "True North旗帜框"
+    },
+    "image_set_id": "808047",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6279",
+    "faction_id": "2",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6280",
+    "faction_id": "2",
+    "name": {
+      "de": "Kondensstreifen \"Wahrer Norden\"",
+      "en": "True North Contrails",
+      "es": "Estela Verdadero Norte",
+      "fr": "Traînées \"Vrai nord\"",
+      "it": "Scie di condensazione del Vero nord",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Инверсионный след «Истинный север»",
+      "tr": "NULL",
+      "zh": "真北航迹云"
+    },
+    "image_set_id": "808073",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

@@ -1755,5 +1755,146 @@
     "image_set_id": "0",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "directive_tree_id": "142",
+    "directive_tree_category_id": "5",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung - Esamir",
+      "en": "Conquest - Esamir",
+      "es": "Conquista: Esamir",
+      "fr": "Conquête - Esamir",
+      "it": "Conquista - Esamir",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завоевание — Esamir",
+      "tr": "NULL",
+      "zh": "征服 - Esamir"
+    },
+    "description": "NULL",
+    "image_set_id": "14163",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_tree_id": "141",
+    "directive_tree_category_id": "5",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung - Amerish",
+      "en": "Conquest - Amerish",
+      "es": "Conquista: Amerish",
+      "fr": "Conquête - Amerish",
+      "it": "Conquista - Amerish",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завоевание — Amerish",
+      "tr": "NULL",
+      "zh": "征服 - Amerish"
+    },
+    "description": "NULL",
+    "image_set_id": "14163",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_tree_id": "140",
+    "directive_tree_category_id": "5",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung - Hossin",
+      "en": "Conquest - Hossin",
+      "es": "Conquista: Hossin",
+      "fr": "Conquête - Hossin",
+      "it": "Conquista - Hossin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завоевание — Hossin",
+      "tr": "NULL",
+      "zh": "征服 - Hossin"
+    },
+    "description": "NULL",
+    "image_set_id": "14163",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_tree_id": "139",
+    "directive_tree_category_id": "5",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung - Indar",
+      "en": "Conquest - Indar",
+      "es": "Conquista: Indar",
+      "fr": "Conquête - Indar",
+      "it": "Conquista - Indar",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завоевание — Indar",
+      "tr": "NULL",
+      "zh": "征服 - Indar"
+    },
+    "description": "NULL",
+    "image_set_id": "14163",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_tree_id": "136",
+    "directive_tree_category_id": "8",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Operation: Lichtsucher",
+      "en": "Operation: Lightseeker",
+      "es": "Operación: Busca luminosa",
+      "fr": "Opération : Lightseeker",
+      "it": "Operazione: Cercatore di luce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Операция «Искатель света»",
+      "tr": "NULL",
+      "zh": "行动：追光者"
+    },
+    "description": {
+      "de": "Verfügbar bis 6. August",
+      "en": "Available through August 6th",
+      "es": "Disponible hasta el 6 de agosto",
+      "fr": "Disponible jusqu'au 6 août",
+      "it": "Disponibile fino al 6 agosto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Доступно до 6 августа",
+      "tr": "NULL",
+      "zh": "活动持续至8月6日"
+    },
+    "image_set_id": "0",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

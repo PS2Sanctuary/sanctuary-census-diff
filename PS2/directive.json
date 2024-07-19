@@ -132169,5 +132169,6693 @@
     "image_set_id": "1567",
     "image_id": "79658",
     "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "directive_id": "6055",
+    "directive_tree_id": "127",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Diamond\" Commissioner",
+      "en": "NS-44 \"Primed Diamond\" Commissioner",
+      "es": "NS-44 Commissioner \"Diamante preparado\"",
+      "fr": "NS-44 \"Primed Diamond\" Commissioner",
+      "it": "NS-44 \"Primed Diamond\" Commissioner",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Diamond» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Diamond\" Commissioner"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6052",
+    "directive_tree_id": "127",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Diamond\" Commissioner",
+      "en": "NS-44 \"Primed Diamond\" Commissioner",
+      "es": "NS-44 Commissioner \"Diamante preparado\"",
+      "fr": "NS-44 \"Primed Diamond\" Commissioner",
+      "it": "NS-44 \"Primed Diamond\" Commissioner",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Diamond» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Diamond\" Commissioner"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6056",
+    "directive_tree_id": "127",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Diamond\" Commissioner",
+      "en": "NS-44 \"Primed Diamond\" Commissioner",
+      "es": "NS-44 Commissioner \"Diamante preparado\"",
+      "fr": "NS-44 \"Primed Diamond\" Commissioner",
+      "it": "NS-44 \"Primed Diamond\" Commissioner",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Diamond» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Diamond\" Commissioner"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6054",
+    "directive_tree_id": "127",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Diamond\" Commissioner",
+      "en": "NS-44 \"Primed Diamond\" Commissioner",
+      "es": "NS-44 Commissioner \"Diamante preparado\"",
+      "fr": "NS-44 \"Primed Diamond\" Commissioner",
+      "it": "NS-44 \"Primed Diamond\" Commissioner",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Diamond» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Diamond\" Commissioner"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6011",
+    "directive_tree_id": "142",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eindämmungsanlage-Eroberung",
+      "en": "Containment Site Capture",
+      "es": "Captura de zona de contención",
+      "fr": "Capture de site de confinement",
+      "it": "Conquista dei siti di contenimento",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Containment Site",
+      "tr": "NULL",
+      "zh": "占领能量容纳站"
+    },
+    "description": {
+      "de": "Erobere 1x eine Eindämmungsanlage.",
+      "en": "Capture Containment Sites 1 time.",
+      "es": "Captura zonas de contención 1 vez.",
+      "fr": "Capturez des sites de confinement 1 fois.",
+      "it": "Conquista siti di contenimento 1 volta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Containment Site 1 раз.",
+      "tr": "NULL",
+      "zh": "占领能量容纳站1次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6035",
+    "directive_tree_id": "142",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 1x Technikanlagen.",
+      "en": "Capture Tech Plants 1 time.",
+      "es": "Captura Tech Plants 1 vez.",
+      "fr": "Capturez des Tech Plants 1 fois.",
+      "it": "Conquista Tech Plant 1 volta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant 1 раз.",
+      "tr": "NULL",
+      "zh": "占领技术工厂1次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6012",
+    "directive_tree_id": "142",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eindämmungsanlage-Verteidigung",
+      "en": "Containment Site Defense",
+      "es": "Defensa de zona de contención",
+      "fr": "Défense de site de confinement",
+      "it": "Difesa dei siti di contenimento",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита Containment Site",
+      "tr": "NULL",
+      "zh": "守卫能量容纳站"
+    },
+    "description": {
+      "de": "Verteidige 2x Eindämmungsanlagen.",
+      "en": "Defend Containment Sites 2 times.",
+      "es": "Defiende zonas de contención 2 veces.",
+      "fr": "Protégez des sites de confinement 2 fois.",
+      "it": "Difendi siti di contenimento 2 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Containment Site 2 раза.",
+      "tr": "NULL",
+      "zh": "守卫能量容纳站2次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6036",
+    "directive_tree_id": "142",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 1x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 1 time.",
+      "es": "Captura Amp Stations 1 vez.",
+      "fr": "Capturez des Amp Stations 1 fois.",
+      "it": "Conquista Amp Station 1 volta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 1 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心1次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6013",
+    "directive_tree_id": "142",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Esamir Punktkontrolle",
+      "en": "Esamir Point Control",
+      "es": "Control de puntos de Esamir",
+      "fr": "Point de contrôle d'Esamir",
+      "it": "Punto di controllo Esamir",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Esamir",
+      "tr": "NULL",
+      "zh": "Esamir据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 1 Punkt-Kontrollabzeichen.",
+      "en": "Earn 1 Point Control Ribbon.",
+      "es": "Gana 1 galón de control de puntos.",
+      "fr": "Gagnez une décoration de point de contrôle.",
+      "it": "Guadagna 1 medaglia Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 1 ленту контроля точки.",
+      "tr": "NULL",
+      "zh": "获得1个据点控制绶带。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6037",
+    "directive_tree_id": "142",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 2x Technikanlagen.",
+      "en": "Defend Tech Plants 2 times.",
+      "es": "Defiende Tech Plants 2 veces.",
+      "fr": "Protégez des Tech Plants 2 fois.",
+      "it": "Difendi Tech Plant 2 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 2 раза.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂2次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6014",
+    "directive_tree_id": "142",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 10 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 10 vehicles while in another vehicle.",
+      "es": "Destruye 10 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 10 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 10 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 10 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁10个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6015",
+    "directive_tree_id": "142",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 1 Alarm ab.",
+      "en": "Complete 1 alerts.",
+      "es": "Completa 1 alerta.",
+      "fr": "Terminez 1 alerte.",
+      "it": "Completa 1 allerta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 1 раз.",
+      "tr": "NULL",
+      "zh": "完成一次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6038",
+    "directive_tree_id": "142",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 2x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 2 times.",
+      "es": "Defiende Amp Stations 2 veces.",
+      "fr": "Protégez des Amp Stations 2 fois.",
+      "it": "Difendi le Amp Station 2 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 2 раза.",
+      "tr": "NULL",
+      "zh": "守卫电力中心2次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6017",
+    "directive_tree_id": "142",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eindämmungsanlage-Eroberung",
+      "en": "Containment Site Capture",
+      "es": "Captura de zona de contención",
+      "fr": "Capture de site de confinement",
+      "it": "Conquista dei siti di contenimento",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Containment Site",
+      "tr": "NULL",
+      "zh": "占领能量容纳站"
+    },
+    "description": {
+      "de": "Erobere 15x Eindämmungsanlagen.",
+      "en": "Capture Containment Sites 15 times.",
+      "es": "Captura zonas de contención 15 veces.",
+      "fr": "Capturez des sites de confinement 15 fois.",
+      "it": "Conquista siti di contenimento 15 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Containment Site 15 раз.",
+      "tr": "NULL",
+      "zh": "占领能量容纳站15次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6041",
+    "directive_tree_id": "142",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 15x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 15 times.",
+      "es": "Captura Amp Stations 15 veces.",
+      "fr": "Capturez des Amp Stations 15 fois.",
+      "it": "Conquista Amp Station 15 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 15 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心15次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6018",
+    "directive_tree_id": "142",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eindämmungsanlage-Verteidigung",
+      "en": "Containment Site Defense",
+      "es": "Defensa de zona de contención",
+      "fr": "Défense de site de confinement",
+      "it": "Difesa dei siti di contenimento",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита Containment Site",
+      "tr": "NULL",
+      "zh": "守卫能量容纳站"
+    },
+    "description": {
+      "de": "Verteidige 30x Eindämmungsanlagen.",
+      "en": "Defend Containment Sites 30 times.",
+      "es": "Defiende zonas de contención 30 veces.",
+      "fr": "Protégez des sites de confinement 30 fois.",
+      "it": "Difendi siti di contenimento 30 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Containment Site 30 раз.",
+      "tr": "NULL",
+      "zh": "守卫能量容纳站30次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6019",
+    "directive_tree_id": "142",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Esamir Punktkontrolle",
+      "en": "Esamir Point Control",
+      "es": "Control de puntos de Esamir",
+      "fr": "Point de contrôle d'Esamir",
+      "it": "Punto di controllo Esamir",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Esamir",
+      "tr": "NULL",
+      "zh": "Esamir据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 15 Punktekontrolle-Auszeichnungen.",
+      "en": "Earn 15 Point Control Ribbons.",
+      "es": "Gana 15 galones de control de puntos.",
+      "fr": "Gagnez 15 décorations de point de contrôle.",
+      "it": "Guadagna 15 medaglie Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 15 лент контроля точки.",
+      "tr": "NULL",
+      "zh": "获得15个据点控制缎带"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6020",
+    "directive_tree_id": "142",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 25 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 25 vehicles while in another vehicle.",
+      "es": "Destruye 25 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 25 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 25 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 25 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁25个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6021",
+    "directive_tree_id": "142",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 5 Alarme ab.",
+      "en": "Complete 5 alerts.",
+      "es": "Completa 5 alertas.",
+      "fr": "Terminez 5 alertes.",
+      "it": "Completa 5 allerte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 5 раз.",
+      "tr": "NULL",
+      "zh": "完成5次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6039",
+    "directive_tree_id": "142",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 15x Technikanlagen.",
+      "en": "Capture Tech Plants 15 times.",
+      "es": "Captura Tech Plants 15 veces.",
+      "fr": "Capturez des Tech Plants 15 fois.",
+      "it": "Conquista Tech Plant 15 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant 15 раз.",
+      "tr": "NULL",
+      "zh": "占领技术工厂15次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6040",
+    "directive_tree_id": "142",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 30x Technikanlagen.",
+      "en": "Defend Tech Plants 30 times.",
+      "es": "Defiende Tech Plants 30 veces.",
+      "fr": "Protégez des Tech Plants 30 fois.",
+      "it": "Difendi Tech Plant 30 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 30 раз.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂30次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6042",
+    "directive_tree_id": "142",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 30x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 30 times.",
+      "es": "Defiende Amp Stations 30 veces.",
+      "fr": "Protégez des Amp Stations 30 fois.",
+      "it": "Difendi Amp Station 30 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 30 раз.",
+      "tr": "NULL",
+      "zh": "守卫电力中心30次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6023",
+    "directive_tree_id": "142",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eindämmungsanlage-Eroberung",
+      "en": "Containment Site Capture",
+      "es": "Captura de zona de contención",
+      "fr": "Capture de site de confinement",
+      "it": "Conquista dei siti di contenimento",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Containment Site",
+      "tr": "NULL",
+      "zh": "占领能量容纳站"
+    },
+    "description": {
+      "de": "Erobere 25x Eindämmungsanlagen.",
+      "en": "Capture Containment Sites 25 times.",
+      "es": "Captura zonas de contención 25 veces.",
+      "fr": "Capturez des sites de confinement 25 fois.",
+      "it": "Conquista siti di contenimento 25 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Containment Site 25 раз.",
+      "tr": "NULL",
+      "zh": "占领能量容纳站25次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6024",
+    "directive_tree_id": "142",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eindämmungsanlage-Verteidigung",
+      "en": "Containment Site Defense",
+      "es": "Defensa de zona de contención",
+      "fr": "Défense de site de confinement",
+      "it": "Difesa dei siti di contenimento",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита Containment Site",
+      "tr": "NULL",
+      "zh": "守卫能量容纳站"
+    },
+    "description": {
+      "de": "Verteidige 50x Eindämmungsanlagen.",
+      "en": "Defend Containment Sites 50 times.",
+      "es": "Defiende zonas de contención 50 veces.",
+      "fr": "Protégez des sites de confinement 50 fois.",
+      "it": "Difendi siti di contenimento 50 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Containment Site 50 раз.",
+      "tr": "NULL",
+      "zh": "守卫能量容纳站50次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6025",
+    "directive_tree_id": "142",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Esamir Punktkontrolle",
+      "en": "Esamir Point Control",
+      "es": "Control de puntos de Esamir",
+      "fr": "Point de contrôle d'Esamir",
+      "it": "Punto di controllo Esamir",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Esamir",
+      "tr": "NULL",
+      "zh": "Esamir据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 100 Punktekontrolle-Auszeichnungen.",
+      "en": "Earn 100 Point Control Ribbons.",
+      "es": "Gana 100 galones de control de puntos.",
+      "fr": "Gagnez 100 décorations de point de contrôle.",
+      "it": "Guadagna 100 medaglie Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 100 лент контроля точки.",
+      "tr": "NULL",
+      "zh": "获得100个据点控制缎带。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6026",
+    "directive_tree_id": "142",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 100 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 100 vehicles while in another vehicle.",
+      "es": "Destruye 100 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 100 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 100 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 100 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁100个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6027",
+    "directive_tree_id": "142",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 20 Alarme ab.",
+      "en": "Complete 20 alerts.",
+      "es": "Completa 20 alertas.",
+      "fr": "Terminez 20 alertes.",
+      "it": "Completa 20 allerte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 20 раз.",
+      "tr": "NULL",
+      "zh": "完成20次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6043",
+    "directive_tree_id": "142",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 25x Technikanlagen.",
+      "en": "Capture Tech Plants 25 times.",
+      "es": "Captura Tech Plants 25 veces.",
+      "fr": "Capturez des Tech Plants 25 fois.",
+      "it": "Conquista Tech Plant 25 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant 25 раз.",
+      "tr": "NULL",
+      "zh": "占领技术工厂25次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6044",
+    "directive_tree_id": "142",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 25x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 25 times.",
+      "es": "Captura Amp Stations 25 veces.",
+      "fr": "Capturez des Amp Stations 25 fois.",
+      "it": "Conquista Amp Station 25 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 25 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心25次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6045",
+    "directive_tree_id": "142",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 50x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 50 times.",
+      "es": "Defiende Amp Stations 50 veces.",
+      "fr": "Protégez des Amp Stations 50 fois.",
+      "it": "Difendi Amp Station 50 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 50 раз.",
+      "tr": "NULL",
+      "zh": "守卫电力中心50次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6046",
+    "directive_tree_id": "142",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 50x Technikanlagen.",
+      "en": "Defend Tech Plants 50 times.",
+      "es": "Defiende Tech Plants 50 veces.",
+      "fr": "Protégez des Tech Plants 50 fois.",
+      "it": "Difendi Tech Plant 50 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 50 раз.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂50次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6029",
+    "directive_tree_id": "142",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eindämmungsanlage-Eroberung",
+      "en": "Containment Site Capture",
+      "es": "Captura de zona de contención",
+      "fr": "Capture de site de confinement",
+      "it": "Conquista dei siti di contenimento",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Containment Site",
+      "tr": "NULL",
+      "zh": "占领能量容纳站"
+    },
+    "description": {
+      "de": "Erobere 100x Eindämmungsanlagen.",
+      "en": "Capture Containment Sites 100 times.",
+      "es": "Captura zonas de contención 100 veces.",
+      "fr": "Capturez des sites de confinement 100 fois.",
+      "it": "Conquista siti di contenimento 100 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Containment Site 100 раз.",
+      "tr": "NULL",
+      "zh": "占领能量容纳站100次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6030",
+    "directive_tree_id": "142",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eindämmungsanlage-Verteidigung",
+      "en": "Containment Site Defense",
+      "es": "Defensa de zona de contención",
+      "fr": "Défense de site de confinement",
+      "it": "Difesa dei siti di contenimento",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита Containment Site",
+      "tr": "NULL",
+      "zh": "守卫能量容纳站"
+    },
+    "description": {
+      "de": "Verteidige 250x Eindämmungsanlagen.",
+      "en": "Defend Containment Sites 250 times.",
+      "es": "Defiende zonas de contención 250 veces.",
+      "fr": "Protégez des sites de confinement 250 fois.",
+      "it": "Difendi siti di contenimento 250 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Containment Site 250 раз.",
+      "tr": "NULL",
+      "zh": "守卫能量容纳站250次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6031",
+    "directive_tree_id": "142",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Esamir Punktkontrolle",
+      "en": "Esamir Point Control",
+      "es": "Control de puntos de Esamir",
+      "fr": "Point de contrôle d'Esamir",
+      "it": "Punto di controllo Esamir",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Esamir",
+      "tr": "NULL",
+      "zh": "Esamir据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 2500 Punktekontrolle-Auszeichnungen.",
+      "en": "Earn 2500 Point Control Ribbons.",
+      "es": "Gana 2500 galones de control de puntos.",
+      "fr": "Gagnez 2500 décorations de point de contrôle.",
+      "it": "Guadagna 2500 medaglie Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 2500 лент контроля точки.",
+      "tr": "NULL",
+      "zh": "获得2500个据点控制缎带。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6047",
+    "directive_tree_id": "142",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 100x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 100 times.",
+      "es": "Captura Amp Stations 100 veces.",
+      "fr": "Capturez des Amp Stations 100 fois.",
+      "it": "Conquista Amp Station 100 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 100 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心100次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6032",
+    "directive_tree_id": "142",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 1000 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 1000 vehicles while in another vehicle.",
+      "es": "Destruye 1000 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 1000 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 1000 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 1000 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁1000个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6048",
+    "directive_tree_id": "142",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 250x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 250 times.",
+      "es": "Defiende Amp Stations 250 veces.",
+      "fr": "Protégez des Amp Stations 250 fois.",
+      "it": "Difendi Amp Station 250 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 250 раз.",
+      "tr": "NULL",
+      "zh": "守卫电力中心250次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6033",
+    "directive_tree_id": "142",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 100 Alarme ab.",
+      "en": "Complete 100 alerts.",
+      "es": "Completa 100 alertas.",
+      "fr": "Terminez 100 alertes.",
+      "it": "Completa 100 allerte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 100 раз.",
+      "tr": "NULL",
+      "zh": "完成100次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6049",
+    "directive_tree_id": "142",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 100x Technikanlagen.",
+      "en": "Capture Tech Plants 100 times.",
+      "es": "Captura Tech Plants 100 veces.",
+      "fr": "Capturez des Tech Plants 100 fois.",
+      "it": "Conquista Tech Plant 100 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant 100 раз.",
+      "tr": "NULL",
+      "zh": "占领技术工厂100次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6050",
+    "directive_tree_id": "142",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 250x Technikanlagen.",
+      "en": "Defend Tech Plants 250 times.",
+      "es": "Defiende Tech Plants 250 veces.",
+      "fr": "Protégez des Tech Plants 250 fois.",
+      "it": "Difendi Tech Plant 250 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 250 раз.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂250次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5971",
+    "directive_tree_id": "141",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 1x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 1 time.",
+      "es": "Captura Amp Stations 1 vez.",
+      "fr": "Capturez des Amp Stations 1 fois.",
+      "it": "Conquista Amp Station 1 volta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 1 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心1次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5995",
+    "directive_tree_id": "141",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 1x Technikanlagen.",
+      "en": "Capture Tech Plants 1 time.",
+      "es": "Captura Tech Plants 1 vez.",
+      "fr": "Capturez des Tech Plants 1 fois.",
+      "it": "Conquista Tech Plant 1 volta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant 1 раз.",
+      "tr": "NULL",
+      "zh": "占领技术工厂1次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5972",
+    "directive_tree_id": "141",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 2x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 2 times.",
+      "es": "Defiende Amp Stations 2 veces.",
+      "fr": "Protégez des Amp Stations 2 fois.",
+      "it": "Difendi le Amp Station 2 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 2 раза.",
+      "tr": "NULL",
+      "zh": "守卫电力中心2次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5996",
+    "directive_tree_id": "141",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Eroberung",
+      "en": "Bio Lab Capture",
+      "es": "Captura de Bio Lab",
+      "fr": "Capture des Bio Labs",
+      "it": "Conquista del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Bio Lab",
+      "tr": "NULL",
+      "zh": "占领生物实验室"
+    },
+    "description": {
+      "de": "Erobere 1x ein Biolabor.",
+      "en": "Capture Bio Labs 1 time.",
+      "es": "Captura Bio Labs 1 vez.",
+      "fr": "Capturez des Bio Labs 1 fois.",
+      "it": "Conquista Bio Lab 1 volta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Bio Lab 1 раз.",
+      "tr": "NULL",
+      "zh": "占领生物实验室1次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5973",
+    "directive_tree_id": "141",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Amerish Punktkontrolle",
+      "en": "Amerish Point Control",
+      "es": "Control de puntos de Amerish",
+      "fr": "Point de contrôle d'Amerish",
+      "it": "Punto di controllo Amerish",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Amerish",
+      "tr": "NULL",
+      "zh": "Amerish据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 1 Punkt-Kontrollabzeichen.",
+      "en": "Earn 1 Point Control Ribbon.",
+      "es": "Gana 1 galón de control de puntos.",
+      "fr": "Gagnez une décoration de point de contrôle.",
+      "it": "Guadagna 1 medaglia Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 1 ленту контроля точки.",
+      "tr": "NULL",
+      "zh": "获得1个据点控制绶带。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5997",
+    "directive_tree_id": "141",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 2x Technikanlagen.",
+      "en": "Defend Tech Plants 2 times.",
+      "es": "Defiende Tech Plants 2 veces.",
+      "fr": "Protégez des Tech Plants 2 fois.",
+      "it": "Difendi Tech Plant 2 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 2 раза.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂2次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5974",
+    "directive_tree_id": "141",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 10 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 10 vehicles while in another vehicle.",
+      "es": "Destruye 10 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 10 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 10 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 10 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁10个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5975",
+    "directive_tree_id": "141",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 1 Alarm ab.",
+      "en": "Complete 1 alerts.",
+      "es": "Completa 1 alerta.",
+      "fr": "Terminez 1 alerte.",
+      "it": "Completa 1 allerta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 1 раз.",
+      "tr": "NULL",
+      "zh": "完成一次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5998",
+    "directive_tree_id": "141",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Verteidigung",
+      "en": "Bio Lab Defense",
+      "es": "Defensa de Bio Lab",
+      "fr": "Défense des Bio Labs",
+      "it": "Difesa del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита Bio Lab",
+      "tr": "NULL",
+      "zh": "守卫生物实验室"
+    },
+    "description": {
+      "de": "Verteidige 2x Biolabore.",
+      "en": "Defend Bio Labs 2 times.",
+      "es": "Defiende Bio Labs 2 veces.",
+      "fr": "Protégez des Bio Labs 2 fois.",
+      "it": "Difendi Bio Lab 2 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Bio Lab 2 раза.",
+      "tr": "NULL",
+      "zh": "守卫生物实验室2次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5977",
+    "directive_tree_id": "141",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 15x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 15 times.",
+      "es": "Captura Amp Stations 15 veces.",
+      "fr": "Capturez des Amp Stations 15 fois.",
+      "it": "Conquista Amp Station 15 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 15 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心15次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6001",
+    "directive_tree_id": "141",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Eroberung",
+      "en": "Bio Lab Capture",
+      "es": "Captura de Bio Lab",
+      "fr": "Capture des Bio Labs",
+      "it": "Conquista del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Bio Lab",
+      "tr": "NULL",
+      "zh": "占领生物实验室"
+    },
+    "description": {
+      "de": "Erobere 15x Biolabore.",
+      "en": "Capture Bio Labs 15 times.",
+      "es": "Captura Bio Labs 15 veces.",
+      "fr": "Capturez des Bio Labs 15 fois.",
+      "it": "Conquista Bio Lab 15 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Bio Lab 15 раз.",
+      "tr": "NULL",
+      "zh": "占领生物实验室15次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5978",
+    "directive_tree_id": "141",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 30x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 30 times.",
+      "es": "Defiende Amp Stations 30 veces.",
+      "fr": "Protégez des Amp Stations 30 fois.",
+      "it": "Difendi Amp Station 30 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 30 раз.",
+      "tr": "NULL",
+      "zh": "守卫电力中心30次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5979",
+    "directive_tree_id": "141",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Amerish Punktkontrolle",
+      "en": "Amerish Point Control",
+      "es": "Control de puntos de Amerish",
+      "fr": "Point de contrôle d'Amerish",
+      "it": "Punto di controllo Amerish",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Amerish",
+      "tr": "NULL",
+      "zh": "Amerish据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 15 Punktekontrolle-Auszeichnungen.",
+      "en": "Earn 15 Point Control Ribbons.",
+      "es": "Gana 15 galones de control de puntos.",
+      "fr": "Gagnez 15 décorations de point de contrôle.",
+      "it": "Guadagna 15 medaglie Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 15 лент контроля точки.",
+      "tr": "NULL",
+      "zh": "获得15个据点控制缎带"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5980",
+    "directive_tree_id": "141",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 25 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 25 vehicles while in another vehicle.",
+      "es": "Destruye 25 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 25 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 25 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 25 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁25个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5981",
+    "directive_tree_id": "141",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 5 Alarme ab.",
+      "en": "Complete 5 alerts.",
+      "es": "Completa 5 alertas.",
+      "fr": "Terminez 5 alertes.",
+      "it": "Completa 5 allerte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 5 раз.",
+      "tr": "NULL",
+      "zh": "完成5次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5999",
+    "directive_tree_id": "141",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 15x Technikanlagen.",
+      "en": "Capture Tech Plants 15 times.",
+      "es": "Captura Tech Plants 15 veces.",
+      "fr": "Capturez des Tech Plants 15 fois.",
+      "it": "Conquista Tech Plant 15 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant 15 раз.",
+      "tr": "NULL",
+      "zh": "占领技术工厂15次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6000",
+    "directive_tree_id": "141",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 30x Technikanlagen.",
+      "en": "Defend Tech Plants 30 times.",
+      "es": "Defiende Tech Plants 30 veces.",
+      "fr": "Protégez des Tech Plants 30 fois.",
+      "it": "Difendi Tech Plant 30 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 30 раз.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂30次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6002",
+    "directive_tree_id": "141",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Verteidigung",
+      "en": "Bio Lab Defense",
+      "es": "Defensa de Bio Lab",
+      "fr": "Défense des Bio Labs",
+      "it": "Difesa del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита Bio Lab",
+      "tr": "NULL",
+      "zh": "守卫生物实验室"
+    },
+    "description": {
+      "de": "Verteidige 30x Biolabore.",
+      "en": "Defend Bio Labs 30 times.",
+      "es": "Defiende Bio Labs 30 veces.",
+      "fr": "Protégez des Bio Labs 30 fois.",
+      "it": "Difendi Bio Lab 30 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Bio Lab 30 раз.",
+      "tr": "NULL",
+      "zh": "守卫生物实验室30次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5983",
+    "directive_tree_id": "141",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 25x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 25 times.",
+      "es": "Captura Amp Stations 25 veces.",
+      "fr": "Capturez des Amp Stations 25 fois.",
+      "it": "Conquista Amp Station 25 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 25 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心25次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5984",
+    "directive_tree_id": "141",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 50x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 50 times.",
+      "es": "Defiende Amp Stations 50 veces.",
+      "fr": "Protégez des Amp Stations 50 fois.",
+      "it": "Difendi Amp Station 50 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 50 раз.",
+      "tr": "NULL",
+      "zh": "守卫电力中心50次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5985",
+    "directive_tree_id": "141",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Amerish Punktkontrolle",
+      "en": "Amerish Point Control",
+      "es": "Control de puntos de Amerish",
+      "fr": "Point de contrôle d'Amerish",
+      "it": "Punto di controllo Amerish",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Amerish",
+      "tr": "NULL",
+      "zh": "Amerish据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 100 Punktekontrolle-Auszeichnungen.",
+      "en": "Earn 100 Point Control Ribbons.",
+      "es": "Gana 100 galones de control de puntos.",
+      "fr": "Gagnez 100 décorations de point de contrôle.",
+      "it": "Guadagna 100 medaglie Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 100 лент контроля точки.",
+      "tr": "NULL",
+      "zh": "获得100个据点控制缎带。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5986",
+    "directive_tree_id": "141",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 100 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 100 vehicles while in another vehicle.",
+      "es": "Destruye 100 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 100 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 100 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 100 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁100个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5987",
+    "directive_tree_id": "141",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 20 Alarme ab.",
+      "en": "Complete 20 alerts.",
+      "es": "Completa 20 alertas.",
+      "fr": "Terminez 20 alertes.",
+      "it": "Completa 20 allerte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 20 раз.",
+      "tr": "NULL",
+      "zh": "完成20次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6003",
+    "directive_tree_id": "141",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 25x Technikanlagen.",
+      "en": "Capture Tech Plants 25 times.",
+      "es": "Captura Tech Plants 25 veces.",
+      "fr": "Capturez des Tech Plants 25 fois.",
+      "it": "Conquista Tech Plant 25 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant 25 раз.",
+      "tr": "NULL",
+      "zh": "占领技术工厂25次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6004",
+    "directive_tree_id": "141",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Eroberung",
+      "en": "Bio Lab Capture",
+      "es": "Captura de Bio Lab",
+      "fr": "Capture des Bio Labs",
+      "it": "Conquista del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Bio Lab",
+      "tr": "NULL",
+      "zh": "占领生物实验室"
+    },
+    "description": {
+      "de": "Erobere 25x Biolabore.",
+      "en": "Capture Bio Labs 25 times.",
+      "es": "Captura Bio Labs 25 veces.",
+      "fr": "Capturez des Bio Labs 25 fois.",
+      "it": "Conquista Bio Lab 25 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Bio Lab 25 раз.",
+      "tr": "NULL",
+      "zh": "占领生物实验室25次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6005",
+    "directive_tree_id": "141",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Eroberung",
+      "en": "Bio Lab Capture",
+      "es": "Captura de Bio Lab",
+      "fr": "Capture des Bio Labs",
+      "it": "Conquista del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Bio Lab",
+      "tr": "NULL",
+      "zh": "占领生物实验室"
+    },
+    "description": {
+      "de": "Verteidige 50x Biolabore.",
+      "en": "Defend Bio Labs 50 times.",
+      "es": "Defiende Bio Labs 50 veces.",
+      "fr": "Protégez des Bio Labs 50 fois.",
+      "it": "Difendi Bio Lab 50 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Bio Lab 50 раз.",
+      "tr": "NULL",
+      "zh": "守卫生物实验室50次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6006",
+    "directive_tree_id": "141",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 50x Technikanlagen.",
+      "en": "Defend Tech Plants 50 times.",
+      "es": "Defiende Tech Plants 50 veces.",
+      "fr": "Protégez des Tech Plants 50 fois.",
+      "it": "Difendi Tech Plant 50 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 50 раз.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂50次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5989",
+    "directive_tree_id": "141",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 100x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 100 times.",
+      "es": "Captura Amp Stations 100 veces.",
+      "fr": "Capturez des Amp Stations 100 fois.",
+      "it": "Conquista Amp Station 100 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 100 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心100次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5990",
+    "directive_tree_id": "141",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 250x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 250 times.",
+      "es": "Defiende Amp Stations 250 veces.",
+      "fr": "Protégez des Amp Stations 250 fois.",
+      "it": "Difendi Amp Station 250 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 250 раз.",
+      "tr": "NULL",
+      "zh": "守卫电力中心250次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5991",
+    "directive_tree_id": "141",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Amerish Punktkontrolle",
+      "en": "Amerish Point Control",
+      "es": "Control de puntos de Amerish",
+      "fr": "Point de contrôle d'Amerish",
+      "it": "Punto di controllo Amerish",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Amerish",
+      "tr": "NULL",
+      "zh": "Amerish据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 2500 Punktekontrolle-Auszeichnungen.",
+      "en": "Earn 2500 Point Control Ribbons.",
+      "es": "Gana 2500 galones de control de puntos.",
+      "fr": "Gagnez 2500 décorations de point de contrôle.",
+      "it": "Guadagna 2500 medaglie Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 2500 лент контроля точки.",
+      "tr": "NULL",
+      "zh": "获得2500个据点控制缎带。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6007",
+    "directive_tree_id": "141",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Eroberung",
+      "en": "Bio Lab Capture",
+      "es": "Captura de Bio Lab",
+      "fr": "Capture des Bio Labs",
+      "it": "Conquista del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Bio Lab",
+      "tr": "NULL",
+      "zh": "占领生物实验室"
+    },
+    "description": {
+      "de": "Erobere 100x Biolabore.",
+      "en": "Capture Bio Labs 100 times.",
+      "es": "Captura Bio Labs 100 veces.",
+      "fr": "Capturez des Bio Labs 100 fois.",
+      "it": "Conquista Bio Lab 100 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Bio Lab 100 раз.",
+      "tr": "NULL",
+      "zh": "占领生物实验室100次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5992",
+    "directive_tree_id": "141",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 1000 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 1000 vehicles while in another vehicle.",
+      "es": "Destruye 1000 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 1000 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 1000 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 1000 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁1000个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6008",
+    "directive_tree_id": "141",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Verteidigung",
+      "en": "Bio Lab Defense",
+      "es": "Defensa de Bio Lab",
+      "fr": "Défense des Bio Labs",
+      "it": "Difesa del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита Bio Lab",
+      "tr": "NULL",
+      "zh": "守卫生物实验室"
+    },
+    "description": {
+      "de": "Verteidige 250x Biolabore.",
+      "en": "Defend Bio Labs 250 times.",
+      "es": "Defiende Bio Labs 250 veces.",
+      "fr": "Protégez des Bio Labs 250 fois.",
+      "it": "Difendi Bio Lab 250 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Bio Lab 250 раз.",
+      "tr": "NULL",
+      "zh": "守卫生物实验室250次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5993",
+    "directive_tree_id": "141",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 100 Alarme ab.",
+      "en": "Complete 100 alerts.",
+      "es": "Completa 100 alertas.",
+      "fr": "Terminez 100 alertes.",
+      "it": "Completa 100 allerte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 100 раз.",
+      "tr": "NULL",
+      "zh": "完成100次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6009",
+    "directive_tree_id": "141",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 100x Technikanlagen.",
+      "en": "Capture Tech Plants 100 times.",
+      "es": "Captura Tech Plants 100 veces.",
+      "fr": "Capturez des Tech Plants 100 fois.",
+      "it": "Conquista Tech Plant 100 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant 100 раз.",
+      "tr": "NULL",
+      "zh": "占领技术工厂100次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "6010",
+    "directive_tree_id": "141",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 250x Technikanlagen.",
+      "en": "Defend Tech Plants 250 times.",
+      "es": "Defiende Tech Plants 250 veces.",
+      "fr": "Protégez des Tech Plants 250 fois.",
+      "it": "Difendi Tech Plant 250 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 250 раз.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂250次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5931",
+    "directive_tree_id": "140",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 1x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 1 time.",
+      "es": "Captura Amp Stations 1 vez.",
+      "fr": "Capturez des Amp Stations 1 fois.",
+      "it": "Conquista Amp Station 1 volta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 1 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心1次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5955",
+    "directive_tree_id": "140",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 1x Technikanlagen.",
+      "en": "Capture Tech Plants 1 time.",
+      "es": "Captura Tech Plants 1 vez.",
+      "fr": "Capturez des Tech Plants 1 fois.",
+      "it": "Conquista Tech Plant 1 volta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant 1 раз.",
+      "tr": "NULL",
+      "zh": "占领技术工厂1次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5932",
+    "directive_tree_id": "140",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 2x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 2 times.",
+      "es": "Defiende Amp Stations 2 veces.",
+      "fr": "Protégez des Amp Stations 2 fois.",
+      "it": "Difendi le Amp Station 2 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 2 раза.",
+      "tr": "NULL",
+      "zh": "守卫电力中心2次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5956",
+    "directive_tree_id": "140",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Eroberung",
+      "en": "Bio Lab Capture",
+      "es": "Captura de Bio Lab",
+      "fr": "Capture des Bio Labs",
+      "it": "Conquista del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Bio Lab",
+      "tr": "NULL",
+      "zh": "占领生物实验室"
+    },
+    "description": {
+      "de": "Erobere 1x ein Biolabor.",
+      "en": "Capture Bio Labs 1 time.",
+      "es": "Captura Bio Labs 1 vez.",
+      "fr": "Capturez des Bio Labs 1 fois.",
+      "it": "Conquista Bio Lab 1 volta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Bio Lab 1 раз.",
+      "tr": "NULL",
+      "zh": "占领生物实验室1次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5933",
+    "directive_tree_id": "140",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Hossin Punktkontrolle",
+      "en": "Hossin Point Control",
+      "es": "Control de puntos de Hossin",
+      "fr": "Point de contrôle d'Hossin",
+      "it": "Punto di controllo Hossin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Hossin",
+      "tr": "NULL",
+      "zh": "Hossin据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 1 Punkt-Kontrollabzeichen.",
+      "en": "Earn 1 Point Control Ribbon.",
+      "es": "Gana 1 galón de control de puntos.",
+      "fr": "Gagnez une décoration de point de contrôle.",
+      "it": "Guadagna 1 medaglia Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 1 ленту контроля точки.",
+      "tr": "NULL",
+      "zh": "获得1个据点控制绶带。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5957",
+    "directive_tree_id": "140",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 2x Technikanlagen.",
+      "en": "Defend Tech Plants 2 times.",
+      "es": "Defiende Tech Plants 2 veces.",
+      "fr": "Protégez des Tech Plants 2 fois.",
+      "it": "Difendi Tech Plant 2 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 2 раза.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂2次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5934",
+    "directive_tree_id": "140",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 10 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 10 vehicles while in another vehicle.",
+      "es": "Destruye 10 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 10 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 10 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 10 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁10个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5935",
+    "directive_tree_id": "140",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 1 Alarm ab.",
+      "en": "Complete 1 alerts.",
+      "es": "Completa 1 alerta.",
+      "fr": "Terminez 1 alerte.",
+      "it": "Completa 1 allerta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 1 раз.",
+      "tr": "NULL",
+      "zh": "完成一次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5958",
+    "directive_tree_id": "140",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Verteidigung",
+      "en": "Bio Lab Defense",
+      "es": "Defensa de Bio Lab",
+      "fr": "Défense des Bio Labs",
+      "it": "Difesa del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита Bio Lab",
+      "tr": "NULL",
+      "zh": "守卫生物实验室"
+    },
+    "description": {
+      "de": "Verteidige 2x Biolabore.",
+      "en": "Defend Bio Labs 2 times.",
+      "es": "Defiende Bio Labs 2 veces.",
+      "fr": "Protégez des Bio Labs 2 fois.",
+      "it": "Difendi Bio Lab 2 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Bio Lab 2 раза.",
+      "tr": "NULL",
+      "zh": "守卫生物实验室2次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5937",
+    "directive_tree_id": "140",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 15x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 15 times.",
+      "es": "Captura Amp Stations 15 veces.",
+      "fr": "Capturez des Amp Stations 15 fois.",
+      "it": "Conquista Amp Station 15 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 15 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心15次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5961",
+    "directive_tree_id": "140",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Eroberung",
+      "en": "Bio Lab Capture",
+      "es": "Captura de Bio Lab",
+      "fr": "Capture des Bio Labs",
+      "it": "Conquista del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Bio Lab",
+      "tr": "NULL",
+      "zh": "占领生物实验室"
+    },
+    "description": {
+      "de": "Erobere 15x Biolabore.",
+      "en": "Capture Bio Labs 15 times.",
+      "es": "Captura Bio Labs 15 veces.",
+      "fr": "Capturez des Bio Labs 15 fois.",
+      "it": "Conquista Bio Lab 15 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Bio Lab 15 раз.",
+      "tr": "NULL",
+      "zh": "占领生物实验室15次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5938",
+    "directive_tree_id": "140",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 30x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 30 times.",
+      "es": "Defiende Amp Stations 30 veces.",
+      "fr": "Protégez des Amp Stations 30 fois.",
+      "it": "Difendi Amp Station 30 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 30 раз.",
+      "tr": "NULL",
+      "zh": "守卫电力中心30次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5939",
+    "directive_tree_id": "140",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Hossin Punktkontrolle",
+      "en": "Hossin Point Control",
+      "es": "Control de puntos de Hossin",
+      "fr": "Point de contrôle d'Hossin",
+      "it": "Punto di controllo Hossin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Hossin",
+      "tr": "NULL",
+      "zh": "Hossin据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 15 Punktekontrolle-Auszeichnungen.",
+      "en": "Earn 15 Point Control Ribbons.",
+      "es": "Gana 15 galones de control de puntos.",
+      "fr": "Gagnez 15 décorations de point de contrôle.",
+      "it": "Guadagna 15 medaglie Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 15 лент контроля точки.",
+      "tr": "NULL",
+      "zh": "获得15个据点控制缎带"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5940",
+    "directive_tree_id": "140",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 25 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 25 vehicles while in another vehicle.",
+      "es": "Destruye 25 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 25 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 25 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 25 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁25个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5941",
+    "directive_tree_id": "140",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 5 Alarme ab.",
+      "en": "Complete 5 alerts.",
+      "es": "Completa 5 alertas.",
+      "fr": "Terminez 5 alertes.",
+      "it": "Completa 5 allerte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 5 раз.",
+      "tr": "NULL",
+      "zh": "完成5次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5959",
+    "directive_tree_id": "140",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 15x Technikanlagen.",
+      "en": "Capture Tech Plants 15 times.",
+      "es": "Captura Tech Plants 15 veces.",
+      "fr": "Capturez des Tech Plants 15 fois.",
+      "it": "Conquista Tech Plant 15 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant 15 раз.",
+      "tr": "NULL",
+      "zh": "占领技术工厂15次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5960",
+    "directive_tree_id": "140",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 30x Technikanlagen.",
+      "en": "Defend Tech Plants 30 times.",
+      "es": "Defiende Tech Plants 30 veces.",
+      "fr": "Protégez des Tech Plants 30 fois.",
+      "it": "Difendi Tech Plant 30 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 30 раз.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂30次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5962",
+    "directive_tree_id": "140",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Verteidigung",
+      "en": "Bio Lab Defense",
+      "es": "Defensa de Bio Lab",
+      "fr": "Défense des Bio Labs",
+      "it": "Difesa del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита Bio Lab",
+      "tr": "NULL",
+      "zh": "守卫生物实验室"
+    },
+    "description": {
+      "de": "Verteidige 30x Biolabore.",
+      "en": "Defend Bio Labs 30 times.",
+      "es": "Defiende Bio Labs 30 veces.",
+      "fr": "Protégez des Bio Labs 30 fois.",
+      "it": "Difendi Bio Lab 30 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Bio Lab 30 раз.",
+      "tr": "NULL",
+      "zh": "守卫生物实验室30次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5943",
+    "directive_tree_id": "140",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 25x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 25 times.",
+      "es": "Captura Amp Stations 25 veces.",
+      "fr": "Capturez des Amp Stations 25 fois.",
+      "it": "Conquista Amp Station 25 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 25 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心25次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5944",
+    "directive_tree_id": "140",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 50x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 50 times.",
+      "es": "Defiende Amp Stations 50 veces.",
+      "fr": "Protégez des Amp Stations 50 fois.",
+      "it": "Difendi Amp Station 50 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 50 раз.",
+      "tr": "NULL",
+      "zh": "守卫电力中心50次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5945",
+    "directive_tree_id": "140",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Hossin Punktkontrolle",
+      "en": "Hossin Point Control",
+      "es": "Control de puntos de Hossin",
+      "fr": "Point de contrôle d'Hossin",
+      "it": "Punto di controllo Hossin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Hossin",
+      "tr": "NULL",
+      "zh": "Hossin据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 100 Punktekontrolle-Auszeichnungen.",
+      "en": "Earn 100 Point Control Ribbons.",
+      "es": "Gana 100 galones de control de puntos.",
+      "fr": "Gagnez 100 décorations de point de contrôle.",
+      "it": "Guadagna 100 medaglie Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 100 лент контроля точки.",
+      "tr": "NULL",
+      "zh": "获得100个据点控制缎带。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5946",
+    "directive_tree_id": "140",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 100 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 100 vehicles while in another vehicle.",
+      "es": "Destruye 100 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 100 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 100 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 100 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁100个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5947",
+    "directive_tree_id": "140",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 20 Alarme ab.",
+      "en": "Complete 20 alerts.",
+      "es": "Completa 20 alertas.",
+      "fr": "Terminez 20 alertes.",
+      "it": "Completa 20 allerte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 20 раз.",
+      "tr": "NULL",
+      "zh": "完成20次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5963",
+    "directive_tree_id": "140",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 25x Technikanlagen.",
+      "en": "Capture Tech Plants 25 times.",
+      "es": "Captura Tech Plants 25 veces.",
+      "fr": "Capturez des Tech Plants 25 fois.",
+      "it": "Conquista Tech Plant 25 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant 25 раз.",
+      "tr": "NULL",
+      "zh": "占领技术工厂25次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5964",
+    "directive_tree_id": "140",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Eroberung",
+      "en": "Bio Lab Capture",
+      "es": "Captura de Bio Lab",
+      "fr": "Capture des Bio Labs",
+      "it": "Conquista del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Bio Lab",
+      "tr": "NULL",
+      "zh": "占领生物实验室"
+    },
+    "description": {
+      "de": "Erobere 25x Biolabore.",
+      "en": "Capture Bio Labs 25 times.",
+      "es": "Captura Bio Labs 25 veces.",
+      "fr": "Capturez des Bio Labs 25 fois.",
+      "it": "Conquista Bio Lab 25 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Bio Lab 25 раз.",
+      "tr": "NULL",
+      "zh": "占领生物实验室25次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5965",
+    "directive_tree_id": "140",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Verteidigung",
+      "en": "Bio Lab Defense",
+      "es": "Defensa de Bio Lab",
+      "fr": "Défense des Bio Labs",
+      "it": "Difesa del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита Bio Lab",
+      "tr": "NULL",
+      "zh": "守卫生物实验室"
+    },
+    "description": {
+      "de": "Verteidige 50x Biolabore.",
+      "en": "Defend Bio Labs 50 times.",
+      "es": "Defiende Bio Labs 50 veces.",
+      "fr": "Protégez des Bio Labs 50 fois.",
+      "it": "Difendi Bio Lab 50 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Bio Lab 50 раз.",
+      "tr": "NULL",
+      "zh": "守卫生物实验室50次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5966",
+    "directive_tree_id": "140",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 50x Technikanlagen.",
+      "en": "Defend Tech Plants 50 times.",
+      "es": "Defiende Tech Plants 50 veces.",
+      "fr": "Protégez des Tech Plants 50 fois.",
+      "it": "Difendi Tech Plant 50 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 50 раз.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂50次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5949",
+    "directive_tree_id": "140",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 100x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 100 times.",
+      "es": "Captura Amp Stations 100 veces.",
+      "fr": "Capturez des Amp Stations 100 fois.",
+      "it": "Conquista Amp Station 100 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 100 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心100次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5950",
+    "directive_tree_id": "140",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 250x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 250 times.",
+      "es": "Defiende Amp Stations 250 veces.",
+      "fr": "Protégez des Amp Stations 250 fois.",
+      "it": "Difendi Amp Station 250 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 250 раз.",
+      "tr": "NULL",
+      "zh": "守卫电力中心250次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5951",
+    "directive_tree_id": "140",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Hossin Punktkontrolle",
+      "en": "Hossin Point Control",
+      "es": "Control de puntos de Hossin",
+      "fr": "Point de contrôle d'Hossin",
+      "it": "Punto di controllo Hossin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Hossin",
+      "tr": "NULL",
+      "zh": "Hossin据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 2500 Punktekontrolle-Auszeichnungen.",
+      "en": "Earn 2500 Point Control Ribbons.",
+      "es": "Gana 2500 galones de control de puntos.",
+      "fr": "Gagnez 2500 décorations de point de contrôle.",
+      "it": "Guadagna 2500 medaglie Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 2500 лент контроля точки.",
+      "tr": "NULL",
+      "zh": "获得2500个据点控制缎带。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5967",
+    "directive_tree_id": "140",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Eroberung",
+      "en": "Bio Lab Capture",
+      "es": "Captura de Bio Lab",
+      "fr": "Capture des Bio Labs",
+      "it": "Conquista del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Bio Lab",
+      "tr": "NULL",
+      "zh": "占领生物实验室"
+    },
+    "description": {
+      "de": "Erobere 100x Biolabore.",
+      "en": "Capture Bio Labs 100 times.",
+      "es": "Captura Bio Labs 100 veces.",
+      "fr": "Capturez des Bio Labs 100 fois.",
+      "it": "Conquista Bio Lab 100 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Bio Lab 100 раз.",
+      "tr": "NULL",
+      "zh": "占领生物实验室100次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5952",
+    "directive_tree_id": "140",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 1000 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 1000 vehicles while in another vehicle.",
+      "es": "Destruye 1000 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 1000 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 1000 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 1000 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁1000个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5968",
+    "directive_tree_id": "140",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Verteidigung",
+      "en": "Bio Lab Defense",
+      "es": "Defensa de Bio Lab",
+      "fr": "Défense des Bio Labs",
+      "it": "Difesa del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита Bio Lab",
+      "tr": "NULL",
+      "zh": "守卫生物实验室"
+    },
+    "description": {
+      "de": "Verteidige 250x Biolabore.",
+      "en": "Defend Bio Labs 250 times.",
+      "es": "Defiende Bio Labs 250 veces.",
+      "fr": "Protégez des Bio Labs 250 fois.",
+      "it": "Difendi Bio Lab 250 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Bio Lab 250 раз.",
+      "tr": "NULL",
+      "zh": "守卫生物实验室250次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5953",
+    "directive_tree_id": "140",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 100 Alarme ab.",
+      "en": "Complete 100 alerts.",
+      "es": "Completa 100 alertas.",
+      "fr": "Terminez 100 alertes.",
+      "it": "Completa 100 allerte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 100 раз.",
+      "tr": "NULL",
+      "zh": "完成100次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5969",
+    "directive_tree_id": "140",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 100x Technikanlagen.",
+      "en": "Capture Tech Plants 100 times.",
+      "es": "Captura Tech Plants 100 veces.",
+      "fr": "Capturez des Tech Plants 100 fois.",
+      "it": "Conquista Tech Plant 100 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant 100 раз.",
+      "tr": "NULL",
+      "zh": "占领技术工厂100次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5970",
+    "directive_tree_id": "140",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 250x Technikanlagen.",
+      "en": "Defend Tech Plants 250 times.",
+      "es": "Defiende Tech Plants 250 veces.",
+      "fr": "Protégez des Tech Plants 250 fois.",
+      "it": "Difendi Tech Plant 250 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 250 раз.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂250次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5891",
+    "directive_tree_id": "139",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 1x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 1 time.",
+      "es": "Captura Amp Stations 1 vez.",
+      "fr": "Capturez des Amp Stations 1 fois.",
+      "it": "Conquista Amp Station 1 volta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 1 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心1次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5915",
+    "directive_tree_id": "139",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 1x Technikanlagen auf Indar.",
+      "en": "Capture Tech Plants on Indar 1 time.",
+      "es": "Captura Tech Plants en Indar 1 vez.",
+      "fr": "Capturez des Tech Plants sur Indar 1 fois.",
+      "it": "Conquista Tech Plant su Indar 1 volta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant в Indar 1 раз.",
+      "tr": "NULL",
+      "zh": "占领Indar的技术工厂1次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5892",
+    "directive_tree_id": "139",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 2x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 2 times.",
+      "es": "Defiende Amp Stations 2 veces.",
+      "fr": "Protégez des Amp Stations 2 fois.",
+      "it": "Difendi le Amp Station 2 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 2 раза.",
+      "tr": "NULL",
+      "zh": "守卫电力中心2次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5916",
+    "directive_tree_id": "139",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Eroberung",
+      "en": "Bio Lab Capture",
+      "es": "Captura de Bio Lab",
+      "fr": "Capture des Bio Labs",
+      "it": "Conquista del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Bio Lab",
+      "tr": "NULL",
+      "zh": "占领生物实验室"
+    },
+    "description": {
+      "de": "Erobere 1x ein Biolabor auf Indar.",
+      "en": "Capture Bio Labs 1 time on Indar.",
+      "es": "Captura Bio Labs 1 vez en Indar.",
+      "fr": "Capturez des Bio Labs sur Indar 1 fois.",
+      "it": "Conquista Bio Lab su Indar 1 volta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Bio Lab в Indar 1 раз.",
+      "tr": "NULL",
+      "zh": "占领Indar的生物实验室1次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5893",
+    "directive_tree_id": "139",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Indar Punktkontrolle",
+      "en": "Indar Point Control",
+      "es": "Control de puntos de Indar",
+      "fr": "Point de contrôle d'Indar",
+      "it": "Punto di controllo Indar",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Indar",
+      "tr": "NULL",
+      "zh": "Indar据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 1 Punkt-Kontrollabzeichen.",
+      "en": "Earn 1 Point Control Ribbon.",
+      "es": "Gana 1 galón de control de puntos.",
+      "fr": "Gagnez une décoration de point de contrôle.",
+      "it": "Guadagna 1 medaglia Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 1 ленту контроля точки.",
+      "tr": "NULL",
+      "zh": "获得1个据点控制绶带。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5917",
+    "directive_tree_id": "139",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 2x Technikanlagen.",
+      "en": "Defend Tech Plants 2 times.",
+      "es": "Defiende Tech Plants 2 veces.",
+      "fr": "Protégez des Tech Plants 2 fois.",
+      "it": "Difendi Tech Plant 2 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 2 раза.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂2次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5894",
+    "directive_tree_id": "139",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 10 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 10 vehicles while in another vehicle.",
+      "es": "Destruye 10 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 10 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 10 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 10 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁10个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5895",
+    "directive_tree_id": "139",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 1 Alarm ab.",
+      "en": "Complete 1 alerts.",
+      "es": "Completa 1 alerta.",
+      "fr": "Terminez 1 alerte.",
+      "it": "Completa 1 allerta.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 1 раз.",
+      "tr": "NULL",
+      "zh": "完成一次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5918",
+    "directive_tree_id": "139",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Verteidigung",
+      "en": "Bio Lab Defense",
+      "es": "Defensa de Bio Lab",
+      "fr": "Défense des Bio Labs",
+      "it": "Difesa del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита Bio Lab",
+      "tr": "NULL",
+      "zh": "守卫生物实验室"
+    },
+    "description": {
+      "de": "Verteidige 2x Biolabore.",
+      "en": "Defend Bio Labs 2 times.",
+      "es": "Defiende Bio Labs 2 veces.",
+      "fr": "Protégez des Bio Labs 2 fois.",
+      "it": "Difendi Bio Lab 2 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Bio Lab 2 раза.",
+      "tr": "NULL",
+      "zh": "守卫生物实验室2次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5897",
+    "directive_tree_id": "139",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 15x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 15 times.",
+      "es": "Captura Amp Stations 15 veces.",
+      "fr": "Capturez des Amp Stations 15 fois.",
+      "it": "Conquista Amp Station 15 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 15 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心15次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5921",
+    "directive_tree_id": "139",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Eroberung",
+      "en": "Bio Lab Capture",
+      "es": "Captura de Bio Lab",
+      "fr": "Capture des Bio Labs",
+      "it": "Conquista del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Bio Lab",
+      "tr": "NULL",
+      "zh": "占领生物实验室"
+    },
+    "description": {
+      "de": "Erobere 15x Biolabore.",
+      "en": "Capture Bio Labs 15 times.",
+      "es": "Captura Bio Labs 15 veces.",
+      "fr": "Capturez des Bio Labs 15 fois.",
+      "it": "Conquista Bio Lab 15 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Bio Lab 15 раз.",
+      "tr": "NULL",
+      "zh": "占领生物实验室15次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5898",
+    "directive_tree_id": "139",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 30x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 30 times.",
+      "es": "Defiende Amp Stations 30 veces.",
+      "fr": "Protégez des Amp Stations 30 fois.",
+      "it": "Difendi Amp Station 30 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 30 раз.",
+      "tr": "NULL",
+      "zh": "守卫电力中心30次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5899",
+    "directive_tree_id": "139",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Indar Punktkontrolle",
+      "en": "Indar Point Control",
+      "es": "Control de puntos de Indar",
+      "fr": "Point de contrôle d'Indar",
+      "it": "Punto di controllo Indar",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Indar",
+      "tr": "NULL",
+      "zh": "Indar据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 15 Punktekontrolle-Auszeichnungen.",
+      "en": "Earn 15 Point Control Ribbons.",
+      "es": "Gana 15 galones de control de puntos.",
+      "fr": "Gagnez 15 décorations de point de contrôle.",
+      "it": "Guadagna 15 medaglie Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 15 лент контроля точки.",
+      "tr": "NULL",
+      "zh": "获得15个据点控制缎带"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5900",
+    "directive_tree_id": "139",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 25 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 25 vehicles while in another vehicle.",
+      "es": "Destruye 25 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 25 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 25 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 25 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁25个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5901",
+    "directive_tree_id": "139",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 5 Alarme ab.",
+      "en": "Complete 5 alerts.",
+      "es": "Completa 5 alertas.",
+      "fr": "Terminez 5 alertes.",
+      "it": "Completa 5 allerte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 5 раз.",
+      "tr": "NULL",
+      "zh": "完成5次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5919",
+    "directive_tree_id": "139",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 15x Technikanlagen.",
+      "en": "Capture Tech Plants 15 times.",
+      "es": "Captura Tech Plants 15 veces.",
+      "fr": "Capturez des Tech Plants 15 fois.",
+      "it": "Conquista Tech Plant 15 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant 15 раз.",
+      "tr": "NULL",
+      "zh": "占领技术工厂15次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5920",
+    "directive_tree_id": "139",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 30x Technikanlagen.",
+      "en": "Defend Tech Plants 30 times.",
+      "es": "Defiende Tech Plants 30 veces.",
+      "fr": "Protégez des Tech Plants 30 fois.",
+      "it": "Difendi Tech Plant 30 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 30 раз.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂30次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5922",
+    "directive_tree_id": "139",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Verteidigung",
+      "en": "Bio Lab Defense",
+      "es": "Defensa de Bio Lab",
+      "fr": "Défense des Bio Labs",
+      "it": "Difesa del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита Bio Lab",
+      "tr": "NULL",
+      "zh": "守卫生物实验室"
+    },
+    "description": {
+      "de": "Verteidige 30x Biolabore.",
+      "en": "Defend Bio Labs 30 times.",
+      "es": "Defiende Bio Labs 30 veces.",
+      "fr": "Protégez des Bio Labs 30 fois.",
+      "it": "Difendi Bio Lab 30 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Bio Lab 30 раз.",
+      "tr": "NULL",
+      "zh": "守卫生物实验室30次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5903",
+    "directive_tree_id": "139",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 25x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 25 times.",
+      "es": "Captura Amp Stations 25 veces.",
+      "fr": "Capturez des Amp Stations 25 fois.",
+      "it": "Conquista Amp Station 25 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 25 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心25次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5904",
+    "directive_tree_id": "139",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 50x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 50 times.",
+      "es": "Defiende Amp Stations 50 veces.",
+      "fr": "Protégez des Amp Stations 50 fois.",
+      "it": "Difendi Amp Station 50 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 50 раз.",
+      "tr": "NULL",
+      "zh": "守卫电力中心50次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5905",
+    "directive_tree_id": "139",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Indar Punktkontrolle",
+      "en": "Indar Point Control",
+      "es": "Control de puntos de Indar",
+      "fr": "Point de contrôle d'Indar",
+      "it": "Punto di controllo Indar",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Indar",
+      "tr": "NULL",
+      "zh": "Indar据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 100 Punktekontrolle-Auszeichnungen.",
+      "en": "Earn 100 Point Control Ribbons.",
+      "es": "Gana 100 galones de control de puntos.",
+      "fr": "Gagnez 100 décorations de point de contrôle.",
+      "it": "Guadagna 100 medaglie Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 100 лент контроля точки.",
+      "tr": "NULL",
+      "zh": "获得100个据点控制缎带。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5906",
+    "directive_tree_id": "139",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 100 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 100 vehicles while in another vehicle.",
+      "es": "Destruye 100 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 100 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 100 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 100 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁100个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5907",
+    "directive_tree_id": "139",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 20 Alarme ab.",
+      "en": "Complete 20 alerts.",
+      "es": "Completa 20 alertas.",
+      "fr": "Terminez 20 alertes.",
+      "it": "Completa 20 allerte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 20 раз.",
+      "tr": "NULL",
+      "zh": "完成20次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5923",
+    "directive_tree_id": "139",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 25x Technikanlagen.",
+      "en": "Capture Tech Plants 25 times.",
+      "es": "Captura Tech Plants 25 veces.",
+      "fr": "Capturez des Tech Plants 25 fois.",
+      "it": "Conquista Tech Plant 25 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant 25 раз.",
+      "tr": "NULL",
+      "zh": "占领技术工厂25次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5924",
+    "directive_tree_id": "139",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Eroberung",
+      "en": "Bio Lab Capture",
+      "es": "Captura de Bio Lab",
+      "fr": "Capture des Bio Labs",
+      "it": "Conquista del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Bio Lab",
+      "tr": "NULL",
+      "zh": "占领生物实验室"
+    },
+    "description": {
+      "de": "Erobere 25x Biolabore.",
+      "en": "Capture Bio Labs 25 times.",
+      "es": "Captura Bio Labs 25 veces.",
+      "fr": "Capturez des Bio Labs 25 fois.",
+      "it": "Conquista Bio Lab 25 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Bio Lab 25 раз.",
+      "tr": "NULL",
+      "zh": "占领生物实验室25次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5925",
+    "directive_tree_id": "139",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Verteidigung",
+      "en": "Bio Lab Defense",
+      "es": "Defensa de Bio Lab",
+      "fr": "Défense des Bio Labs",
+      "it": "Difesa del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита Bio Lab",
+      "tr": "NULL",
+      "zh": "守卫生物实验室"
+    },
+    "description": {
+      "de": "Verteidige 50x Biolabore.",
+      "en": "Defend Bio Labs 50 times.",
+      "es": "Defiende Bio Labs 50 veces.",
+      "fr": "Protégez des Bio Labs 50 fois.",
+      "it": "Difendi Bio Lab 50 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Bio Lab 50 раз.",
+      "tr": "NULL",
+      "zh": "守卫生物实验室50次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5926",
+    "directive_tree_id": "139",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 50x Technikanlagen.",
+      "en": "Defend Tech Plants 50 times.",
+      "es": "Defiende Tech Plants 50 veces.",
+      "fr": "Protégez des Tech Plants 50 fois.",
+      "it": "Difendi Tech Plant 50 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 50 раз.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂50次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5909",
+    "directive_tree_id": "139",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Verstärker-Station",
+      "en": "Amp Station Capture",
+      "es": "Conquista de Amp Station",
+      "fr": "Capture de Amp Station",
+      "it": "Conquista dell'Amp Station",
+      "ko": "앰프 스테이션 함락",
+      "pt": "Captura da Estação de Amplificação",
+      "ru": "Захват Amp Station",
+      "tr": "Amp Station Ele Geçirme",
+      "zh": "电力中心占领"
+    },
+    "description": {
+      "de": "Erobere 100x Verstärker-Stationen.",
+      "en": "Capture Amp Stations 100 times.",
+      "es": "Captura Amp Stations 100 veces.",
+      "fr": "Capturez des Amp Stations 100 fois.",
+      "it": "Conquista Amp Station 100 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Amp Station 100 раз.",
+      "tr": "NULL",
+      "zh": "占领电力中心100次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5910",
+    "directive_tree_id": "139",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Verstärker-Station",
+      "en": "Amp Station Defense",
+      "es": "Defensa de Amp Station",
+      "fr": "Défense de Amp Station",
+      "it": "Difesa dell'Amp Station",
+      "ko": "앰프 스테이션 방어",
+      "pt": "Defesa da Estação de Amplificação",
+      "ru": "Оборона Amp Station",
+      "tr": "Amp Station Savunma",
+      "zh": "电力中心防御"
+    },
+    "description": {
+      "de": "Verteidige 250x Verstärker-Stationen.",
+      "en": "Defend Amp Stations 250 times.",
+      "es": "Defiende Amp Stations 250 veces.",
+      "fr": "Protégez des Amp Stations 250 fois.",
+      "it": "Difendi Amp Station 250 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Amp Station 250 раз.",
+      "tr": "NULL",
+      "zh": "守卫电力中心250次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5911",
+    "directive_tree_id": "139",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Indar Punktkontrolle",
+      "en": "Indar Point Control",
+      "es": "Control de puntos de Indar",
+      "fr": "Point de contrôle d'Indar",
+      "it": "Punto di controllo Indar",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Контроль над точкой в Indar",
+      "tr": "NULL",
+      "zh": "Indar据点控制"
+    },
+    "description": {
+      "de": "Verdiene dir 2500 Punktekontrolle-Auszeichnungen.",
+      "en": "Earn 2500 Point Control Ribbons.",
+      "es": "Gana 2500 galones de control de puntos.",
+      "fr": "Gagnez 2500 décorations de point de contrôle.",
+      "it": "Guadagna 2500 medaglie Punto di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 2500 лент контроля точки.",
+      "tr": "NULL",
+      "zh": "获得2500个据点控制缎带。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5927",
+    "directive_tree_id": "139",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Eroberung",
+      "en": "Bio Lab Capture",
+      "es": "Captura de Bio Lab",
+      "fr": "Capture des Bio Labs",
+      "it": "Conquista del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захват Bio Lab",
+      "tr": "NULL",
+      "zh": "占领生物实验室"
+    },
+    "description": {
+      "de": "Erobere 100x Biolabore.",
+      "en": "Capture Bio Labs 100 times.",
+      "es": "Captura Bio Labs 100 veces.",
+      "fr": "Capturez des Bio Labs 100 fois.",
+      "it": "Conquista Bio Lab 100 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Bio Lab 100 раз.",
+      "tr": "NULL",
+      "zh": "占领生物实验室100次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5912",
+    "directive_tree_id": "139",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fahrzeug-Fahrzeug-Zerstörung",
+      "en": "Vehicle to Vehicle Destruction",
+      "es": "Destrucción intervehicular",
+      "fr": "Destruction Véhicule/Véhicule",
+      "it": "Distruzione da veicolo a veicolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожение техники техникой",
+      "tr": "NULL",
+      "zh": "载具对载具破坏"
+    },
+    "description": {
+      "de": "Zerstöre 1000 Fahrzeuge, während du dich in einem anderen Fahrzeug befindest.",
+      "en": "Destroy 1000 vehicles while in another vehicle.",
+      "es": "Destruye 1000 vehículos estando en otro vehículo.",
+      "fr": "Détruisez 1000 véhicules tout en étant dans un autre véhicule.",
+      "it": "Distruggi 1000 veicoli mentre sei a bordo di un altro veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте 1000 единиц транспорта, находясь в другом транспорте.",
+      "tr": "NULL",
+      "zh": "在另一载具内时摧毁1000个载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5928",
+    "directive_tree_id": "139",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Biolabor-Verteidigung",
+      "en": "Bio Lab Defense",
+      "es": "Defensa de Bio Lab",
+      "fr": "Défense des Bio Labs",
+      "it": "Difesa del Bio Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита Bio Lab",
+      "tr": "NULL",
+      "zh": "守卫生物实验室"
+    },
+    "description": {
+      "de": "Verteidige 250x Biolabore.",
+      "en": "Defend Bio Labs 250 times.",
+      "es": "Defiende Bio Labs 250 veces.",
+      "fr": "Protégez des Bio Labs 250 fois.",
+      "it": "Difendi Bio Lab 250 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Bio Lab 250 раз.",
+      "tr": "NULL",
+      "zh": "守卫生物实验室250次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5913",
+    "directive_tree_id": "139",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Alarmabschlüsse",
+      "en": "Alert Completions",
+      "es": "Alertas completadas",
+      "fr": "Accomplissements d'alertes",
+      "it": "Completamenti allarme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершения тревоги",
+      "tr": "NULL",
+      "zh": "警报完成"
+    },
+    "description": {
+      "de": "Schließe 100 Alarme ab.",
+      "en": "Complete 100 alerts.",
+      "es": "Completa 100 alertas.",
+      "fr": "Terminez 100 alertes.",
+      "it": "Completa 100 allerte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите тревогу 100 раз.",
+      "tr": "NULL",
+      "zh": "完成100次警报。"
+    },
+    "image_set_id": "14101",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5929",
+    "directive_tree_id": "139",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Eroberung der Technikanlage",
+      "en": "Tech Plant Capture",
+      "es": "Conquista de Tech Plant",
+      "fr": "Capture de Tech Plant",
+      "it": "Conquista del Tech Plant",
+      "ko": "테크 플랜트 함락",
+      "pt": "Captura da Instalação Tecnológica",
+      "ru": "Захват Tech Plant",
+      "tr": "Tech Plant Ele Geçirme",
+      "zh": "科技工厂占领"
+    },
+    "description": {
+      "de": "Erobere 100x Technikanlagen.",
+      "en": "Capture Tech Plants 100 times.",
+      "es": "Captura Tech Plants 100 veces.",
+      "fr": "Capturez des Tech Plants 100 fois.",
+      "it": "Conquista Tech Plant 100 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Захватите Tech Plant 100 раз.",
+      "tr": "NULL",
+      "zh": "占领技术工厂100次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5930",
+    "directive_tree_id": "139",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verteidigung der Technikanlage",
+      "en": "Tech Plant Defense",
+      "es": "Defensa de Tech Plant",
+      "fr": "Défense de Tech Plant",
+      "it": "Difesa del Tech Plant",
+      "ko": "테크 플랜트 방어",
+      "pt": "Defesa da Instalação Tecnológica",
+      "ru": "Оборона Tech Plant",
+      "tr": "Tech Plant Savunma",
+      "zh": "科技工厂守卫"
+    },
+    "description": {
+      "de": "Verteidige 250x Technikanlagen.",
+      "en": "Defend Tech Plants 250 times.",
+      "es": "Defiende Tech Plants 250 veces.",
+      "fr": "Protégez des Tech Plants 250 fois.",
+      "it": "Difendi Tech Plant 250 volte.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защитите Tech Plant 250 раз.",
+      "tr": "NULL",
+      "zh": "守卫技术工厂250次。"
+    },
+    "image_set_id": "14058",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_id": "5807",
+    "directive_tree_id": "136",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schlage die Hitze",
+      "en": "Beat the Heat",
+      "es": "Derrota al calor",
+      "fr": "Coup de chaleur",
+      "it": "Combatti il caldo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Одолей жару",
+      "tr": "NULL",
+      "zh": "解暑"
+    },
+    "description": {
+      "de": "Erziele Kills mit einer Sommerwaffe.",
+      "en": "Score kills with a Summer Holiday Weapon.",
+      "es": "Causa bajas con un arma de las vacaciones de verano.",
+      "fr": "Faites des victimes avec une arme des vacances d'été.",
+      "it": "Metti a punto delle uccisioni con un'arma Vacanze estive.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов летним праздничным оружием.",
+      "tr": "NULL",
+      "zh": "使用夏日假期武器完成击杀。"
+    },
+    "image_set_id": "804409",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5813",
+    "directive_tree_id": "136",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verstärkung \"Sommer\"",
+      "en": "Summer Support",
+      "es": "Apoyo de verano",
+      "fr": "Soutien de l'été",
+      "it": "Supporto Summer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Летняя поддержка",
+      "tr": "NULL",
+      "zh": "夏日支持"
+    },
+    "description": {
+      "de": "Erhalte die Verstärkungsauszeichnungen \"Sommer\", indem du Fahrzeuge nachrüstest oder reparierst, während du dich in einem Fahrzeug befindest.",
+      "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle.",
+      "es": "Gana galones de apoyo de verano al reponer suministros o reparar vehículos estando dentro de un vehículo.",
+      "fr": "Gagnez des décoration de soutien de l'été en réapprovisionnant ou en réparant des véhicules depuis un véhicule.",
+      "it": "Guadagna delle coccarde per mezzi Summer rifornendo o riparando i veicoli mentre ci sei dentro.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получайте ленты летней поддержки, пополняя запасы или ремонтируя транспорт, находясь при этом в транспорте.",
+      "tr": "NULL",
+      "zh": "通过在载具内补给或维修载具以获得夏日支援绶带。"
+    },
+    "image_set_id": "804411",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5821",
+    "directive_tree_id": "136",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Kanonenkugel!",
+      "en": "Cannonball!",
+      "es": "¡Bomba!",
+      "fr": "Boulet de canon\u00A0!",
+      "it": "Cannonata!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пушечное ядро!",
+      "tr": "NULL",
+      "zh": "炮弹！"
+    },
+    "description": {
+      "de": "Töte Feinde, nachdem du aus dem Passagiersitz der Corsair geschleudert wurdest.",
+      "en": "Kill enemies after you launch from the Corsair's passenger seat.",
+      "es": "Mata enemigos tras lanzarte desde el asiento de pasajeros de un Corsair.",
+      "fr": "Tuez des ennemis après avoir été éjecté du siège passager du Corsaire.",
+      "it": "Uccidi i nemici dopo aver effettuato un lancio dal sedile del passeggero del Corsair.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов, катапультировавшись с пассажирского места в Corsair.",
+      "tr": "NULL",
+      "zh": "从Corsair的乘员座位上弹射出去后击杀敌人。"
+    },
+    "image_set_id": "804410",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5829",
+    "directive_tree_id": "136",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Luft und Ozean",
+      "en": "Air and Ocean",
+      "es": "Mar y aire",
+      "fr": "Air et mer",
+      "it": "Aria e oceano",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Небо и океан",
+      "tr": "NULL",
+      "zh": "空中和海上"
+    },
+    "description": {
+      "de": "Erziele als Infanterie Kills, während du dich in der Luft oder unter Wasser befindest.",
+      "en": "Earn kills as infantry while airborne or underwater.",
+      "es": "Mata enemigos como infantería desde el aire o bajo el agua.",
+      "fr": "Faites des victimes en tant qu'infanterie tout en étant dans les airs ou sous l'eau.",
+      "it": "Ottieni delle uccisioni mentre sei in aria o sott'acqua.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожайте врагов пехотой, находясь в воздухе или воде.",
+      "tr": "NULL",
+      "zh": "作为步兵，在空中或水下获得击杀。"
+    },
+    "image_set_id": "13518",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5817",
+    "directive_tree_id": "136",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mini-Operation: Luftanomalien",
+      "en": "Mini-Alert: Aerial Anomalies",
+      "es": "Minialerta: Anomalía aérea",
+      "fr": "Mini-alerte\u00A0: Anomalies aériennes",
+      "it": "Mini-allerta: Anomalie aeree",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мини-тревога: Воздушные аномалии",
+      "tr": "NULL",
+      "zh": "小型预警：空中异常"
+    },
+    "description": {
+      "de": "Verdiene dir Luftanomalie-Abzeichen, indem du während des Events Tempest erntest und einlagerst.",
+      "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event.",
+      "es": "Consigue galones de Anomalía aérea obteniendo y depositando Tempestad durante el evento.",
+      "fr": "Gagnez des décorations Anomalies aériennes en récoltant et en déposant de la Tempête pendant l'événement.",
+      "it": "Guadagna le coccarde Anomalia aerea raccogliendo e depositando la Tempest durante l'evento.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте ленты за воздушную аномалию, собирая и храня Tempest во время события.",
+      "tr": "NULL",
+      "zh": "通过在事件进行期间收集和储存Tempest来获得空中异常绶带。"
+    },
+    "image_set_id": "14101",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5825",
+    "directive_tree_id": "136",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Hammerhead",
+      "en": "Hammerhead",
+      "es": "Hammerhead",
+      "fr": "Hammerhead",
+      "it": "Hammerhead",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Hammerhead",
+      "tr": "NULL",
+      "zh": "Hammerhead"
+    },
+    "description": {
+      "de": "Zerstöre feindliche Fahrzeuge oder unterstütze die Zerstörung, während du selbst in einem Fahrzeug bist.",
+      "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself.",
+      "es": "Destruye o ayuda a destruir vehículos enemigos usando un vehículo.",
+      "fr": "Détruisez et aidez à l'élimination des véhicules ennemis tout en étant vous-même dans un véhicule.",
+      "it": "Distruggi o aiuta a distruggere i veicoli nemici mentre ti trovi in un veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте вражеский транспорт или помогите в его уничтожении, также находясь в транспорте.",
+      "tr": "NULL",
+      "zh": "在载具内时击杀或协助击杀敌人的载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5806",
+    "directive_tree_id": "136",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schlage die Hitze",
+      "en": "Beat the Heat",
+      "es": "Derrota al calor",
+      "fr": "Coup de chaleur",
+      "it": "Combatti il caldo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Одолей жару",
+      "tr": "NULL",
+      "zh": "解暑"
+    },
+    "description": {
+      "de": "Erziele Kills mit einer Sommerwaffe.",
+      "en": "Score kills with a Summer Holiday Weapon.",
+      "es": "Causa bajas con un arma de las vacaciones de verano.",
+      "fr": "Faites des victimes avec une arme des vacances d'été.",
+      "it": "Metti a punto delle uccisioni con un'arma Vacanze estive.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов летним праздничным оружием.",
+      "tr": "NULL",
+      "zh": "使用夏日假期武器完成击杀。"
+    },
+    "image_set_id": "804409",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5812",
+    "directive_tree_id": "136",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verstärkung \"Sommer\"",
+      "en": "Summer Support",
+      "es": "Apoyo de verano",
+      "fr": "Soutien de l'été",
+      "it": "Supporto Summer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Летняя поддержка",
+      "tr": "NULL",
+      "zh": "夏日支持"
+    },
+    "description": {
+      "de": "Erhalte die Verstärkungsauszeichnungen \"Sommer\", indem du Fahrzeuge nachrüstest oder reparierst, während du dich in einem Fahrzeug befindest.",
+      "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle.",
+      "es": "Gana galones de apoyo de verano al reponer suministros o reparar vehículos estando dentro de un vehículo.",
+      "fr": "Gagnez des décoration de soutien de l'été en réapprovisionnant ou en réparant des véhicules depuis un véhicule.",
+      "it": "Guadagna delle coccarde per mezzi Summer rifornendo o riparando i veicoli mentre ci sei dentro.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получайте ленты летней поддержки, пополняя запасы или ремонтируя транспорт, находясь при этом в транспорте.",
+      "tr": "NULL",
+      "zh": "通过在载具内补给或维修载具以获得夏日支援绶带。"
+    },
+    "image_set_id": "804411",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5820",
+    "directive_tree_id": "136",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Kanonenkugel!",
+      "en": "Cannonball!",
+      "es": "¡Bomba!",
+      "fr": "Boulet de canon\u00A0!",
+      "it": "Cannonata!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пушечное ядро!",
+      "tr": "NULL",
+      "zh": "炮弹！"
+    },
+    "description": {
+      "de": "Töte Feinde, nachdem du aus dem Passagiersitz der Corsair geschleudert wurdest.",
+      "en": "Kill enemies after you launch from the Corsair's passenger seat.",
+      "es": "Mata enemigos tras lanzarte desde el asiento de pasajeros de un Corsair.",
+      "fr": "Tuez des ennemis après avoir été éjecté du siège passager du Corsaire.",
+      "it": "Uccidi i nemici dopo aver effettuato un lancio dal sedile del passeggero del Corsair.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов, катапультировавшись с пассажирского места в Corsair.",
+      "tr": "NULL",
+      "zh": "从Corsair的乘员座位上弹射出去后击杀敌人。"
+    },
+    "image_set_id": "804410",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5828",
+    "directive_tree_id": "136",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Luft und Ozean",
+      "en": "Air and Ocean",
+      "es": "Mar y aire",
+      "fr": "Air et mer",
+      "it": "Aria e oceano",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Небо и океан",
+      "tr": "NULL",
+      "zh": "空中和海上"
+    },
+    "description": {
+      "de": "Erziele als Infanterie Kills, während du dich in der Luft oder unter Wasser befindest.",
+      "en": "Earn kills as infantry while airborne or underwater.",
+      "es": "Mata enemigos como infantería desde el aire o bajo el agua.",
+      "fr": "Faites des victimes en tant qu'infanterie tout en étant dans les airs ou sous l'eau.",
+      "it": "Ottieni delle uccisioni mentre sei in aria o sott'acqua.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожайте врагов пехотой, находясь в воздухе или воде.",
+      "tr": "NULL",
+      "zh": "作为步兵，在空中或水下获得击杀。"
+    },
+    "image_set_id": "13518",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5816",
+    "directive_tree_id": "136",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mini-Operation: Luftanomalien",
+      "en": "Mini-Alert: Aerial Anomalies",
+      "es": "Minialerta: Anomalía aérea",
+      "fr": "Mini-alerte\u00A0: Anomalies aériennes",
+      "it": "Mini-allerta: Anomalie aeree",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мини-тревога: Воздушные аномалии",
+      "tr": "NULL",
+      "zh": "小型预警：空中异常"
+    },
+    "description": {
+      "de": "Verdiene dir Luftanomalie-Abzeichen, indem du während des Events Tempest erntest und einlagerst.",
+      "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event.",
+      "es": "Consigue galones de Anomalía aérea obteniendo y depositando Tempestad durante el evento.",
+      "fr": "Gagnez des décorations Anomalies aériennes en récoltant et en déposant de la Tempête pendant l'événement.",
+      "it": "Guadagna le coccarde Anomalia aerea raccogliendo e depositando la Tempest durante l'evento.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте ленты за воздушную аномалию, собирая и храня Tempest во время события.",
+      "tr": "NULL",
+      "zh": "通过在事件进行期间收集和储存Tempest来获得空中异常绶带。"
+    },
+    "image_set_id": "14101",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5824",
+    "directive_tree_id": "136",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Hammerhead",
+      "en": "Hammerhead",
+      "es": "Hammerhead",
+      "fr": "Hammerhead",
+      "it": "Hammerhead",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Hammerhead",
+      "tr": "NULL",
+      "zh": "Hammerhead"
+    },
+    "description": {
+      "de": "Zerstöre feindliche Fahrzeuge oder unterstütze die Zerstörung, während du selbst in einem Fahrzeug bist.",
+      "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself.",
+      "es": "Destruye o ayuda a destruir vehículos enemigos usando un vehículo.",
+      "fr": "Détruisez et aidez à l'élimination des véhicules ennemis tout en étant vous-même dans un véhicule.",
+      "it": "Distruggi o aiuta a distruggere i veicoli nemici mentre ti trovi in un veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте вражеский транспорт или помогите в его уничтожении, также находясь в транспорте.",
+      "tr": "NULL",
+      "zh": "在载具内时击杀或协助击杀敌人的载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5808",
+    "directive_tree_id": "136",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schlage die Hitze",
+      "en": "Beat the Heat",
+      "es": "Derrota al calor",
+      "fr": "Coup de chaleur",
+      "it": "Combatti il caldo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Одолей жару",
+      "tr": "NULL",
+      "zh": "解暑"
+    },
+    "description": {
+      "de": "Erziele Kills mit einer Sommerwaffe.",
+      "en": "Score kills with a Summer Holiday Weapon.",
+      "es": "Causa bajas con un arma de las vacaciones de verano.",
+      "fr": "Faites des victimes avec une arme des vacances d'été.",
+      "it": "Metti a punto delle uccisioni con un'arma Vacanze estive.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов летним праздничным оружием.",
+      "tr": "NULL",
+      "zh": "使用夏日假期武器完成击杀。"
+    },
+    "image_set_id": "804409",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5811",
+    "directive_tree_id": "136",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verstärkung \"Sommer\"",
+      "en": "Summer Support",
+      "es": "Apoyo de verano",
+      "fr": "Soutien de l'été",
+      "it": "Supporto Summer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Летняя поддержка",
+      "tr": "NULL",
+      "zh": "夏日支持"
+    },
+    "description": {
+      "de": "Erhalte die Verstärkungsauszeichnungen \"Sommer\", indem du Fahrzeuge nachrüstest oder reparierst, während du dich in einem Fahrzeug befindest.",
+      "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle.",
+      "es": "Gana galones de apoyo de verano al reponer suministros o reparar vehículos estando dentro de un vehículo.",
+      "fr": "Gagnez des décoration de soutien de l'été en réapprovisionnant ou en réparant des véhicules depuis un véhicule.",
+      "it": "Guadagna delle coccarde per mezzi Summer rifornendo o riparando i veicoli mentre ci sei dentro.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получайте ленты летней поддержки, пополняя запасы или ремонтируя транспорт, находясь при этом в транспорте.",
+      "tr": "NULL",
+      "zh": "通过在载具内补给或维修载具以获得夏日支援绶带。"
+    },
+    "image_set_id": "804411",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5819",
+    "directive_tree_id": "136",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Kanonenkugel!",
+      "en": "Cannonball!",
+      "es": "¡Bomba!",
+      "fr": "Boulet de canon\u00A0!",
+      "it": "Cannonata!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пушечное ядро!",
+      "tr": "NULL",
+      "zh": "炮弹！"
+    },
+    "description": {
+      "de": "Töte Feinde, nachdem du aus dem Passagiersitz der Corsair geschleudert wurdest.",
+      "en": "Kill enemies after you launch from the Corsair's passenger seat.",
+      "es": "Mata enemigos tras lanzarte desde el asiento de pasajeros de un Corsair.",
+      "fr": "Tuez des ennemis après avoir été éjecté du siège passager du Corsaire.",
+      "it": "Uccidi i nemici dopo aver effettuato un lancio dal sedile del passeggero del Corsair.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов, катапультировавшись с пассажирского места в Corsair.",
+      "tr": "NULL",
+      "zh": "从Corsair的乘员座位上弹射出去后击杀敌人。"
+    },
+    "image_set_id": "804410",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5827",
+    "directive_tree_id": "136",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Luft und Ozean",
+      "en": "Air and Ocean",
+      "es": "Mar y aire",
+      "fr": "Air et mer",
+      "it": "Aria e oceano",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Небо и океан",
+      "tr": "NULL",
+      "zh": "空中和海上"
+    },
+    "description": {
+      "de": "Erziele als Infanterie Kills, während du dich in der Luft oder unter Wasser befindest.",
+      "en": "Earn kills as infantry while airborne or underwater.",
+      "es": "Mata enemigos como infantería desde el aire o bajo el agua.",
+      "fr": "Faites des victimes en tant qu'infanterie tout en étant dans les airs ou sous l'eau.",
+      "it": "Ottieni delle uccisioni mentre sei in aria o sott'acqua.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожайте врагов пехотой, находясь в воздухе или воде.",
+      "tr": "NULL",
+      "zh": "作为步兵，在空中或水下获得击杀。"
+    },
+    "image_set_id": "13518",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5815",
+    "directive_tree_id": "136",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mini-Operation: Luftanomalien",
+      "en": "Mini-Alert: Aerial Anomalies",
+      "es": "Minialerta: Anomalía aérea",
+      "fr": "Mini-alerte\u00A0: Anomalies aériennes",
+      "it": "Mini-allerta: Anomalie aeree",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мини-тревога: Воздушные аномалии",
+      "tr": "NULL",
+      "zh": "小型预警：空中异常"
+    },
+    "description": {
+      "de": "Verdiene dir Luftanomalie-Abzeichen, indem du während des Events Tempest erntest und einlagerst.",
+      "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event.",
+      "es": "Consigue galones de Anomalía aérea obteniendo y depositando Tempestad durante el evento.",
+      "fr": "Gagnez des décorations Anomalies aériennes en récoltant et en déposant de la Tempête pendant l'événement.",
+      "it": "Guadagna le coccarde Anomalia aerea raccogliendo e depositando la Tempest durante l'evento.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте ленты за воздушную аномалию, собирая и храня Tempest во время события.",
+      "tr": "NULL",
+      "zh": "通过在事件进行期间收集和储存Tempest来获得空中异常绶带。"
+    },
+    "image_set_id": "14101",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5823",
+    "directive_tree_id": "136",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Hammerhead",
+      "en": "Hammerhead",
+      "es": "Hammerhead",
+      "fr": "Hammerhead",
+      "it": "Hammerhead",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Hammerhead",
+      "tr": "NULL",
+      "zh": "Hammerhead"
+    },
+    "description": {
+      "de": "Zerstöre feindliche Fahrzeuge oder unterstütze die Zerstörung, während du selbst in einem Fahrzeug bist.",
+      "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself.",
+      "es": "Destruye o ayuda a destruir vehículos enemigos usando un vehículo.",
+      "fr": "Détruisez et aidez à l'élimination des véhicules ennemis tout en étant vous-même dans un véhicule.",
+      "it": "Distruggi o aiuta a distruggere i veicoli nemici mentre ti trovi in un veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте вражеский транспорт или помогите в его уничтожении, также находясь в транспорте.",
+      "tr": "NULL",
+      "zh": "在载具内时击杀或协助击杀敌人的载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5809",
+    "directive_tree_id": "136",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schlage die Hitze",
+      "en": "Beat the Heat",
+      "es": "Derrota al calor",
+      "fr": "Coup de chaleur",
+      "it": "Combatti il caldo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Одолей жару",
+      "tr": "NULL",
+      "zh": "解暑"
+    },
+    "description": {
+      "de": "Erziele Kills mit einer Sommerwaffe.",
+      "en": "Score kills with a Summer Holiday Weapon.",
+      "es": "Causa bajas con un arma de las vacaciones de verano.",
+      "fr": "Faites des victimes avec une arme des vacances d'été.",
+      "it": "Metti a punto delle uccisioni con un'arma Vacanze estive.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов летним праздничным оружием.",
+      "tr": "NULL",
+      "zh": "使用夏日假期武器完成击杀。"
+    },
+    "image_set_id": "804409",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5810",
+    "directive_tree_id": "136",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Verstärkung \"Sommer\"",
+      "en": "Summer Support",
+      "es": "Apoyo de verano",
+      "fr": "Soutien de l'été",
+      "it": "Supporto Summer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Летняя поддержка",
+      "tr": "NULL",
+      "zh": "夏日支持"
+    },
+    "description": {
+      "de": "Erhalte die Verstärkungsauszeichnungen \"Sommer\", indem du Fahrzeuge nachrüstest oder reparierst, während du dich in einem Fahrzeug befindest.",
+      "en": "Earn Summer Support ribbons by resupplying or repairing vehicles while in a vehicle.",
+      "es": "Gana galones de apoyo de verano al reponer suministros o reparar vehículos estando dentro de un vehículo.",
+      "fr": "Gagnez des décoration de soutien de l'été en réapprovisionnant ou en réparant des véhicules depuis un véhicule.",
+      "it": "Guadagna delle coccarde per mezzi Summer rifornendo o riparando i veicoli mentre ci sei dentro.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получайте ленты летней поддержки, пополняя запасы или ремонтируя транспорт, находясь при этом в транспорте.",
+      "tr": "NULL",
+      "zh": "通过在载具内补给或维修载具以获得夏日支援绶带。"
+    },
+    "image_set_id": "804411",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5818",
+    "directive_tree_id": "136",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Kanonenkugel!",
+      "en": "Cannonball!",
+      "es": "¡Bomba!",
+      "fr": "Boulet de canon\u00A0!",
+      "it": "Cannonata!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пушечное ядро!",
+      "tr": "NULL",
+      "zh": "炮弹！"
+    },
+    "description": {
+      "de": "Töte Feinde, nachdem du aus dem Passagiersitz der Corsair geschleudert wurdest.",
+      "en": "Kill enemies after you launch from the Corsair's passenger seat.",
+      "es": "Mata enemigos tras lanzarte desde el asiento de pasajeros de un Corsair.",
+      "fr": "Tuez des ennemis après avoir été éjecté du siège passager du Corsaire.",
+      "it": "Uccidi i nemici dopo aver effettuato un lancio dal sedile del passeggero del Corsair.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Убивайте врагов, катапультировавшись с пассажирского места в Corsair.",
+      "tr": "NULL",
+      "zh": "从Corsair的乘员座位上弹射出去后击杀敌人。"
+    },
+    "image_set_id": "804410",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5826",
+    "directive_tree_id": "136",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Luft und Ozean",
+      "en": "Air and Ocean",
+      "es": "Mar y aire",
+      "fr": "Air et mer",
+      "it": "Aria e oceano",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Небо и океан",
+      "tr": "NULL",
+      "zh": "空中和海上"
+    },
+    "description": {
+      "de": "Erziele als Infanterie Kills, während du dich in der Luft oder unter Wasser befindest.",
+      "en": "Earn kills as infantry while airborne or underwater.",
+      "es": "Mata enemigos como infantería desde el aire o bajo el agua.",
+      "fr": "Faites des victimes en tant qu'infanterie tout en étant dans les airs ou sous l'eau.",
+      "it": "Ottieni delle uccisioni mentre sei in aria o sott'acqua.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожайте врагов пехотой, находясь в воздухе или воде.",
+      "tr": "NULL",
+      "zh": "作为步兵，在空中或水下获得击杀。"
+    },
+    "image_set_id": "13518",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5814",
+    "directive_tree_id": "136",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mini-Operation: Luftanomalien",
+      "en": "Mini-Alert: Aerial Anomalies",
+      "es": "Minialerta: Anomalía aérea",
+      "fr": "Mini-alerte\u00A0: Anomalies aériennes",
+      "it": "Mini-allerta: Anomalie aeree",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мини-тревога: Воздушные аномалии",
+      "tr": "NULL",
+      "zh": "小型预警：空中异常"
+    },
+    "description": {
+      "de": "Verdiene dir Luftanomalie-Abzeichen, indem du während des Events Tempest erntest und einlagerst.",
+      "en": "Earn Aerial Anomaly Ribbons by harvesting and depositing Tempest during the event.",
+      "es": "Consigue galones de Anomalía aérea obteniendo y depositando Tempestad durante el evento.",
+      "fr": "Gagnez des décorations Anomalies aériennes en récoltant et en déposant de la Tempête pendant l'événement.",
+      "it": "Guadagna le coccarde Anomalia aerea raccogliendo e depositando la Tempest durante l'evento.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте ленты за воздушную аномалию, собирая и храня Tempest во время события.",
+      "tr": "NULL",
+      "zh": "通过在事件进行期间收集和储存Tempest来获得空中异常绶带。"
+    },
+    "image_set_id": "14101",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5822",
+    "directive_tree_id": "136",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Hammerhead",
+      "en": "Hammerhead",
+      "es": "Hammerhead",
+      "fr": "Hammerhead",
+      "it": "Hammerhead",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Hammerhead",
+      "tr": "NULL",
+      "zh": "Hammerhead"
+    },
+    "description": {
+      "de": "Zerstöre feindliche Fahrzeuge oder unterstütze die Zerstörung, während du selbst in einem Fahrzeug bist.",
+      "en": "Kill or assist in killing enemy vehicles while in a vehicle yourself.",
+      "es": "Destruye o ayuda a destruir vehículos enemigos usando un vehículo.",
+      "fr": "Détruisez et aidez à l'élimination des véhicules ennemis tout en étant vous-même dans un véhicule.",
+      "it": "Distruggi o aiuta a distruggere i veicoli nemici mentre ti trovi in un veicolo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожьте вражеский транспорт или помогите в его уничтожении, также находясь в транспорте.",
+      "tr": "NULL",
+      "zh": "在载具内时击杀或协助击杀敌人的载具。"
+    },
+    "image_set_id": "13581",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "6060",
+    "directive_tree_id": "17",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Diamond\" Commissioner",
+      "en": "NS-44 \"Primed Diamond\" Commissioner",
+      "es": "NS-44 Commissioner \"Diamante preparado\"",
+      "fr": "NS-44 \"Primed Diamond\" Commissioner",
+      "it": "NS-44 \"Primed Diamond\" Commissioner",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Diamond» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Diamond\" Commissioner"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "directive_id": "6051",
+    "directive_tree_id": "17",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Diamond\" Commissioner",
+      "en": "NS-44 \"Primed Diamond\" Commissioner",
+      "es": "NS-44 Commissioner \"Diamante preparado\"",
+      "fr": "NS-44 \"Primed Diamond\" Commissioner",
+      "it": "NS-44 \"Primed Diamond\" Commissioner",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Diamond» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Diamond\" Commissioner"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "directive_id": "6059",
+    "directive_tree_id": "17",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Diamond\" Commissioner",
+      "en": "NS-44 \"Primed Diamond\" Commissioner",
+      "es": "NS-44 Commissioner \"Diamante preparado\"",
+      "fr": "NS-44 \"Primed Diamond\" Commissioner",
+      "it": "NS-44 \"Primed Diamond\" Commissioner",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Diamond» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Diamond\" Commissioner"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "directive_id": "6061",
+    "directive_tree_id": "17",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "NS-44 \"Primed Diamond\" Commissioner",
+      "en": "NS-44 \"Primed Diamond\" Commissioner",
+      "es": "NS-44 Commissioner \"Diamante preparado\"",
+      "fr": "NS-44 \"Primed Diamond\" Commissioner",
+      "it": "NS-44 \"Primed Diamond\" Commissioner",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NS-44 «Primed Diamond» Commissioner",
+      "tr": "NULL",
+      "zh": "NS-44 \"Primed Diamond\" Commissioner"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
   }
 ]
