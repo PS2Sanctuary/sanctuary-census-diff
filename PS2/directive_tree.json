@@ -1896,5 +1896,42 @@
     "image_set_id": "0",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "directive_tree_id": "137",
+    "directive_tree_category_id": "8",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Operation: Bahnbrecher",
+      "en": "Operation: Groundbreaker",
+      "es": "Operación: Rompesuelos",
+      "fr": "Opération : Groundbreaker",
+      "it": "Operazione: Spaccaterra",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Операция «Первопроходец»",
+      "tr": "NULL",
+      "zh": "行动：裂地者"
+    },
+    "description": {
+      "de": "Verfügbar bis 6. September",
+      "en": "Available through September 6th",
+      "es": "Disponible hasta el 6 de septiembre",
+      "fr": "Disponible jusqu'au 6 septembre",
+      "it": "Disponibile fino al 6 settembre",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Доступно до 6 сентября",
+      "tr": "NULL",
+      "zh": "活动持续至9月6日"
+    },
+    "image_set_id": "0",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

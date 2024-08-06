@@ -138857,5 +138857,917 @@
     "image_set_id": "1567",
     "image_id": "79658",
     "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "directive_id": "5862",
+    "directive_tree_id": "137",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mini-Operation: MAXimaler Druck",
+      "en": "Mini-Alert: MAXimum Pressure",
+      "es": "Minialerta: Presión MÁX-ima",
+      "fr": "Mini-alerte\u00A0: Pression Maximum",
+      "it": "Mini-allerta: Pressione massima",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мини-тревога: Максимальное давление",
+      "tr": "NULL",
+      "zh": "小型预警：最大压力"
+    },
+    "description": {
+      "de": "Schließe Mini-Operationen \"MAXimaler Druck\" mit mindestens 50% Teilnahme ab.",
+      "en": "Complete MAXimum Pressure mini-alerts with at least 50% participation.",
+      "es": "Completa minialertas Presión MÁX-ima con una participación del 50 % o más",
+      "fr": "Terminez les mini-alertes Pression Maximum avec une participation d'au moins 50\u00A0%.",
+      "it": "Completa le Mini-allerte Pressione massima con almeno il 50% di partecipazione.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите мини-тревогу «Максимальное давление» как минимум с 50%-ным участием.",
+      "tr": "NULL",
+      "zh": "以至少50%的参与度完成小型预警：最大压力"
+    },
+    "image_set_id": "14101",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5869",
+    "directive_tree_id": "137",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Sonnenschutz",
+      "en": "Sunscreen",
+      "es": "Protector solar",
+      "fr": "Crème solaire",
+      "it": "Protezione solare",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита от солнца",
+      "tr": "NULL",
+      "zh": "遮阳板"
+    },
+    "description": {
+      "de": "Verdiene Heilungs-Erfahrung.",
+      "en": "Earn healing experience.",
+      "es": "Gana experiencia curando.",
+      "fr": "Gagnez de l'expérience en guérison.",
+      "it": "Guadagna esperienza di guarigione.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получите опыт за лечение.",
+      "tr": "NULL",
+      "zh": "获得恢复经验值。"
+    },
+    "image_set_id": "14061",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5877",
+    "directive_tree_id": "137",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Strandepisode",
+      "en": "Beach Episode",
+      "es": "Episodio playero",
+      "fr": "Épisode à la plage",
+      "it": "Episodio spiaggia",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эпизод на побережье",
+      "tr": "NULL",
+      "zh": "海滩章节"
+    },
+    "description": {
+      "de": "Verdiene Trupp-Erfahrung.",
+      "en": "Earn squad experience.",
+      "es": "Gana experiencia de escuadrón.",
+      "fr": "Gagnez de l'expérience d'escouade.",
+      "it": "Guadagna esperienza di squadra.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Зарабатывайте опыт отряда.",
+      "tr": "NULL",
+      "zh": "获得小队经验值。"
+    },
+    "image_set_id": "802636",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5885",
+    "directive_tree_id": "137",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Du bist der König",
+      "en": "King of the Castle",
+      "es": "Rey del castillo",
+      "fr": "Seigneur des lieux",
+      "it": "Re del castello",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Король замка",
+      "tr": "NULL",
+      "zh": "城堡之王"
+    },
+    "description": {
+      "de": "Verdiene Erfahrung durch die Übernahme und Verteidigung von Kontrollpunkten.",
+      "en": "Earn experience by taking and defending control points.",
+      "es": "Gana experiencia al tomar y defender puntos de control.",
+      "fr": "Gagnez de l'expérience en vous emparant de points de contrôle et en les défendant.",
+      "it": "Guadagna esperienza prendendo e difendendo i punti di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получайте опыт за захват и защиту контрольных точек.",
+      "tr": "NULL",
+      "zh": "通过夺取并防御控制点来获得经验值。"
+    },
+    "image_set_id": "804410",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5873",
+    "directive_tree_id": "137",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Donnernde Wellen",
+      "en": "Crashing Waves",
+      "es": "Olas embravecidas",
+      "fr": "Vagues déferlantes",
+      "it": "Onde che si frangono",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сокрушающие волны",
+      "tr": "NULL",
+      "zh": "敌波滔滔"
+    },
+    "description": {
+      "de": "Verdiene Kills als MAX-Einheit oder gegen MAX-Einheiten.",
+      "en": "Earn kills as a MAX unit or against MAX units.",
+      "es": "Causa bajas usando un MAX o contra unidades con MAX.",
+      "fr": "Faites des victimes en tant que XAM ou contre des XAM.",
+      "it": "Ottieni uccisioni come unità MAX o contro le unità MAX.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожайте MAX и убивайте, играя за MAX.",
+      "tr": "NULL",
+      "zh": "作为MAX机甲单位或其对手获得击杀。 "
+    },
+    "image_set_id": "14098",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5881",
+    "directive_tree_id": "137",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fremdenführer",
+      "en": "Tour Guide",
+      "es": "Guía de turistas",
+      "fr": "Visite guidée",
+      "it": "Guida turistica",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Экскурсовод",
+      "tr": "NULL",
+      "zh": "旅行指南"
+    },
+    "description": {
+      "de": "Fahre oder steuere ein Fahrzeug mit einem Passagier, um Fortschritt für diese Anweisung zu erreichen.",
+      "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive.",
+      "es": "Conduce o pilota un vehículo con pasajeros para avanzar en esta directiva.",
+      "fr": "Plongez ou pilotez un véhicule avec un passager pour progresser dans cette directive.",
+      "it": "Guida o pilota un veicolo con un passeggero per progredire in questa direttiva.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Управляйте транспортом с пассажиром для прогресса в выполнении этой директивы.",
+      "tr": "NULL",
+      "zh": "驾驶搭载乘员的载具来积累完成此成就的进度。"
+    },
+    "image_set_id": "802636",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5863",
+    "directive_tree_id": "137",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mini-Operation: MAXimaler Druck",
+      "en": "Mini-Alert: MAXimum Pressure",
+      "es": "Minialerta: Presión MÁX-ima",
+      "fr": "Mini-alerte\u00A0: Pression Maximum",
+      "it": "Mini-allerta: Pressione massima",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мини-тревога: Максимальное давление",
+      "tr": "NULL",
+      "zh": "小型预警：最大压力"
+    },
+    "description": {
+      "de": "Schließe Mini-Operationen \"MAXimaler Druck\" mit mindestens 50% Teilnahme ab.",
+      "en": "Complete MAXimum Pressure mini-alerts with at least 50% participation.",
+      "es": "Completa minialertas Presión MÁX-ima con una participación del 50 % o más",
+      "fr": "Terminez les mini-alertes Pression Maximum avec une participation d'au moins 50\u00A0%.",
+      "it": "Completa le Mini-allerte Pressione massima con almeno il 50% di partecipazione.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите мини-тревогу «Максимальное давление» как минимум с 50%-ным участием.",
+      "tr": "NULL",
+      "zh": "以至少50%的参与度完成小型预警：最大压力"
+    },
+    "image_set_id": "14101",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5868",
+    "directive_tree_id": "137",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Sonnenschutz",
+      "en": "Sunscreen",
+      "es": "Protector solar",
+      "fr": "Crème solaire",
+      "it": "Protezione solare",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита от солнца",
+      "tr": "NULL",
+      "zh": "遮阳板"
+    },
+    "description": {
+      "de": "Verdiene Heilungs-Erfahrung.",
+      "en": "Earn healing experience.",
+      "es": "Gana experiencia curando.",
+      "fr": "Gagnez de l'expérience en guérison.",
+      "it": "Guadagna esperienza di guarigione.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получите опыт за лечение.",
+      "tr": "NULL",
+      "zh": "获得恢复经验值。"
+    },
+    "image_set_id": "14061",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5876",
+    "directive_tree_id": "137",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Strandepisode",
+      "en": "Beach Episode",
+      "es": "Episodio playero",
+      "fr": "Épisode à la plage",
+      "it": "Episodio spiaggia",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эпизод на побережье",
+      "tr": "NULL",
+      "zh": "海滩章节"
+    },
+    "description": {
+      "de": "Verdiene Trupp-Erfahrung.",
+      "en": "Earn squad experience.",
+      "es": "Gana experiencia de escuadrón.",
+      "fr": "Gagnez de l'expérience d'escouade.",
+      "it": "Guadagna esperienza di squadra.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Зарабатывайте опыт отряда.",
+      "tr": "NULL",
+      "zh": "获得小队经验值。"
+    },
+    "image_set_id": "802636",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5872",
+    "directive_tree_id": "137",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Donnernde Wellen",
+      "en": "Crashing Waves",
+      "es": "Olas embravecidas",
+      "fr": "Vagues déferlantes",
+      "it": "Onde che si frangono",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сокрушающие волны",
+      "tr": "NULL",
+      "zh": "敌波滔滔"
+    },
+    "description": {
+      "de": "Verdiene Kills als MAX-Einheit oder gegen MAX-Einheiten.",
+      "en": "Earn kills as a MAX unit or against MAX units.",
+      "es": "Causa bajas usando un MAX o contra unidades con MAX.",
+      "fr": "Faites des victimes en tant que XAM ou contre des XAM.",
+      "it": "Ottieni uccisioni come unità MAX o contro le unità MAX.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожайте MAX и убивайте, играя за MAX.",
+      "tr": "NULL",
+      "zh": "作为MAX机甲单位或其对手获得击杀。 "
+    },
+    "image_set_id": "14098",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5880",
+    "directive_tree_id": "137",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fremdenführer",
+      "en": "Tour Guide",
+      "es": "Guía de turistas",
+      "fr": "Visite guidée",
+      "it": "Guida turistica",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Экскурсовод",
+      "tr": "NULL",
+      "zh": "旅行指南"
+    },
+    "description": {
+      "de": "Fahre oder steuere ein Fahrzeug mit einem Passagier, um Fortschritt für diese Anweisung zu erreichen.",
+      "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive.",
+      "es": "Conduce o pilota un vehículo con pasajeros para avanzar en esta directiva.",
+      "fr": "Plongez ou pilotez un véhicule avec un passager pour progresser dans cette directive.",
+      "it": "Guida o pilota un veicolo con un passeggero per progredire in questa direttiva.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Управляйте транспортом с пассажиром для прогресса в выполнении этой директивы.",
+      "tr": "NULL",
+      "zh": "驾驶搭载乘员的载具来积累完成此成就的进度。"
+    },
+    "image_set_id": "802636",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5882",
+    "directive_tree_id": "137",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Du bist der König",
+      "en": "King of the Castle",
+      "es": "Rey del castillo",
+      "fr": "Seigneur des lieux",
+      "it": "Re del castello",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Король замка",
+      "tr": "NULL",
+      "zh": "城堡之王"
+    },
+    "description": {
+      "de": "Verdiene Erfahrung durch die Übernahme und Verteidigung von Kontrollpunkten.",
+      "en": "Earn experience by taking and defending control points.",
+      "es": "Gana experiencia al tomar y defender puntos de control.",
+      "fr": "Gagnez de l'expérience en vous emparant de points de contrôle et en les défendant.",
+      "it": "Guadagna esperienza prendendo e difendendo i punti di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получайте опыт за захват и защиту контрольных точек.",
+      "tr": "NULL",
+      "zh": "通过夺取并防御控制点来获得经验值。"
+    },
+    "image_set_id": "804410",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5864",
+    "directive_tree_id": "137",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mini-Operation: MAXimaler Druck",
+      "en": "Mini-Alert: MAXimum Pressure",
+      "es": "Minialerta: Presión MÁX-ima",
+      "fr": "Mini-alerte\u00A0: Pression Maximum",
+      "it": "Mini-allerta: Pressione massima",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мини-тревога: Максимальное давление",
+      "tr": "NULL",
+      "zh": "小型预警：最大压力"
+    },
+    "description": {
+      "de": "Schließe Mini-Operationen \"MAXimaler Druck\" mit mindestens 50% Teilnahme ab.",
+      "en": "Complete MAXimum Pressure mini-alerts with at least 50% participation.",
+      "es": "Completa minialertas Presión MÁX-ima con una participación del 50 % o más",
+      "fr": "Terminez les mini-alertes Pression Maximum avec une participation d'au moins 50\u00A0%.",
+      "it": "Completa le Mini-allerte Pressione massima con almeno il 50% di partecipazione.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите мини-тревогу «Максимальное давление» как минимум с 50%-ным участием.",
+      "tr": "NULL",
+      "zh": "以至少50%的参与度完成小型预警：最大压力"
+    },
+    "image_set_id": "14101",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5867",
+    "directive_tree_id": "137",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Sonnenschutz",
+      "en": "Sunscreen",
+      "es": "Protector solar",
+      "fr": "Crème solaire",
+      "it": "Protezione solare",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита от солнца",
+      "tr": "NULL",
+      "zh": "遮阳板"
+    },
+    "description": {
+      "de": "Verdiene Heilungs-Erfahrung.",
+      "en": "Earn healing experience.",
+      "es": "Gana experiencia curando.",
+      "fr": "Gagnez de l'expérience en guérison.",
+      "it": "Guadagna esperienza di guarigione.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получите опыт за лечение.",
+      "tr": "NULL",
+      "zh": "获得恢复经验值。"
+    },
+    "image_set_id": "14061",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5875",
+    "directive_tree_id": "137",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Strandepisode",
+      "en": "Beach Episode",
+      "es": "Episodio playero",
+      "fr": "Épisode à la plage",
+      "it": "Episodio spiaggia",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эпизод на побережье",
+      "tr": "NULL",
+      "zh": "海滩章节"
+    },
+    "description": {
+      "de": "Verdiene Trupp-Erfahrung.",
+      "en": "Earn squad experience.",
+      "es": "Gana experiencia de escuadrón.",
+      "fr": "Gagnez de l'expérience d'escouade.",
+      "it": "Guadagna esperienza di squadra.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Зарабатывайте опыт отряда.",
+      "tr": "NULL",
+      "zh": "获得小队经验值。"
+    },
+    "image_set_id": "802636",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5883",
+    "directive_tree_id": "137",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Du bist der König",
+      "en": "King of the Castle",
+      "es": "Rey del castillo",
+      "fr": "Seigneur des lieux",
+      "it": "Re del castello",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Король замка",
+      "tr": "NULL",
+      "zh": "城堡之王"
+    },
+    "description": {
+      "de": "Verdiene Erfahrung durch die Übernahme und Verteidigung von Kontrollpunkten.",
+      "en": "Earn experience by taking and defending control points.",
+      "es": "Gana experiencia al tomar y defender puntos de control.",
+      "fr": "Gagnez de l'expérience en vous emparant de points de contrôle et en les défendant.",
+      "it": "Guadagna esperienza prendendo e difendendo i punti di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получайте опыт за захват и защиту контрольных точек.",
+      "tr": "NULL",
+      "zh": "通过夺取并防御控制点来获得经验值。"
+    },
+    "image_set_id": "804410",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5871",
+    "directive_tree_id": "137",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Donnernde Wellen",
+      "en": "Crashing Waves",
+      "es": "Olas embravecidas",
+      "fr": "Vagues déferlantes",
+      "it": "Onde che si frangono",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сокрушающие волны",
+      "tr": "NULL",
+      "zh": "敌波滔滔"
+    },
+    "description": {
+      "de": "Verdiene Kills als MAX-Einheit oder gegen MAX-Einheiten.",
+      "en": "Earn kills as a MAX unit or against MAX units.",
+      "es": "Causa bajas usando un MAX o contra unidades con MAX.",
+      "fr": "Faites des victimes en tant que XAM ou contre des XAM.",
+      "it": "Ottieni uccisioni come unità MAX o contro le unità MAX.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожайте MAX и убивайте, играя за MAX.",
+      "tr": "NULL",
+      "zh": "作为MAX机甲单位或其对手获得击杀。 "
+    },
+    "image_set_id": "14098",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5879",
+    "directive_tree_id": "137",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fremdenführer",
+      "en": "Tour Guide",
+      "es": "Guía de turistas",
+      "fr": "Visite guidée",
+      "it": "Guida turistica",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Экскурсовод",
+      "tr": "NULL",
+      "zh": "旅行指南"
+    },
+    "description": {
+      "de": "Fahre oder steuere ein Fahrzeug mit einem Passagier, um Fortschritt für diese Anweisung zu erreichen.",
+      "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive.",
+      "es": "Conduce o pilota un vehículo con pasajeros para avanzar en esta directiva.",
+      "fr": "Plongez ou pilotez un véhicule avec un passager pour progresser dans cette directive.",
+      "it": "Guida o pilota un veicolo con un passeggero per progredire in questa direttiva.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Управляйте транспортом с пассажиром для прогресса в выполнении этой директивы.",
+      "tr": "NULL",
+      "zh": "驾驶搭载乘员的载具来积累完成此成就的进度。"
+    },
+    "image_set_id": "802636",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5865",
+    "directive_tree_id": "137",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Mini-Operation: MAXimaler Druck",
+      "en": "Mini-Alert: MAXimum Pressure",
+      "es": "Minialerta: Presión MÁX-ima",
+      "fr": "Mini-alerte\u00A0: Pression Maximum",
+      "it": "Mini-allerta: Pressione massima",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мини-тревога: Максимальное давление",
+      "tr": "NULL",
+      "zh": "小型预警：最大压力"
+    },
+    "description": {
+      "de": "Schließe Mini-Operationen \"MAXimaler Druck\" mit mindestens 50% Teilnahme ab.",
+      "en": "Complete MAXimum Pressure mini-alerts with at least 50% participation.",
+      "es": "Completa minialertas Presión MÁX-ima con una participación del 50 % o más",
+      "fr": "Terminez les mini-alertes Pression Maximum avec une participation d'au moins 50\u00A0%.",
+      "it": "Completa le Mini-allerte Pressione massima con almeno il 50% di partecipazione.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завершите мини-тревогу «Максимальное давление» как минимум с 50%-ным участием.",
+      "tr": "NULL",
+      "zh": "以至少50%的参与度完成小型预警：最大压力"
+    },
+    "image_set_id": "14101",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5866",
+    "directive_tree_id": "137",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Sonnenschutz",
+      "en": "Sunscreen",
+      "es": "Protector solar",
+      "fr": "Crème solaire",
+      "it": "Protezione solare",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Защита от солнца",
+      "tr": "NULL",
+      "zh": "遮阳板"
+    },
+    "description": {
+      "de": "Verdiene Heilungs-Erfahrung.",
+      "en": "Earn healing experience.",
+      "es": "Gana experiencia curando.",
+      "fr": "Gagnez de l'expérience en guérison.",
+      "it": "Guadagna esperienza di guarigione.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получите опыт за лечение.",
+      "tr": "NULL",
+      "zh": "获得恢复经验值。"
+    },
+    "image_set_id": "14061",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5874",
+    "directive_tree_id": "137",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Strandepisode",
+      "en": "Beach Episode",
+      "es": "Episodio playero",
+      "fr": "Épisode à la plage",
+      "it": "Episodio spiaggia",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эпизод на побережье",
+      "tr": "NULL",
+      "zh": "海滩章节"
+    },
+    "description": {
+      "de": "Verdiene Trupp-Erfahrung.",
+      "en": "Earn squad experience.",
+      "es": "Gana experiencia de escuadrón.",
+      "fr": "Gagnez de l'expérience d'escouade.",
+      "it": "Guadagna esperienza di squadra.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Зарабатывайте опыт отряда.",
+      "tr": "NULL",
+      "zh": "获得小队经验值。"
+    },
+    "image_set_id": "802636",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5870",
+    "directive_tree_id": "137",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Donnernde Wellen",
+      "en": "Crashing Waves",
+      "es": "Olas embravecidas",
+      "fr": "Vagues déferlantes",
+      "it": "Onde che si frangono",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сокрушающие волны",
+      "tr": "NULL",
+      "zh": "敌波滔滔"
+    },
+    "description": {
+      "de": "Verdiene Kills als MAX-Einheit oder gegen MAX-Einheiten.",
+      "en": "Earn kills as a MAX unit or against MAX units.",
+      "es": "Causa bajas usando un MAX o contra unidades con MAX.",
+      "fr": "Faites des victimes en tant que XAM ou contre des XAM.",
+      "it": "Ottieni uccisioni come unità MAX o contro le unità MAX.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Уничтожайте MAX и убивайте, играя за MAX.",
+      "tr": "NULL",
+      "zh": "作为MAX机甲单位或其对手获得击杀。 "
+    },
+    "image_set_id": "14098",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5878",
+    "directive_tree_id": "137",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fremdenführer",
+      "en": "Tour Guide",
+      "es": "Guía de turistas",
+      "fr": "Visite guidée",
+      "it": "Guida turistica",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Экскурсовод",
+      "tr": "NULL",
+      "zh": "旅行指南"
+    },
+    "description": {
+      "de": "Fahre oder steuere ein Fahrzeug mit einem Passagier, um Fortschritt für diese Anweisung zu erreichen.",
+      "en": "Drive or pilot a vehicle with a passenger to earn progress toward this directive.",
+      "es": "Conduce o pilota un vehículo con pasajeros para avanzar en esta directiva.",
+      "fr": "Plongez ou pilotez un véhicule avec un passager pour progresser dans cette directive.",
+      "it": "Guida o pilota un veicolo con un passeggero per progredire in questa direttiva.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Управляйте транспортом с пассажиром для прогресса в выполнении этой директивы.",
+      "tr": "NULL",
+      "zh": "驾驶搭载乘员的载具来积累完成此成就的进度。"
+    },
+    "image_set_id": "802636",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "directive_id": "5884",
+    "directive_tree_id": "137",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Du bist der König",
+      "en": "King of the Castle",
+      "es": "Rey del castillo",
+      "fr": "Seigneur des lieux",
+      "it": "Re del castello",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Король замка",
+      "tr": "NULL",
+      "zh": "城堡之王"
+    },
+    "description": {
+      "de": "Verdiene Erfahrung durch die Übernahme und Verteidigung von Kontrollpunkten.",
+      "en": "Earn experience by taking and defending control points.",
+      "es": "Gana experiencia al tomar y defender puntos de control.",
+      "fr": "Gagnez de l'expérience en vous emparant de points de contrôle et en les défendant.",
+      "it": "Guadagna esperienza prendendo e difendendo i punti di controllo.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Получайте опыт за захват и защиту контрольных точек.",
+      "tr": "NULL",
+      "zh": "通过夺取并防御控制点来获得经验值。"
+    },
+    "image_set_id": "804410",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]
