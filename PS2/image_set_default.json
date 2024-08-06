@@ -25099,16 +25099,16 @@
     "image_set_id": "8224",
     "image_id": "9113",
     "description": "icon_Decal_Pinup_TR",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
+    "type_id": "8",
+    "type_description": "Very Large (256 pixel height)",
     "image_path": "/files/ps2/images/static/9113.png"
   },
   {
     "image_set_id": "8225",
     "image_id": "9116",
     "description": "icon_Decal_Pinup_VS",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
+    "type_id": "8",
+    "type_description": "Very Large (256 pixel height)",
     "image_path": "/files/ps2/images/static/9116.png"
   },
   {
@@ -85106,7 +85106,7 @@
   {
     "image_set_id": "808096",
     "image_id": "97581",
-    "description": "I_Frogman_Armor_VS_EN (2024)",
+    "description": "I_Frogman_Armor_VS_EN (Tides of Summer Bravo 2024)",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97581.png"
@@ -85114,7 +85114,7 @@
   {
     "image_set_id": "808097",
     "image_id": "97584",
-    "description": "I_Frogman_Armor_VS_HA (2024)",
+    "description": "I_Frogman_Armor_VS_HA (Tides of Summer Bravo 2024)",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97584.png"
@@ -85122,7 +85122,7 @@
   {
     "image_set_id": "808098",
     "image_id": "97587",
-    "description": "I_Frogman_Armor_VS_INF (2024)",
+    "description": "I_Frogman_Armor_VS_INF (Tides of Summer Bravo 2024)",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97587.png"
@@ -85130,7 +85130,7 @@
   {
     "image_set_id": "808100",
     "image_id": "97596",
-    "description": "I_Frogman_Armor_VS_LA (2024)",
+    "description": "I_Frogman_Armor_VS_LA (Tides of Summer Bravo 2024)",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97596.png"
@@ -85138,7 +85138,7 @@
   {
     "image_set_id": "808101",
     "image_id": "97599",
-    "description": "I_Frogman_Armor_VS_CM",
+    "description": "I_Frogman_Armor_VS_CM (Tides of Summer Bravo 2024)",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97599.png"
@@ -85350,5 +85350,277 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97671.png"
+  },
+  {
+    "image_set_id": "808132",
+    "image_id": "97683",
+    "description": "I_Frogman_Armor_TR_LA (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97683.png"
+  },
+  {
+    "image_set_id": "808134",
+    "image_id": "97686",
+    "description": "I_Frogman_Armor_TR_CM (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97686.png"
+  },
+  {
+    "image_set_id": "808135",
+    "image_id": "97692",
+    "description": "I_Frogman_Armor_TR_EN (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97692.png"
+  },
+  {
+    "image_set_id": "808136",
+    "image_id": "97695",
+    "description": "I_Frogman_Armor_TR_HA (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97695.png"
+  },
+  {
+    "image_set_id": "808137",
+    "image_id": "97698",
+    "description": "I_Frogman_Armor_TR_INF (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97698.png"
+  },
+  {
+    "image_set_id": "808143",
+    "image_id": "97716",
+    "description": "I_Frogman_Armor_NC_EN (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97716.png"
+  },
+  {
+    "image_set_id": "808144",
+    "image_id": "97719",
+    "description": "I_Frogman_Armor_NC_HA (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97719.png"
+  },
+  {
+    "image_set_id": "808145",
+    "image_id": "97722",
+    "description": "I_Frogman_Armor_NC_INF (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97722.png"
+  },
+  {
+    "image_set_id": "808146",
+    "image_id": "97725",
+    "description": "I_Frogman_Armor_NC_LA (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97725.png"
+  },
+  {
+    "image_set_id": "808147",
+    "image_id": "97728",
+    "description": "I_Frogman_Armor_NC_CM (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97728.png"
+  },
+  {
+    "image_set_id": "808168",
+    "image_id": "97887",
+    "description": "I_Frogman_Armor_NSO_EN (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97887.png"
+  },
+  {
+    "image_set_id": "808169",
+    "image_id": "97890",
+    "description": "I_Frogman_Armor_NSO_HA(Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97890.png"
+  },
+  {
+    "image_set_id": "808170",
+    "image_id": "97893",
+    "description": "I_Frogman_Armor_NSO_INF (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97893.png"
+  },
+  {
+    "image_set_id": "808171",
+    "image_id": "97896",
+    "description": "I_Frogman_Armor_NSO_LA (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97896.png"
+  },
+  {
+    "image_set_id": "808172",
+    "image_id": "97884",
+    "description": "I_Frogman_Armor_NSO_CM (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97884.png"
+  },
+  {
+    "image_set_id": "808178",
+    "image_id": "97810",
+    "description": "I_BNR_Muertos",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97810.png"
+  },
+  {
+    "image_set_id": "808179",
+    "image_id": "97811",
+    "description": "BNR_Muertos",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97811.png"
+  },
+  {
+    "image_set_id": "808180",
+    "image_id": "97814",
+    "description": "I_FRM_Muertos",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97814.png"
+  },
+  {
+    "image_set_id": "808181",
+    "image_id": "97815",
+    "description": "FRM_Muertos",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97815.png"
+  },
+  {
+    "image_set_id": "808184",
+    "image_id": "97837",
+    "description": "I_CAMO_Muertos_TR",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97837.png"
+  },
+  {
+    "image_set_id": "808185",
+    "image_id": "97840",
+    "description": "I_CAMO_Muertos_NSO",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97840.png"
+  },
+  {
+    "image_set_id": "808186",
+    "image_id": "97843",
+    "description": "I_CAMO_Muertos_VS",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97843.png"
+  },
+  {
+    "image_set_id": "808187",
+    "image_id": "97846",
+    "description": "I_CAMO_Muertos_NC",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97846.png"
+  },
+  {
+    "image_set_id": "808188",
+    "image_id": "97849",
+    "description": "I_Camo_NascentExpeditionsAnniversary_NC",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97849.png"
+  },
+  {
+    "image_set_id": "808189",
+    "image_id": "97852",
+    "description": "I_Camo_NascentExpeditionsAnniversary_TR",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97852.png"
+  },
+  {
+    "image_set_id": "808190",
+    "image_id": "97855",
+    "description": "I_Camo_NascentExpeditionsAnniversary_NSO",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97855.png"
+  },
+  {
+    "image_set_id": "808191",
+    "image_id": "97858",
+    "description": "I_Camo_NascentExpeditionsAnniversary_VS",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97858.png"
+  },
+  {
+    "image_set_id": "808192",
+    "image_id": "97861",
+    "description": "I_DCL_12thAnniversary_2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97861.png"
+  },
+  {
+    "image_set_id": "808193",
+    "image_id": "97865",
+    "description": "I_Camo_12thAnniversary_NC",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97865.png"
+  },
+  {
+    "image_set_id": "808194",
+    "image_id": "97868",
+    "description": "I_Camo_12thAnniversary_TR",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97868.png"
+  },
+  {
+    "image_set_id": "808195",
+    "image_id": "97871",
+    "description": "I_Camo_12thAnniversary_VS",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97871.png"
+  },
+  {
+    "image_set_id": "808196",
+    "image_id": "97874",
+    "description": "I_Camo_12thAnniversary_NSO",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97874.png"
+  },
+  {
+    "image_set_id": "808197",
+    "image_id": "97878",
+    "description": "I_BND_FrogmanArmor_NSO (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97878.png"
+  },
+  {
+    "image_set_id": "808198",
+    "image_id": "97881",
+    "description": "I_BND_FrogmanArmor (Tides of Summer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97881.png"
   }
 ]
