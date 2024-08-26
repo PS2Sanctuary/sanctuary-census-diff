@@ -85622,5 +85622,101 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97881.png"
+  },
+  {
+    "image_set_id": "808199",
+    "image_id": "97899",
+    "description": "I_DCL_Muertos_2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97899.png"
+  },
+  {
+    "image_set_id": "808200",
+    "image_id": "97901",
+    "description": "BNR_EyeOfKronos",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97901.png"
+  },
+  {
+    "image_set_id": "808201",
+    "image_id": "97904",
+    "description": "I_BNR_EyeOfKronos",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97904.png"
+  },
+  {
+    "image_set_id": "808202",
+    "image_id": "97905",
+    "description": "FRM_EyeOfKronos",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97905.png"
+  },
+  {
+    "image_set_id": "808203",
+    "image_id": "97908",
+    "description": "I_FRM_EyeOfKronos",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97908.png"
+  },
+  {
+    "image_set_id": "808204",
+    "image_id": "97911",
+    "description": "I_DCL_EyeOfKronos_2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97911.png"
+  },
+  {
+    "image_set_id": "808205",
+    "image_id": "97915",
+    "description": "I_DCL_LegionOfTheCrows_2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97915.png"
+  },
+  {
+    "image_set_id": "808206",
+    "image_id": "97919",
+    "description": "I_BNR_LegionOfTheCrows_2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97919.png"
+  },
+  {
+    "image_set_id": "808207",
+    "image_id": "97920",
+    "description": "BNR_LegionOfTheCrows_2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97920.png"
+  },
+  {
+    "image_set_id": "808208",
+    "image_id": "97923",
+    "description": "I_FRM_LegionOfTheCrows_2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97923.png"
+  },
+  {
+    "image_set_id": "808209",
+    "image_id": "97924",
+    "description": "FRM_LegionOfTheCrow_2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97924.png"
+  },
+  {
+    "image_set_id": "808211",
+    "image_id": "97930",
+    "description": "I_ExtraLife_MA_Tool_2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97930.png"
   }
 ]

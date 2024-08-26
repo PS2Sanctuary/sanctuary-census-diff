@@ -7976,7 +7976,7 @@
     "initial_value": "0",
     "initial_value_max": "NULL",
     "use_initial_value_as_max": "0",
-    "max_value": "NULL",
+    "max_value": "1",
     "value_marker_lo": "NULL",
     "value_marker_med": "NULL",
     "value_marker_hi": "NULL",
