@@ -31,8 +31,8 @@
       "tr": "Emerald",
       "zh": "Emerald"
     },
-    "is_locked": "1",
-    "lock_state": "Locked",
+    "is_locked": "0",
+    "lock_state": "Unlocked",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -67,8 +67,8 @@
       "tr": "Cobalt",
       "zh": "Cobalt"
     },
-    "is_locked": "1",
-    "lock_state": "Locked",
+    "is_locked": "0",
+    "lock_state": "Unlocked",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -103,8 +103,8 @@
       "tr": "Miller",
       "zh": "Miller"
     },
-    "is_locked": "1",
-    "lock_state": "Locked",
+    "is_locked": "0",
+    "lock_state": "Unlocked",
     "is_unprivileged_access_allowed": "1"
   },
   {
