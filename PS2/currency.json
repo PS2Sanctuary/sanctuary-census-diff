@@ -438,5 +438,27 @@
     "image_id": "94361",
     "image_path": "/files/ps2/images/static/94361.png",
     "map_icon_image_set_id": "806981"
+  },
+  {
+    "currency_id": "7035",
+    "name": {
+      "de": "Fischmünzen",
+      "en": "Fishcoins",
+      "es": "Monedas pez",
+      "fr": "Pièces de pêche",
+      "it": "Monete pesce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рыбные монеты",
+      "tr": "NULL",
+      "zh": "鱼币"
+    },
+    "description": "NULL",
+    "inventory_cap": "25000",
+    "icon_id": "808173",
+    "image_set_id": "808173",
+    "image_id": "97794",
+    "image_path": "/files/ps2/images/static/97794.png",
+    "map_icon_image_set_id": "808173"
   }
 ]

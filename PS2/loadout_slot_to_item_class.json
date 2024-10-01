@@ -15556,5 +15556,125 @@
     "slot_id": "20",
     "item_class_id": "50719",
     "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "1",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "5",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "8",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "10",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "11",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "12",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "13",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "15",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "17",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "19",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "20",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "28",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "31",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
   }
 ]

@@ -84768,22 +84768,6 @@
     "image_path": "/files/ps2/images/static/97222.png"
   },
   {
-    "image_set_id": "807990",
-    "image_id": "97243",
-    "description": "I_Fishing_AuraxisFish_Common_CoastalThornbill(Fishing 2024)",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97243.png"
-  },
-  {
-    "image_set_id": "807991",
-    "image_id": "97246",
-    "description": "I_Fishing_AuraxisFish_Rare_AstraxianWormech",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97246.png"
-  },
-  {
     "image_set_id": "808040",
     "image_id": "97423",
     "description": "I_Frogman_Helmet_VS (Frogman Helmet)",
@@ -85718,5 +85702,421 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97930.png"
+  },
+  {
+    "image_set_id": "808133",
+    "image_id": "97689",
+    "description": "Fish - Softhead Mumbler",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97689.png"
+  },
+  {
+    "image_set_id": "808138",
+    "image_id": "97701",
+    "description": "Fish - Regular Wetgripper",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97701.png"
+  },
+  {
+    "image_set_id": "808139",
+    "image_id": "97704",
+    "description": "Fish - Reticulaheaded Anther",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97704.png"
+  },
+  {
+    "image_set_id": "808140",
+    "image_id": "97707",
+    "description": "Fish - Winged Pseudofloater",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97707.png"
+  },
+  {
+    "image_set_id": "808141",
+    "image_id": "97710",
+    "description": "Fish - Shelled Reefcrusher",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97710.png"
+  },
+  {
+    "image_set_id": "808142",
+    "image_id": "97713",
+    "description": "Fish - Mudcreeper",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97713.png"
+  },
+  {
+    "image_set_id": "808148",
+    "image_id": "97731",
+    "description": "Fish - Voidswifter Anoa",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97731.png"
+  },
+  {
+    "image_set_id": "808149",
+    "image_id": "97734",
+    "description": "Fish - Spiked Siltdigger",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97734.png"
+  },
+  {
+    "image_set_id": "808155",
+    "image_id": "97754",
+    "description": "Fish - Coastal Thornbill",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97754.png"
+  },
+  {
+    "image_set_id": "808157",
+    "image_id": "97760",
+    "description": "Fish - Astraxian Wormech",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97760.png"
+  },
+  {
+    "image_set_id": "808158",
+    "image_id": "97763",
+    "description": "Fish - Warthog Triton",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97763.png"
+  },
+  {
+    "image_set_id": "808159",
+    "image_id": "97766",
+    "description": "Fish - Purple Bubblereaver",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97766.png"
+  },
+  {
+    "image_set_id": "808160",
+    "image_id": "97769",
+    "description": "Fish - Oshur Cleaverjaw",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97769.png"
+  },
+  {
+    "image_set_id": "808161",
+    "image_id": "97772",
+    "description": "Fish - Ghosted Phlegmata",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97772.png"
+  },
+  {
+    "image_set_id": "808162",
+    "image_id": "97775",
+    "description": "Fish - Shimmering Abyssal Gargantua",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97775.png"
+  },
+  {
+    "image_set_id": "808163",
+    "image_id": "97778",
+    "description": "Fish - Pimplespin Screamer",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97778.png"
+  },
+  {
+    "image_set_id": "808164",
+    "image_id": "97781",
+    "description": "Fish - Lavra Medullaria",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97781.png"
+  },
+  {
+    "image_set_id": "808165",
+    "image_id": "97784",
+    "description": "Fish - Unghotian Plasmabreaker",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97784.png"
+  },
+  {
+    "image_set_id": "808166",
+    "image_id": "97787",
+    "description": "Fish - Augumentatroxis",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97787.png"
+  },
+  {
+    "image_set_id": "808167",
+    "image_id": "97790",
+    "description": "Fish - Fullmetal Erupter",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97790.png"
+  },
+  {
+    "image_set_id": "808173",
+    "image_id": "97794",
+    "description": "Fishing - Currency",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97794.png"
+  },
+  {
+    "image_set_id": "808174",
+    "image_id": "97797",
+    "description": "icon_directives_badges_bronze_fishing",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97797.png"
+  },
+  {
+    "image_set_id": "808175",
+    "image_id": "97800",
+    "description": "icon_directives_badges_silver_fishing",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97800.png"
+  },
+  {
+    "image_set_id": "808176",
+    "image_id": "97803",
+    "description": "icon_directives_badges_gold_fishing",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97803.png"
+  },
+  {
+    "image_set_id": "808177",
+    "image_id": "97804",
+    "description": "I_directive_fishing",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "image_set_id": "808212",
+    "image_id": "97933",
+    "description": "Fishing - Attractor 1",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97933.png"
+  },
+  {
+    "image_set_id": "808213",
+    "image_id": "97936",
+    "description": "Fishing - Attractor 2",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97936.png"
+  },
+  {
+    "image_set_id": "808214",
+    "image_id": "97940",
+    "description": "Fishing - Attractor 3",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97940.png"
+  },
+  {
+    "image_set_id": "808215",
+    "image_id": "97943",
+    "description": "Fishing - Attractor 4",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97943.png"
+  },
+  {
+    "image_set_id": "808216",
+    "image_id": "97946",
+    "description": "Extra Life Repair Tool",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97946.png"
+  },
+  {
+    "image_set_id": "808217",
+    "image_id": "97949",
+    "description": "Fishing - Battery 1",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97949.png"
+  },
+  {
+    "image_set_id": "808218",
+    "image_id": "97952",
+    "description": "Fishing - Battery 2",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97952.png"
+  },
+  {
+    "image_set_id": "808219",
+    "image_id": "97955",
+    "description": "Fishing - Battery 3",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97955.png"
+  },
+  {
+    "image_set_id": "808220",
+    "image_id": "97958",
+    "description": "Fishing - Emitter 1",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97958.png"
+  },
+  {
+    "image_set_id": "808221",
+    "image_id": "97961",
+    "description": "Fishing - Emitter 2",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97961.png"
+  },
+  {
+    "image_set_id": "808222",
+    "image_id": "97964",
+    "description": "Fishing - Emitter 3",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97964.png"
+  },
+  {
+    "image_set_id": "808223",
+    "image_id": "97967",
+    "description": "Common: Iceberg Knife",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97967.png"
+  },
+  {
+    "image_set_id": "808224",
+    "image_id": "97970",
+    "description": "I_DCL_SeptOfAnu (12th Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97970.png"
+  },
+  {
+    "image_set_id": "808225",
+    "image_id": "97974",
+    "description": "I_BNR_SeptOfAnu (12th Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97974.png"
+  },
+  {
+    "image_set_id": "808226",
+    "image_id": "97975",
+    "description": "BNR_SeptOfAnu (12th Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97975.png"
+  },
+  {
+    "image_set_id": "808227",
+    "image_id": "97978",
+    "description": "I_FRM_SeptOfAnu (12th Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97978.png"
+  },
+  {
+    "image_set_id": "808228",
+    "image_id": "97979",
+    "description": "FRM_SeptOfAnu (12th Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97979.png"
+  },
+  {
+    "image_set_id": "808229",
+    "image_id": "97982",
+    "description": "I_FRM_DaughtersOfDawn (12th Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97982.png"
+  },
+  {
+    "image_set_id": "808230",
+    "image_id": "97983",
+    "description": "FRM_DaughtersOfDawn (12th Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97983.png"
+  },
+  {
+    "image_set_id": "808231",
+    "image_id": "97986",
+    "description": "I_BNR_DaughtersOfDawn (12th Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97986.png"
+  },
+  {
+    "image_set_id": "808232",
+    "image_id": "97987",
+    "description": "BNR_DaughtersOfDawn (12th Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97987.png"
+  },
+  {
+    "image_set_id": "808233",
+    "image_id": "97990",
+    "description": "I_DCL_DaughtersOfDawn (12th Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97990.png"
+  },
+  {
+    "image_set_id": "808234",
+    "image_id": "97995",
+    "description": "I_Muertos_Mask_Helmet_NSO",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97995.png"
+  },
+  {
+    "image_set_id": "808235",
+    "image_id": "97998",
+    "description": "I_Muertos_Mask_Helmet_NC",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97998.png"
+  },
+  {
+    "image_set_id": "808236",
+    "image_id": "98001",
+    "description": "I_Muertos_Mask_Helmet_TR",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98001.png"
+  },
+  {
+    "image_set_id": "808237",
+    "image_id": "98004",
+    "description": "I_Muertos_Mask_Helmet_VS",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98004.png"
+  },
+  {
+    "image_set_id": "808238",
+    "image_id": "98008",
+    "description": "I_BND_2023_Directive_Bundle",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98008.png"
   }
 ]

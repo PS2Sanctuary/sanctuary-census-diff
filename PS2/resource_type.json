@@ -253,5 +253,13 @@
     "image_set_id": "NULL",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "resource_type_id": "159",
+    "description": "FishingBattery",
+    "name": "NULL",
+    "image_set_id": "NULL",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]
