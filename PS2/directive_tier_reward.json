@@ -11664,5 +11664,465 @@
     "image_set_id": "803838",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6302",
+    "item_id": "6015211",
+    "name": {
+      "de": "Inferno-Schminkmaske",
+      "en": "Infernal Facepaint",
+      "es": "Maquillaje infernal",
+      "fr": "Peinture faciale infernale",
+      "it": "Trucco infernale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Инфернальный грим",
+      "tr": "NULL",
+      "zh": "地狱脸谱"
+    },
+    "quantity": "1",
+    "image_set_id": "807789",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6302",
+    "item_id": "6015674",
+    "name": {
+      "de": "Emblem \"Muertos\"",
+      "en": "Muertos Decal",
+      "es": "Emblema de muertos",
+      "fr": "Décalco \"Muertos\"",
+      "it": "Adesivo Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема Muertos",
+      "tr": "NULL",
+      "zh": "亡灵涂装"
+    },
+    "quantity": "1",
+    "image_set_id": "808199",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6302",
+    "item_id": "6008573",
+    "name": {
+      "de": "Ichabod-Krone (Spukversion)",
+      "en": "Haunted Ichabod Crown",
+      "es": "Corona de Ichabod encantada",
+      "fr": "Couronne d'Ichabod hantée",
+      "it": "Corona Ichabod stregata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Корона Ихавода",
+      "tr": "NULL",
+      "zh": "幽灵以迦博皇冠"
+    },
+    "quantity": "1",
+    "image_set_id": "806152",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6302",
+    "item_id": "77893",
+    "name": {
+      "de": "250 ZERTS",
+      "en": "250 Certs",
+      "es": "250 Certs",
+      "fr": "250 Accréditations",
+      "it": "250 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "250 сертификатов",
+      "tr": "NULL",
+      "zh": "250证书点"
+    },
+    "quantity": "1",
+    "image_set_id": "2208",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6303",
+    "item_id": "6015660",
+    "name": {
+      "de": "Bannerrahmen \"Muertos\"",
+      "en": "Muertos Banner Frame",
+      "es": "Marco de estandarte de muertos",
+      "fr": "Cadre de bannière \"Muertos\"",
+      "it": "Cornice per insegna Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера Muertos",
+      "tr": "NULL",
+      "zh": "亡灵横幅框"
+    },
+    "quantity": "1",
+    "image_set_id": "808180",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6303",
+    "item_id": "6015659",
+    "name": {
+      "de": "Banner \"Muertos\"",
+      "en": "Muertos Banner",
+      "es": "Estandarte de muertos",
+      "fr": "Bannière \"Muertos\"",
+      "it": "Insegna Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер Muertos",
+      "tr": "NULL",
+      "zh": "亡灵横幅"
+    },
+    "quantity": "1",
+    "image_set_id": "808178",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6303",
+    "item_id": "6008708",
+    "name": {
+      "de": "500 ISO-4",
+      "en": "500 ISO-4",
+      "es": "500 ISO-4",
+      "fr": "500 ISO-4",
+      "it": "500 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 ISO-4",
+      "tr": "NULL",
+      "zh": "500 ISO-4"
+    },
+    "quantity": "1",
+    "image_set_id": "803815",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6304",
+    "item_id": "6003486",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "quantity": "1",
+    "image_set_id": "803836",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6304",
+    "item_id": "6015664",
+    "name": {
+      "de": "Tarnung \"Muertos\"",
+      "en": "Muertos Camo",
+      "es": "Camuflaje de muertos",
+      "fr": "Camouflage \"Muertos\"",
+      "it": "Mimetica Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Muertos",
+      "tr": "NULL",
+      "zh": "亡灵迷彩"
+    },
+    "quantity": "1",
+    "image_set_id": "808185",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6304",
+    "item_id": "6009498",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "quantity": "1",
+    "image_set_id": "806266",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6306",
+    "item_id": "6015753",
+    "name": {
+      "de": "Muertos-Maske",
+      "en": "Muertos Mask",
+      "es": "Máscara de muertos",
+      "fr": "Masque \"Muertos\"",
+      "it": "Maschera Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Маска Muertos",
+      "tr": "NULL",
+      "zh": "亡灵面具"
+    },
+    "quantity": "1",
+    "image_set_id": "808234",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6306",
+    "item_id": "6008980",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "quantity": "1",
+    "image_set_id": "803838",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6306",
+    "item_id": "6015738",
+    "name": {
+      "de": "Titel: El Muerto",
+      "en": "Title: El Muerto",
+      "es": "Título: El Muerto",
+      "fr": "Titre\u00A0: El Muerto",
+      "it": "Titolo: El Muerto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: El Muerto",
+      "tr": "NULL",
+      "zh": "头衔：亡灵"
+    },
+    "quantity": "1",
+    "image_set_id": "808008",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6302",
+    "item_id": "6015207",
+    "name": {
+      "de": "Inferno-Schminkmaske",
+      "en": "Infernal Facepaint",
+      "es": "Maquillaje infernal",
+      "fr": "Peinture faciale infernale",
+      "it": "Trucco infernale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Инфернальный грим",
+      "tr": "NULL",
+      "zh": "地狱脸谱"
+    },
+    "quantity": "1",
+    "image_set_id": "807787",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6302",
+    "item_id": "801964",
+    "name": {
+      "de": "Ichabod-Krone (Spukversion)",
+      "en": "Haunted Ichabod Crown",
+      "es": "Corona de Ichabod encantada",
+      "fr": "Couronne d'Ichabod hantée",
+      "it": "Corona Ichabod stregata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Корона Ихавода",
+      "tr": "NULL",
+      "zh": "幽灵以迦博皇冠"
+    },
+    "quantity": "1",
+    "image_set_id": "82833",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6304",
+    "item_id": "6015663",
+    "name": {
+      "de": "Tarnung \"Muertos\"",
+      "en": "Muertos Camo",
+      "es": "Camuflaje de muertos",
+      "fr": "Camouflage \"Muertos\"",
+      "it": "Mimetica Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Muertos",
+      "tr": "NULL",
+      "zh": "亡灵迷彩"
+    },
+    "quantity": "1",
+    "image_set_id": "808186",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6306",
+    "item_id": "6015756",
+    "name": {
+      "de": "Muertos-Maske",
+      "en": "Muertos Mask",
+      "es": "Máscara de muertos",
+      "fr": "Masque \"Muertos\"",
+      "it": "Maschera Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Маска Muertos",
+      "tr": "NULL",
+      "zh": "亡灵面具"
+    },
+    "quantity": "1",
+    "image_set_id": "808237",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6302",
+    "item_id": "801963",
+    "name": {
+      "de": "Ichabod-Krone (Spukversion)",
+      "en": "Haunted Ichabod Crown",
+      "es": "Corona de Ichabod encantada",
+      "fr": "Couronne d'Ichabod hantée",
+      "it": "Corona Ichabod stregata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Корона Ихавода",
+      "tr": "NULL",
+      "zh": "幽灵以迦博皇冠"
+    },
+    "quantity": "1",
+    "image_set_id": "82832",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6304",
+    "item_id": "6015661",
+    "name": {
+      "de": "Tarnung \"Muertos\"",
+      "en": "Muertos Camo",
+      "es": "Camuflaje de muertos",
+      "fr": "Camouflage \"Muertos\"",
+      "it": "Mimetica Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Muertos",
+      "tr": "NULL",
+      "zh": "亡灵迷彩"
+    },
+    "quantity": "1",
+    "image_set_id": "808184",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6306",
+    "item_id": "6015755",
+    "name": {
+      "de": "Muertos-Maske",
+      "en": "Muertos Mask",
+      "es": "Máscara de muertos",
+      "fr": "Masque \"Muertos\"",
+      "it": "Maschera Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Маска Muertos",
+      "tr": "NULL",
+      "zh": "亡灵面具"
+    },
+    "quantity": "1",
+    "image_set_id": "808236",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6302",
+    "item_id": "801959",
+    "name": {
+      "de": "Ichabod-Krone (Spukversion)",
+      "en": "Haunted Ichabod Crown",
+      "es": "Corona de Ichabod encantada",
+      "fr": "Couronne d'Ichabod hantée",
+      "it": "Corona Ichabod stregata",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Корона Ихавода",
+      "tr": "NULL",
+      "zh": "幽灵以迦博皇冠"
+    },
+    "quantity": "1",
+    "image_set_id": "82831",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6304",
+    "item_id": "6015662",
+    "name": {
+      "de": "Tarnung \"Muertos\"",
+      "en": "Muertos Camo",
+      "es": "Camuflaje de muertos",
+      "fr": "Camouflage \"Muertos\"",
+      "it": "Mimetica Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Muertos",
+      "tr": "NULL",
+      "zh": "亡灵迷彩"
+    },
+    "quantity": "1",
+    "image_set_id": "808187",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6306",
+    "item_id": "6015754",
+    "name": {
+      "de": "Muertos-Maske",
+      "en": "Muertos Mask",
+      "es": "Máscara de muertos",
+      "fr": "Masque \"Muertos\"",
+      "it": "Maschera Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Маска Muertos",
+      "tr": "NULL",
+      "zh": "亡灵面具"
+    },
+    "quantity": "1",
+    "image_set_id": "808235",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
   }
 ]

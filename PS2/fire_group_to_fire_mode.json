@@ -13795,16 +13795,6 @@
     "fire_mode_index": "1"
   },
   {
-    "fire_group_id": "81023",
-    "fire_mode_id": "81440",
-    "fire_mode_index": "0"
-  },
-  {
-    "fire_group_id": "81023",
-    "fire_mode_id": "81439",
-    "fire_mode_index": "1"
-  },
-  {
     "fire_group_id": "81030",
     "fire_mode_id": "81453",
     "fire_mode_index": "0"
@@ -13812,6 +13802,131 @@
   {
     "fire_group_id": "81030",
     "fire_mode_id": "81454",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "81023",
+    "fire_mode_id": "81439",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "81032",
+    "fire_mode_id": "81456",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "81032",
+    "fire_mode_id": "81457",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "81033",
+    "fire_mode_id": "81458",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "81033",
+    "fire_mode_id": "81459",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "81034",
+    "fire_mode_id": "81460",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "81034",
+    "fire_mode_id": "81461",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "81035",
+    "fire_mode_id": "81463",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "81035",
+    "fire_mode_id": "81462",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "81036",
+    "fire_mode_id": "81464",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "81036",
+    "fire_mode_id": "81465",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "81037",
+    "fire_mode_id": "81466",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "81037",
+    "fire_mode_id": "81467",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "81038",
+    "fire_mode_id": "81468",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "81038",
+    "fire_mode_id": "81469",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "81039",
+    "fire_mode_id": "81470",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "81039",
+    "fire_mode_id": "81471",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "81040",
+    "fire_mode_id": "81472",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "81040",
+    "fire_mode_id": "81473",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "81041",
+    "fire_mode_id": "81474",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "81041",
+    "fire_mode_id": "81475",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "81042",
+    "fire_mode_id": "81476",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "81042",
+    "fire_mode_id": "81477",
+    "fire_mode_index": "1"
+  },
+  {
+    "fire_group_id": "81043",
+    "fire_mode_id": "81479",
+    "fire_mode_index": "0"
+  },
+  {
+    "fire_group_id": "81043",
+    "fire_mode_id": "81478",
     "fire_mode_index": "1"
   }
 ]

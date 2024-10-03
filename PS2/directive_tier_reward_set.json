@@ -13982,5 +13982,309 @@
     "image_set_id": "808108",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6302",
+    "faction_id": "4",
+    "name": {
+      "de": "Inferno-Schminkmaske",
+      "en": "Infernal Facepaint",
+      "es": "Maquillaje infernal",
+      "fr": "Peinture faciale infernale",
+      "it": "Trucco infernale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Инфернальный грим",
+      "tr": "NULL",
+      "zh": "地狱脸谱"
+    },
+    "image_set_id": "807789",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6303",
+    "faction_id": "4",
+    "name": {
+      "de": "Bannerrahmen \"Muertos\"",
+      "en": "Muertos Banner Frame",
+      "es": "Marco de estandarte de muertos",
+      "fr": "Cadre de bannière \"Muertos\"",
+      "it": "Cornice per insegna Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера Muertos",
+      "tr": "NULL",
+      "zh": "亡灵横幅框"
+    },
+    "image_set_id": "808180",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6304",
+    "faction_id": "4",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6306",
+    "faction_id": "4",
+    "name": {
+      "de": "Muertos-Maske",
+      "en": "Muertos Mask",
+      "es": "Máscara de muertos",
+      "fr": "Masque \"Muertos\"",
+      "it": "Maschera Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Маска Muertos",
+      "tr": "NULL",
+      "zh": "亡灵面具"
+    },
+    "image_set_id": "808234",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6302",
+    "faction_id": "1",
+    "name": {
+      "de": "Inferno-Schminkmaske",
+      "en": "Infernal Facepaint",
+      "es": "Maquillaje infernal",
+      "fr": "Peinture faciale infernale",
+      "it": "Trucco infernale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Инфернальный грим",
+      "tr": "NULL",
+      "zh": "地狱脸谱"
+    },
+    "image_set_id": "807787",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6303",
+    "faction_id": "1",
+    "name": {
+      "de": "Bannerrahmen \"Muertos\"",
+      "en": "Muertos Banner Frame",
+      "es": "Marco de estandarte de muertos",
+      "fr": "Cadre de bannière \"Muertos\"",
+      "it": "Cornice per insegna Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера Muertos",
+      "tr": "NULL",
+      "zh": "亡灵横幅框"
+    },
+    "image_set_id": "808180",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6304",
+    "faction_id": "1",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6306",
+    "faction_id": "1",
+    "name": {
+      "de": "Muertos-Maske",
+      "en": "Muertos Mask",
+      "es": "Máscara de muertos",
+      "fr": "Masque \"Muertos\"",
+      "it": "Maschera Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Маска Muertos",
+      "tr": "NULL",
+      "zh": "亡灵面具"
+    },
+    "image_set_id": "808237",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6302",
+    "faction_id": "3",
+    "name": {
+      "de": "Inferno-Schminkmaske",
+      "en": "Infernal Facepaint",
+      "es": "Maquillaje infernal",
+      "fr": "Peinture faciale infernale",
+      "it": "Trucco infernale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Инфернальный грим",
+      "tr": "NULL",
+      "zh": "地狱脸谱"
+    },
+    "image_set_id": "807787",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6303",
+    "faction_id": "3",
+    "name": {
+      "de": "Bannerrahmen \"Muertos\"",
+      "en": "Muertos Banner Frame",
+      "es": "Marco de estandarte de muertos",
+      "fr": "Cadre de bannière \"Muertos\"",
+      "it": "Cornice per insegna Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера Muertos",
+      "tr": "NULL",
+      "zh": "亡灵横幅框"
+    },
+    "image_set_id": "808180",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6304",
+    "faction_id": "3",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6306",
+    "faction_id": "3",
+    "name": {
+      "de": "Muertos-Maske",
+      "en": "Muertos Mask",
+      "es": "Máscara de muertos",
+      "fr": "Masque \"Muertos\"",
+      "it": "Maschera Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Маска Muertos",
+      "tr": "NULL",
+      "zh": "亡灵面具"
+    },
+    "image_set_id": "808236",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6302",
+    "faction_id": "2",
+    "name": {
+      "de": "Inferno-Schminkmaske",
+      "en": "Infernal Facepaint",
+      "es": "Maquillaje infernal",
+      "fr": "Peinture faciale infernale",
+      "it": "Trucco infernale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Инфернальный грим",
+      "tr": "NULL",
+      "zh": "地狱脸谱"
+    },
+    "image_set_id": "807787",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6303",
+    "faction_id": "2",
+    "name": {
+      "de": "Bannerrahmen \"Muertos\"",
+      "en": "Muertos Banner Frame",
+      "es": "Marco de estandarte de muertos",
+      "fr": "Cadre de bannière \"Muertos\"",
+      "it": "Cornice per insegna Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера Muertos",
+      "tr": "NULL",
+      "zh": "亡灵横幅框"
+    },
+    "image_set_id": "808180",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6304",
+    "faction_id": "2",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6306",
+    "faction_id": "2",
+    "name": {
+      "de": "Muertos-Maske",
+      "en": "Muertos Mask",
+      "es": "Máscara de muertos",
+      "fr": "Masque \"Muertos\"",
+      "it": "Maschera Muertos",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Маска Muertos",
+      "tr": "NULL",
+      "zh": "亡灵面具"
+    },
+    "image_set_id": "808235",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
   }
 ]

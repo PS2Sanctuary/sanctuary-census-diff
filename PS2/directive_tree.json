@@ -1933,5 +1933,31 @@
     "image_set_id": "0",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "directive_tree_id": "143",
+    "directive_tree_category_id": "8",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Naniten der lebenden Toten 2024",
+      "en": "Nanite of the Living Dead 2024",
+      "es": "Nanite de los muertos vivientes 2024",
+      "fr": "Nuit Nanite des Morts-Vivants 2024",
+      "it": "La notte dei naniti viventi 2024",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Наниты живых мертвецов 2024",
+      "tr": "NULL",
+      "zh": "纳能活死人（2024年）"
+    },
+    "description": "NULL",
+    "image_set_id": "82818",
+    "image_id": "80676",
+    "image_path": "/files/ps2/images/static/80676.png"
   }
 ]
