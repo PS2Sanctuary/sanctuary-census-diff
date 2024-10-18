@@ -878,5 +878,16 @@
       "TR": "1",
       "NSO": "1"
     }
+  },
+  {
+    "world_id": "10",
+    "zone_id": "364",
+    "total": "4",
+    "population_limits": {
+      "VS": "1",
+      "NC": "1",
+      "TR": "1",
+      "NSO": "1"
+    }
   }
 ]
