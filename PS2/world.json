@@ -54,24 +54,6 @@
     "is_unprivileged_access_allowed": "0"
   },
   {
-    "world_id": "13",
-    "name": {
-      "de": "Cobalt",
-      "en": "Cobalt",
-      "es": "Cobalt",
-      "fr": "Cobalt",
-      "it": "Cobalt",
-      "ko": "코발트",
-      "pt": "Cobalto",
-      "ru": "Cobalt",
-      "tr": "Cobalt",
-      "zh": "Cobalt"
-    },
-    "is_locked": "0",
-    "lock_state": "Unlocked",
-    "is_unprivileged_access_allowed": "1"
-  },
-  {
     "world_id": "1",
     "name": {
       "de": "Connery",
