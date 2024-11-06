@@ -15676,5 +15676,23 @@
     "slot_id": "52",
     "item_class_id": "51173",
     "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "10",
+    "item_class_id": "51180",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "13",
+    "slot_id": "10",
+    "item_class_id": "51180",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "20",
+    "slot_id": "10",
+    "item_class_id": "51180",
+    "client_requirement_expression": "NULL"
   }
 ]

@@ -86118,5 +86118,277 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/98008.png"
+  },
+  {
+    "image_set_id": "808239",
+    "image_id": "98012",
+    "description": "BND_12thAnniversary_Tier1",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98012.png"
+  },
+  {
+    "image_set_id": "808240",
+    "image_id": "98015",
+    "description": "BND_12thAnniversary_Tier2",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98015.png"
+  },
+  {
+    "image_set_id": "808241",
+    "image_id": "98018",
+    "description": "BND_12thAnniversary_Tier3",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98018.png"
+  },
+  {
+    "image_set_id": "808242",
+    "image_id": "98021",
+    "description": "I_DCL_12thAnniversaryFree",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98021.png"
+  },
+  {
+    "image_set_id": "808244",
+    "image_id": "98025",
+    "description": "I_NSDHelios_HG_Ammo_BlueFlame_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98025.png"
+  },
+  {
+    "image_set_id": "808245",
+    "image_id": "98029",
+    "description": "I_NSDHelios_HG_Ammo_GreenFlame_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98029.png"
+  },
+  {
+    "image_set_id": "808246",
+    "image_id": "98033",
+    "description": "I_NSDHelios_HG_Ammo_PurpleFlame_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98033.png"
+  },
+  {
+    "image_set_id": "808247",
+    "image_id": "98037",
+    "description": "I_FRM_12thAnniversary",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98037.png"
+  },
+  {
+    "image_set_id": "808248",
+    "image_id": "98038",
+    "description": "FRM_12thAnniversary",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98038.png"
+  },
+  {
+    "image_set_id": "808249",
+    "image_id": "98041",
+    "description": "I_BNR_12thAnniversary_VS",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98041.png"
+  },
+  {
+    "image_set_id": "808250",
+    "image_id": "98042",
+    "description": "BNR_12thAnniversary_VS",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98042.png"
+  },
+  {
+    "image_set_id": "808251",
+    "image_id": "98045",
+    "description": "I_BNR_12thAnniversary_NSO",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98045.png"
+  },
+  {
+    "image_set_id": "808252",
+    "image_id": "98046",
+    "description": "BNR_12thAnniversary_NSO",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98046.png"
+  },
+  {
+    "image_set_id": "808253",
+    "image_id": "98049",
+    "description": "I_BNR_12thAnniversary_NC",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98049.png"
+  },
+  {
+    "image_set_id": "808254",
+    "image_id": "98050",
+    "description": "BNR_12thAnniversary_NC",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98050.png"
+  },
+  {
+    "image_set_id": "808255",
+    "image_id": "98053",
+    "description": "I_BNR_12thAnniversary_TR",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98053.png"
+  },
+  {
+    "image_set_id": "808256",
+    "image_id": "98054",
+    "description": "BNR_12thAnniversary_TR",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98054.png"
+  },
+  {
+    "image_set_id": "808257",
+    "image_id": "98059",
+    "description": "I_NascentExpedition_Human_Helmet",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98059.png"
+  },
+  {
+    "image_set_id": "808259",
+    "image_id": "98068",
+    "description": "I_NascentExpedition_Armor_NC_HA (12th Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98068.png"
+  },
+  {
+    "image_set_id": "808260",
+    "image_id": "98071",
+    "description": "I_NascentExpedition_Armor_TR_HA (12th Anniversary 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98071.png"
+  },
+  {
+    "image_set_id": "808261",
+    "image_id": "98074",
+    "description": "I_NascentExpedition_Armor_VS_HA (12th Anniversary 2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98074.png"
+  },
+  {
+    "image_set_id": "808262",
+    "image_id": "98077",
+    "description": "I_NascentExpedition_Armor_NC_CM (12th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98077.png"
+  },
+  {
+    "image_set_id": "808263",
+    "image_id": "98080",
+    "description": "I_NascentExpedition_Armor_TR_CM (12th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98080.png"
+  },
+  {
+    "image_set_id": "808264",
+    "image_id": "98083",
+    "description": "I_NascentExpedition_Armor_VS_CM (12th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98083.png"
+  },
+  {
+    "image_set_id": "808265",
+    "image_id": "98086",
+    "description": "I_NascentExpedition_Armor_TR_EN (12th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98086.png"
+  },
+  {
+    "image_set_id": "808266",
+    "image_id": "98089",
+    "description": "I_NascentExpedition_Armor_VS_EN (12th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98089.png"
+  },
+  {
+    "image_set_id": "808267",
+    "image_id": "98092",
+    "description": "I_NascentExpedition_Armor_NC_EN (12th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98092.png"
+  },
+  {
+    "image_set_id": "808268",
+    "image_id": "98095",
+    "description": "I_NascentExpedition_Armor_NC_INF (12th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98095.png"
+  },
+  {
+    "image_set_id": "808269",
+    "image_id": "98098",
+    "description": "I_NascentExpedition_Armor_TR_INF (12th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98098.png"
+  },
+  {
+    "image_set_id": "808270",
+    "image_id": "98101",
+    "description": "I_NascentExpedition_Armor_VS_INF (12th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98101.png"
+  },
+  {
+    "image_set_id": "808271",
+    "image_id": "98110",
+    "description": "I_Sacrificial_Knife_MW_VS (12th Anniversar)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98110.png"
+  },
+  {
+    "image_set_id": "808272",
+    "image_id": "98104",
+    "description": "I_Sacrificial_Knife_MW_NC (12th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98104.png"
+  },
+  {
+    "image_set_id": "808273",
+    "image_id": "98107",
+    "description": "I_Sacrificial_Knife_MW_TR (12th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98107.png"
+  },
+  {
+    "image_set_id": "808275",
+    "image_id": "98113",
+    "description": "I_NascentExpedition_NSO_Helmet (12th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98113.png"
   }
 ]
