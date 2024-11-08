@@ -2908,16 +2908,14 @@
       "tr": "NULL",
       "zh": "未接水库"
     },
-    "facility_type_id": "9",
-    "facility_type": "Construction Outpost",
+    "facility_type_id": "6",
+    "facility_type": "Small Outpost",
     "location_x": "757.12",
     "location_y": "139.73",
     "location_z": "-407.94",
-    "outfit_resource_reward_type_description": "Synthium",
-    "outfit_resource_reward_amount": "3",
     "capture_reward": {
-      "Description": "Synthium - Uncommon",
-      "Amount": "3"
+      "Description": "Auraxium - Common",
+      "Amount": "5"
     },
     "image_set_id": "805614",
     "image_id": "91363",

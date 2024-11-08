@@ -138716,31 +138716,9 @@
       "3",
       "4"
     ],
-    "name": {
-      "de": "NS-44 \"Primed Diamond\" Commissioner",
-      "en": "NS-44 \"Primed Diamond\" Commissioner",
-      "es": "NS-44 Commissioner \"Diamante preparado\"",
-      "fr": "NS-44 \"Primed Diamond\" Commissioner",
-      "it": "NS-44 \"Primed Diamond\" Commissioner",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-44 «Primed Diamond» Commissioner",
-      "tr": "NULL",
-      "zh": "NS-44 \"Primed Diamond\" Commissioner"
-    },
-    "description": {
-      "de": "10 Feinde getötet",
-      "en": "10 Enemies Killed",
-      "es": "10 enemigos muertos",
-      "fr": "10 ennemis tués",
-      "it": "10 nemici uccisi",
-      "ko": "적군 10명 사살",
-      "pt": "10 Inimigos Abatidos",
-      "ru": "Убить 10 врагов",
-      "tr": "10 Düşman Öldürüldü",
-      "zh": "杀敌10人"
-    },
-    "image_set_id": "1564",
+    "name": "NULL",
+    "description": "NULL",
+    "image_set_id": "0",
     "image_id": "79658",
     "image_path": "/files/ps2/images/static/79658.png"
   },
@@ -138792,31 +138770,9 @@
       "3",
       "4"
     ],
-    "name": {
-      "de": "NS-44 \"Primed Diamond\" Commissioner",
-      "en": "NS-44 \"Primed Diamond\" Commissioner",
-      "es": "NS-44 Commissioner \"Diamante preparado\"",
-      "fr": "NS-44 \"Primed Diamond\" Commissioner",
-      "it": "NS-44 \"Primed Diamond\" Commissioner",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-44 «Primed Diamond» Commissioner",
-      "tr": "NULL",
-      "zh": "NS-44 \"Primed Diamond\" Commissioner"
-    },
-    "description": {
-      "de": "50 Feinde getötet",
-      "en": "50 Enemies Killed",
-      "es": "50 enemigos muertos",
-      "fr": "50 ennemis tués",
-      "it": "50 nemici uccisi",
-      "ko": "적군 50명 사살",
-      "pt": "50 Inimigos Abatidos",
-      "ru": "Убить 50 врагов",
-      "tr": "50 Düşman Öldürüldü",
-      "zh": "杀敌50人"
-    },
-    "image_set_id": "1565",
+    "name": "NULL",
+    "description": "NULL",
+    "image_set_id": "0",
     "image_id": "79658",
     "image_path": "/files/ps2/images/static/79658.png"
   },
@@ -138830,31 +138786,9 @@
       "3",
       "4"
     ],
-    "name": {
-      "de": "NS-44 \"Primed Diamond\" Commissioner",
-      "en": "NS-44 \"Primed Diamond\" Commissioner",
-      "es": "NS-44 Commissioner \"Diamante preparado\"",
-      "fr": "NS-44 \"Primed Diamond\" Commissioner",
-      "it": "NS-44 \"Primed Diamond\" Commissioner",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "NS-44 «Primed Diamond» Commissioner",
-      "tr": "NULL",
-      "zh": "NS-44 \"Primed Diamond\" Commissioner"
-    },
-    "description": {
-      "de": "1000 Feinde getötet",
-      "en": "1000 Enemies Killed",
-      "es": "1000 enemigos muertos",
-      "fr": "1\u00A0000 ennemis tués",
-      "it": "1000 nemici uccisi",
-      "ko": "적군 1000명 사살",
-      "pt": "1000 Inimigos Abatidos",
-      "ru": "Убить 1000 врагов",
-      "tr": "1000 Düşman Öldürüldü",
-      "zh": "杀敌1000人"
-    },
-    "image_set_id": "1567",
+    "name": "NULL",
+    "description": "NULL",
+    "image_set_id": "0",
     "image_id": "79658",
     "image_path": "/files/ps2/images/static/79658.png"
   },

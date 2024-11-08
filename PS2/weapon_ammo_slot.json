@@ -13925,7 +13925,7 @@
   {
     "weapon_id": "78837",
     "weapon_slot_index": "0",
-    "clip_size": "0",
+    "clip_size": "1",
     "capacity": "0",
     "clip_model_name": "NULL"
   },
@@ -14022,6 +14022,34 @@
   },
   {
     "weapon_id": "78857",
+    "weapon_slot_index": "0",
+    "clip_size": "1",
+    "capacity": "1",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78858",
+    "weapon_slot_index": "0",
+    "clip_size": "1",
+    "capacity": "1",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78860",
+    "weapon_slot_index": "0",
+    "clip_size": "1",
+    "capacity": "1",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78861",
+    "weapon_slot_index": "0",
+    "clip_size": "1",
+    "capacity": "1",
+    "clip_model_name": "NULL"
+  },
+  {
+    "weapon_id": "78862",
     "weapon_slot_index": "0",
     "clip_size": "1",
     "capacity": "1",
