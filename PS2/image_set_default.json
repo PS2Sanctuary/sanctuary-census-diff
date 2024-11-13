@@ -86390,5 +86390,61 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/98113.png"
+  },
+  {
+    "image_set_id": "808274",
+    "image_id": "98119",
+    "description": "I_Sacrificial_Knife_MW_NSO (12th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98119.png"
+  },
+  {
+    "image_set_id": "808277",
+    "image_id": "98122",
+    "description": "I_NascentExpedition_Armor_NSO_HA (20th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98122.png"
+  },
+  {
+    "image_set_id": "808278",
+    "image_id": "98125",
+    "description": "I_NascentExpedition_Armor_NSO_LA (20th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98125.png"
+  },
+  {
+    "image_set_id": "808279",
+    "image_id": "98128",
+    "description": "I_NascentExpedition_Armor_NSO_INF (20th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98128.png"
+  },
+  {
+    "image_set_id": "808280",
+    "image_id": "98131",
+    "description": "I_NascentExpedition_Armor_NSO_EN (20th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98131.png"
+  },
+  {
+    "image_set_id": "808281",
+    "image_id": "98134",
+    "description": "I_NascentExpedition_Armor_NSO_CM (20th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98134.png"
+  },
+  {
+    "image_set_id": "808282",
+    "image_id": "98137",
+    "description": "I_Vehicle_ Glitch_Horn_Attachment (Auraximas 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98137.png"
   }
 ]
