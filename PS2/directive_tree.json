@@ -1959,5 +1959,42 @@
     "image_set_id": "82818",
     "image_id": "80676",
     "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_tree_id": "145",
+    "directive_tree_category_id": "11",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Außergewöhnlich IX",
+      "en": "Exceptional IX",
+      "es": "Excepcional IX",
+      "fr": "Exceptionnel IX",
+      "it": "Eccezionale IX",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Особое вооружение IX",
+      "tr": "NULL",
+      "zh": "卓越IX"
+    },
+    "description": {
+      "de": "Promo- und Saison-Waffen, welche eventuell nicht für den sofortigen Gebrauch verfügbar sind. ",
+      "en": "Promotional and seasonal weapons which may not be available for immediate acquistion.",
+      "es": "Armas de temporada o promocionales que pueden no estar disponibles inmediatamente.",
+      "fr": "Les offres promotionnelles et saisonnières sur les armes peuvent ne pas être disponibles pour une acquisition immédiate.",
+      "it": "Armi promozionali e stagionali che potrebbero non essere disponibili per l'acquisizione immediata.",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Акционные и сезонные виды оружия, которые не всегда можно будет приобрести немедленно.",
+      "tr": "NULL",
+      "zh": "促销和限时的武器无法使用“立即获取”功能。"
+    },
+    "image_set_id": "14396",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
   }
 ]

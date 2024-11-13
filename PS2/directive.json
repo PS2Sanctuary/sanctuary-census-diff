@@ -140539,5 +140539,1325 @@
     "image_set_id": "14137",
     "image_id": "80676",
     "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "directive_id": "6112",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6120",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6128",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6116",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6124",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6145",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "VEX-B Proto Data Point",
+      "en": "VEX-B Proto Data Point",
+      "es": "Protopunto de datos VEX-B",
+      "fr": "Point de données prototype VEX-B",
+      "it": "VEX-B Proto Data Point",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Протоинструмент VEX-B",
+      "tr": "NULL",
+      "zh": "VEX-B协议数据点"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6109",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6117",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6125",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6113",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6121",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6146",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "VEX-B Proto Data Point",
+      "en": "VEX-B Proto Data Point",
+      "es": "Protopunto de datos VEX-B",
+      "fr": "Point de données prototype VEX-B",
+      "it": "VEX-B Proto Data Point",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Протоинструмент VEX-B",
+      "tr": "NULL",
+      "zh": "VEX-B协议数据点"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6110",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6118",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6126",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6114",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6122",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6143",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "VEX-B Proto Data Point",
+      "en": "VEX-B Proto Data Point",
+      "es": "Protopunto de datos VEX-B",
+      "fr": "Point de données prototype VEX-B",
+      "it": "VEX-B Proto Data Point",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Протоинструмент VEX-B",
+      "tr": "NULL",
+      "zh": "VEX-B协议数据点"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6111",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6119",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6127",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6115",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6123",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6144",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "VEX-B Proto Data Point",
+      "en": "VEX-B Proto Data Point",
+      "es": "Protopunto de datos VEX-B",
+      "fr": "Point de données prototype VEX-B",
+      "it": "VEX-B Proto Data Point",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Протоинструмент VEX-B",
+      "tr": "NULL",
+      "zh": "VEX-B协议数据点"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6137",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "WMC Inquirer",
+      "en": "WMC Inquirer",
+      "es": "Interrogador WMC",
+      "fr": "WMC Inquirer",
+      "it": "WMC Inquirer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Дознаватель WMC",
+      "tr": "NULL",
+      "zh": "WMC Inquirer"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6138",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "WMC Inquirer",
+      "en": "WMC Inquirer",
+      "es": "Interrogador WMC",
+      "fr": "WMC Inquirer",
+      "it": "WMC Inquirer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Дознаватель WMC",
+      "tr": "NULL",
+      "zh": "WMC Inquirer"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6135",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "WMC Inquirer",
+      "en": "WMC Inquirer",
+      "es": "Interrogador WMC",
+      "fr": "WMC Inquirer",
+      "it": "WMC Inquirer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Дознаватель WMC",
+      "tr": "NULL",
+      "zh": "WMC Inquirer"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6136",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "WMC Inquirer",
+      "en": "WMC Inquirer",
+      "es": "Interrogador WMC",
+      "fr": "WMC Inquirer",
+      "it": "WMC Inquirer",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Дознаватель WMC",
+      "tr": "NULL",
+      "zh": "WMC Inquirer"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6131",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "GM Osprey",
+      "en": "GM Osprey",
+      "es": "GM Osprey",
+      "fr": "GM Osprey",
+      "it": "GM Osprey",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "GM Osprey",
+      "tr": "NULL",
+      "zh": "GM Osprey"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6132",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "GM Osprey",
+      "en": "GM Osprey",
+      "es": "GM Osprey",
+      "fr": "GM Osprey",
+      "it": "GM Osprey",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "GM Osprey",
+      "tr": "NULL",
+      "zh": "GM Osprey"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6129",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "GM Osprey",
+      "en": "GM Osprey",
+      "es": "GM Osprey",
+      "fr": "GM Osprey",
+      "it": "GM Osprey",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "GM Osprey",
+      "tr": "NULL",
+      "zh": "GM Osprey"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6130",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "GM Osprey",
+      "en": "GM Osprey",
+      "es": "GM Osprey",
+      "fr": "GM Osprey",
+      "it": "GM Osprey",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "GM Osprey",
+      "tr": "NULL",
+      "zh": "GM Osprey"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6141",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Anunnaki-Klinge",
+      "en": "Anunnaki Blade",
+      "es": "Hoja de Anunnaki",
+      "fr": "Lame Anunnaki",
+      "it": "Lama Anunnaki",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Клинок Ануннаки",
+      "tr": "NULL",
+      "zh": "Anunnaki Blade"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6142",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Anunnaki-Klinge",
+      "en": "Anunnaki Blade",
+      "es": "Hoja de Anunnaki",
+      "fr": "Lame Anunnaki",
+      "it": "Lama Anunnaki",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Клинок Ануннаки",
+      "tr": "NULL",
+      "zh": "Anunnaki Blade"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6139",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Anunnaki-Klinge",
+      "en": "Anunnaki Blade",
+      "es": "Hoja de Anunnaki",
+      "fr": "Lame Anunnaki",
+      "it": "Lama Anunnaki",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Клинок Ануннаки",
+      "tr": "NULL",
+      "zh": "Anunnaki Blade"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6140",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Anunnaki-Klinge",
+      "en": "Anunnaki Blade",
+      "es": "Hoja de Anunnaki",
+      "fr": "Lame Anunnaki",
+      "it": "Lama Anunnaki",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Клинок Ануннаки",
+      "tr": "NULL",
+      "zh": "Anunnaki Blade"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
   }
 ]
