@@ -83690,7 +83690,7 @@
   {
     "image_set_id": "807887",
     "image_id": "96951",
-    "description": "icon_Camo_Ice_Dragon_02 (Auraximas 2023)",
+    "description": "I_CAMO_ElementalDragon_NC (Auraximas 2023 Directive Reward Updated)",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/96951.png"
@@ -84098,7 +84098,7 @@
   {
     "image_set_id": "807943",
     "image_id": "97112",
-    "description": "icons_Helmet_NC_Ice_Dragon_2024 (Ice Dragon Helmet 2024)",
+    "description": "icons_Helmet_NC_Ice_Dragon_2024 (Ice Dragon Helmet 2024) (removed)",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97112.png"
@@ -84106,7 +84106,7 @@
   {
     "image_set_id": "807945",
     "image_id": "97116",
-    "description": "icons_Helmet_NSO_Ice_Dragon_2024 (Ice Dragon Helmet 2024)",
+    "description": "icons_Helmet_NSO_Ice_Dragon_2024 (Ice Dragon Helmet 2024) (removed)",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97116.png"
@@ -84114,7 +84114,7 @@
   {
     "image_set_id": "807946",
     "image_id": "97119",
-    "description": "icons_Helmet_TR_Ice_Dragon_2024 (Ice Dragon Helmet 2024)",
+    "description": "icons_Helmet_TR_Ice_Dragon_2024 (Ice Dragon Helmet 2024) (removed)",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97119.png"
@@ -84122,7 +84122,7 @@
   {
     "image_set_id": "807947",
     "image_id": "97122",
-    "description": "icons_Helmet_VS_Ice_Dragon_2024 (Ice Dragon Helmet 2024)",
+    "description": "icons_Helmet_VS_Ice_Dragon_2024 (Ice Dragon Helmet 2024) (removed)",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97122.png"
@@ -86446,5 +86446,293 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/98137.png"
+  },
+  {
+    "image_set_id": "808285",
+    "image_id": "98154",
+    "description": "I_BNR_Glitch_NC (Auraximas 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98154.png"
+  },
+  {
+    "image_set_id": "808286",
+    "image_id": "98157",
+    "description": "I_BNR_Glitch_TR (Auraximas 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98157.png"
+  },
+  {
+    "image_set_id": "808288",
+    "image_id": "98160",
+    "description": "I_BNR_Glitch_VS (Auraximas 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98160.png"
+  },
+  {
+    "image_set_id": "808289",
+    "image_id": "98163",
+    "description": "I_BNR_Glitch_NSO (Auraximas 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98163.png"
+  },
+  {
+    "image_set_id": "808290",
+    "image_id": "98148",
+    "description": "BNR_Glitch_NC (Auraximas 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98148.png"
+  },
+  {
+    "image_set_id": "808291",
+    "image_id": "98149",
+    "description": "BNR_Glitch_TR (Auraximas 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98149.png"
+  },
+  {
+    "image_set_id": "808292",
+    "image_id": "98150",
+    "description": "BNR_Glitch_VS (Auraximas 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98150.png"
+  },
+  {
+    "image_set_id": "808293",
+    "image_id": "98151",
+    "description": "BNR_Glitch_NSO (Auraximas 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98151.png"
+  },
+  {
+    "image_set_id": "808294",
+    "image_id": "98166",
+    "description": "I_FRM_Glitch (Auraximas 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98166.png"
+  },
+  {
+    "image_set_id": "808295",
+    "image_id": "98167",
+    "description": "FRM_Glitch (Auraximas 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98167.png"
+  },
+  {
+    "image_set_id": "808296",
+    "image_id": "98174",
+    "description": "I_DCL_Glitch_NSO (Auraximas 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98174.png"
+  },
+  {
+    "image_set_id": "808297",
+    "image_id": "98170",
+    "description": "I_DCL_Glitch_NC (Auraximas 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98170.png"
+  },
+  {
+    "image_set_id": "808298",
+    "image_id": "98182",
+    "description": "I_DCL_Glitch_VS (Auraximas 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98182.png"
+  },
+  {
+    "image_set_id": "808299",
+    "image_id": "98178",
+    "description": "I_DCL_Glitch_TR (Auraximas 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98178.png"
+  },
+  {
+    "image_set_id": "808300",
+    "image_id": "98186",
+    "description": "I_CAMO_Glitch_NSO (Auraxmias 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98186.png"
+  },
+  {
+    "image_set_id": "808301",
+    "image_id": "98189",
+    "description": "I_CAMO_Glitch_TR (Auraxmias 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98189.png"
+  },
+  {
+    "image_set_id": "808302",
+    "image_id": "98192",
+    "description": "I_CAMO_Glitch_VS (Auraxmias 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98192.png"
+  },
+  {
+    "image_set_id": "808303",
+    "image_id": "98195",
+    "description": "I_CAMO_Glitch_NC (Auraxmias 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98195.png"
+  },
+  {
+    "image_set_id": "808304",
+    "image_id": "98198",
+    "description": "I_Glitch_Knife_MW_NSO",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98198.png"
+  },
+  {
+    "image_set_id": "808305",
+    "image_id": "98201",
+    "description": "icon_Weapon_Common_Flamethrower_Ice_skin",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98201.png"
+  },
+  {
+    "image_set_id": "808306",
+    "image_id": "98206",
+    "description": "Fishing - Map Icon",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98206.png"
+  },
+  {
+    "image_set_id": "808307",
+    "image_id": "98209",
+    "description": "icon_directives_badges_auraxium_fishing",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98209.png"
+  },
+  {
+    "image_set_id": "808308",
+    "image_id": "98212",
+    "description": "I_ElementalDragon Helmet_NC (Auraximas Members Only Item)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98212.png"
+  },
+  {
+    "image_set_id": "808309",
+    "image_id": "98215",
+    "description": "I_ElementalDragon Helmet_NSO (Auraximas Members Only Item)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98215.png"
+  },
+  {
+    "image_set_id": "808310",
+    "image_id": "98218",
+    "description": "I_ElementalDragon Helmet_TR (Auraximas Members Only Item)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98218.png"
+  },
+  {
+    "image_set_id": "808311",
+    "image_id": "98221",
+    "description": "I_ElementalDragon Helmet_VS (Auraximas Members Only Item)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98221.png"
+  },
+  {
+    "image_set_id": "808312",
+    "image_id": "98225",
+    "description": "I_BND_Auraximus2023 (Auraximas member only bundle 2023 for 2024))",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98225.png"
+  },
+  {
+    "image_set_id": "808313",
+    "image_id": "98228",
+    "description": "I_SM_NSDHeliosIceDragon_HG_Optics_IronSight_Front_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98228.png"
+  },
+  {
+    "image_set_id": "808314",
+    "image_id": "98231",
+    "description": "I_SM_NSDHeliosIceDragon_HG_Optics_IronSight_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98231.png"
+  },
+  {
+    "image_set_id": "808315",
+    "image_id": "98234",
+    "description": "I_SM_NSDHeliosIceDragon_HG_Optics_ReflexSight_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98234.png"
+  },
+  {
+    "image_set_id": "808316",
+    "image_id": "98237",
+    "description": "I_SM_NSDHeliosIceDragon_HG_Optics_ReflexSight2_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98237.png"
+  },
+  {
+    "image_set_id": "808317",
+    "image_id": "98240",
+    "description": "I_SM_NSDHeliosIceDragon_HG_Optics_4xScope_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98240.png"
+  },
+  {
+    "image_set_id": "808319",
+    "image_id": "98246",
+    "description": "I_CAMO_ElementalDragon_TR (Auraximas 2023 Directive Reward Updated)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98246.png"
+  },
+  {
+    "image_set_id": "808320",
+    "image_id": "98249",
+    "description": "I_CAMO_ElementalDragon_VS (Auraximas 2023 Directive Reward Updated)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98249.png"
+  },
+  {
+    "image_set_id": "808321",
+    "image_id": "98252",
+    "description": "I_CAMO_ElementalDragon_NSO (Auraximas 2023 Directive Reward Updated)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98252.png"
+  },
+  {
+    "image_set_id": "808322",
+    "image_id": "98255",
+    "description": "I_Weapon_Common_Flamethrower_Helios_EX",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98255.png"
   }
 ]
