@@ -12124,5 +12124,385 @@
     "image_set_id": "808235",
     "image_id": "80676",
     "image_path": "/files/ps2/images/static/80676.png"
+  },
+  {
+    "reward_set_id": "6308",
+    "item_id": "6015836",
+    "name": {
+      "de": "Glitch-Emblem",
+      "en": "Glitch Decal",
+      "es": "Emblema distorsionado",
+      "fr": "Décalco : Grelotage",
+      "it": "Adesivo Glitch",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема Glitch",
+      "tr": "NULL",
+      "zh": "电子脉冲涂装"
+    },
+    "quantity": "1",
+    "image_set_id": "808296",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6308",
+    "item_id": "77893",
+    "name": {
+      "de": "250 ZERTS",
+      "en": "250 Certs",
+      "es": "250 Certs",
+      "fr": "250 Accréditations",
+      "it": "250 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "250 сертификатов",
+      "tr": "NULL",
+      "zh": "250证书点"
+    },
+    "quantity": "1",
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6309",
+    "item_id": "6015835",
+    "name": {
+      "de": "Glitch-Bannerrahmen",
+      "en": "Glitch Banner Frame",
+      "es": "Marco de pancarta distorsionado",
+      "fr": "Cadre de bannière \"Grelotage\"",
+      "it": "Cornice per insegna Glitch",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера Glitch",
+      "tr": "NULL",
+      "zh": "电子脉冲横幅框"
+    },
+    "quantity": "1",
+    "image_set_id": "808294",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6309",
+    "item_id": "6015834",
+    "name": {
+      "de": "Glitch-Banner",
+      "en": "Glitch Banner",
+      "es": "Pancarta distorsionada",
+      "fr": "Bannière \"Grelotage\"",
+      "it": "Insegna Glitch",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер Glitch",
+      "tr": "NULL",
+      "zh": "电子脉冲横幅"
+    },
+    "quantity": "1",
+    "image_set_id": "808289",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6309",
+    "item_id": "6008708",
+    "name": {
+      "de": "500 ISO-4",
+      "en": "500 ISO-4",
+      "es": "500 ISO-4",
+      "fr": "500 ISO-4",
+      "it": "500 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 ISO-4",
+      "tr": "NULL",
+      "zh": "500 ISO-4"
+    },
+    "quantity": "1",
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6310",
+    "item_id": "6015840",
+    "name": {
+      "de": "Tarnung \"Glitch\"",
+      "en": "Glitch Camo",
+      "es": "Camuflaje distorsionado",
+      "fr": "Camo : Grelotage",
+      "it": "Mimetizzazione Glitch",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Glitch",
+      "tr": "NULL",
+      "zh": "电子脉冲迷彩"
+    },
+    "quantity": "1",
+    "image_set_id": "808300",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6310",
+    "item_id": "6009498",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "quantity": "1",
+    "image_set_id": "806266",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6310",
+    "item_id": "6003486",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "quantity": "1",
+    "image_set_id": "803836",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6311",
+    "item_id": "6015829",
+    "name": {
+      "de": "Glitch-Signalhorn",
+      "en": "Glitch Horn",
+      "es": "Bocina distorsionada",
+      "fr": "Klaxon Grelotage",
+      "it": "Clacson Glitch",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сигнал Glitch",
+      "tr": "NULL",
+      "zh": "电子脉冲喇叭"
+    },
+    "quantity": "1",
+    "image_set_id": "808282",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6311",
+    "item_id": "6008980",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "quantity": "1",
+    "image_set_id": "803838",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6308",
+    "item_id": "6015837",
+    "name": {
+      "de": "Glitch-Emblem",
+      "en": "Glitch Decal",
+      "es": "Emblema distorsionado",
+      "fr": "Décalco : Grelotage",
+      "it": "Adesivo Glitch",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема Glitch",
+      "tr": "NULL",
+      "zh": "电子脉冲涂装"
+    },
+    "quantity": "1",
+    "image_set_id": "808299",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6309",
+    "item_id": "6015832",
+    "name": {
+      "de": "Glitch-Banner",
+      "en": "Glitch Banner",
+      "es": "Pancarta distorsionada",
+      "fr": "Bannière \"Grelotage\"",
+      "it": "Insegna Glitch",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер Glitch",
+      "tr": "NULL",
+      "zh": "电子脉冲横幅"
+    },
+    "quantity": "1",
+    "image_set_id": "808286",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6310",
+    "item_id": "6015841",
+    "name": {
+      "de": "Tarnung \"Glitch\"",
+      "en": "Glitch Camo",
+      "es": "Camuflaje distorsionado",
+      "fr": "Camo : Grelotage",
+      "it": "Mimetizzazione Glitch",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Glitch",
+      "tr": "NULL",
+      "zh": "电子脉冲迷彩"
+    },
+    "quantity": "1",
+    "image_set_id": "808301",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6308",
+    "item_id": "6015839",
+    "name": {
+      "de": "Glitch-Emblem",
+      "en": "Glitch Decal",
+      "es": "Emblema distorsionado",
+      "fr": "Décalco : Grelotage",
+      "it": "Adesivo Glitch",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема Glitch",
+      "tr": "NULL",
+      "zh": "电子脉冲涂装"
+    },
+    "quantity": "1",
+    "image_set_id": "808297",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6309",
+    "item_id": "6015831",
+    "name": {
+      "de": "Glitch-Banner",
+      "en": "Glitch Banner",
+      "es": "Pancarta distorsionada",
+      "fr": "Bannière \"Grelotage\"",
+      "it": "Insegna Glitch",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер Glitch",
+      "tr": "NULL",
+      "zh": "电子脉冲横幅"
+    },
+    "quantity": "1",
+    "image_set_id": "808285",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6310",
+    "item_id": "6015843",
+    "name": {
+      "de": "Tarnung \"Glitch\"",
+      "en": "Glitch Camo",
+      "es": "Camuflaje distorsionado",
+      "fr": "Camo : Grelotage",
+      "it": "Mimetizzazione Glitch",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Glitch",
+      "tr": "NULL",
+      "zh": "电子脉冲迷彩"
+    },
+    "quantity": "1",
+    "image_set_id": "808303",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6308",
+    "item_id": "6015838",
+    "name": {
+      "de": "Glitch-Emblem",
+      "en": "Glitch Decal",
+      "es": "Emblema distorsionado",
+      "fr": "Décalco : Grelotage",
+      "it": "Adesivo Glitch",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема Glitch",
+      "tr": "NULL",
+      "zh": "电子脉冲涂装"
+    },
+    "quantity": "1",
+    "image_set_id": "808298",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6309",
+    "item_id": "6015833",
+    "name": {
+      "de": "Glitch-Banner",
+      "en": "Glitch Banner",
+      "es": "Pancarta distorsionada",
+      "fr": "Bannière \"Grelotage\"",
+      "it": "Insegna Glitch",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер Glitch",
+      "tr": "NULL",
+      "zh": "电子脉冲横幅"
+    },
+    "quantity": "1",
+    "image_set_id": "808288",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6310",
+    "item_id": "6015842",
+    "name": {
+      "de": "Tarnung \"Glitch\"",
+      "en": "Glitch Camo",
+      "es": "Camuflaje distorsionado",
+      "fr": "Camo : Grelotage",
+      "it": "Mimetizzazione Glitch",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж Glitch",
+      "tr": "NULL",
+      "zh": "电子脉冲迷彩"
+    },
+    "quantity": "1",
+    "image_set_id": "808302",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

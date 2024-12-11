@@ -1996,5 +1996,42 @@
     "image_set_id": "14396",
     "image_id": "79737",
     "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_tree_id": "146",
+    "directive_tree_category_id": "8",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Auraximas 2024",
+      "en": "Auraximas 2024",
+      "es": "Auraxidad 2024",
+      "fr": "Auraximas 2024",
+      "it": "Auraximas 2024",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Новый год 2024",
+      "tr": "NULL",
+      "zh": "奥拉西斯圣诞节（2024年）"
+    },
+    "description": {
+      "de": "Verfügbar bis 1. Januar",
+      "en": "Available through January 1",
+      "es": "Disponible hasta el 1 de enero",
+      "fr": "Disponible jusqu'au 1 janvier",
+      "it": "Disponibile fino al 1° gennaio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Доступно до 1 января",
+      "tr": "NULL",
+      "zh": "活动持续至1月1日"
+    },
+    "image_set_id": "0",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]
