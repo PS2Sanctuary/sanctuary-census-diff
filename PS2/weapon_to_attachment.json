@@ -89183,5 +89183,25 @@
     "weapon_group_id": "4797",
     "attachment_id": "86455",
     "item_id": "6015852"
+  },
+  {
+    "weapon_group_id": "1246",
+    "attachment_id": "86457",
+    "item_id": "6015890"
+  },
+  {
+    "weapon_group_id": "1248",
+    "attachment_id": "86458",
+    "item_id": "6015891"
+  },
+  {
+    "weapon_group_id": "3508",
+    "attachment_id": "86460",
+    "item_id": "6015893"
+  },
+  {
+    "weapon_group_id": "4506",
+    "attachment_id": "86459",
+    "item_id": "6015892"
   }
 ]
