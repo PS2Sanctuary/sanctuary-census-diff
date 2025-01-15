@@ -86982,5 +86982,197 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/98359.png"
+  },
+  {
+    "image_set_id": "808352",
+    "image_id": "98337",
+    "description": "I_Vehicle_Valkyrie_Glass_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98337.png"
+  },
+  {
+    "image_set_id": "808353",
+    "image_id": "98340",
+    "description": "I_Vehicle_Liberator_Glass_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98340.png"
+  },
+  {
+    "image_set_id": "808354",
+    "image_id": "98343",
+    "description": "I_Vehicle_Mosquito_Glass_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98343.png"
+  },
+  {
+    "image_set_id": "808356",
+    "image_id": "98346",
+    "description": "I_Vehicle_Reaver_Glass_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98346.png"
+  },
+  {
+    "image_set_id": "808357",
+    "image_id": "98352",
+    "description": "I_Vehicle_Scythe_Glass_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98352.png"
+  },
+  {
+    "image_set_id": "808358",
+    "image_id": "98355",
+    "description": "I_A_Vehicle_Love_Horn_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98355.png"
+  },
+  {
+    "image_set_id": "808360",
+    "image_id": "98362",
+    "description": "Common: Iceberg Knife_Red",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98362.png"
+  },
+  {
+    "image_set_id": "808361",
+    "image_id": "98365",
+    "description": "Common: Iceberg Knife_Red_White",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98365.png"
+  },
+  {
+    "image_set_id": "808362",
+    "image_id": "98368",
+    "description": "Common: Iceberg Knife_Red_Purple",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98368.png"
+  },
+  {
+    "image_set_id": "808363",
+    "image_id": "98371",
+    "description": "I_Shamrock_HoodOrnaments_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98371.png"
+  },
+  {
+    "image_set_id": "808366",
+    "image_id": "98380",
+    "description": "I_FishingScanner_T2",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98380.png"
+  },
+  {
+    "image_set_id": "808367",
+    "image_id": "98383",
+    "description": "I_FishingScanner_T3",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98383.png"
+  },
+  {
+    "image_set_id": "808368",
+    "image_id": "98386",
+    "description": "I_BNR_LoveBomber25",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98386.png"
+  },
+  {
+    "image_set_id": "808369",
+    "image_id": "98387",
+    "description": "ProfileBackgrownd_BNR_LoveBomber25",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98387.png"
+  },
+  {
+    "image_set_id": "808370",
+    "image_id": "98391",
+    "description": "FRM_LoveBomber25",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98391.png"
+  },
+  {
+    "image_set_id": "808371",
+    "image_id": "98394",
+    "description": "I_FRM_LoveBomber25",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98394.png"
+  },
+  {
+    "image_set_id": "808372",
+    "image_id": "98397",
+    "description": "I_CAMO_LoveBomber25_NSO",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98397.png"
+  },
+  {
+    "image_set_id": "808373",
+    "image_id": "98400",
+    "description": "I_CAMO_LoveBomber25_NC",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98400.png"
+  },
+  {
+    "image_set_id": "808374",
+    "image_id": "98403",
+    "description": "I_CAMO_LoveBomber25_TR",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98403.png"
+  },
+  {
+    "image_set_id": "808375",
+    "image_id": "98406",
+    "description": "I_CAMO_LoveBomber25_VS",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98406.png"
+  },
+  {
+    "image_set_id": "808376",
+    "image_id": "98410",
+    "description": "I_BND_Valentines25",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98410.png"
+  },
+  {
+    "image_set_id": "808377",
+    "image_id": "98413",
+    "description": "I_LegionOfTheCrows_Helmet_NC_2025",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98413.png"
+  },
+  {
+    "image_set_id": "808379",
+    "image_id": "98419",
+    "description": "I_LoveBomber25_GRN_Frag_Consumable",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98419.png"
+  },
+  {
+    "image_set_id": "808380",
+    "image_id": "98423",
+    "description": "icon_cert_weapon_LoveBomberGrenade",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98423.png"
   }
 ]
