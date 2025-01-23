@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": {
+      "de": "Klein",
+      "en": "Small",
+      "es": "Pequeño",
+      "fr": "Petit",
+      "it": "Piccolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Маленькая",
+      "tr": "NULL",
+      "zh": "小型"
+    }
+  },
+  {
+    "id": "2",
+    "name": {
+      "de": "Mittel",
+      "en": "Average",
+      "es": "Mediano",
+      "fr": "Moyen",
+      "it": "Medio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Средняя",
+      "tr": "NULL",
+      "zh": "中型"
+    }
+  },
+  {
+    "id": "3",
+    "name": {
+      "de": "Groß",
+      "en": "Large",
+      "es": "Grande",
+      "fr": "Grand",
+      "it": "Grande",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Большая",
+      "tr": "NULL",
+      "zh": "大型"
+    }
+  },
+  {
+    "id": "4",
+    "name": {
+      "de": "Riesig",
+      "en": "Huge",
+      "es": "Enorme",
+      "fr": "Énorme",
+      "it": "Enorme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Огромная",
+      "tr": "NULL",
+      "zh": "巨型"
+    }
+  }
+]

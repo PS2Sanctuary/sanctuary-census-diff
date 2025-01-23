@@ -1,0 +1,164 @@
+[
+  {
+    "id": "1",
+    "zone_set_id": "1",
+    "zone_type": "1",
+    "zone_id": "339"
+  },
+  {
+    "id": "2",
+    "zone_set_id": "1",
+    "zone_type": "2",
+    "zone_id": "121"
+  },
+  {
+    "id": "3",
+    "zone_set_id": "2",
+    "zone_type": "1",
+    "zone_id": "2"
+  },
+  {
+    "id": "4",
+    "zone_set_id": "2",
+    "zone_type": "1",
+    "zone_id": "4"
+  },
+  {
+    "id": "5",
+    "zone_set_id": "2",
+    "zone_type": "1",
+    "zone_id": "6"
+  },
+  {
+    "id": "6",
+    "zone_set_id": "2",
+    "zone_type": "1",
+    "zone_id": "8"
+  },
+  {
+    "id": "7",
+    "zone_set_id": "3",
+    "zone_type": "1",
+    "zone_id": "8"
+  },
+  {
+    "id": "11",
+    "zone_set_id": "4",
+    "zone_type": "1",
+    "zone_id": "2"
+  },
+  {
+    "id": "12",
+    "zone_set_id": "4",
+    "zone_type": "1",
+    "zone_id": "4"
+  },
+  {
+    "id": "13",
+    "zone_set_id": "4",
+    "zone_type": "1",
+    "zone_id": "6"
+  },
+  {
+    "id": "14",
+    "zone_set_id": "4",
+    "zone_type": "1",
+    "zone_id": "8"
+  },
+  {
+    "id": "15",
+    "zone_set_id": "4",
+    "zone_type": "1",
+    "zone_id": "14"
+  },
+  {
+    "id": "16",
+    "zone_set_id": "5",
+    "zone_type": "1",
+    "zone_id": "344"
+  },
+  {
+    "id": "17",
+    "zone_set_id": "2",
+    "zone_type": "1",
+    "zone_id": "344"
+  },
+  {
+    "id": "18",
+    "zone_set_id": "6",
+    "zone_type": "1",
+    "zone_id": "2"
+  },
+  {
+    "id": "19",
+    "zone_set_id": "6",
+    "zone_type": "1",
+    "zone_id": "4"
+  },
+  {
+    "id": "20",
+    "zone_set_id": "6",
+    "zone_type": "1",
+    "zone_id": "6"
+  },
+  {
+    "id": "21",
+    "zone_set_id": "6",
+    "zone_type": "1",
+    "zone_id": "8"
+  },
+  {
+    "id": "22",
+    "zone_set_id": "6",
+    "zone_type": "1",
+    "zone_id": "14"
+  },
+  {
+    "id": "23",
+    "zone_set_id": "6",
+    "zone_type": "1",
+    "zone_id": "344"
+  },
+  {
+    "id": "24",
+    "zone_set_id": "7",
+    "zone_type": "1",
+    "zone_id": "2"
+  },
+  {
+    "id": "25",
+    "zone_set_id": "7",
+    "zone_type": "1",
+    "zone_id": "4"
+  },
+  {
+    "id": "26",
+    "zone_set_id": "7",
+    "zone_type": "1",
+    "zone_id": "6"
+  },
+  {
+    "id": "27",
+    "zone_set_id": "7",
+    "zone_type": "1",
+    "zone_id": "8"
+  },
+  {
+    "id": "28",
+    "zone_set_id": "7",
+    "zone_type": "1",
+    "zone_id": "200"
+  },
+  {
+    "id": "29",
+    "zone_set_id": "7",
+    "zone_type": "1",
+    "zone_id": "344"
+  },
+  {
+    "id": "31",
+    "zone_set_id": "8",
+    "zone_type": "1",
+    "zone_id": "200"
+  }
+]

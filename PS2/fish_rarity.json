@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": {
+      "de": "Gewöhnlich",
+      "en": "Common",
+      "es": "Común",
+      "fr": "Ordinaire",
+      "it": "Comune",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Обычная",
+      "tr": "NULL",
+      "zh": "普通"
+    }
+  },
+  {
+    "id": "2",
+    "name": {
+      "de": "Selten",
+      "en": "Rare",
+      "es": "Raro",
+      "fr": "Rare",
+      "it": "Raro",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Редкая",
+      "tr": "NULL",
+      "zh": "稀有"
+    }
+  },
+  {
+    "id": "3",
+    "name": {
+      "de": "Legendär",
+      "en": "Legendary",
+      "es": "Legendario",
+      "fr": "Légendaire",
+      "it": "Leggendario",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Легендарная",
+      "tr": "NULL",
+      "zh": "传奇"
+    }
+  }
+]
