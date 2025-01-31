@@ -311,33 +311,61 @@
   {
     "zone_id": "10",
     "code": "nexus",
-    "hex_size": "200",
-    "name": {
-      "de": "Nexus",
-      "en": "Nexus",
-      "es": "Nexus",
-      "fr": "Nexus",
-      "it": "Nexus",
-      "ko": "넥서스",
-      "pt": "Nexus",
-      "ru": "Ядро",
-      "tr": "Nexus",
-      "zh": "节点"
-    },
-    "description": {
-      "de": "Die kalte Insel Nexus ist von eisigen Korridoren und steilen Höhenunterschieden geprägt.",
-      "en": "The frigid battle island of Nexus is marked by icy corridors and steep elevation changes.",
-      "es": "La fría isla de batalla de Nexo se caracteriza por los corredores helados y los empinados cambios de altitud.",
-      "fr": "L'île de combat glaciale du Nexus se distingue par ses couloirs de glace et ses dénivelés escarpés.",
-      "it": "La gelida isola da battaglia di Nexus è caratterizzata da corridoi ghiacciati e ripidi dislivelli.",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Холодный боевой остров Nexus отличается ледяными коридорами и крутыми перепадами высот.",
-      "tr": "NULL",
-      "zh": "Nexus的战栗之岛以冰封的路面和高低起伏的海拔闻名。"
-    },
+    "hex_size": "0",
+    "name": "NULL",
+    "description": "NULL",
     "geometry_id": "10",
-    "type": "Static",
+    "type": "Unknown",
+    "dynamic": "0"
+  },
+  {
+    "zone_id": "3",
+    "code": "searhus",
+    "hex_size": "0",
+    "name": "NULL",
+    "description": "NULL",
+    "geometry_id": "3",
+    "type": "Unknown",
+    "dynamic": "0"
+  },
+  {
+    "zone_id": "200",
+    "code": "cleanroom",
+    "hex_size": "0",
+    "name": "NULL",
+    "description": "NULL",
+    "geometry_id": "200",
+    "type": "Unknown",
+    "dynamic": "0"
+  },
+  {
+    "zone_id": "199",
+    "code": "supercleanroom",
+    "hex_size": "0",
+    "name": "NULL",
+    "description": "NULL",
+    "geometry_id": "199",
+    "type": "Unknown",
+    "dynamic": "0"
+  },
+  {
+    "zone_id": "150",
+    "code": "mfn",
+    "hex_size": "0",
+    "name": "NULL",
+    "description": "NULL",
+    "geometry_id": "150",
+    "type": "Unknown",
+    "dynamic": "0"
+  },
+  {
+    "zone_id": "338",
+    "code": "desolation",
+    "hex_size": "0",
+    "name": "NULL",
+    "description": "NULL",
+    "geometry_id": "338",
+    "type": "Unknown",
     "dynamic": "0"
   }
 ]

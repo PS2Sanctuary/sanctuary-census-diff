@@ -12004,5 +12004,23 @@
     "rotation_y": "NULL",
     "rotation_z": "NULL",
     "facility_id": "400135"
+  },
+  {
+    "area_id": "1137939596",
+    "zone_id": "200",
+    "name": "sphere_1137939596",
+    "type": "ANT",
+    "shape": "sphere",
+    "location_x1": "-148.359528",
+    "location_y1": "-2.015529",
+    "location_z1": "-0.829918",
+    "radius": "55.880005",
+    "location_x2": "NULL",
+    "location_y2": "NULL",
+    "location_z2": "NULL",
+    "rotation_x": "NULL",
+    "rotation_y": "NULL",
+    "rotation_z": "NULL",
+    "facility_id": "NULL"
   }
 ]
