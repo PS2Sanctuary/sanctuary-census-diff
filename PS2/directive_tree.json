@@ -1,80 +1,5 @@
 [
   {
-    "directive_tree_id": "31",
-    "directive_tree_category_id": "3",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Machtaufklärer",
-      "en": "Force Recon",
-      "es": "Reconocimiento de fuerza",
-      "fr": "Force de Reconnaissance",
-      "it": "Ricognizione della forza",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Разведка",
-      "tr": "NULL",
-      "zh": "部队信标"
-    },
-    "description": "NULL",
-    "image_set_id": "13588",
-    "image_id": "77992",
-    "image_path": "/files/ps2/images/static/77992.png"
-  },
-  {
-    "directive_tree_id": "95",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "4"
-    ],
-    "name": {
-      "de": "Javelin",
-      "en": "Javelin",
-      "es": "Javelin",
-      "fr": "Javelot",
-      "it": "Javelin",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Javelin",
-      "tr": "NULL",
-      "zh": "Javelin"
-    },
-    "description": "NULL",
-    "image_set_id": "806819",
-    "image_id": "93911",
-    "image_path": "/files/ps2/images/static/93911.png"
-  },
-  {
-    "directive_tree_id": "29",
-    "directive_tree_category_id": "3",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "MAX-Einheit",
-      "en": "MAX",
-      "es": "MAX",
-      "fr": "XAM",
-      "it": "MAX",
-      "ko": "맥스",
-      "pt": "MAX",
-      "ru": "М.А.К.С.",
-      "tr": "MAX",
-      "zh": "[#MAX#]"
-    },
-    "description": "NULL",
-    "image_set_id": "13590",
-    "image_id": "77994",
-    "image_path": "/files/ps2/images/static/77994.png"
-  },
-  {
     "directive_tree_id": "61",
     "directive_tree_category_id": "11",
     "faction_ids": [
@@ -149,84 +74,6 @@
     "image_path": "/files/ps2/images/static/79737.png"
   },
   {
-    "directive_tree_id": "45",
-    "directive_tree_category_id": "7",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Scout-Gewehre",
-      "en": "Scout Rifles",
-      "es": "Rifles Scout",
-      "fr": "Fusils d'éclaireur",
-      "it": "Fucili di ricognizione",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Ружья",
-      "tr": "NULL",
-      "zh": "斥候步枪"
-    },
-    "description": "NULL",
-    "image_set_id": "14222",
-    "image_id": "79645",
-    "image_path": "/files/ps2/images/static/79645.png"
-  },
-  {
-    "directive_tree_id": "21",
-    "directive_tree_category_id": "3",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Sprengstoff",
-      "en": "Explosives",
-      "es": "Explosivos",
-      "fr": "Explosifs",
-      "it": "Esplosivi",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Взрывчатка",
-      "tr": "NULL",
-      "zh": "爆炸物"
-    },
-    "description": "NULL",
-    "image_set_id": "14170",
-    "image_id": "79593",
-    "image_path": "/files/ps2/images/static/79593.png"
-  },
-  {
-    "directive_tree_id": "28",
-    "directive_tree_category_id": "3",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Sanitäter",
-      "en": "Combat Medic",
-      "es": "Médico de combate",
-      "fr": "Médecin de combat",
-      "it": "Medico da campo",
-      "ko": "컴뱃 메딕",
-      "pt": "Médico de Combate",
-      "ru": "МЕДИК",
-      "tr": "Sıhhıyeci",
-      "zh": "[#COMBAT_MEDIC#]"
-    },
-    "description": "NULL",
-    "image_set_id": "13583",
-    "image_id": "77987",
-    "image_path": "/files/ps2/images/static/77987.png"
-  },
-  {
     "directive_tree_id": "92",
     "directive_tree_category_id": "11",
     "faction_ids": [
@@ -262,188 +109,6 @@
     "image_set_id": "14396",
     "image_id": "79737",
     "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_tree_id": "27",
-    "directive_tree_category_id": "3",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Schwere Angriffseinheit",
-      "en": "Heavy Assault",
-      "es": "Asalto pesado",
-      "fr": "Assaut lourd",
-      "it": "Assalto Pesante",
-      "ko": "헤비 어썰트",
-      "pt": "Soldado Pesado",
-      "ru": "ШТУРМОВИК",
-      "tr": "Ağır Taarruz",
-      "zh": "[#HEAVY_ASSAULT#]"
-    },
-    "description": "NULL",
-    "image_set_id": "13586",
-    "image_id": "77990",
-    "image_path": "/files/ps2/images/static/77990.png"
-  },
-  {
-    "directive_tree_id": "59",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "FNT",
-      "en": "ANT",
-      "es": "ANT",
-      "fr": "TNA",
-      "it": "ANT",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "ANT",
-      "tr": "NULL",
-      "zh": "ANT"
-    },
-    "description": "NULL",
-    "image_set_id": "803460",
-    "image_id": "86536",
-    "image_path": "/files/ps2/images/static/86536.png"
-  },
-  {
-    "directive_tree_id": "26",
-    "directive_tree_category_id": "3",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Ingenieur",
-      "en": "Engineer",
-      "es": "Ingeniero",
-      "fr": "Ingénieur",
-      "it": "Geniere",
-      "ko": "엔지니어",
-      "pt": "Engenheiro",
-      "ru": "ИНЖЕНЕР",
-      "tr": "Mühendis",
-      "zh": "[#Engineer#]"
-    },
-    "description": "NULL",
-    "image_set_id": "13585",
-    "image_id": "77989",
-    "image_path": "/files/ps2/images/static/77989.png"
-  },
-  {
-    "directive_tree_id": "106",
-    "directive_tree_category_id": "11",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Schwarzmarkt",
-      "en": "Black Market",
-      "es": "Mercado negro",
-      "fr": "Marché noir",
-      "it": "Mercato nero",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Черный рынок",
-      "tr": "NULL",
-      "zh": "黑市"
-    },
-    "description": "NULL",
-    "image_set_id": "802639",
-    "image_id": "84293",
-    "image_path": "/files/ps2/images/static/84293.png"
-  },
-  {
-    "directive_tree_id": "25",
-    "directive_tree_category_id": "3",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Spion",
-      "en": "Infiltrator",
-      "es": "Infiltrado",
-      "fr": "Infiltré",
-      "it": "Infiltrato",
-      "ko": "인필트레이터",
-      "pt": "Infiltrador",
-      "ru": "ДИВЕРСАНТ",
-      "tr": "Casus",
-      "zh": "[#INFILTRATOR#]"
-    },
-    "description": "NULL",
-    "image_set_id": "13587",
-    "image_id": "77991",
-    "image_path": "/files/ps2/images/static/77991.png"
-  },
-  {
-    "directive_tree_id": "57",
-    "directive_tree_category_id": "11",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Kopfgelder",
-      "en": "Bounties",
-      "es": "Recompensas",
-      "fr": "Primes",
-      "it": "Taglie",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Ордеры на охоту",
-      "tr": "NULL",
-      "zh": "赏金"
-    },
-    "description": "NULL",
-    "image_set_id": "802811",
-    "image_id": "84790",
-    "image_path": "/files/ps2/images/static/84790.png"
-  },
-  {
-    "directive_tree_id": "24",
-    "directive_tree_category_id": "3",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Leichte Angriffseinheit",
-      "en": "Light Assault",
-      "es": "Asalto ligero",
-      "fr": "Assaut léger",
-      "it": "Assalto Leggero",
-      "ko": "라이트 어썰트",
-      "pt": "Soldado Leve",
-      "ru": "ДЕСАНТНИК",
-      "tr": "Hafif Taarruz",
-      "zh": "[#LIGHT_ASSAULT#]"
-    },
-    "description": "NULL",
-    "image_set_id": "13589",
-    "image_id": "77993",
-    "image_path": "/files/ps2/images/static/77993.png"
   },
   {
     "directive_tree_id": "115",
@@ -631,29 +296,6 @@
     "image_path": "/files/ps2/images/static/79737.png"
   },
   {
-    "directive_tree_id": "97",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "4"
-    ],
-    "name": {
-      "de": "Chimera",
-      "en": "Chimera",
-      "es": "Chimera",
-      "fr": "Chimère",
-      "it": "Chimera",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Chimera",
-      "tr": "NULL",
-      "zh": "Chimera"
-    },
-    "description": "NULL",
-    "image_set_id": "806713",
-    "image_id": "93609",
-    "image_path": "/files/ps2/images/static/93609.png"
-  },
-  {
     "directive_tree_id": "62",
     "directive_tree_category_id": "11",
     "faction_ids": [
@@ -689,713 +331,6 @@
     "image_set_id": "14396",
     "image_id": "79737",
     "image_path": "/files/ps2/images/static/79737.png"
-  },
-  {
-    "directive_tree_id": "113",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Corsair",
-      "en": "Corsair",
-      "es": "Corsair",
-      "fr": "Corsaire",
-      "it": "Corsair",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Corsair",
-      "tr": "NULL",
-      "zh": "Corsair"
-    },
-    "description": "NULL",
-    "image_set_id": "807221",
-    "image_id": "95008",
-    "image_path": "/files/ps2/images/static/95008.png"
-  },
-  {
-    "directive_tree_id": "49",
-    "directive_tree_category_id": "5",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Führung",
-      "en": "Leadership",
-      "es": "Liderazgo",
-      "fr": "Commandement",
-      "it": "Leadership",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Командование",
-      "tr": "NULL",
-      "zh": "指挥"
-    },
-    "description": "NULL",
-    "image_set_id": "14492",
-    "image_id": "80343",
-    "image_path": "/files/ps2/images/static/80343.png"
-  },
-  {
-    "directive_tree_id": "96",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "4"
-    ],
-    "name": {
-      "de": "Dervish",
-      "en": "Dervish",
-      "es": "Dervish",
-      "fr": "Derviche",
-      "it": "Derviscio",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Dervish",
-      "tr": "NULL",
-      "zh": "Dervish"
-    },
-    "description": "NULL",
-    "image_set_id": "806714",
-    "image_id": "93608",
-    "image_path": "/files/ps2/images/static/93608.png"
-  },
-  {
-    "directive_tree_id": "48",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Valkyrie",
-      "en": "Valkyrie",
-      "es": "Valkyrie",
-      "fr": "Valkyrie",
-      "it": "Valkyrie",
-      "ko": "재사용24",
-      "pt": "Lanterna",
-      "ru": "Valkyrie",
-      "tr": "Valkyrie",
-      "zh": "Valkyrie"
-    },
-    "description": "NULL",
-    "image_set_id": "14493",
-    "image_id": "80344",
-    "image_path": "/files/ps2/images/static/80344.png"
-  },
-  {
-    "directive_tree_id": "44",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Galaxy",
-      "en": "Galaxy",
-      "es": "Galaxy",
-      "fr": "Galaxie",
-      "it": "Galaxy",
-      "ko": "갤럭시",
-      "pt": "Galáxia",
-      "ru": "Galaxy",
-      "tr": "GALAKSİ",
-      "zh": "Galaxy"
-    },
-    "description": "NULL",
-    "image_set_id": "14172",
-    "image_id": "79595",
-    "image_path": "/files/ps2/images/static/79595.png"
-  },
-  {
-    "directive_tree_id": "43",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Sunderer",
-      "en": "Sunderer",
-      "es": "Sunderer",
-      "fr": "Disperseur",
-      "it": "Sunderer",
-      "ko": "선더러",
-      "pt": "Dispersor",
-      "ru": "Sunderer",
-      "tr": "YARICI",
-      "zh": "Sunderer"
-    },
-    "description": "NULL",
-    "image_set_id": "14243",
-    "image_id": "79666",
-    "image_path": "/files/ps2/images/static/79666.png"
-  },
-  {
-    "directive_tree_id": "104",
-    "directive_tree_category_id": "5",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Eroberung - Oshur",
-      "en": "Conquest - Oshur",
-      "es": "Conquista: Oshur",
-      "fr": "Conquête - Oshur",
-      "it": "Conquista - Oshur",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Завоевание: Oshur",
-      "tr": "NULL",
-      "zh": "征服 - Oshur"
-    },
-    "description": "NULL",
-    "image_set_id": "14163",
-    "image_id": "79586",
-    "image_path": "/files/ps2/images/static/79586.png"
-  },
-  {
-    "directive_tree_id": "36",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Lightning",
-      "en": "Lightning",
-      "es": "Lightning",
-      "fr": "Foudre",
-      "it": "Lightning",
-      "ko": "라이트닝",
-      "pt": "Relâmpago",
-      "ru": "Lightning",
-      "tr": "YILDIRIM",
-      "zh": "Lightning"
-    },
-    "description": "NULL",
-    "image_set_id": "14188",
-    "image_id": "79611",
-    "image_path": "/files/ps2/images/static/79611.png"
-  },
-  {
-    "directive_tree_id": "35",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Harasser",
-      "en": "Harasser",
-      "es": "Harasser",
-      "fr": "Offenseur",
-      "it": "Harasser",
-      "ko": "허래서",
-      "pt": "Pertubador",
-      "ru": "Harasser",
-      "tr": "Tacizci",
-      "zh": "Harasser"
-    },
-    "description": "NULL",
-    "image_set_id": "14175",
-    "image_id": "79598",
-    "image_path": "/files/ps2/images/static/79598.png"
-  },
-  {
-    "directive_tree_id": "34",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Flash",
-      "en": "Flash",
-      "es": "Flash",
-      "fr": "Flash",
-      "it": "Flash",
-      "ko": "플래시",
-      "pt": "Faísca",
-      "ru": "Flash",
-      "tr": "ŞİMŞEK",
-      "zh": "Flash"
-    },
-    "description": "NULL",
-    "image_set_id": "14214",
-    "image_id": "79637",
-    "image_path": "/files/ps2/images/static/79637.png"
-  },
-  {
-    "directive_tree_id": "23",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Liberator",
-      "en": "Liberator",
-      "es": "Liberator",
-      "fr": "Libérateur",
-      "it": "Liberator",
-      "ko": "리버레이터",
-      "pt": "Libertador",
-      "ru": "Liberator",
-      "tr": "KURTARICI",
-      "zh": "Liberator"
-    },
-    "description": "NULL",
-    "image_set_id": "14184",
-    "image_id": "79607",
-    "image_path": "/files/ps2/images/static/79607.png"
-  },
-  {
-    "directive_tree_id": "68",
-    "directive_tree_category_id": "5",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Konstruktion",
-      "en": "Construction",
-      "es": "Construcción",
-      "fr": "Construction",
-      "it": "Costruzione",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Сооружение",
-      "tr": "NULL",
-      "zh": "制作"
-    },
-    "description": "NULL",
-    "image_set_id": "804480",
-    "image_id": "89462",
-    "image_path": "/files/ps2/images/static/89462.png"
-  },
-  {
-    "directive_tree_id": "4",
-    "directive_tree_category_id": "7",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Karabiner",
-      "en": "Carbines",
-      "es": "Carabinas",
-      "fr": "Carabines",
-      "it": "Carabine",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Карабины",
-      "tr": "NULL",
-      "zh": "卡宾枪"
-    },
-    "description": "NULL",
-    "image_set_id": "14164",
-    "image_id": "79587",
-    "image_path": "/files/ps2/images/static/79587.png"
-  },
-  {
-    "directive_tree_id": "46",
-    "directive_tree_category_id": "5",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Einsatzziele",
-      "en": "Objectives",
-      "es": "Objetivos",
-      "fr": "Objectifs",
-      "it": "Obiettivi",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "ОБЪЕКТЫ",
-      "tr": "NULL",
-      "zh": "目标"
-    },
-    "description": "NULL",
-    "image_set_id": "14163",
-    "image_id": "79586",
-    "image_path": "/files/ps2/images/static/79586.png"
-  },
-  {
-    "directive_tree_id": "10",
-    "directive_tree_category_id": "7",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Angriffsgewehre",
-      "en": "Assault Rifles",
-      "es": "Rifles de asalto",
-      "fr": "Fusils d'assaut",
-      "it": "Fucili d'assalto",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Штурмовые винтовки",
-      "tr": "NULL",
-      "zh": "突击步枪"
-    },
-    "description": "NULL",
-    "image_set_id": "14160",
-    "image_id": "79583",
-    "image_path": "/files/ps2/images/static/79583.png"
-  },
-  {
-    "directive_tree_id": "8",
-    "directive_tree_category_id": "7",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Leichte Maschinengewehre",
-      "en": "Light Machine Guns",
-      "es": "Ametralladoras ligeras",
-      "fr": "Mitrailleuses légères",
-      "it": "Mitragliatrici leggere",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Ручные пулеметы",
-      "tr": "NULL",
-      "zh": "轻机枪"
-    },
-    "description": "NULL",
-    "image_set_id": "14193",
-    "image_id": "79616",
-    "image_path": "/files/ps2/images/static/79616.png"
-  },
-  {
-    "directive_tree_id": "47",
-    "directive_tree_category_id": "7",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Werfer",
-      "en": "Launchers",
-      "es": "Lanzadores",
-      "fr": "Lanceurs",
-      "it": "Lanciarazzi",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Гранатометы",
-      "tr": "NULL",
-      "zh": "火箭发射器"
-    },
-    "description": "NULL",
-    "image_set_id": "14182",
-    "image_id": "79605",
-    "image_path": "/files/ps2/images/static/79605.png"
-  },
-  {
-    "directive_tree_id": "17",
-    "directive_tree_category_id": "7",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Seitenwaffen",
-      "en": "Sidearms",
-      "es": "Armas auxiliares",
-      "fr": "Armes de poing",
-      "it": "Armi secondarie",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Дополнительное оружие",
-      "tr": "NULL",
-      "zh": "副武器"
-    },
-    "description": "NULL",
-    "image_set_id": "14235",
-    "image_id": "79658",
-    "image_path": "/files/ps2/images/static/79658.png"
-  },
-  {
-    "directive_tree_id": "15",
-    "directive_tree_category_id": "7",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Maschinenpistolen",
-      "en": "Submachine Guns",
-      "es": "Subfusiles",
-      "fr": "Mitraillettes",
-      "it": "Mitra",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Пистолеты-пулеметы",
-      "tr": "NULL",
-      "zh": "冲锋枪"
-    },
-    "description": "NULL",
-    "image_set_id": "14238",
-    "image_id": "79661",
-    "image_path": "/files/ps2/images/static/79661.png"
-  },
-  {
-    "directive_tree_id": "13",
-    "directive_tree_category_id": "7",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Schrotflinten",
-      "en": "Shotguns",
-      "es": "Escopetas",
-      "fr": "Fusils",
-      "it": "Fucili",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Дробовики",
-      "tr": "NULL",
-      "zh": "霰弹枪"
-    },
-    "description": "NULL",
-    "image_set_id": "14233",
-    "image_id": "79656",
-    "image_path": "/files/ps2/images/static/79656.png"
-  },
-  {
-    "directive_tree_id": "6",
-    "directive_tree_category_id": "7",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Scharfschützengewehre",
-      "en": "Sniper Rifles",
-      "es": "Rifles de francotirador",
-      "fr": "Fusils de précision",
-      "it": "Fucili di precisione",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Снайперские винтовки",
-      "tr": "NULL",
-      "zh": "狙击步枪"
-    },
-    "description": "NULL",
-    "image_set_id": "14222",
-    "image_id": "79645",
-    "image_path": "/files/ps2/images/static/79645.png"
-  },
-  {
-    "directive_tree_id": "103",
-    "directive_tree_category_id": "17",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Oshur-Hundemarken",
-      "en": "Oshur Dog Tags",
-      "es": "Placas identificativas de Oshur",
-      "fr": "Plaques d'identité d'Oshur",
-      "it": "Piastrine militari di Oshur",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Солдатские жетоны в Oshur",
-      "tr": "NULL",
-      "zh": "Oshur狗牌"
-    },
-    "description": "NULL",
-    "image_set_id": "14448",
-    "image_id": "78104",
-    "image_path": "/files/ps2/images/static/78104.png"
-  },
-  {
-    "directive_tree_id": "40",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "1"
-    ],
-    "name": {
-      "de": "Scythe",
-      "en": "Scythe",
-      "es": "Scythe",
-      "fr": "Faucheuse",
-      "it": "Scythe",
-      "ko": "사이드",
-      "pt": "Foice",
-      "ru": "Scythe",
-      "tr": "TIRPAN",
-      "zh": "Scythe"
-    },
-    "description": "NULL",
-    "image_set_id": "14227",
-    "image_id": "79650",
-    "image_path": "/files/ps2/images/static/79650.png"
-  },
-  {
-    "directive_tree_id": "37",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "1"
-    ],
-    "name": {
-      "de": "Magrider",
-      "en": "Magrider",
-      "es": "Magrider",
-      "fr": "Aérochar",
-      "it": "Magrider",
-      "ko": "맥라이더",
-      "pt": "Magnave",
-      "ru": "Magrider",
-      "tr": "SÜVARİ",
-      "zh": "Magrider"
-    },
-    "description": "NULL",
-    "image_set_id": "14195",
-    "image_id": "79618",
-    "image_path": "/files/ps2/images/static/79618.png"
-  },
-  {
-    "directive_tree_id": "42",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "3"
-    ],
-    "name": {
-      "de": "Mosquito",
-      "en": "Mosquito",
-      "es": "Mosquito",
-      "fr": "Mosquito",
-      "it": "Mosquito",
-      "ko": "모스키토",
-      "pt": "Mosquito",
-      "ru": "Mosquito",
-      "tr": "SİVRİSİNEK",
-      "zh": "Mosquito"
-    },
-    "description": "NULL",
-    "image_set_id": "14202",
-    "image_id": "79625",
-    "image_path": "/files/ps2/images/static/79625.png"
-  },
-  {
-    "directive_tree_id": "39",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "3"
-    ],
-    "name": {
-      "de": "Prowler",
-      "en": "Prowler",
-      "es": "Prowler",
-      "fr": "Prédateur",
-      "it": "Prowler",
-      "ko": "프라우러",
-      "pt": "Espreitador",
-      "ru": "Prowler",
-      "tr": "SİNSİ",
-      "zh": "Prowler"
-    },
-    "description": "NULL",
-    "image_set_id": "14210",
-    "image_id": "79633",
-    "image_path": "/files/ps2/images/static/79633.png"
-  },
-  {
-    "directive_tree_id": "38",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "2"
-    ],
-    "name": {
-      "de": "Vanguard",
-      "en": "Vanguard",
-      "es": "Vanguard",
-      "fr": "Éclaireur",
-      "it": "Vanguard",
-      "ko": "뱅가드",
-      "pt": "Vanguarda",
-      "ru": "Vanguard",
-      "tr": "ÖNCÜ",
-      "zh": "Vanguard"
-    },
-    "description": "NULL",
-    "image_set_id": "14250",
-    "image_id": "79673",
-    "image_path": "/files/ps2/images/static/79673.png"
-  },
-  {
-    "directive_tree_id": "41",
-    "directive_tree_category_id": "4",
-    "faction_ids": [
-      "2"
-    ],
-    "name": {
-      "de": "Reaver",
-      "en": "Reaver",
-      "es": "Reaver",
-      "fr": "Ravageur",
-      "it": "Reaver",
-      "ko": "리버",
-      "pt": "Salteador",
-      "ru": "Reaver",
-      "tr": "YAĞMACI",
-      "zh": "Reaver"
-    },
-    "description": "NULL",
-    "image_set_id": "14217",
-    "image_id": "79640",
-    "image_path": "/files/ps2/images/static/79640.png"
   },
   {
     "directive_tree_id": "114",
@@ -1546,43 +481,6 @@
     "image_path": "NULL"
   },
   {
-    "directive_tree_id": "122",
-    "directive_tree_category_id": "8",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Operation Tidebreaker",
-      "en": "Operation Tidebreaker",
-      "es": "Operación Rompeolas",
-      "fr": "Opération Brise-lames",
-      "it": "Operazione Tidebreaker",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Операция «Волнолом»",
-      "tr": "NULL",
-      "zh": "行动：破浪者"
-    },
-    "description": {
-      "de": "Verfügbar bis 31. Juli",
-      "en": "Available through July 31",
-      "es": "Disponible hasta el 31 de julio",
-      "fr": "Disponible jusqu'au 31 juillet",
-      "it": "Disponibile fino al 31 luglio",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Доступно до 31 июля",
-      "tr": "NULL",
-      "zh": "活动持续至7月31日"
-    },
-    "image_set_id": "0",
-    "image_id": "NULL",
-    "image_path": "NULL"
-  },
-  {
     "directive_tree_id": "127",
     "directive_tree_category_id": "11",
     "faction_ids": [
@@ -1620,6 +518,43 @@
     "image_path": "/files/ps2/images/static/79737.png"
   },
   {
+    "directive_tree_id": "122",
+    "directive_tree_category_id": "8",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Operation Tidebreaker",
+      "en": "Operation Tidebreaker",
+      "es": "Operación Rompeolas",
+      "fr": "Opération Brise-lames",
+      "it": "Operazione Tidebreaker",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Операция «Волнолом»",
+      "tr": "NULL",
+      "zh": "行动：破浪者"
+    },
+    "description": {
+      "de": "Verfügbar bis 31. Juli",
+      "en": "Available through July 31",
+      "es": "Disponible hasta el 31 de julio",
+      "fr": "Disponible jusqu'au 31 juillet",
+      "it": "Disponibile fino al 31 luglio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Доступно до 31 июля",
+      "tr": "NULL",
+      "zh": "活动持续至7月31日"
+    },
+    "image_set_id": "0",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
     "directive_tree_id": "123",
     "directive_tree_category_id": "8",
     "faction_ids": [
@@ -1655,32 +590,6 @@
     "image_set_id": "0",
     "image_id": "NULL",
     "image_path": "NULL"
-  },
-  {
-    "directive_tree_id": "126",
-    "directive_tree_category_id": "8",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Halloween 2023",
-      "en": "Halloween 2023",
-      "es": "Halloween 2023",
-      "fr": "Halloween 2023",
-      "it": "Halloween 2023",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Хэллоуин 2023",
-      "tr": "NULL",
-      "zh": "2023万圣节"
-    },
-    "description": "NULL",
-    "image_set_id": "82818",
-    "image_id": "80676",
-    "image_path": "/files/ps2/images/static/80676.png"
   },
   {
     "directive_tree_id": "131",
@@ -1757,110 +666,6 @@
     "image_path": "NULL"
   },
   {
-    "directive_tree_id": "142",
-    "directive_tree_category_id": "5",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Eroberung - Esamir",
-      "en": "Conquest - Esamir",
-      "es": "Conquista: Esamir",
-      "fr": "Conquête - Esamir",
-      "it": "Conquista - Esamir",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Завоевание — Esamir",
-      "tr": "NULL",
-      "zh": "征服 - Esamir"
-    },
-    "description": "NULL",
-    "image_set_id": "14163",
-    "image_id": "79586",
-    "image_path": "/files/ps2/images/static/79586.png"
-  },
-  {
-    "directive_tree_id": "141",
-    "directive_tree_category_id": "5",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Eroberung - Amerish",
-      "en": "Conquest - Amerish",
-      "es": "Conquista: Amerish",
-      "fr": "Conquête - Amerish",
-      "it": "Conquista - Amerish",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Завоевание — Amerish",
-      "tr": "NULL",
-      "zh": "征服 - Amerish"
-    },
-    "description": "NULL",
-    "image_set_id": "14163",
-    "image_id": "79586",
-    "image_path": "/files/ps2/images/static/79586.png"
-  },
-  {
-    "directive_tree_id": "140",
-    "directive_tree_category_id": "5",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Eroberung - Hossin",
-      "en": "Conquest - Hossin",
-      "es": "Conquista: Hossin",
-      "fr": "Conquête - Hossin",
-      "it": "Conquista - Hossin",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Завоевание — Hossin",
-      "tr": "NULL",
-      "zh": "征服 - Hossin"
-    },
-    "description": "NULL",
-    "image_set_id": "14163",
-    "image_id": "79586",
-    "image_path": "/files/ps2/images/static/79586.png"
-  },
-  {
-    "directive_tree_id": "139",
-    "directive_tree_category_id": "5",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Eroberung - Indar",
-      "en": "Conquest - Indar",
-      "es": "Conquista: Indar",
-      "fr": "Conquête - Indar",
-      "it": "Conquista - Indar",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Завоевание — Indar",
-      "tr": "NULL",
-      "zh": "征服 - Indar"
-    },
-    "description": "NULL",
-    "image_set_id": "14163",
-    "image_id": "79586",
-    "image_path": "/files/ps2/images/static/79586.png"
-  },
-  {
     "directive_tree_id": "136",
     "directive_tree_category_id": "8",
     "faction_ids": [
@@ -1935,32 +740,6 @@
     "image_path": "NULL"
   },
   {
-    "directive_tree_id": "143",
-    "directive_tree_category_id": "8",
-    "faction_ids": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "name": {
-      "de": "Naniten der lebenden Toten 2024",
-      "en": "Nanite of the Living Dead 2024",
-      "es": "Nanite de los muertos vivientes 2024",
-      "fr": "Nuit Nanite des Morts-Vivants 2024",
-      "it": "La notte dei naniti viventi 2024",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Наниты живых мертвецов 2024",
-      "tr": "NULL",
-      "zh": "纳能活死人（2024年）"
-    },
-    "description": "NULL",
-    "image_set_id": "82818",
-    "image_id": "80676",
-    "image_path": "/files/ps2/images/static/80676.png"
-  },
-  {
     "directive_tree_id": "145",
     "directive_tree_category_id": "11",
     "faction_ids": [
@@ -2033,5 +812,1068 @@
     "image_set_id": "0",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "directive_tree_id": "31",
+    "directive_tree_category_id": "3",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Machtaufklärer",
+      "en": "Force Recon",
+      "es": "Reconocimiento de fuerza",
+      "fr": "Force de Reconnaissance",
+      "it": "Ricognizione della forza",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Разведка",
+      "tr": "NULL",
+      "zh": "部队信标"
+    },
+    "image_set_id": "13588",
+    "image_id": "77992",
+    "image_path": "/files/ps2/images/static/77992.png"
+  },
+  {
+    "directive_tree_id": "29",
+    "directive_tree_category_id": "3",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "MAX-Einheit",
+      "en": "MAX",
+      "es": "MAX",
+      "fr": "XAM",
+      "it": "MAX",
+      "ko": "맥스",
+      "pt": "MAX",
+      "ru": "М.А.К.С.",
+      "tr": "MAX",
+      "zh": "[#MAX#]"
+    },
+    "image_set_id": "13590",
+    "image_id": "77994",
+    "image_path": "/files/ps2/images/static/77994.png"
+  },
+  {
+    "directive_tree_id": "45",
+    "directive_tree_category_id": "7",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Scout-Gewehre",
+      "en": "Scout Rifles",
+      "es": "Rifles Scout",
+      "fr": "Fusils d'éclaireur",
+      "it": "Fucili di ricognizione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Ружья",
+      "tr": "NULL",
+      "zh": "斥候步枪"
+    },
+    "image_set_id": "14222",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "directive_tree_id": "21",
+    "directive_tree_category_id": "3",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Sprengstoff",
+      "en": "Explosives",
+      "es": "Explosivos",
+      "fr": "Explosifs",
+      "it": "Esplosivi",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Взрывчатка",
+      "tr": "NULL",
+      "zh": "爆炸物"
+    },
+    "image_set_id": "14170",
+    "image_id": "79593",
+    "image_path": "/files/ps2/images/static/79593.png"
+  },
+  {
+    "directive_tree_id": "28",
+    "directive_tree_category_id": "3",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Sanitäter",
+      "en": "Combat Medic",
+      "es": "Médico de combate",
+      "fr": "Médecin de combat",
+      "it": "Medico da campo",
+      "ko": "컴뱃 메딕",
+      "pt": "Médico de Combate",
+      "ru": "МЕДИК",
+      "tr": "Sıhhıyeci",
+      "zh": "[#COMBAT_MEDIC#]"
+    },
+    "image_set_id": "13583",
+    "image_id": "77987",
+    "image_path": "/files/ps2/images/static/77987.png"
+  },
+  {
+    "directive_tree_id": "27",
+    "directive_tree_category_id": "3",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Schwere Angriffseinheit",
+      "en": "Heavy Assault",
+      "es": "Asalto pesado",
+      "fr": "Assaut lourd",
+      "it": "Assalto Pesante",
+      "ko": "헤비 어썰트",
+      "pt": "Soldado Pesado",
+      "ru": "ШТУРМОВИК",
+      "tr": "Ağır Taarruz",
+      "zh": "[#HEAVY_ASSAULT#]"
+    },
+    "image_set_id": "13586",
+    "image_id": "77990",
+    "image_path": "/files/ps2/images/static/77990.png"
+  },
+  {
+    "directive_tree_id": "59",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "FNT",
+      "en": "ANT",
+      "es": "ANT",
+      "fr": "TNA",
+      "it": "ANT",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "ANT",
+      "tr": "NULL",
+      "zh": "ANT"
+    },
+    "image_set_id": "803460",
+    "image_id": "86536",
+    "image_path": "/files/ps2/images/static/86536.png"
+  },
+  {
+    "directive_tree_id": "26",
+    "directive_tree_category_id": "3",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Ingenieur",
+      "en": "Engineer",
+      "es": "Ingeniero",
+      "fr": "Ingénieur",
+      "it": "Geniere",
+      "ko": "엔지니어",
+      "pt": "Engenheiro",
+      "ru": "ИНЖЕНЕР",
+      "tr": "Mühendis",
+      "zh": "[#Engineer#]"
+    },
+    "image_set_id": "13585",
+    "image_id": "77989",
+    "image_path": "/files/ps2/images/static/77989.png"
+  },
+  {
+    "directive_tree_id": "106",
+    "directive_tree_category_id": "11",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Schwarzmarkt",
+      "en": "Black Market",
+      "es": "Mercado negro",
+      "fr": "Marché noir",
+      "it": "Mercato nero",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Черный рынок",
+      "tr": "NULL",
+      "zh": "黑市"
+    },
+    "image_set_id": "802639",
+    "image_id": "84293",
+    "image_path": "/files/ps2/images/static/84293.png"
+  },
+  {
+    "directive_tree_id": "42",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Mosquito",
+      "en": "Mosquito",
+      "es": "Mosquito",
+      "fr": "Mosquito",
+      "it": "Mosquito",
+      "ko": "모스키토",
+      "pt": "Mosquito",
+      "ru": "Mosquito",
+      "tr": "SİVRİSİNEK",
+      "zh": "Mosquito"
+    },
+    "image_set_id": "14202",
+    "image_id": "79625",
+    "image_path": "/files/ps2/images/static/79625.png"
+  },
+  {
+    "directive_tree_id": "25",
+    "directive_tree_category_id": "3",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Spion",
+      "en": "Infiltrator",
+      "es": "Infiltrado",
+      "fr": "Infiltré",
+      "it": "Infiltrato",
+      "ko": "인필트레이터",
+      "pt": "Infiltrador",
+      "ru": "ДИВЕРСАНТ",
+      "tr": "Casus",
+      "zh": "[#INFILTRATOR#]"
+    },
+    "image_set_id": "13587",
+    "image_id": "77991",
+    "image_path": "/files/ps2/images/static/77991.png"
+  },
+  {
+    "directive_tree_id": "57",
+    "directive_tree_category_id": "11",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Kopfgelder",
+      "en": "Bounties",
+      "es": "Recompensas",
+      "fr": "Primes",
+      "it": "Taglie",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Ордеры на охоту",
+      "tr": "NULL",
+      "zh": "赏金"
+    },
+    "image_set_id": "802811",
+    "image_id": "84790",
+    "image_path": "/files/ps2/images/static/84790.png"
+  },
+  {
+    "directive_tree_id": "24",
+    "directive_tree_category_id": "3",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Leichte Angriffseinheit",
+      "en": "Light Assault",
+      "es": "Asalto ligero",
+      "fr": "Assaut léger",
+      "it": "Assalto Leggero",
+      "ko": "라이트 어썰트",
+      "pt": "Soldado Leve",
+      "ru": "ДЕСАНТНИК",
+      "tr": "Hafif Taarruz",
+      "zh": "[#LIGHT_ASSAULT#]"
+    },
+    "image_set_id": "13589",
+    "image_id": "77993",
+    "image_path": "/files/ps2/images/static/77993.png"
+  },
+  {
+    "directive_tree_id": "17",
+    "directive_tree_category_id": "7",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Seitenwaffen",
+      "en": "Sidearms",
+      "es": "Armas auxiliares",
+      "fr": "Armes de poing",
+      "it": "Armi secondarie",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Дополнительное оружие",
+      "tr": "NULL",
+      "zh": "副武器"
+    },
+    "image_set_id": "14235",
+    "image_id": "79658",
+    "image_path": "/files/ps2/images/static/79658.png"
+  },
+  {
+    "directive_tree_id": "113",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Corsair",
+      "en": "Corsair",
+      "es": "Corsair",
+      "fr": "Corsaire",
+      "it": "Corsair",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Corsair",
+      "tr": "NULL",
+      "zh": "Corsair"
+    },
+    "image_set_id": "807221",
+    "image_id": "95008",
+    "image_path": "/files/ps2/images/static/95008.png"
+  },
+  {
+    "directive_tree_id": "49",
+    "directive_tree_category_id": "5",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Führung",
+      "en": "Leadership",
+      "es": "Liderazgo",
+      "fr": "Commandement",
+      "it": "Leadership",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Командование",
+      "tr": "NULL",
+      "zh": "指挥"
+    },
+    "image_set_id": "14492",
+    "image_id": "80343",
+    "image_path": "/files/ps2/images/static/80343.png"
+  },
+  {
+    "directive_tree_id": "48",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Valkyrie",
+      "en": "Valkyrie",
+      "es": "Valkyrie",
+      "fr": "Valkyrie",
+      "it": "Valkyrie",
+      "ko": "재사용24",
+      "pt": "Lanterna",
+      "ru": "Valkyrie",
+      "tr": "Valkyrie",
+      "zh": "Valkyrie"
+    },
+    "image_set_id": "14493",
+    "image_id": "80344",
+    "image_path": "/files/ps2/images/static/80344.png"
+  },
+  {
+    "directive_tree_id": "44",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Galaxy",
+      "en": "Galaxy",
+      "es": "Galaxy",
+      "fr": "Galaxie",
+      "it": "Galaxy",
+      "ko": "갤럭시",
+      "pt": "Galáxia",
+      "ru": "Galaxy",
+      "tr": "GALAKSİ",
+      "zh": "Galaxy"
+    },
+    "image_set_id": "14172",
+    "image_id": "79595",
+    "image_path": "/files/ps2/images/static/79595.png"
+  },
+  {
+    "directive_tree_id": "43",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Sunderer",
+      "en": "Sunderer",
+      "es": "Sunderer",
+      "fr": "Disperseur",
+      "it": "Sunderer",
+      "ko": "선더러",
+      "pt": "Dispersor",
+      "ru": "Sunderer",
+      "tr": "YARICI",
+      "zh": "Sunderer"
+    },
+    "image_set_id": "14243",
+    "image_id": "79666",
+    "image_path": "/files/ps2/images/static/79666.png"
+  },
+  {
+    "directive_tree_id": "104",
+    "directive_tree_category_id": "5",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Eroberung - Oshur",
+      "en": "Conquest - Oshur",
+      "es": "Conquista: Oshur",
+      "fr": "Conquête - Oshur",
+      "it": "Conquista - Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завоевание: Oshur",
+      "tr": "NULL",
+      "zh": "征服 - Oshur"
+    },
+    "image_set_id": "14163",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_tree_id": "39",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Prowler",
+      "en": "Prowler",
+      "es": "Prowler",
+      "fr": "Prédateur",
+      "it": "Prowler",
+      "ko": "프라우러",
+      "pt": "Espreitador",
+      "ru": "Prowler",
+      "tr": "SİNSİ",
+      "zh": "Prowler"
+    },
+    "image_set_id": "14210",
+    "image_id": "79633",
+    "image_path": "/files/ps2/images/static/79633.png"
+  },
+  {
+    "directive_tree_id": "36",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Lightning",
+      "en": "Lightning",
+      "es": "Lightning",
+      "fr": "Foudre",
+      "it": "Lightning",
+      "ko": "라이트닝",
+      "pt": "Relâmpago",
+      "ru": "Lightning",
+      "tr": "YILDIRIM",
+      "zh": "Lightning"
+    },
+    "image_set_id": "14188",
+    "image_id": "79611",
+    "image_path": "/files/ps2/images/static/79611.png"
+  },
+  {
+    "directive_tree_id": "35",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Harasser",
+      "en": "Harasser",
+      "es": "Harasser",
+      "fr": "Offenseur",
+      "it": "Harasser",
+      "ko": "허래서",
+      "pt": "Pertubador",
+      "ru": "Harasser",
+      "tr": "Tacizci",
+      "zh": "Harasser"
+    },
+    "image_set_id": "14175",
+    "image_id": "79598",
+    "image_path": "/files/ps2/images/static/79598.png"
+  },
+  {
+    "directive_tree_id": "34",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Flash",
+      "en": "Flash",
+      "es": "Flash",
+      "fr": "Flash",
+      "it": "Flash",
+      "ko": "플래시",
+      "pt": "Faísca",
+      "ru": "Flash",
+      "tr": "ŞİMŞEK",
+      "zh": "Flash"
+    },
+    "image_set_id": "14214",
+    "image_id": "79637",
+    "image_path": "/files/ps2/images/static/79637.png"
+  },
+  {
+    "directive_tree_id": "23",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Liberator",
+      "en": "Liberator",
+      "es": "Liberator",
+      "fr": "Libérateur",
+      "it": "Liberator",
+      "ko": "리버레이터",
+      "pt": "Libertador",
+      "ru": "Liberator",
+      "tr": "KURTARICI",
+      "zh": "Liberator"
+    },
+    "image_set_id": "14184",
+    "image_id": "79607",
+    "image_path": "/files/ps2/images/static/79607.png"
+  },
+  {
+    "directive_tree_id": "142",
+    "directive_tree_category_id": "5",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Eroberung - Esamir",
+      "en": "Conquest - Esamir",
+      "es": "Conquista: Esamir",
+      "fr": "Conquête - Esamir",
+      "it": "Conquista - Esamir",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завоевание — Esamir",
+      "tr": "NULL",
+      "zh": "征服 - Esamir"
+    },
+    "image_set_id": "14163",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_tree_id": "141",
+    "directive_tree_category_id": "5",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Eroberung - Amerish",
+      "en": "Conquest - Amerish",
+      "es": "Conquista: Amerish",
+      "fr": "Conquête - Amerish",
+      "it": "Conquista - Amerish",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завоевание — Amerish",
+      "tr": "NULL",
+      "zh": "征服 - Amerish"
+    },
+    "image_set_id": "14163",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_tree_id": "13",
+    "directive_tree_category_id": "7",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Schrotflinten",
+      "en": "Shotguns",
+      "es": "Escopetas",
+      "fr": "Fusils",
+      "it": "Fucili",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Дробовики",
+      "tr": "NULL",
+      "zh": "霰弹枪"
+    },
+    "image_set_id": "14233",
+    "image_id": "79656",
+    "image_path": "/files/ps2/images/static/79656.png"
+  },
+  {
+    "directive_tree_id": "140",
+    "directive_tree_category_id": "5",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Eroberung - Hossin",
+      "en": "Conquest - Hossin",
+      "es": "Conquista: Hossin",
+      "fr": "Conquête - Hossin",
+      "it": "Conquista - Hossin",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завоевание — Hossin",
+      "tr": "NULL",
+      "zh": "征服 - Hossin"
+    },
+    "image_set_id": "14163",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_tree_id": "139",
+    "directive_tree_category_id": "5",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Eroberung - Indar",
+      "en": "Conquest - Indar",
+      "es": "Conquista: Indar",
+      "fr": "Conquête - Indar",
+      "it": "Conquista - Indar",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Завоевание — Indar",
+      "tr": "NULL",
+      "zh": "征服 - Indar"
+    },
+    "image_set_id": "14163",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_tree_id": "68",
+    "directive_tree_category_id": "5",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Konstruktion",
+      "en": "Construction",
+      "es": "Construcción",
+      "fr": "Construction",
+      "it": "Costruzione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сооружение",
+      "tr": "NULL",
+      "zh": "制作"
+    },
+    "image_set_id": "804480",
+    "image_id": "89462",
+    "image_path": "/files/ps2/images/static/89462.png"
+  },
+  {
+    "directive_tree_id": "4",
+    "directive_tree_category_id": "7",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Karabiner",
+      "en": "Carbines",
+      "es": "Carabinas",
+      "fr": "Carabines",
+      "it": "Carabine",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Карабины",
+      "tr": "NULL",
+      "zh": "卡宾枪"
+    },
+    "image_set_id": "14164",
+    "image_id": "79587",
+    "image_path": "/files/ps2/images/static/79587.png"
+  },
+  {
+    "directive_tree_id": "46",
+    "directive_tree_category_id": "5",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Einsatzziele",
+      "en": "Objectives",
+      "es": "Objetivos",
+      "fr": "Objectifs",
+      "it": "Obiettivi",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "ОБЪЕКТЫ",
+      "tr": "NULL",
+      "zh": "目标"
+    },
+    "image_set_id": "14163",
+    "image_id": "79586",
+    "image_path": "/files/ps2/images/static/79586.png"
+  },
+  {
+    "directive_tree_id": "10",
+    "directive_tree_category_id": "7",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Angriffsgewehre",
+      "en": "Assault Rifles",
+      "es": "Rifles de asalto",
+      "fr": "Fusils d'assaut",
+      "it": "Fucili d'assalto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Штурмовые винтовки",
+      "tr": "NULL",
+      "zh": "突击步枪"
+    },
+    "image_set_id": "14160",
+    "image_id": "79583",
+    "image_path": "/files/ps2/images/static/79583.png"
+  },
+  {
+    "directive_tree_id": "8",
+    "directive_tree_category_id": "7",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Leichte Maschinengewehre",
+      "en": "Light Machine Guns",
+      "es": "Ametralladoras ligeras",
+      "fr": "Mitrailleuses légères",
+      "it": "Mitragliatrici leggere",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Ручные пулеметы",
+      "tr": "NULL",
+      "zh": "轻机枪"
+    },
+    "image_set_id": "14193",
+    "image_id": "79616",
+    "image_path": "/files/ps2/images/static/79616.png"
+  },
+  {
+    "directive_tree_id": "47",
+    "directive_tree_category_id": "7",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Werfer",
+      "en": "Launchers",
+      "es": "Lanzadores",
+      "fr": "Lanceurs",
+      "it": "Lanciarazzi",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Гранатометы",
+      "tr": "NULL",
+      "zh": "火箭发射器"
+    },
+    "image_set_id": "14182",
+    "image_id": "79605",
+    "image_path": "/files/ps2/images/static/79605.png"
+  },
+  {
+    "directive_tree_id": "15",
+    "directive_tree_category_id": "7",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Maschinenpistolen",
+      "en": "Submachine Guns",
+      "es": "Subfusiles",
+      "fr": "Mitraillettes",
+      "it": "Mitra",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пистолеты-пулеметы",
+      "tr": "NULL",
+      "zh": "冲锋枪"
+    },
+    "image_set_id": "14238",
+    "image_id": "79661",
+    "image_path": "/files/ps2/images/static/79661.png"
+  },
+  {
+    "directive_tree_id": "6",
+    "directive_tree_category_id": "7",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Scharfschützengewehre",
+      "en": "Sniper Rifles",
+      "es": "Rifles de francotirador",
+      "fr": "Fusils de précision",
+      "it": "Fucili di precisione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Снайперские винтовки",
+      "tr": "NULL",
+      "zh": "狙击步枪"
+    },
+    "image_set_id": "14222",
+    "image_id": "79645",
+    "image_path": "/files/ps2/images/static/79645.png"
+  },
+  {
+    "directive_tree_id": "103",
+    "directive_tree_category_id": "17",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Oshur-Hundemarken",
+      "en": "Oshur Dog Tags",
+      "es": "Placas identificativas de Oshur",
+      "fr": "Plaques d'identité d'Oshur",
+      "it": "Piastrine militari di Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Солдатские жетоны в Oshur",
+      "tr": "NULL",
+      "zh": "Oshur狗牌"
+    },
+    "image_set_id": "14448",
+    "image_id": "78104",
+    "image_path": "/files/ps2/images/static/78104.png"
+  },
+  {
+    "directive_tree_id": "38",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "2"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Vanguard",
+      "en": "Vanguard",
+      "es": "Vanguard",
+      "fr": "Éclaireur",
+      "it": "Vanguard",
+      "ko": "뱅가드",
+      "pt": "Vanguarda",
+      "ru": "Vanguard",
+      "tr": "ÖNCÜ",
+      "zh": "Vanguard"
+    },
+    "image_set_id": "14250",
+    "image_id": "79673",
+    "image_path": "/files/ps2/images/static/79673.png"
+  },
+  {
+    "directive_tree_id": "41",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "2"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Reaver",
+      "en": "Reaver",
+      "es": "Reaver",
+      "fr": "Ravageur",
+      "it": "Reaver",
+      "ko": "리버",
+      "pt": "Salteador",
+      "ru": "Reaver",
+      "tr": "YAĞMACI",
+      "zh": "Reaver"
+    },
+    "image_set_id": "14217",
+    "image_id": "79640",
+    "image_path": "/files/ps2/images/static/79640.png"
+  },
+  {
+    "directive_tree_id": "40",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "1"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Scythe",
+      "en": "Scythe",
+      "es": "Scythe",
+      "fr": "Faucheuse",
+      "it": "Scythe",
+      "ko": "사이드",
+      "pt": "Foice",
+      "ru": "Scythe",
+      "tr": "TIRPAN",
+      "zh": "Scythe"
+    },
+    "image_set_id": "14227",
+    "image_id": "79650",
+    "image_path": "/files/ps2/images/static/79650.png"
+  },
+  {
+    "directive_tree_id": "37",
+    "directive_tree_category_id": "4",
+    "faction_ids": [
+      "1"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Magrider",
+      "en": "Magrider",
+      "es": "Magrider",
+      "fr": "Aérochar",
+      "it": "Magrider",
+      "ko": "맥라이더",
+      "pt": "Magnave",
+      "ru": "Magrider",
+      "tr": "SÜVARİ",
+      "zh": "Magrider"
+    },
+    "image_set_id": "14195",
+    "image_id": "79618",
+    "image_path": "/files/ps2/images/static/79618.png"
   }
 ]
