@@ -1638,5 +1638,21 @@
       "102",
       "100"
     ]
+  },
+  {
+    "item_category_id": "226",
+    "name": {
+      "de": "Angel-Scanner",
+      "en": "Fishing Scanners",
+      "es": "Escáneres de pesca",
+      "fr": "Scanners de pêche",
+      "it": "Scanner per la pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сканеры для рыбной ловли",
+      "tr": "NULL",
+      "zh": "钓鱼扫描仪"
+    },
+    "parent_category_ids": "NULL"
   }
 ]

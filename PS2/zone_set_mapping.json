@@ -160,5 +160,23 @@
     "zone_set_id": "8",
     "zone_type": "1",
     "zone_id": "200"
+  },
+  {
+    "id": "32",
+    "zone_set_id": "9",
+    "zone_type": "1",
+    "zone_id": "4"
+  },
+  {
+    "id": "33",
+    "zone_set_id": "10",
+    "zone_type": "1",
+    "zone_id": "2"
+  },
+  {
+    "id": "34",
+    "zone_set_id": "10",
+    "zone_type": "1",
+    "zone_id": "6"
   }
 ]

@@ -2037,6 +2037,16 @@
   {
     "weapon_id": "653",
     "fire_group_id": "0",
+    "fire_group_index": "0"
+  },
+  {
+    "weapon_id": "653",
+    "fire_group_id": "0",
+    "fire_group_index": "1"
+  },
+  {
+    "weapon_id": "653",
+    "fire_group_id": "0",
     "fire_group_index": "2"
   },
   {
@@ -7700,6 +7710,16 @@
     "fire_group_index": "0"
   },
   {
+    "weapon_id": "78625",
+    "fire_group_id": "80439",
+    "fire_group_index": "0"
+  },
+  {
+    "weapon_id": "78626",
+    "fire_group_id": "80440",
+    "fire_group_index": "0"
+  },
+  {
     "weapon_id": "78627",
     "fire_group_id": "80799",
     "fire_group_index": "0"
@@ -8195,16 +8215,6 @@
     "fire_group_index": "0"
   },
   {
-    "weapon_id": "653",
-    "fire_group_id": "0",
-    "fire_group_index": "0"
-  },
-  {
-    "weapon_id": "653",
-    "fire_group_id": "0",
-    "fire_group_index": "1"
-  },
-  {
     "weapon_id": "78733",
     "fire_group_id": "80897",
     "fire_group_index": "0"
@@ -8212,16 +8222,6 @@
   {
     "weapon_id": "78734",
     "fire_group_id": "80898",
-    "fire_group_index": "0"
-  },
-  {
-    "weapon_id": "78625",
-    "fire_group_id": "80439",
-    "fire_group_index": "0"
-  },
-  {
-    "weapon_id": "78626",
-    "fire_group_id": "80440",
     "fire_group_index": "0"
   },
   {
@@ -8430,6 +8430,21 @@
     "fire_group_index": "1"
   },
   {
+    "weapon_id": "78771",
+    "fire_group_id": "80949",
+    "fire_group_index": "0"
+  },
+  {
+    "weapon_id": "78772",
+    "fire_group_id": "80951",
+    "fire_group_index": "0"
+  },
+  {
+    "weapon_id": "78773",
+    "fire_group_id": "80952",
+    "fire_group_index": "0"
+  },
+  {
     "weapon_id": "78775",
     "fire_group_id": "80954",
     "fire_group_index": "0"
@@ -8447,31 +8462,6 @@
   {
     "weapon_id": "78778",
     "fire_group_id": "80957",
-    "fire_group_index": "0"
-  },
-  {
-    "weapon_id": "78785",
-    "fire_group_id": "80964",
-    "fire_group_index": "0"
-  },
-  {
-    "weapon_id": "78785",
-    "fire_group_id": "80965",
-    "fire_group_index": "1"
-  },
-  {
-    "weapon_id": "78771",
-    "fire_group_id": "80949",
-    "fire_group_index": "0"
-  },
-  {
-    "weapon_id": "78772",
-    "fire_group_id": "80951",
-    "fire_group_index": "0"
-  },
-  {
-    "weapon_id": "78773",
-    "fire_group_id": "80952",
     "fire_group_index": "0"
   },
   {
@@ -8498,6 +8488,16 @@
     "weapon_id": "78784",
     "fire_group_id": "80963",
     "fire_group_index": "0"
+  },
+  {
+    "weapon_id": "78785",
+    "fire_group_id": "80964",
+    "fire_group_index": "0"
+  },
+  {
+    "weapon_id": "78785",
+    "fire_group_id": "80965",
+    "fire_group_index": "1"
   },
   {
     "weapon_id": "78786",
@@ -8570,6 +8570,16 @@
     "fire_group_index": "1"
   },
   {
+    "weapon_id": "78805",
+    "fire_group_id": "81001",
+    "fire_group_index": "0"
+  },
+  {
+    "weapon_id": "78805",
+    "fire_group_id": "81002",
+    "fire_group_index": "1"
+  },
+  {
     "weapon_id": "78806",
     "fire_group_id": "80982",
     "fire_group_index": "0"
@@ -8618,16 +8628,6 @@
     "weapon_id": "78822",
     "fire_group_id": "80994",
     "fire_group_index": "0"
-  },
-  {
-    "weapon_id": "78805",
-    "fire_group_id": "81001",
-    "fire_group_index": "0"
-  },
-  {
-    "weapon_id": "78805",
-    "fire_group_id": "81002",
-    "fire_group_index": "1"
   },
   {
     "weapon_id": "78825",
@@ -8837,6 +8837,36 @@
   {
     "weapon_id": "78869",
     "fire_group_id": "81054",
+    "fire_group_index": "0"
+  },
+  {
+    "weapon_id": "78871",
+    "fire_group_id": "81055",
+    "fire_group_index": "0"
+  },
+  {
+    "weapon_id": "78872",
+    "fire_group_id": "81056",
+    "fire_group_index": "0"
+  },
+  {
+    "weapon_id": "78870",
+    "fire_group_id": "81057",
+    "fire_group_index": "0"
+  },
+  {
+    "weapon_id": "78873",
+    "fire_group_id": "81058",
+    "fire_group_index": "0"
+  },
+  {
+    "weapon_id": "78874",
+    "fire_group_id": "81059",
+    "fire_group_index": "0"
+  },
+  {
+    "weapon_id": "78875",
+    "fire_group_id": "81060",
     "fire_group_index": "0"
   }
 ]

@@ -1,46 +1,6 @@
 [
   {
     "zone_id": "362",
-    "facility_id": "400306",
-    "facility_name": {
-      "de": "Schutzzone",
-      "en": "Sanctuary",
-      "es": "Santuario",
-      "fr": "Sanctuaire",
-      "it": "Santuario",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Sanctuary",
-      "tr": "NULL",
-      "zh": "Sanctuary"
-    },
-    "facility_type_id": "7",
-    "location_x": "-24.44256",
-    "location_y": "473.2056",
-    "location_z": "1.115405"
-  },
-  {
-    "zone_id": "362",
-    "facility_id": "400307",
-    "facility_name": {
-      "de": "Schutzzone",
-      "en": "Sanctuary",
-      "es": "Santuario",
-      "fr": "Sanctuaire",
-      "it": "Santuario",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Sanctuary",
-      "tr": "NULL",
-      "zh": "Sanctuary"
-    },
-    "facility_type_id": "7",
-    "location_x": "-24.44256",
-    "location_y": "473.2056",
-    "location_z": "1.115405"
-  },
-  {
-    "zone_id": "362",
     "facility_id": "400308",
     "facility_name": {
       "de": "Schutzzone",
@@ -360,24 +320,24 @@
     "location_z": "524.3127"
   },
   {
-    "zone_id": "8",
-    "facility_id": "244200",
+    "zone_id": "362",
+    "facility_id": "400307",
     "facility_name": {
-      "de": "Bridge-ward",
-      "en": "Bridge-ward",
-      "es": "Bridge-ward",
-      "fr": "Bridge-ward",
-      "it": "Bridge-ward",
-      "ko": "교량 감시소",
-      "pt": "Distrito-Ponte",
-      "ru": "Bridge-ward",
-      "tr": "Bridge-ward",
-      "zh": "桥塔"
+      "de": "Schutzzone",
+      "en": "Sanctuary",
+      "es": "Santuario",
+      "fr": "Sanctuaire",
+      "it": "Santuario",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Sanctuary",
+      "tr": "NULL",
+      "zh": "Sanctuary"
     },
-    "facility_type_id": "6",
-    "location_x": "-1130.017",
-    "location_y": "22.80325",
-    "location_z": "9.949173"
+    "facility_type_id": "7",
+    "location_x": "-24.44256",
+    "location_y": "473.2056",
+    "location_z": "1.115405"
   },
   {
     "zone_id": "8",
@@ -420,6 +380,46 @@
     "location_z": "-2175.328"
   },
   {
+    "zone_id": "362",
+    "facility_id": "400306",
+    "facility_name": {
+      "de": "Schutzzone",
+      "en": "Sanctuary",
+      "es": "Santuario",
+      "fr": "Sanctuaire",
+      "it": "Santuario",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Sanctuary",
+      "tr": "NULL",
+      "zh": "Sanctuary"
+    },
+    "facility_type_id": "7",
+    "location_x": "-24.44256",
+    "location_y": "473.2056",
+    "location_z": "1.115405"
+  },
+  {
+    "zone_id": "8",
+    "facility_id": "244200",
+    "facility_name": {
+      "de": "Bridge-ward",
+      "en": "Bridge-ward",
+      "es": "Bridge-ward",
+      "fr": "Bridge-ward",
+      "it": "Bridge-ward",
+      "ko": "교량 감시소",
+      "pt": "Distrito-Ponte",
+      "ru": "Bridge-ward",
+      "tr": "Bridge-ward",
+      "zh": "桥塔"
+    },
+    "facility_type_id": "6",
+    "location_x": "-1130.017",
+    "location_y": "22.80325",
+    "location_z": "9.949173"
+  },
+  {
     "zone_id": "8",
     "facility_id": "244600",
     "facility_name": {
@@ -438,46 +438,6 @@
     "location_x": "-1604.49",
     "location_y": "42.64167",
     "location_z": "-2181.709"
-  },
-  {
-    "zone_id": "8",
-    "facility_id": "244610",
-    "facility_name": {
-      "de": "Rime Analytics",
-      "en": "Rime Analytics",
-      "es": "Rime Analytics",
-      "fr": "Rime Analytics",
-      "it": "Analisi temporale",
-      "ko": "라임 정보기지",
-      "pt": "Rima Analítica",
-      "ru": "Rime Analytics",
-      "tr": "Rime Analytics",
-      "zh": "Rime分析站"
-    },
-    "facility_type_id": "6",
-    "location_x": "723.092",
-    "location_y": "130.515",
-    "location_z": "60.08346"
-  },
-  {
-    "zone_id": "8",
-    "facility_id": "244620",
-    "facility_name": {
-      "de": "The Rink",
-      "en": "The Rink",
-      "es": "The Rink",
-      "fr": "The Rink",
-      "it": "The Rink",
-      "ko": "링크",
-      "pt": "A Pista de Gelo",
-      "ru": "The Rink",
-      "tr": "The Rink",
-      "zh": "滑冰场"
-    },
-    "facility_type_id": "6",
-    "location_x": "716.0898",
-    "location_y": "102.7103",
-    "location_z": "986.1397"
   },
   {
     "zone_id": "8",
@@ -501,23 +461,23 @@
   },
   {
     "zone_id": "8",
-    "facility_id": "246000",
+    "facility_id": "244610",
     "facility_name": {
-      "de": "Mattherson's Triumph",
-      "en": "Mattherson's Triumph",
-      "es": "Mattherson's Triumph",
-      "fr": "Mattherson's Triumph",
-      "it": "Mattherson's Triumph",
-      "ko": "에사미르 뮤니션",
-      "pt": "Corp. de Munição de Esamir",
-      "ru": "Mattherson's Triumph",
-      "tr": "Mattherson's Triumph",
-      "zh": "Mattherson's Triumph"
+      "de": "Rime Analytics",
+      "en": "Rime Analytics",
+      "es": "Rime Analytics",
+      "fr": "Rime Analytics",
+      "it": "Analisi temporale",
+      "ko": "라임 정보기지",
+      "pt": "Rima Analítica",
+      "ru": "Rime Analytics",
+      "tr": "Rime Analytics",
+      "zh": "Rime分析站"
     },
-    "facility_type_id": "5",
-    "location_x": "161.4596",
-    "location_y": "125.3721",
-    "location_z": "-785.2059"
+    "facility_type_id": "6",
+    "location_x": "723.092",
+    "location_y": "130.515",
+    "location_z": "60.08346"
   },
   {
     "zone_id": "8",
@@ -538,6 +498,26 @@
     "location_x": "2612.332",
     "location_y": "84.41334",
     "location_z": "1121.946"
+  },
+  {
+    "zone_id": "8",
+    "facility_id": "246000",
+    "facility_name": {
+      "de": "Mattherson's Triumph",
+      "en": "Mattherson's Triumph",
+      "es": "Mattherson's Triumph",
+      "fr": "Mattherson's Triumph",
+      "it": "Mattherson's Triumph",
+      "ko": "에사미르 뮤니션",
+      "pt": "Corp. de Munição de Esamir",
+      "ru": "Mattherson's Triumph",
+      "tr": "Mattherson's Triumph",
+      "zh": "Mattherson's Triumph"
+    },
+    "facility_type_id": "5",
+    "location_x": "161.4596",
+    "location_y": "125.3721",
+    "location_z": "-785.2059"
   },
   {
     "zone_id": "8",
@@ -581,6 +561,26 @@
   },
   {
     "zone_id": "8",
+    "facility_id": "244620",
+    "facility_name": {
+      "de": "The Rink",
+      "en": "The Rink",
+      "es": "The Rink",
+      "fr": "The Rink",
+      "it": "The Rink",
+      "ko": "링크",
+      "pt": "A Pista de Gelo",
+      "ru": "The Rink",
+      "tr": "The Rink",
+      "zh": "滑冰场"
+    },
+    "facility_type_id": "6",
+    "location_x": "716.0898",
+    "location_y": "102.7103",
+    "location_z": "986.1397"
+  },
+  {
+    "zone_id": "8",
     "facility_id": "251010",
     "facility_name": {
       "de": "Andvari Barracks",
@@ -618,26 +618,6 @@
     "location_x": "-349.21",
     "location_y": "100.75",
     "location_z": "-2356.23"
-  },
-  {
-    "zone_id": "8",
-    "facility_id": "252010",
-    "facility_name": {
-      "de": "Elli Tower",
-      "en": "Elli Tower",
-      "es": "Elli Tower",
-      "fr": "Elli Tower",
-      "it": "Elli Tower",
-      "ko": "엘리 타워",
-      "pt": "Torre de Elli",
-      "ru": "Elli Tower",
-      "tr": "Elli Tower",
-      "zh": "Elli塔楼"
-    },
-    "facility_type_id": "6",
-    "location_x": "-1730.97",
-    "location_y": "84.17827",
-    "location_z": "242.9768"
   },
   {
     "zone_id": "8",
@@ -741,26 +721,6 @@
   },
   {
     "zone_id": "8",
-    "facility_id": "256000",
-    "facility_name": {
-      "de": "Nott Communications",
-      "en": "Nott Communications",
-      "es": "Nott Communications",
-      "fr": "Nott Communications",
-      "it": "Nott Communications",
-      "ko": "놋 통신소 ",
-      "pt": "Comunicações de Nott",
-      "ru": "Nott Communications",
-      "tr": "Nott Communications",
-      "zh": "Nott通讯站"
-    },
-    "facility_type_id": "6",
-    "location_x": "-40.15068",
-    "location_y": "59.4545",
-    "location_z": "1964.311"
-  },
-  {
-    "zone_id": "8",
     "facility_id": "256030",
     "facility_name": {
       "de": "Genudine Gardens",
@@ -778,6 +738,26 @@
     "location_x": "310.7213",
     "location_y": "120.9679",
     "location_z": "1348.024"
+  },
+  {
+    "zone_id": "8",
+    "facility_id": "256000",
+    "facility_name": {
+      "de": "Nott Communications",
+      "en": "Nott Communications",
+      "es": "Nott Communications",
+      "fr": "Nott Communications",
+      "it": "Nott Communications",
+      "ko": "놋 통신소 ",
+      "pt": "Comunicações de Nott",
+      "ru": "Nott Communications",
+      "tr": "Nott Communications",
+      "zh": "Nott通讯站"
+    },
+    "facility_type_id": "6",
+    "location_x": "-40.15068",
+    "location_y": "59.4545",
+    "location_z": "1964.311"
   },
   {
     "zone_id": "8",
@@ -838,26 +818,6 @@
     "location_x": "-2387.216",
     "location_y": "89.134",
     "location_z": "-1999.223"
-  },
-  {
-    "zone_id": "8",
-    "facility_id": "260000",
-    "facility_name": {
-      "de": "Östliches Warptor - Esamir",
-      "en": "Esamir Eastern Warpgate",
-      "es": "Esamir Eastern Warpgate",
-      "fr": "Esamir Eastern Warpgate",
-      "it": "Esamir Eastern Warpgate",
-      "ko": "에사미르 동부 워프게이트",
-      "pt": "Portal Leste de Esamir",
-      "ru": "Esamir Eastern Warpgate",
-      "tr": "Esamir Eastern Warpgate",
-      "zh": "Esamir东部传送门"
-    },
-    "facility_type_id": "7",
-    "location_x": "233.935",
-    "location_y": "10.17865",
-    "location_z": "2658.075"
   },
   {
     "zone_id": "8",
@@ -961,23 +921,23 @@
   },
   {
     "zone_id": "8",
-    "facility_id": "400315",
+    "facility_id": "260000",
     "facility_name": {
-      "de": "Vidar Observationsanlage",
-      "en": "Vidar Observation Site",
-      "es": "Lugar de observación de Vidar",
-      "fr": "Site d'observation Vidar",
-      "it": "Sito di osservazione di Vidar",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Наблюдательный пункт Vidar",
-      "tr": "NULL",
-      "zh": "Vidar Observation Site"
+      "de": "Östliches Warptor - Esamir",
+      "en": "Esamir Eastern Warpgate",
+      "es": "Esamir Eastern Warpgate",
+      "fr": "Esamir Eastern Warpgate",
+      "it": "Esamir Eastern Warpgate",
+      "ko": "에사미르 동부 워프게이트",
+      "pt": "Portal Leste de Esamir",
+      "ru": "Esamir Eastern Warpgate",
+      "tr": "Esamir Eastern Warpgate",
+      "zh": "Esamir东部传送门"
     },
-    "facility_type_id": "9",
-    "location_x": "1342.113",
-    "location_y": "24.76406",
-    "location_z": "2176.018"
+    "facility_type_id": "7",
+    "location_x": "233.935",
+    "location_y": "10.17865",
+    "location_z": "2658.075"
   },
   {
     "zone_id": "8",
@@ -1080,6 +1040,46 @@
     "location_z": "-977.1729"
   },
   {
+    "zone_id": "8",
+    "facility_id": "252010",
+    "facility_name": {
+      "de": "Elli Tower",
+      "en": "Elli Tower",
+      "es": "Elli Tower",
+      "fr": "Elli Tower",
+      "it": "Elli Tower",
+      "ko": "엘리 타워",
+      "pt": "Torre de Elli",
+      "ru": "Elli Tower",
+      "tr": "Elli Tower",
+      "zh": "Elli塔楼"
+    },
+    "facility_type_id": "6",
+    "location_x": "-1730.97",
+    "location_y": "84.17827",
+    "location_z": "242.9768"
+  },
+  {
+    "zone_id": "8",
+    "facility_id": "400315",
+    "facility_name": {
+      "de": "Vidar Observationsanlage",
+      "en": "Vidar Observation Site",
+      "es": "Lugar de observación de Vidar",
+      "fr": "Site d'observation Vidar",
+      "it": "Sito di osservazione di Vidar",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Наблюдательный пункт Vidar",
+      "tr": "NULL",
+      "zh": "Vidar Observation Site"
+    },
+    "facility_type_id": "9",
+    "location_x": "1342.113",
+    "location_y": "24.76406",
+    "location_z": "2176.018"
+  },
+  {
     "zone_id": "344",
     "facility_id": "400330",
     "facility_name": {
@@ -1098,26 +1098,6 @@
     "location_x": "-77.77892",
     "location_y": "95.32577",
     "location_z": "-624.747"
-  },
-  {
-    "zone_id": "344",
-    "facility_id": "400331",
-    "facility_name": {
-      "de": "Pommel Gardens",
-      "en": "Pommel Gardens",
-      "es": "Jardines Pommel",
-      "fr": "Pommel Gardens",
-      "it": "Pommel Gardens",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Pommel Gardens",
-      "tr": "NULL",
-      "zh": "Pommel Gardens"
-    },
-    "facility_type_id": "6",
-    "location_x": "344.6868",
-    "location_y": "141.1339",
-    "location_z": "-44.9972"
   },
   {
     "zone_id": "344",
@@ -1158,6 +1138,26 @@
     "location_x": "-542.6041",
     "location_y": "152.6555",
     "location_z": "-1496.091"
+  },
+  {
+    "zone_id": "344",
+    "facility_id": "400331",
+    "facility_name": {
+      "de": "Pommel Gardens",
+      "en": "Pommel Gardens",
+      "es": "Jardines Pommel",
+      "fr": "Pommel Gardens",
+      "it": "Pommel Gardens",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Pommel Gardens",
+      "tr": "NULL",
+      "zh": "Pommel Gardens"
+    },
+    "facility_type_id": "6",
+    "location_x": "344.6868",
+    "location_y": "141.1339",
+    "location_z": "-44.9972"
   },
   {
     "zone_id": "344",
@@ -1221,46 +1221,6 @@
   },
   {
     "zone_id": "344",
-    "facility_id": "400337",
-    "facility_name": {
-      "de": "Viridian Genetics Labor",
-      "en": "Viridian Genetics Lab",
-      "es": "Laboratorio de Viridian Genetics",
-      "fr": "Labo de Viridian Genetics",
-      "it": "Viridian Genetics Lab",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Лаборатория Viridian Genetics",
-      "tr": "NULL",
-      "zh": "Viridian Genetics Lab"
-    },
-    "facility_type_id": "5",
-    "location_x": "-386.5371",
-    "location_y": "120.8029",
-    "location_z": "1114.843"
-  },
-  {
-    "zone_id": "344",
-    "facility_id": "400338",
-    "facility_name": {
-      "de": "Viridian Dekontaminierung",
-      "en": "Viridian Decontamination",
-      "es": "Descontaminación Viridian",
-      "fr": "Décontamination de Viridian",
-      "it": "Viridian Decontamination",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Обеззараживание Viridian",
-      "tr": "NULL",
-      "zh": "Viridian Decontamination"
-    },
-    "facility_type_id": "9",
-    "location_x": "-758.4912",
-    "location_y": "115.3207",
-    "location_z": "881.5787"
-  },
-  {
-    "zone_id": "344",
     "facility_id": "400339",
     "facility_name": {
       "de": "Centri Mining Operation",
@@ -1278,6 +1238,26 @@
     "location_x": "-1140.793",
     "location_y": "124.632",
     "location_z": "508.2936"
+  },
+  {
+    "zone_id": "344",
+    "facility_id": "400337",
+    "facility_name": {
+      "de": "Viridian Genetics Labor",
+      "en": "Viridian Genetics Lab",
+      "es": "Laboratorio de Viridian Genetics",
+      "fr": "Labo de Viridian Genetics",
+      "it": "Viridian Genetics Lab",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Лаборатория Viridian Genetics",
+      "tr": "NULL",
+      "zh": "Viridian Genetics Lab"
+    },
+    "facility_type_id": "5",
+    "location_x": "-386.5371",
+    "location_y": "120.8029",
+    "location_z": "1114.843"
   },
   {
     "zone_id": "344",
@@ -1321,26 +1301,6 @@
   },
   {
     "zone_id": "344",
-    "facility_id": "400342",
-    "facility_name": {
-      "de": "Lamplight Security",
-      "en": "Lamplight Security",
-      "es": "Seguridad Lamplight",
-      "fr": "Lamplight Security",
-      "it": "Lamplight Security",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Lamplight Security",
-      "tr": "NULL",
-      "zh": "Lamplight Security"
-    },
-    "facility_type_id": "6",
-    "location_x": "1120.782",
-    "location_y": "128.7428",
-    "location_z": "-224.7163"
-  },
-  {
-    "zone_id": "344",
     "facility_id": "400343",
     "facility_name": {
       "de": "Hopeswell Landekopf",
@@ -1361,23 +1321,43 @@
   },
   {
     "zone_id": "344",
-    "facility_id": "400344",
+    "facility_id": "400342",
     "facility_name": {
-      "de": "Wavecrest Landekopf",
-      "en": "Wavecrest Beachhead",
-      "es": "Playa de Wavecrest",
-      "fr": "Tête de pont de Wavecrest",
-      "it": "Testa di ponte di Wavecrest",
+      "de": "Lamplight Security",
+      "en": "Lamplight Security",
+      "es": "Seguridad Lamplight",
+      "fr": "Lamplight Security",
+      "it": "Lamplight Security",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Wavecrest Beachhead",
+      "ru": "Lamplight Security",
       "tr": "NULL",
-      "zh": "Wavecrest Beachhead"
+      "zh": "Lamplight Security"
+    },
+    "facility_type_id": "6",
+    "location_x": "1120.782",
+    "location_y": "128.7428",
+    "location_z": "-224.7163"
+  },
+  {
+    "zone_id": "344",
+    "facility_id": "400338",
+    "facility_name": {
+      "de": "Viridian Dekontaminierung",
+      "en": "Viridian Decontamination",
+      "es": "Descontaminación Viridian",
+      "fr": "Décontamination de Viridian",
+      "it": "Viridian Decontamination",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Обеззараживание Viridian",
+      "tr": "NULL",
+      "zh": "Viridian Decontamination"
     },
     "facility_type_id": "9",
-    "location_x": "798.5482",
-    "location_y": "53.09901",
-    "location_z": "689.5516"
+    "location_x": "-758.4912",
+    "location_y": "115.3207",
+    "location_z": "881.5787"
   },
   {
     "zone_id": "344",
@@ -1461,26 +1441,6 @@
   },
   {
     "zone_id": "344",
-    "facility_id": "400349",
-    "facility_name": {
-      "de": "Hunter's Ravine",
-      "en": "Hunter's Ravine",
-      "es": "Barranco del Cazador",
-      "fr": "Ravin du Chasseur",
-      "it": "Hunter's Ravine",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Hunter's Ravine",
-      "tr": "NULL",
-      "zh": "Hunter's Ravine"
-    },
-    "facility_type_id": "9",
-    "location_x": "-1402.3",
-    "location_y": "104.7852",
-    "location_z": "-2359.434"
-  },
-  {
-    "zone_id": "344",
     "facility_id": "400350",
     "facility_name": {
       "de": "K&H Techstation",
@@ -1501,43 +1461,43 @@
   },
   {
     "zone_id": "344",
-    "facility_id": "400351",
+    "facility_id": "400344",
     "facility_name": {
-      "de": "High Ridge Security",
-      "en": "High Ridge Security",
-      "es": "Seguridad High Ridge",
-      "fr": "High Ridge Security",
-      "it": "High Ridge Security",
+      "de": "Wavecrest Landekopf",
+      "en": "Wavecrest Beachhead",
+      "es": "Playa de Wavecrest",
+      "fr": "Tête de pont de Wavecrest",
+      "it": "Testa di ponte di Wavecrest",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "High Ridge Security",
+      "ru": "Wavecrest Beachhead",
       "tr": "NULL",
-      "zh": "High Ridge Security"
+      "zh": "Wavecrest Beachhead"
     },
-    "facility_type_id": "6",
-    "location_x": "-1522.509",
-    "location_y": "157.3425",
-    "location_z": "-1369.563"
+    "facility_type_id": "9",
+    "location_x": "798.5482",
+    "location_y": "53.09901",
+    "location_z": "689.5516"
   },
   {
     "zone_id": "344",
-    "facility_id": "400352",
+    "facility_id": "400349",
     "facility_name": {
-      "de": "Dekat Interlink",
-      "en": "Dekat Interlink",
-      "es": "Intercambiador Dekat",
-      "fr": "Interconnexion de Dekat",
-      "it": "Dekat Interlink",
+      "de": "Hunter's Ravine",
+      "en": "Hunter's Ravine",
+      "es": "Barranco del Cazador",
+      "fr": "Ravin du Chasseur",
+      "it": "Hunter's Ravine",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Dekat Interlink",
+      "ru": "Hunter's Ravine",
       "tr": "NULL",
-      "zh": "Dekat Interlink"
+      "zh": "Hunter's Ravine"
     },
-    "facility_type_id": "8",
-    "location_x": "-2051.873",
-    "location_y": "187.2922",
-    "location_z": "-593.2458"
+    "facility_type_id": "9",
+    "location_x": "-1402.3",
+    "location_y": "104.7852",
+    "location_z": "-2359.434"
   },
   {
     "zone_id": "344",
@@ -1558,6 +1518,26 @@
     "location_x": "-1779.42",
     "location_y": "157.4047",
     "location_z": "773.3341"
+  },
+  {
+    "zone_id": "344",
+    "facility_id": "400351",
+    "facility_name": {
+      "de": "High Ridge Security",
+      "en": "High Ridge Security",
+      "es": "Seguridad High Ridge",
+      "fr": "High Ridge Security",
+      "it": "High Ridge Security",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "High Ridge Security",
+      "tr": "NULL",
+      "zh": "High Ridge Security"
+    },
+    "facility_type_id": "6",
+    "location_x": "-1522.509",
+    "location_y": "157.3425",
+    "location_z": "-1369.563"
   },
   {
     "zone_id": "344",
@@ -1641,23 +1621,23 @@
   },
   {
     "zone_id": "344",
-    "facility_id": "400358",
+    "facility_id": "400352",
     "facility_name": {
-      "de": "Südlicher Viridian Landekopf",
-      "en": "South Viridian Beachhead",
-      "es": "Playa Viridian del sur",
-      "fr": "Tête de pont sud de Viridian",
-      "it": "Testa di ponte South Viridian",
+      "de": "Dekat Interlink",
+      "en": "Dekat Interlink",
+      "es": "Intercambiador Dekat",
+      "fr": "Interconnexion de Dekat",
+      "it": "Dekat Interlink",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "South Viridian Beachhead",
+      "ru": "Dekat Interlink",
       "tr": "NULL",
-      "zh": "South Viridian Beachhead"
+      "zh": "Dekat Interlink"
     },
-    "facility_type_id": "9",
-    "location_x": "-903.4184",
-    "location_y": "58.58082",
-    "location_z": "1828.76"
+    "facility_type_id": "8",
+    "location_x": "-2051.873",
+    "location_y": "187.2922",
+    "location_z": "-593.2458"
   },
   {
     "zone_id": "344",
@@ -1701,26 +1681,6 @@
   },
   {
     "zone_id": "344",
-    "facility_id": "400361",
-    "facility_name": {
-      "de": "Wellerman Watch",
-      "en": "Wellerman Watch",
-      "es": "Vigilancia Wellerman",
-      "fr": "Wellerman Watch",
-      "it": "Wellerman Watch",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Wellerman Watch",
-      "tr": "NULL",
-      "zh": "Wellmerman Watch"
-    },
-    "facility_type_id": "5",
-    "location_x": "1196.986",
-    "location_y": "187.2996",
-    "location_z": "1079.018"
-  },
-  {
-    "zone_id": "344",
     "facility_id": "400362",
     "facility_name": {
       "de": "Palaso Nachschub-Depot",
@@ -1741,6 +1701,26 @@
   },
   {
     "zone_id": "344",
+    "facility_id": "400361",
+    "facility_name": {
+      "de": "Wellerman Watch",
+      "en": "Wellerman Watch",
+      "es": "Vigilancia Wellerman",
+      "fr": "Wellerman Watch",
+      "it": "Wellerman Watch",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Wellerman Watch",
+      "tr": "NULL",
+      "zh": "Wellmerman Watch"
+    },
+    "facility_type_id": "5",
+    "location_x": "1196.986",
+    "location_y": "187.2996",
+    "location_z": "1079.018"
+  },
+  {
+    "zone_id": "344",
     "facility_id": "400363",
     "facility_name": {
       "de": "Fort Arceo",
@@ -1758,26 +1738,6 @@
     "location_x": "2060.398",
     "location_y": "133.455",
     "location_z": "537.5415"
-  },
-  {
-    "zone_id": "344",
-    "facility_id": "400364",
-    "facility_name": {
-      "de": "Außenposten Eagle",
-      "en": "Eagle Outpost",
-      "es": "Puesto de avanzada Eagle",
-      "fr": "Eagle Outpost",
-      "it": "Eagle Outpost",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Eagle Outpost",
-      "tr": "NULL",
-      "zh": "Eagle Outpost"
-    },
-    "facility_type_id": "6",
-    "location_x": "2288.571",
-    "location_y": "117.7652",
-    "location_z": "95.03036"
   },
   {
     "zone_id": "344",
@@ -1881,43 +1841,43 @@
   },
   {
     "zone_id": "344",
-    "facility_id": "400370",
+    "facility_id": "400358",
     "facility_name": {
-      "de": "Oshur Nord-Flotille",
-      "en": "Oshur North Flotilla",
-      "es": "Flotilla norte de Oshur",
-      "fr": "Flottille nord d'Oshur",
-      "it": "Squadriglia nord di Oshur",
+      "de": "Südlicher Viridian Landekopf",
+      "en": "South Viridian Beachhead",
+      "es": "Playa Viridian del sur",
+      "fr": "Tête de pont sud de Viridian",
+      "it": "Testa di ponte South Viridian",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Северная флотилия Oshur",
+      "ru": "South Viridian Beachhead",
       "tr": "NULL",
-      "zh": "Oshur北方舰队"
+      "zh": "South Viridian Beachhead"
     },
-    "facility_type_id": "7",
-    "location_x": "2976.782",
-    "location_y": "48.9509",
-    "location_z": "459.6718"
+    "facility_type_id": "9",
+    "location_x": "-903.4184",
+    "location_y": "58.58082",
+    "location_z": "1828.76"
   },
   {
     "zone_id": "344",
-    "facility_id": "400371",
+    "facility_id": "400364",
     "facility_name": {
-      "de": "Oshur Südost-Flotille",
-      "en": "Oshur Southeast Flotilla",
-      "es": "Flotilla sudeste de Oshur",
-      "fr": "Flottille sud-est d'Oshur",
-      "it": "Squadriglia sud-est di Oshur",
+      "de": "Außenposten Eagle",
+      "en": "Eagle Outpost",
+      "es": "Puesto de avanzada Eagle",
+      "fr": "Eagle Outpost",
+      "it": "Eagle Outpost",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Южно-восточная флотилия Oshur",
+      "ru": "Eagle Outpost",
       "tr": "NULL",
-      "zh": "Oshur东南舰队"
+      "zh": "Eagle Outpost"
     },
-    "facility_type_id": "7",
-    "location_x": "-2498.959",
-    "location_y": "48.95689",
-    "location_z": "2905.846"
+    "facility_type_id": "6",
+    "location_x": "2288.571",
+    "location_y": "117.7652",
+    "location_z": "95.03036"
   },
   {
     "zone_id": "344",
@@ -1961,6 +1921,26 @@
   },
   {
     "zone_id": "344",
+    "facility_id": "400370",
+    "facility_name": {
+      "de": "Oshur Nord-Flotille",
+      "en": "Oshur North Flotilla",
+      "es": "Flotilla norte de Oshur",
+      "fr": "Flottille nord d'Oshur",
+      "it": "Squadriglia nord di Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Северная флотилия Oshur",
+      "tr": "NULL",
+      "zh": "Oshur北方舰队"
+    },
+    "facility_type_id": "7",
+    "location_x": "2976.782",
+    "location_y": "48.9509",
+    "location_z": "459.6718"
+  },
+  {
+    "zone_id": "344",
     "facility_id": "400374",
     "facility_name": {
       "de": "Anlabban Trident",
@@ -2001,6 +1981,26 @@
   },
   {
     "zone_id": "344",
+    "facility_id": "400371",
+    "facility_name": {
+      "de": "Oshur Südost-Flotille",
+      "en": "Oshur Southeast Flotilla",
+      "es": "Flotilla sudeste de Oshur",
+      "fr": "Flottille sud-est d'Oshur",
+      "it": "Squadriglia sud-est di Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Южно-восточная флотилия Oshur",
+      "tr": "NULL",
+      "zh": "Oshur东南舰队"
+    },
+    "facility_type_id": "7",
+    "location_x": "-2498.959",
+    "location_y": "48.95689",
+    "location_z": "2905.846"
+  },
+  {
+    "zone_id": "344",
     "facility_id": "400391",
     "facility_name": {
       "de": "Seeposten K10",
@@ -2021,23 +2021,23 @@
   },
   {
     "zone_id": "344",
-    "facility_id": "400392",
+    "facility_id": "400405",
     "facility_name": {
-      "de": "Seeposten K12",
-      "en": "Seapost K12",
-      "es": "Puesto marino K12",
-      "fr": "Poste maritime K12",
-      "it": "Seapost K12",
+      "de": "Solstice Pass",
+      "en": "Solstice Pass",
+      "es": "Paso Solsticio",
+      "fr": "Col du Solstice",
+      "it": "Solstice Pass",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Seapost K12",
+      "ru": "Solstice Pass",
       "tr": "NULL",
-      "zh": "Seapost K12"
+      "zh": "Solstice Pass"
     },
-    "facility_type_id": "13",
-    "location_x": "-1684.616",
-    "location_y": "59.28022",
-    "location_z": "1491.646"
+    "facility_type_id": "9",
+    "location_x": "-2020.088",
+    "location_y": "113.9409",
+    "location_z": "75.05101"
   },
   {
     "zone_id": "344",
@@ -2058,26 +2058,6 @@
     "location_x": "-207.4052",
     "location_y": "129.3922",
     "location_z": "-2555.201"
-  },
-  {
-    "zone_id": "344",
-    "facility_id": "400405",
-    "facility_name": {
-      "de": "Solstice Pass",
-      "en": "Solstice Pass",
-      "es": "Paso Solsticio",
-      "fr": "Col du Solstice",
-      "it": "Solstice Pass",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Solstice Pass",
-      "tr": "NULL",
-      "zh": "Solstice Pass"
-    },
-    "facility_type_id": "9",
-    "location_x": "-2020.088",
-    "location_y": "113.9409",
-    "location_z": "75.05101"
   },
   {
     "zone_id": "344",
@@ -2221,26 +2201,6 @@
   },
   {
     "zone_id": "344",
-    "facility_id": "400415",
-    "facility_name": {
-      "de": "Seeposten G8 - Pipeline",
-      "en": "Seapost G8 - Pipeline",
-      "es": "Puesto naval G8: Oleoducto",
-      "fr": "Poste maritime G8 - Pipeline",
-      "it": "Seapost G8 - Conduttura",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Seapost G8: Трубы",
-      "tr": "NULL",
-      "zh": "Seapost G8：管道"
-    },
-    "facility_type_id": "13",
-    "location_x": "113.405",
-    "location_y": "64.14633",
-    "location_z": "-971.9489"
-  },
-  {
-    "zone_id": "344",
     "facility_id": "400416",
     "facility_name": {
       "de": "Seeposten D8 - Einsturz",
@@ -2261,23 +2221,23 @@
   },
   {
     "zone_id": "344",
-    "facility_id": "400417",
+    "facility_id": "400415",
     "facility_name": {
-      "de": "Seeposten G6 - Gräben",
-      "en": "Seapost G6 - Trenches",
-      "es": "Puesto naval G6: Trincheras",
-      "fr": "Poste maritime G6 - Tranchées",
-      "it": "Seapost G6 - Trincee",
+      "de": "Seeposten G8 - Pipeline",
+      "en": "Seapost G8 - Pipeline",
+      "es": "Puesto naval G8: Oleoducto",
+      "fr": "Poste maritime G8 - Pipeline",
+      "it": "Seapost G8 - Conduttura",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "Seapost G6: Окопы",
+      "ru": "Seapost G8: Трубы",
       "tr": "NULL",
-      "zh": "Seapost G6：战壕"
+      "zh": "Seapost G8：管道"
     },
     "facility_type_id": "13",
-    "location_x": "1123.265",
-    "location_y": "62.71637",
-    "location_z": "-669.2636"
+    "location_x": "113.405",
+    "location_y": "64.14633",
+    "location_z": "-971.9489"
   },
   {
     "zone_id": "344",
@@ -2298,6 +2258,26 @@
     "location_x": "2137.521",
     "location_y": "63.73962",
     "location_z": "-730.7429"
+  },
+  {
+    "zone_id": "344",
+    "facility_id": "400392",
+    "facility_name": {
+      "de": "Seeposten K12",
+      "en": "Seapost K12",
+      "es": "Puesto marino K12",
+      "fr": "Poste maritime K12",
+      "it": "Seapost K12",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Seapost K12",
+      "tr": "NULL",
+      "zh": "Seapost K12"
+    },
+    "facility_type_id": "13",
+    "location_x": "-1684.616",
+    "location_y": "59.28022",
+    "location_z": "1491.646"
   },
   {
     "zone_id": "344",
@@ -2361,6 +2341,26 @@
   },
   {
     "zone_id": "344",
+    "facility_id": "400417",
+    "facility_name": {
+      "de": "Seeposten G6 - Gräben",
+      "en": "Seapost G6 - Trenches",
+      "es": "Puesto naval G6: Trincheras",
+      "fr": "Poste maritime G6 - Tranchées",
+      "it": "Seapost G6 - Trincee",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Seapost G6: Окопы",
+      "tr": "NULL",
+      "zh": "Seapost G6：战壕"
+    },
+    "facility_type_id": "13",
+    "location_x": "1123.265",
+    "location_y": "62.71637",
+    "location_z": "-669.2636"
+  },
+  {
+    "zone_id": "344",
     "facility_id": "400427",
     "facility_name": {
       "de": "Ausgrabungs-Räumstelle",
@@ -2398,26 +2398,6 @@
     "location_x": "1612.34",
     "location_y": "147.69",
     "location_z": "-1334.77"
-  },
-  {
-    "zone_id": "2",
-    "facility_id": "201",
-    "facility_name": {
-      "de": "Indar Waste Treatment",
-      "en": "Indar Waste Treatment",
-      "es": "Indar Waste Treatment",
-      "fr": "Indar Waste Treatment",
-      "it": "Indar Waste Treatment",
-      "ko": "인다르 폐기물 처리장",
-      "pt": "Tratamento de Desperdícios de Indar",
-      "ru": "Indar Waste Treatment",
-      "tr": "Indar Waste Treatment",
-      "zh": "Indar废物处理站"
-    },
-    "facility_type_id": "6",
-    "location_x": "2934.292",
-    "location_y": "52.79778",
-    "location_z": "-903.3533"
   },
   {
     "zone_id": "2",
@@ -2461,23 +2441,23 @@
   },
   {
     "zone_id": "2",
-    "facility_id": "205",
+    "facility_id": "201",
     "facility_name": {
-      "de": "Alkali Shipping",
-      "en": "Alkali Shipping",
-      "es": "Alkali Shipping",
-      "fr": "Alkali Shipping",
-      "it": "Alkali Shipping",
-      "ko": "알칼리 부두",
-      "pt": "Embarcadora de Alkali",
-      "ru": "Alkali Shipping",
-      "tr": "Alkali Shipping",
-      "zh": "Alkali船坞"
+      "de": "Indar Waste Treatment",
+      "en": "Indar Waste Treatment",
+      "es": "Indar Waste Treatment",
+      "fr": "Indar Waste Treatment",
+      "it": "Indar Waste Treatment",
+      "ko": "인다르 폐기물 처리장",
+      "pt": "Tratamento de Desperdícios de Indar",
+      "ru": "Indar Waste Treatment",
+      "tr": "Indar Waste Treatment",
+      "zh": "Indar废物处理站"
     },
     "facility_type_id": "6",
-    "location_x": "1795.966",
-    "location_y": "93.4028",
-    "location_z": "-1616.926"
+    "location_x": "2934.292",
+    "location_y": "52.79778",
+    "location_z": "-903.3533"
   },
   {
     "zone_id": "2",
@@ -2521,43 +2501,23 @@
   },
   {
     "zone_id": "2",
-    "facility_id": "208",
+    "facility_id": "205",
     "facility_name": {
-      "de": "Alkali Mining Supply",
-      "en": "Alkali Mining Supply",
-      "es": "Alkali Mining Supply",
-      "fr": "Alkali Mining Supply",
-      "it": "Alkali Mining Supply",
-      "ko": "알칼리 채광 보급소",
-      "pt": "Suprimento de Mineração de Alkali",
-      "ru": "Alkali Mining Supply",
-      "tr": "Alkali Mining Supply",
-      "zh": "Alkali矿场补给站"
+      "de": "Alkali Shipping",
+      "en": "Alkali Shipping",
+      "es": "Alkali Shipping",
+      "fr": "Alkali Shipping",
+      "it": "Alkali Shipping",
+      "ko": "알칼리 부두",
+      "pt": "Embarcadora de Alkali",
+      "ru": "Alkali Shipping",
+      "tr": "Alkali Shipping",
+      "zh": "Alkali船坞"
     },
     "facility_type_id": "6",
-    "location_x": "1867.873",
-    "location_y": "108.6257",
-    "location_z": "-590.8013"
-  },
-  {
-    "zone_id": "2",
-    "facility_id": "209",
-    "facility_name": {
-      "de": "Crater Firing Range",
-      "en": "Crater Firing Range",
-      "es": "Crater Firing Range",
-      "fr": "Crater Firing Range",
-      "it": "Crater Firing Range",
-      "ko": "크레이터 사격 훈련장",
-      "pt": "Alcance de Disparos da Cratera",
-      "ru": "Crater Firing Range",
-      "tr": "Crater Firing Range",
-      "zh": "Crater冲击带"
-    },
-    "facility_type_id": "6",
-    "location_x": "1813",
-    "location_y": "138",
-    "location_z": "80"
+    "location_x": "1795.966",
+    "location_y": "93.4028",
+    "location_z": "-1616.926"
   },
   {
     "zone_id": "2",
@@ -2598,6 +2558,26 @@
     "location_x": "1331.585",
     "location_y": "116.2792",
     "location_z": "1028.919"
+  },
+  {
+    "zone_id": "2",
+    "facility_id": "208",
+    "facility_name": {
+      "de": "Alkali Mining Supply",
+      "en": "Alkali Mining Supply",
+      "es": "Alkali Mining Supply",
+      "fr": "Alkali Mining Supply",
+      "it": "Alkali Mining Supply",
+      "ko": "알칼리 채광 보급소",
+      "pt": "Suprimento de Mineração de Alkali",
+      "ru": "Alkali Mining Supply",
+      "tr": "Alkali Mining Supply",
+      "zh": "Alkali矿场补给站"
+    },
+    "facility_type_id": "6",
+    "location_x": "1867.873",
+    "location_y": "108.6257",
+    "location_z": "-590.8013"
   },
   {
     "zone_id": "2",
@@ -2661,23 +2641,23 @@
   },
   {
     "zone_id": "2",
-    "facility_id": "215",
+    "facility_id": "209",
     "facility_name": {
-      "de": "Quartz Ridge Camp",
-      "en": "Quartz Ridge Camp",
-      "es": "Quartz Ridge Camp",
-      "fr": "Quartz Ridge Camp",
-      "it": "Quartz Ridge Camp",
-      "ko": "쿼츠릿지 캠프",
-      "pt": "Campo Cume de Quartzo",
-      "ru": "Quartz Ridge Camp",
-      "tr": "Quartz Ridge Camp",
-      "zh": "Quartz Ridge营地"
+      "de": "Crater Firing Range",
+      "en": "Crater Firing Range",
+      "es": "Crater Firing Range",
+      "fr": "Crater Firing Range",
+      "it": "Crater Firing Range",
+      "ko": "크레이터 사격 훈련장",
+      "pt": "Alcance de Disparos da Cratera",
+      "ru": "Crater Firing Range",
+      "tr": "Crater Firing Range",
+      "zh": "Crater冲击带"
     },
-    "facility_type_id": "5",
-    "location_x": "153.999",
-    "location_y": "223.4447",
-    "location_z": "-2312.848"
+    "facility_type_id": "6",
+    "location_x": "1813",
+    "location_y": "138",
+    "location_z": "80"
   },
   {
     "zone_id": "2",
@@ -2701,6 +2681,26 @@
   },
   {
     "zone_id": "2",
+    "facility_id": "215",
+    "facility_name": {
+      "de": "Quartz Ridge Camp",
+      "en": "Quartz Ridge Camp",
+      "es": "Quartz Ridge Camp",
+      "fr": "Quartz Ridge Camp",
+      "it": "Quartz Ridge Camp",
+      "ko": "쿼츠릿지 캠프",
+      "pt": "Campo Cume de Quartzo",
+      "ru": "Quartz Ridge Camp",
+      "tr": "Quartz Ridge Camp",
+      "zh": "Quartz Ridge营地"
+    },
+    "facility_type_id": "5",
+    "location_x": "153.999",
+    "location_y": "223.4447",
+    "location_z": "-2312.848"
+  },
+  {
+    "zone_id": "2",
     "facility_id": "218",
     "facility_name": {
       "de": "Ti Alloys, Inc.",
@@ -2721,26 +2721,6 @@
   },
   {
     "zone_id": "2",
-    "facility_id": "219",
-    "facility_name": {
-      "de": "Ceres-Hydroponics",
-      "en": "Ceres Hydroponics",
-      "es": "Ceres Hydroponics",
-      "fr": "Ceres Hydroponics",
-      "it": "Ceres Hydroponics",
-      "ko": "세레스 수경재배소",
-      "pt": "Hidroponia Ceres",
-      "ru": "Ceres Hydroponics",
-      "tr": "Ceres Hydroponics",
-      "zh": "Ceres水培实验室"
-    },
-    "facility_type_id": "6",
-    "location_x": "284.217",
-    "location_y": "213.7224",
-    "location_z": "84.64059"
-  },
-  {
-    "zone_id": "2",
     "facility_id": "220",
     "facility_name": {
       "de": "Galaxy Solar Plant",
@@ -2758,6 +2738,26 @@
     "location_x": "721",
     "location_y": "176",
     "location_z": "688"
+  },
+  {
+    "zone_id": "2",
+    "facility_id": "219",
+    "facility_name": {
+      "de": "Ceres-Hydroponics",
+      "en": "Ceres Hydroponics",
+      "es": "Ceres Hydroponics",
+      "fr": "Ceres Hydroponics",
+      "it": "Ceres Hydroponics",
+      "ko": "세레스 수경재배소",
+      "pt": "Hidroponia Ceres",
+      "ru": "Ceres Hydroponics",
+      "tr": "Ceres Hydroponics",
+      "zh": "Ceres水培实验室"
+    },
+    "facility_type_id": "6",
+    "location_x": "284.217",
+    "location_y": "213.7224",
+    "location_z": "84.64059"
   },
   {
     "zone_id": "2",
@@ -2801,26 +2801,6 @@
   },
   {
     "zone_id": "2",
-    "facility_id": "226",
-    "facility_name": {
-      "de": "NS Secure Data Lab",
-      "en": "NS Secure Data Lab",
-      "es": "NS Secure Data Lab",
-      "fr": "NS Secure Data Lab",
-      "it": "NS Secure Data Lab",
-      "ko": "NS 보안 데이터 실험실",
-      "pt": "Laboratório de Dados Seguro NS",
-      "ru": "NS Secure Data Lab",
-      "tr": "NS Secure Data Lab",
-      "zh": "纳能数据安全实验室"
-    },
-    "facility_type_id": "6",
-    "location_x": "-964.9065",
-    "location_y": "472.8452",
-    "location_z": "-1314.808"
-  },
-  {
-    "zone_id": "2",
     "facility_id": "227",
     "facility_name": {
       "de": "Highlands-Solarstation",
@@ -2838,6 +2818,26 @@
     "location_x": "-1323.312",
     "location_y": "508.7589",
     "location_z": "-1660.741"
+  },
+  {
+    "zone_id": "2",
+    "facility_id": "226",
+    "facility_name": {
+      "de": "NS Secure Data Lab",
+      "en": "NS Secure Data Lab",
+      "es": "NS Secure Data Lab",
+      "fr": "NS Secure Data Lab",
+      "it": "NS Secure Data Lab",
+      "ko": "NS 보안 데이터 실험실",
+      "pt": "Laboratório de Dados Seguro NS",
+      "ru": "NS Secure Data Lab",
+      "tr": "NS Secure Data Lab",
+      "zh": "纳能数据安全实验室"
+    },
+    "facility_type_id": "6",
+    "location_x": "-964.9065",
+    "location_y": "472.8452",
+    "location_z": "-1314.808"
   },
   {
     "zone_id": "2",
@@ -2921,46 +2921,6 @@
   },
   {
     "zone_id": "2",
-    "facility_id": "235",
-    "facility_name": {
-      "de": "Rust Mesa Lookout",
-      "en": "Rust Mesa Lookout",
-      "es": "Rust Mesa Lookout",
-      "fr": "Rust Mesa Lookout",
-      "it": "Rust Mesa Lookout",
-      "ko": "황폐한 메사 초소",
-      "pt": "Ponto de Observação da Montanha Enferrujada",
-      "ru": "Rust Mesa Lookout",
-      "tr": "Rust Mesa Lookout",
-      "zh": "Rust Mesa观察站"
-    },
-    "facility_type_id": "6",
-    "location_x": "-230.4564",
-    "location_y": "400.6332",
-    "location_z": "1722.342"
-  },
-  {
-    "zone_id": "2",
-    "facility_id": "236",
-    "facility_name": {
-      "de": "The Old Stockpile",
-      "en": "The Old Stockpile",
-      "es": "The Old Stockpile",
-      "fr": "The Old Stockpile",
-      "it": "The Old Stockpile",
-      "ko": "버려진 폐기장",
-      "pt": "O Antigo Estoque",
-      "ru": "The Old Stockpile",
-      "tr": "The Old Stockpile",
-      "zh": "物资中心旧址"
-    },
-    "facility_type_id": "6",
-    "location_x": "-996.366",
-    "location_y": "319.0157",
-    "location_z": "2001.285"
-  },
-  {
-    "zone_id": "2",
     "facility_id": "237",
     "facility_name": {
       "de": "Ceres-Biotechnologie",
@@ -3001,23 +2961,23 @@
   },
   {
     "zone_id": "2",
-    "facility_id": "242",
+    "facility_id": "236",
     "facility_name": {
-      "de": "Scarred Mesa Skydock",
-      "en": "Scarred Mesa Skydock",
-      "es": "Scarred Mesa Skydock",
-      "fr": "Scarred Mesa Skydock",
-      "it": "Scarred Mesa Skydock",
-      "ko": "부서진 메사 선착장",
-      "pt": "Doca Aérea da Montanha Cicatrizada",
-      "ru": "Scarred Mesa Skydock",
-      "tr": "Scarred Mesa Skydock",
-      "zh": "Scarred Mesa空港"
+      "de": "The Old Stockpile",
+      "en": "The Old Stockpile",
+      "es": "The Old Stockpile",
+      "fr": "The Old Stockpile",
+      "it": "The Old Stockpile",
+      "ko": "버려진 폐기장",
+      "pt": "O Antigo Estoque",
+      "ru": "The Old Stockpile",
+      "tr": "The Old Stockpile",
+      "zh": "物资中心旧址"
     },
     "facility_type_id": "6",
-    "location_x": "-2663.466",
-    "location_y": "460.6049",
-    "location_z": "390.4332"
+    "location_x": "-996.366",
+    "location_y": "319.0157",
+    "location_z": "2001.285"
   },
   {
     "zone_id": "2",
@@ -3061,6 +3021,26 @@
   },
   {
     "zone_id": "2",
+    "facility_id": "242",
+    "facility_name": {
+      "de": "Scarred Mesa Skydock",
+      "en": "Scarred Mesa Skydock",
+      "es": "Scarred Mesa Skydock",
+      "fr": "Scarred Mesa Skydock",
+      "it": "Scarred Mesa Skydock",
+      "ko": "부서진 메사 선착장",
+      "pt": "Doca Aérea da Montanha Cicatrizada",
+      "ru": "Scarred Mesa Skydock",
+      "tr": "Scarred Mesa Skydock",
+      "zh": "Scarred Mesa空港"
+    },
+    "facility_type_id": "6",
+    "location_x": "-2663.466",
+    "location_y": "460.6049",
+    "location_z": "390.4332"
+  },
+  {
+    "zone_id": "2",
     "facility_id": "248",
     "facility_name": {
       "de": "Valley Storage Yard",
@@ -3078,26 +3058,6 @@
     "location_x": "-1393.313",
     "location_y": "306.9437",
     "location_z": "2643.841"
-  },
-  {
-    "zone_id": "2",
-    "facility_id": "252",
-    "facility_name": {
-      "de": "Ceres-Farmen",
-      "en": "Ceres Farms",
-      "es": "Ceres Farms",
-      "fr": "Ceres Farms",
-      "it": "Ceres Farms",
-      "ko": "세레스 농장",
-      "pt": "Fazendas Ceres",
-      "ru": "Ceres Farms",
-      "tr": "Ceres Farms",
-      "zh": "Ceres农场"
-    },
-    "facility_type_id": "6",
-    "location_x": "-1768.703",
-    "location_y": "508.1644",
-    "location_z": "-1731.421"
   },
   {
     "zone_id": "2",
@@ -3181,6 +3141,26 @@
   },
   {
     "zone_id": "2",
+    "facility_id": "252",
+    "facility_name": {
+      "de": "Ceres-Farmen",
+      "en": "Ceres Farms",
+      "es": "Ceres Farms",
+      "fr": "Ceres Farms",
+      "it": "Ceres Farms",
+      "ko": "세레스 농장",
+      "pt": "Fazendas Ceres",
+      "ru": "Ceres Farms",
+      "tr": "Ceres Farms",
+      "zh": "Ceres农场"
+    },
+    "facility_type_id": "6",
+    "location_x": "-1768.703",
+    "location_y": "508.1644",
+    "location_z": "-1731.421"
+  },
+  {
+    "zone_id": "2",
     "facility_id": "3230",
     "facility_name": {
       "de": "Dahaka Southern Post",
@@ -3198,26 +3178,6 @@
     "location_x": "1049.64",
     "location_y": "150.5795",
     "location_z": "-1139.729"
-  },
-  {
-    "zone_id": "2",
-    "facility_id": "3400",
-    "facility_name": {
-      "de": "Peris",
-      "en": "Peris",
-      "es": "Peris",
-      "fr": "Peris",
-      "it": "Peris",
-      "ko": "페리스",
-      "pt": "Peris",
-      "ru": "Peris",
-      "tr": "Peris",
-      "zh": "Peris"
-    },
-    "facility_type_id": "2",
-    "location_x": "-2384.115",
-    "location_y": "471.3849",
-    "location_z": "-1148.466"
   },
   {
     "zone_id": "2",
@@ -3258,6 +3218,26 @@
     "location_x": "-1993.015",
     "location_y": "473.8811",
     "location_z": "-1133.28"
+  },
+  {
+    "zone_id": "2",
+    "facility_id": "235",
+    "facility_name": {
+      "de": "Rust Mesa Lookout",
+      "en": "Rust Mesa Lookout",
+      "es": "Rust Mesa Lookout",
+      "fr": "Rust Mesa Lookout",
+      "it": "Rust Mesa Lookout",
+      "ko": "황폐한 메사 초소",
+      "pt": "Ponto de Observação da Montanha Enferrujada",
+      "ru": "Rust Mesa Lookout",
+      "tr": "Rust Mesa Lookout",
+      "zh": "Rust Mesa观察站"
+    },
+    "facility_type_id": "6",
+    "location_x": "-230.4564",
+    "location_y": "400.6332",
+    "location_z": "1722.342"
   },
   {
     "zone_id": "2",
@@ -3321,43 +3301,23 @@
   },
   {
     "zone_id": "2",
-    "facility_id": "3620",
+    "facility_id": "3400",
     "facility_name": {
-      "de": "Rashnu Watchtower",
-      "en": "Rashnu Watchtower",
-      "es": "Rashnu Watchtower",
-      "fr": "Rashnu Watchtower",
-      "it": "Rashnu Watchtower",
-      "ko": "라쉬누 망루",
-      "pt": "Torre de Vigia de Ranshu",
-      "ru": "Rashnu Watchtower",
-      "tr": "Rashnu Watchtower",
-      "zh": "Rashnu瞭望塔"
+      "de": "Peris",
+      "en": "Peris",
+      "es": "Peris",
+      "fr": "Peris",
+      "it": "Peris",
+      "ko": "페리스",
+      "pt": "Peris",
+      "ru": "Peris",
+      "tr": "Peris",
+      "zh": "Peris"
     },
-    "facility_type_id": "6",
-    "location_x": "-314.9844",
-    "location_y": "398.7197",
-    "location_z": "2772.19"
-  },
-  {
-    "zone_id": "2",
-    "facility_id": "3630",
-    "facility_name": {
-      "de": "Rashnu Southern Pass",
-      "en": "Rashnu Southern Pass",
-      "es": "Rashnu Southern Pass",
-      "fr": "Rashnu Southern Pass",
-      "it": "Rashnu Southern Pass",
-      "ko": "라쉬누 남부 통로",
-      "pt": "Passagem Sul de Ranshu",
-      "ru": "Rashnu Southern Pass",
-      "tr": "Rashnu Southern Pass",
-      "zh": "Rashnu南部通道"
-    },
-    "facility_type_id": "6",
-    "location_x": "-749.2546",
-    "location_y": "395.0005",
-    "location_z": "2480.463"
+    "facility_type_id": "2",
+    "location_x": "-2384.115",
+    "location_y": "471.3849",
+    "location_z": "-1148.466"
   },
   {
     "zone_id": "2",
@@ -3378,6 +3338,26 @@
     "location_x": "2381.5",
     "location_y": "52.75031",
     "location_z": "-2045.004"
+  },
+  {
+    "zone_id": "2",
+    "facility_id": "3630",
+    "facility_name": {
+      "de": "Rashnu Southern Pass",
+      "en": "Rashnu Southern Pass",
+      "es": "Rashnu Southern Pass",
+      "fr": "Rashnu Southern Pass",
+      "it": "Rashnu Southern Pass",
+      "ko": "라쉬누 남부 통로",
+      "pt": "Passagem Sul de Ranshu",
+      "ru": "Rashnu Southern Pass",
+      "tr": "Rashnu Southern Pass",
+      "zh": "Rashnu南部通道"
+    },
+    "facility_type_id": "6",
+    "location_x": "-749.2546",
+    "location_y": "395.0005",
+    "location_z": "2480.463"
   },
   {
     "zone_id": "2",
@@ -3421,6 +3401,26 @@
   },
   {
     "zone_id": "2",
+    "facility_id": "4010",
+    "facility_name": {
+      "de": "Allatum Research Lab",
+      "en": "Allatum Research Lab",
+      "es": "Allatum Research Lab",
+      "fr": "Allatum Research Lab",
+      "it": "Allatum Research Lab",
+      "ko": "얼레이텀 연구소",
+      "pt": "Laboratório de Pesquisa de Allatum",
+      "ru": "Allatum Research Lab",
+      "tr": "Allatum Research Lab",
+      "zh": "Allatum研究实验室"
+    },
+    "facility_type_id": "6",
+    "location_x": "-361.6654",
+    "location_y": "467.2095",
+    "location_z": "-1215.664"
+  },
+  {
+    "zone_id": "2",
     "facility_id": "4001",
     "facility_name": {
       "de": "Allatum",
@@ -3441,23 +3441,23 @@
   },
   {
     "zone_id": "2",
-    "facility_id": "4010",
+    "facility_id": "3620",
     "facility_name": {
-      "de": "Allatum Research Lab",
-      "en": "Allatum Research Lab",
-      "es": "Allatum Research Lab",
-      "fr": "Allatum Research Lab",
-      "it": "Allatum Research Lab",
-      "ko": "얼레이텀 연구소",
-      "pt": "Laboratório de Pesquisa de Allatum",
-      "ru": "Allatum Research Lab",
-      "tr": "Allatum Research Lab",
-      "zh": "Allatum研究实验室"
+      "de": "Rashnu Watchtower",
+      "en": "Rashnu Watchtower",
+      "es": "Rashnu Watchtower",
+      "fr": "Rashnu Watchtower",
+      "it": "Rashnu Watchtower",
+      "ko": "라쉬누 망루",
+      "pt": "Torre de Vigia de Ranshu",
+      "ru": "Rashnu Watchtower",
+      "tr": "Rashnu Watchtower",
+      "zh": "Rashnu瞭望塔"
     },
     "facility_type_id": "6",
-    "location_x": "-361.6654",
-    "location_y": "467.2095",
-    "location_z": "-1215.664"
+    "location_x": "-314.9844",
+    "location_y": "398.7197",
+    "location_z": "2772.19"
   },
   {
     "zone_id": "2",
@@ -3501,26 +3501,6 @@
   },
   {
     "zone_id": "2",
-    "facility_id": "4401",
-    "facility_name": {
-      "de": "Mao",
-      "en": "Mao",
-      "es": "Mao",
-      "fr": "Mao",
-      "it": "Mao",
-      "ko": "마오",
-      "pt": "Mao",
-      "ru": "Mao",
-      "tr": "Mao",
-      "zh": "Mao"
-    },
-    "facility_type_id": "4",
-    "location_x": "1810.618",
-    "location_y": "110.9223",
-    "location_z": "1514.764"
-  },
-  {
-    "zone_id": "2",
     "facility_id": "4410",
     "facility_name": {
       "de": "Mao Southwest Gate",
@@ -3538,6 +3518,26 @@
     "location_x": "1754.547",
     "location_y": "108.93",
     "location_z": "1221.427"
+  },
+  {
+    "zone_id": "2",
+    "facility_id": "4401",
+    "facility_name": {
+      "de": "Mao",
+      "en": "Mao",
+      "es": "Mao",
+      "fr": "Mao",
+      "it": "Mao",
+      "ko": "마오",
+      "pt": "Mao",
+      "ru": "Mao",
+      "tr": "Mao",
+      "zh": "Mao"
+    },
+    "facility_type_id": "4",
+    "location_x": "1810.618",
+    "location_y": "110.9223",
+    "location_z": "1514.764"
   },
   {
     "zone_id": "2",
@@ -3581,26 +3581,6 @@
   },
   {
     "zone_id": "2",
-    "facility_id": "4801",
-    "facility_name": {
-      "de": "Östliches Warptor - Indar",
-      "en": "Indar Eastern Warpgate",
-      "es": "Indar Eastern Warpgate",
-      "fr": "Indar Eastern Warpgate",
-      "it": "Indar Eastern Warpgate",
-      "ko": "인다르 동부 워프게이트",
-      "pt": "Portal Leste de Indar",
-      "ru": "Indar Eastern Warpgate",
-      "tr": "Indar Eastern Warpgate",
-      "zh": "Indar东部传送门"
-    },
-    "facility_type_id": "7",
-    "location_x": "-2435.838",
-    "location_y": "250.2041",
-    "location_z": "2764.692"
-  },
-  {
-    "zone_id": "2",
     "facility_id": "5100",
     "facility_name": {
       "de": "Indar Excavation Site",
@@ -3618,6 +3598,26 @@
     "location_x": "999.1142",
     "location_y": "106.0155",
     "location_z": "-2385.058"
+  },
+  {
+    "zone_id": "2",
+    "facility_id": "4801",
+    "facility_name": {
+      "de": "Östliches Warptor - Indar",
+      "en": "Indar Eastern Warpgate",
+      "es": "Indar Eastern Warpgate",
+      "fr": "Indar Eastern Warpgate",
+      "it": "Indar Eastern Warpgate",
+      "ko": "인다르 동부 워프게이트",
+      "pt": "Portal Leste de Indar",
+      "ru": "Indar Eastern Warpgate",
+      "tr": "Indar Eastern Warpgate",
+      "zh": "Indar东部传送门"
+    },
+    "facility_type_id": "7",
+    "location_x": "-2435.838",
+    "location_y": "250.2041",
+    "location_z": "2764.692"
   },
   {
     "zone_id": "2",
@@ -3661,26 +3661,6 @@
   },
   {
     "zone_id": "2",
-    "facility_id": "5500",
-    "facility_name": {
-      "de": "Camp Waterson",
-      "en": "Camp Waterson",
-      "es": "Camp Waterson",
-      "fr": "Camp Waterson",
-      "it": "Camp Waterson",
-      "ko": "워터슨 캠프",
-      "pt": "Campo Waterson",
-      "ru": "Camp Waterson",
-      "tr": "Camp Waterson",
-      "zh": "Waterson营地"
-    },
-    "facility_type_id": "5",
-    "location_x": "2705",
-    "location_y": "49",
-    "location_z": "1537"
-  },
-  {
-    "zone_id": "2",
     "facility_id": "5700",
     "facility_name": {
       "de": "Regent Rock Garrison",
@@ -3701,6 +3681,26 @@
   },
   {
     "zone_id": "2",
+    "facility_id": "5500",
+    "facility_name": {
+      "de": "Camp Waterson",
+      "en": "Camp Waterson",
+      "es": "Camp Waterson",
+      "fr": "Camp Waterson",
+      "it": "Camp Waterson",
+      "ko": "워터슨 캠프",
+      "pt": "Campo Waterson",
+      "ru": "Camp Waterson",
+      "tr": "Camp Waterson",
+      "zh": "Waterson营地"
+    },
+    "facility_type_id": "5",
+    "location_x": "2705",
+    "location_y": "49",
+    "location_z": "1537"
+  },
+  {
+    "zone_id": "2",
     "facility_id": "5800",
     "facility_name": {
       "de": "Vanu Archives",
@@ -3718,26 +3718,6 @@
     "location_x": "-1143.912",
     "location_y": "485.0154",
     "location_z": "-839.8052"
-  },
-  {
-    "zone_id": "2",
-    "facility_id": "5900",
-    "facility_name": {
-      "de": "Crimson Bluff Tower",
-      "en": "Crimson Bluff Tower",
-      "es": "Crimson Bluff Tower",
-      "fr": "Crimson Bluff Tower",
-      "it": "Crimson Bluff Tower",
-      "ko": "크림슨 블러프 타워",
-      "pt": "Torre da Ribanceira Carmesim",
-      "ru": "Crimson Bluff Tower",
-      "tr": "Crimson Bluff Tower",
-      "zh": "Crimson Bluff哨塔"
-    },
-    "facility_type_id": "5",
-    "location_x": "224.6381",
-    "location_y": "391.722",
-    "location_z": "1949.769"
   },
   {
     "zone_id": "2",
@@ -3861,23 +3841,23 @@
   },
   {
     "zone_id": "2",
-    "facility_id": "7000",
+    "facility_id": "5900",
     "facility_name": {
-      "de": "Tawrich",
-      "en": "Tawrich",
-      "es": "Tawrich",
-      "fr": "Tawrich",
-      "it": "Tawrich",
-      "ko": "터리치",
-      "pt": "Tawrich",
-      "ru": "Tawrich",
-      "tr": "Tawrich",
-      "zh": "Tawrich"
+      "de": "Crimson Bluff Tower",
+      "en": "Crimson Bluff Tower",
+      "es": "Crimson Bluff Tower",
+      "fr": "Crimson Bluff Tower",
+      "it": "Crimson Bluff Tower",
+      "ko": "크림슨 블러프 타워",
+      "pt": "Torre da Ribanceira Carmesim",
+      "ru": "Crimson Bluff Tower",
+      "tr": "Crimson Bluff Tower",
+      "zh": "Crimson Bluff哨塔"
     },
-    "facility_type_id": "4",
-    "location_x": "-1937",
-    "location_y": "226",
-    "location_z": "810"
+    "facility_type_id": "5",
+    "location_x": "224.6381",
+    "location_y": "391.722",
+    "location_z": "1949.769"
   },
   {
     "zone_id": "2",
@@ -3898,6 +3878,26 @@
     "location_x": "-1710.768",
     "location_y": "225.063",
     "location_z": "658.5409"
+  },
+  {
+    "zone_id": "2",
+    "facility_id": "7000",
+    "facility_name": {
+      "de": "Tawrich",
+      "en": "Tawrich",
+      "es": "Tawrich",
+      "fr": "Tawrich",
+      "it": "Tawrich",
+      "ko": "터리치",
+      "pt": "Tawrich",
+      "ru": "Tawrich",
+      "tr": "Tawrich",
+      "zh": "Tawrich"
+    },
+    "facility_type_id": "4",
+    "location_x": "-1937",
+    "location_y": "226",
+    "location_z": "810"
   },
   {
     "zone_id": "2",
@@ -3941,26 +3941,6 @@
   },
   {
     "zone_id": "2",
-    "facility_id": "7500",
-    "facility_name": {
-      "de": "Hvar",
-      "en": "Hvar",
-      "es": "Hvar",
-      "fr": "Hvar",
-      "it": "Hvar",
-      "ko": "흐바르",
-      "pt": "Hvar",
-      "ru": "Hvar",
-      "tr": "Hvar",
-      "zh": "Hvar"
-    },
-    "facility_type_id": "4",
-    "location_x": "-585.2266",
-    "location_y": "397.9207",
-    "location_z": "-2547.084"
-  },
-  {
-    "zone_id": "2",
     "facility_id": "7510",
     "facility_name": {
       "de": "Westlicher Posten Hvar",
@@ -3998,26 +3978,6 @@
     "location_x": "-606.1251",
     "location_y": "491.8159",
     "location_z": "-2164.26"
-  },
-  {
-    "zone_id": "2",
-    "facility_id": "7530",
-    "facility_name": {
-      "de": "Hvar Physics Lab",
-      "en": "Hvar Physics Lab",
-      "es": "Hvar Physics Lab",
-      "fr": "Hvar Physics Lab",
-      "it": "Hvar Physics Lab",
-      "ko": "흐바르 남문 진지",
-      "pt": "Guarnição do Portão Sul de Hvar",
-      "ru": "Hvar Physics Lab",
-      "tr": "Hvar Southgate Garrison",
-      "zh": "Hvar物理实验室"
-    },
-    "facility_type_id": "6",
-    "location_x": "-925.6928",
-    "location_y": "457.6323",
-    "location_z": "-2214.31"
   },
   {
     "zone_id": "2",
@@ -4061,43 +4021,43 @@
   },
   {
     "zone_id": "2",
-    "facility_id": "118010",
+    "facility_id": "7530",
     "facility_name": {
-      "de": "Zurvan Pump Station",
-      "en": "Zurvan Pump Station",
-      "es": "Zurvan Pump Station",
-      "fr": "Zurvan Pump Station",
-      "it": "Zurvan Pump Station",
-      "ko": "저반 펌프장",
-      "pt": "Estação de Bombeamento de Zurvan",
-      "ru": "Zurvan Pump Station",
-      "tr": "Zurvan Pump Station",
-      "zh": "Zurvan泵站"
+      "de": "Hvar Physics Lab",
+      "en": "Hvar Physics Lab",
+      "es": "Hvar Physics Lab",
+      "fr": "Hvar Physics Lab",
+      "it": "Hvar Physics Lab",
+      "ko": "흐바르 남문 진지",
+      "pt": "Guarnição do Portão Sul de Hvar",
+      "ru": "Hvar Physics Lab",
+      "tr": "Hvar Southgate Garrison",
+      "zh": "Hvar物理实验室"
     },
     "facility_type_id": "6",
-    "location_x": "-419.6224",
-    "location_y": "211.3201",
-    "location_z": "721.2118"
+    "location_x": "-925.6928",
+    "location_y": "457.6323",
+    "location_z": "-2214.31"
   },
   {
     "zone_id": "2",
-    "facility_id": "118020",
+    "facility_id": "7500",
     "facility_name": {
-      "de": "Zurvan Storage Yard",
-      "en": "Zurvan Storage Yard",
-      "es": "Zurvan Storage Yard",
-      "fr": "Zurvan Storage Yard",
-      "it": "Zurvan Storage Yard",
-      "ko": "저반 저장고",
-      "pt": "Pátio de Armazenamento de Zurvan",
-      "ru": "Zurvan Storage Yard",
-      "tr": "Zurvan Storage Yard",
-      "zh": "Zurvan存储站"
+      "de": "Hvar",
+      "en": "Hvar",
+      "es": "Hvar",
+      "fr": "Hvar",
+      "it": "Hvar",
+      "ko": "흐바르",
+      "pt": "Hvar",
+      "ru": "Hvar",
+      "tr": "Hvar",
+      "zh": "Hvar"
     },
-    "facility_type_id": "6",
-    "location_x": "-97.41706",
-    "location_y": "206.6847",
-    "location_z": "1239.215"
+    "facility_type_id": "4",
+    "location_x": "-585.2266",
+    "location_y": "397.9207",
+    "location_z": "-2547.084"
   },
   {
     "zone_id": "2",
@@ -4121,6 +4081,26 @@
   },
   {
     "zone_id": "2",
+    "facility_id": "118010",
+    "facility_name": {
+      "de": "Zurvan Pump Station",
+      "en": "Zurvan Pump Station",
+      "es": "Zurvan Pump Station",
+      "fr": "Zurvan Pump Station",
+      "it": "Zurvan Pump Station",
+      "ko": "저반 펌프장",
+      "pt": "Estação de Bombeamento de Zurvan",
+      "ru": "Zurvan Pump Station",
+      "tr": "Zurvan Pump Station",
+      "zh": "Zurvan泵站"
+    },
+    "facility_type_id": "6",
+    "location_x": "-419.6224",
+    "location_y": "211.3201",
+    "location_z": "721.2118"
+  },
+  {
+    "zone_id": "2",
     "facility_id": "120000",
     "facility_name": {
       "de": "Westliches Warptor - Indar",
@@ -4138,26 +4118,6 @@
     "location_x": "-2276.637",
     "location_y": "480.7743",
     "location_z": "-2486.449"
-  },
-  {
-    "zone_id": "2",
-    "facility_id": "400130",
-    "facility_name": {
-      "de": "Berjess Overlook",
-      "en": "Berjess Overlook",
-      "es": "Berjess Overlook",
-      "fr": "Berjess Overlook",
-      "it": "Berjess Overlook",
-      "ko": "NULL",
-      "pt": "NULL",
-      "ru": "Berjess Overlook",
-      "tr": "NULL",
-      "zh": "Berjess瞭望所"
-    },
-    "facility_type_id": "9",
-    "location_x": "-2028.529",
-    "location_y": "460.3723",
-    "location_z": "-92.17429"
   },
   {
     "zone_id": "2",
@@ -4220,44 +4180,44 @@
     "location_z": "-2293.612"
   },
   {
-    "zone_id": "6",
-    "facility_id": "201000",
+    "zone_id": "2",
+    "facility_id": "118020",
     "facility_name": {
-      "de": "Östliches Warptor - Amerish",
-      "en": "Amerish Eastern Warpgate",
-      "es": "Amerish Eastern Warpgate",
-      "fr": "Amerish Eastern Warpgate",
-      "it": "Amerish Eastern Warpgate",
-      "ko": "아메리시 동부 워프게이트",
-      "pt": "Portal Leste de Amerish",
-      "ru": "Amerish Eastern Warpgate",
-      "tr": "Amerish Eastern Warpgate",
-      "zh": "Amerish东部传送门"
+      "de": "Zurvan Storage Yard",
+      "en": "Zurvan Storage Yard",
+      "es": "Zurvan Storage Yard",
+      "fr": "Zurvan Storage Yard",
+      "it": "Zurvan Storage Yard",
+      "ko": "저반 저장고",
+      "pt": "Pátio de Armazenamento de Zurvan",
+      "ru": "Zurvan Storage Yard",
+      "tr": "Zurvan Storage Yard",
+      "zh": "Zurvan存储站"
     },
-    "facility_type_id": "7",
-    "location_x": "2501.734",
-    "location_y": "70.97168",
-    "location_z": "2842.081"
+    "facility_type_id": "6",
+    "location_x": "-97.41706",
+    "location_y": "206.6847",
+    "location_z": "1239.215"
   },
   {
-    "zone_id": "6",
-    "facility_id": "203000",
+    "zone_id": "2",
+    "facility_id": "400130",
     "facility_name": {
-      "de": "Südliches Warptor - Amerish",
-      "en": "Amerish Southern Warpgate",
-      "es": "Amerish Southern Warpgate",
-      "fr": "Amerish Southern Warpgate",
-      "it": "Amerish Southern Warpgate",
-      "ko": "아메리시 남부 워프게이트",
-      "pt": "Portal Sul de Amerish",
-      "ru": "Amerish Southern Warpgate",
-      "tr": "Amerish Southern Warpgate",
-      "zh": "Amerish南部传送门"
+      "de": "Berjess Overlook",
+      "en": "Berjess Overlook",
+      "es": "Berjess Overlook",
+      "fr": "Berjess Overlook",
+      "it": "Berjess Overlook",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Berjess Overlook",
+      "tr": "NULL",
+      "zh": "Berjess瞭望所"
     },
-    "facility_type_id": "7",
-    "location_x": "-2868.864",
-    "location_y": "55.77631",
-    "location_z": "770.3342"
+    "facility_type_id": "9",
+    "location_x": "-2028.529",
+    "location_y": "460.3723",
+    "location_z": "-92.17429"
   },
   {
     "zone_id": "6",
@@ -4341,6 +4301,26 @@
   },
   {
     "zone_id": "6",
+    "facility_id": "201000",
+    "facility_name": {
+      "de": "Östliches Warptor - Amerish",
+      "en": "Amerish Eastern Warpgate",
+      "es": "Amerish Eastern Warpgate",
+      "fr": "Amerish Eastern Warpgate",
+      "it": "Amerish Eastern Warpgate",
+      "ko": "아메리시 동부 워프게이트",
+      "pt": "Portal Leste de Amerish",
+      "ru": "Amerish Eastern Warpgate",
+      "tr": "Amerish Eastern Warpgate",
+      "zh": "Amerish东部传送门"
+    },
+    "facility_type_id": "7",
+    "location_x": "2501.734",
+    "location_y": "70.97168",
+    "location_z": "2842.081"
+  },
+  {
+    "zone_id": "6",
     "facility_id": "205000",
     "facility_name": {
       "de": "Ikanam",
@@ -4358,6 +4338,26 @@
     "location_x": "1649.284",
     "location_y": "68.14789",
     "location_z": "-507.8147"
+  },
+  {
+    "zone_id": "6",
+    "facility_id": "203000",
+    "facility_name": {
+      "de": "Südliches Warptor - Amerish",
+      "en": "Amerish Southern Warpgate",
+      "es": "Amerish Southern Warpgate",
+      "fr": "Amerish Southern Warpgate",
+      "it": "Amerish Southern Warpgate",
+      "ko": "아메리시 남부 워프게이트",
+      "pt": "Portal Sul de Amerish",
+      "ru": "Amerish Southern Warpgate",
+      "tr": "Amerish Southern Warpgate",
+      "zh": "Amerish南部传送门"
+    },
+    "facility_type_id": "7",
+    "location_x": "-2868.864",
+    "location_y": "55.77631",
+    "location_z": "770.3342"
   },
   {
     "zone_id": "6",
@@ -4381,23 +4381,23 @@
   },
   {
     "zone_id": "6",
-    "facility_id": "205002",
+    "facility_id": "206000",
     "facility_name": {
-      "de": " Ikanam Garrison",
-      "en": "Ikanam Garrison",
-      "es": "Ikanam Garrison",
-      "fr": "Ikanam Garrison",
-      "it": "Ikanam Garrison",
-      "ko": "이카남 기지",
-      "pt": "Guarnição Ikanam",
-      "ru": "Ikanam Garrison",
-      "tr": "Ikanam Garrison",
-      "zh": "Ikanam兵站"
+      "de": "Heyoka",
+      "en": "Heyoka",
+      "es": "Heyoka",
+      "fr": "Heyoka",
+      "it": "Heyoka",
+      "ko": "헤요카",
+      "pt": "Heyoka",
+      "ru": "Heyoka",
+      "tr": "Heyoka",
+      "zh": "Heyoka"
     },
-    "facility_type_id": "6",
-    "location_x": "1896.223",
-    "location_y": "71.75116",
-    "location_z": "-323.2818"
+    "facility_type_id": "4",
+    "location_x": "-81.14149",
+    "location_y": "70.90156",
+    "location_z": "-1841.458"
   },
   {
     "zone_id": "6",
@@ -4418,26 +4418,6 @@
     "location_x": "1298.991",
     "location_y": "77.44673",
     "location_z": "-485.3488"
-  },
-  {
-    "zone_id": "6",
-    "facility_id": "206000",
-    "facility_name": {
-      "de": "Heyoka",
-      "en": "Heyoka",
-      "es": "Heyoka",
-      "fr": "Heyoka",
-      "it": "Heyoka",
-      "ko": "헤요카",
-      "pt": "Heyoka",
-      "ru": "Heyoka",
-      "tr": "Heyoka",
-      "zh": "Heyoka"
-    },
-    "facility_type_id": "4",
-    "location_x": "-81.14149",
-    "location_y": "70.90156",
-    "location_z": "-1841.458"
   },
   {
     "zone_id": "6",
@@ -4501,6 +4481,26 @@
   },
   {
     "zone_id": "6",
+    "facility_id": "205002",
+    "facility_name": {
+      "de": " Ikanam Garrison",
+      "en": "Ikanam Garrison",
+      "es": "Ikanam Garrison",
+      "fr": "Ikanam Garrison",
+      "it": "Ikanam Garrison",
+      "ko": "이카남 기지",
+      "pt": "Guarnição Ikanam",
+      "ru": "Ikanam Garrison",
+      "tr": "Ikanam Garrison",
+      "zh": "Ikanam兵站"
+    },
+    "facility_type_id": "6",
+    "location_x": "1896.223",
+    "location_y": "71.75116",
+    "location_z": "-323.2818"
+  },
+  {
+    "zone_id": "6",
     "facility_id": "207001",
     "facility_name": {
       "de": "Sungrey West Gate",
@@ -4518,26 +4518,6 @@
     "location_x": "2217.729",
     "location_y": "78.24179",
     "location_z": "807.8386"
-  },
-  {
-    "zone_id": "6",
-    "facility_id": "207002",
-    "facility_name": {
-      "de": "Sungrey Power Hub",
-      "en": "Sungrey Power Hub",
-      "es": "Sungrey Power Hub",
-      "fr": "Sungrey Power Hub",
-      "it": "Sungrey Power Hub",
-      "ko": "선그레이 북부 변전소",
-      "pt": "Subestação Sul de Sungrey",
-      "ru": "Sungrey Power Hub",
-      "tr": "Sungrey Power Hub",
-      "zh": "Sungrey变电所"
-    },
-    "facility_type_id": "6",
-    "location_x": "2718.543",
-    "location_y": "52.01323",
-    "location_z": "973.1425"
   },
   {
     "zone_id": "6",
@@ -4601,26 +4581,6 @@
   },
   {
     "zone_id": "6",
-    "facility_id": "208002",
-    "facility_name": {
-      "de": "Mekala's Auxiliary Compound",
-      "en": "Mekala's Auxiliary Compound",
-      "es": "Mekala's Auxiliary Compound",
-      "fr": "Mekala's Auxiliary Compound",
-      "it": "Mekala's Auxiliary Compound",
-      "ko": "메카라 보조 복합연구소",
-      "pt": "Torre de Vigia de Mekala",
-      "ru": "Mekala's Auxiliary Compound",
-      "tr": "Mekala's Auxiliary Compound",
-      "zh": "Mekala附属建筑群"
-    },
-    "facility_type_id": "6",
-    "location_x": "-267.638",
-    "location_y": "96.61694",
-    "location_z": "1739.855"
-  },
-  {
-    "zone_id": "6",
     "facility_id": "209000",
     "facility_name": {
       "de": "Onatha",
@@ -4641,43 +4601,43 @@
   },
   {
     "zone_id": "6",
-    "facility_id": "209001",
+    "facility_id": "208002",
     "facility_name": {
-      "de": "Onatha North Gate",
-      "en": "Onatha North Gate",
-      "es": "Onatha North Gate",
-      "fr": "Onatha North Gate",
-      "it": "Onatha North Gate",
-      "ko": "오나타 북부 게이트",
-      "pt": "Portão Norte de Onatha",
-      "ru": "Onatha North Gate",
-      "tr": "Onatha Kuzey Kapısı",
-      "zh": "Onatha北门"
+      "de": "Mekala's Auxiliary Compound",
+      "en": "Mekala's Auxiliary Compound",
+      "es": "Mekala's Auxiliary Compound",
+      "fr": "Mekala's Auxiliary Compound",
+      "it": "Mekala's Auxiliary Compound",
+      "ko": "메카라 보조 복합연구소",
+      "pt": "Torre de Vigia de Mekala",
+      "ru": "Mekala's Auxiliary Compound",
+      "tr": "Mekala's Auxiliary Compound",
+      "zh": "Mekala附属建筑群"
     },
     "facility_type_id": "6",
-    "location_x": "748.659",
-    "location_y": "82.07648",
-    "location_z": "2726.789"
+    "location_x": "-267.638",
+    "location_y": "96.61694",
+    "location_z": "1739.855"
   },
   {
     "zone_id": "6",
-    "facility_id": "209002",
+    "facility_id": "207002",
     "facility_name": {
-      "de": "East Onatha Comm. Array",
-      "en": "East Onatha Comm. Array",
-      "es": "East Onatha Comm. Array",
-      "fr": "East Onatha Comm. Array",
-      "it": "East Onatha Comm. Array",
-      "ko": "동부 오나타 통신소",
-      "pt": "Portão Sul de Onatha",
-      "ru": "East Onatha Comm. Array",
-      "tr": "East Onatha Comm. Array",
-      "zh": "East Onatha通讯天线"
+      "de": "Sungrey Power Hub",
+      "en": "Sungrey Power Hub",
+      "es": "Sungrey Power Hub",
+      "fr": "Sungrey Power Hub",
+      "it": "Sungrey Power Hub",
+      "ko": "선그레이 북부 변전소",
+      "pt": "Subestação Sul de Sungrey",
+      "ru": "Sungrey Power Hub",
+      "tr": "Sungrey Power Hub",
+      "zh": "Sungrey变电所"
     },
     "facility_type_id": "6",
-    "location_x": "607.3582",
-    "location_y": "80.27196",
-    "location_z": "3095.885"
+    "location_x": "2718.543",
+    "location_y": "52.01323",
+    "location_z": "973.1425"
   },
   {
     "zone_id": "6",
@@ -4741,23 +4701,23 @@
   },
   {
     "zone_id": "6",
-    "facility_id": "210002",
+    "facility_id": "209001",
     "facility_name": {
-      "de": "Wokuk Shipping Dock",
-      "en": "Wokuk Shipping Dock",
-      "es": "Wokuk Shipping Dock",
-      "fr": "Wokuk Shipping Dock",
-      "it": "Wokuk Shipping Dock",
-      "ko": "워쿡 선착장",
-      "pt": "Docas de Wokuk",
-      "ru": "Wokuk Shipping Dock",
-      "tr": "Wokuk Shipping Dock",
-      "zh": "Wokuk船港"
+      "de": "Onatha North Gate",
+      "en": "Onatha North Gate",
+      "es": "Onatha North Gate",
+      "fr": "Onatha North Gate",
+      "it": "Onatha North Gate",
+      "ko": "오나타 북부 게이트",
+      "pt": "Portão Norte de Onatha",
+      "ru": "Onatha North Gate",
+      "tr": "Onatha Kuzey Kapısı",
+      "zh": "Onatha北门"
     },
     "facility_type_id": "6",
-    "location_x": "-1472.988",
-    "location_y": "51.14082",
-    "location_z": "-2188.334"
+    "location_x": "748.659",
+    "location_y": "82.07648",
+    "location_z": "2726.789"
   },
   {
     "zone_id": "6",
@@ -4781,23 +4741,23 @@
   },
   {
     "zone_id": "6",
-    "facility_id": "211000",
+    "facility_id": "209002",
     "facility_name": {
-      "de": "Tumas",
-      "en": "Tumas",
-      "es": "Tumas",
-      "fr": "Tumas",
-      "it": "Tumas",
-      "ko": "투마스",
-      "pt": "Tumas",
-      "ru": "Tumas",
-      "tr": "Tumas",
-      "zh": "Tumas"
+      "de": "East Onatha Comm. Array",
+      "en": "East Onatha Comm. Array",
+      "es": "East Onatha Comm. Array",
+      "fr": "East Onatha Comm. Array",
+      "it": "East Onatha Comm. Array",
+      "ko": "동부 오나타 통신소",
+      "pt": "Portão Sul de Onatha",
+      "ru": "East Onatha Comm. Array",
+      "tr": "East Onatha Comm. Array",
+      "zh": "East Onatha通讯天线"
     },
-    "facility_type_id": "4",
-    "location_x": "-1807.569",
-    "location_y": "70.96169",
-    "location_z": "-485.8504"
+    "facility_type_id": "6",
+    "location_x": "607.3582",
+    "location_y": "80.27196",
+    "location_z": "3095.885"
   },
   {
     "zone_id": "6",
@@ -4861,43 +4821,43 @@
   },
   {
     "zone_id": "6",
-    "facility_id": "212001",
+    "facility_id": "210002",
     "facility_name": {
-      "de": "Luft-Dock Xelas West",
-      "en": "Xelas West Air Dock",
-      "es": "Xelas West Air Dock",
-      "fr": "Xelas West Air Dock",
-      "it": "Xelas West Air Dock",
-      "ko": "젤라스 서부 격납고",
-      "pt": "Xelas",
-      "ru": "Xelas West Air Dock",
-      "tr": "Xelas West Air Dock",
-      "zh": "Xelas西部空港"
+      "de": "Wokuk Shipping Dock",
+      "en": "Wokuk Shipping Dock",
+      "es": "Wokuk Shipping Dock",
+      "fr": "Wokuk Shipping Dock",
+      "it": "Wokuk Shipping Dock",
+      "ko": "워쿡 선착장",
+      "pt": "Docas de Wokuk",
+      "ru": "Wokuk Shipping Dock",
+      "tr": "Wokuk Shipping Dock",
+      "zh": "Wokuk船港"
     },
     "facility_type_id": "6",
-    "location_x": "-1481.091",
-    "location_y": "127.8263",
-    "location_z": "2101.383"
+    "location_x": "-1472.988",
+    "location_y": "51.14082",
+    "location_z": "-2188.334"
   },
   {
     "zone_id": "6",
-    "facility_id": "212002",
+    "facility_id": "211000",
     "facility_name": {
-      "de": "Xelas North Gate",
-      "en": "Xelas North Gate",
-      "es": "Xelas North Gate",
-      "fr": "Xelas North Gate",
-      "it": "Xelas North Gate",
-      "ko": "젤라스 북부 게이트",
-      "pt": "Portão Norte de Xelas",
-      "ru": "Xelas North Gate",
-      "tr": "Xelas North Gate",
-      "zh": "Xelas北门"
+      "de": "Tumas",
+      "en": "Tumas",
+      "es": "Tumas",
+      "fr": "Tumas",
+      "it": "Tumas",
+      "ko": "투마스",
+      "pt": "Tumas",
+      "ru": "Tumas",
+      "tr": "Tumas",
+      "zh": "Tumas"
     },
-    "facility_type_id": "6",
-    "location_x": "-1250.951",
-    "location_y": "55.88232",
-    "location_z": "2542.862"
+    "facility_type_id": "4",
+    "location_x": "-1807.569",
+    "location_y": "70.96169",
+    "location_z": "-485.8504"
   },
   {
     "zone_id": "6",
@@ -4938,6 +4898,26 @@
     "location_x": "1969.765",
     "location_y": "107.6747",
     "location_z": "-1211.691"
+  },
+  {
+    "zone_id": "6",
+    "facility_id": "212002",
+    "facility_name": {
+      "de": "Xelas North Gate",
+      "en": "Xelas North Gate",
+      "es": "Xelas North Gate",
+      "fr": "Xelas North Gate",
+      "it": "Xelas North Gate",
+      "ko": "젤라스 북부 게이트",
+      "pt": "Portão Norte de Xelas",
+      "ru": "Xelas North Gate",
+      "tr": "Xelas North Gate",
+      "zh": "Xelas北门"
+    },
+    "facility_type_id": "6",
+    "location_x": "-1250.951",
+    "location_y": "55.88232",
+    "location_z": "2542.862"
   },
   {
     "zone_id": "6",
@@ -5001,43 +4981,23 @@
   },
   {
     "zone_id": "6",
-    "facility_id": "217000",
+    "facility_id": "212001",
     "facility_name": {
-      "de": "Die Bastion",
-      "en": "The Bastion",
-      "es": "The Bastion",
-      "fr": "The Bastion",
-      "it": "The Bastion",
-      "ko": "최후의 보루",
-      "pt": "O Bastião",
-      "ru": "The Bastion",
-      "tr": "The Bastion",
-      "zh": "Bastion"
+      "de": "Luft-Dock Xelas West",
+      "en": "Xelas West Air Dock",
+      "es": "Xelas West Air Dock",
+      "fr": "Xelas West Air Dock",
+      "it": "Xelas West Air Dock",
+      "ko": "젤라스 서부 격납고",
+      "pt": "Xelas",
+      "ru": "Xelas West Air Dock",
+      "tr": "Xelas West Air Dock",
+      "zh": "Xelas西部空港"
     },
-    "facility_type_id": "5",
-    "location_x": "464.033",
-    "location_y": "116.5065",
-    "location_z": "-417.8023"
-  },
-  {
-    "zone_id": "6",
-    "facility_id": "218000",
-    "facility_name": {
-      "de": "Auraxis Firearms Corp.",
-      "en": "Auraxis Firearms Corp.",
-      "es": "Auraxis Firearms Corp.",
-      "fr": "Auraxis Firearms Corp.",
-      "it": "Auraxis Firearms Corp.",
-      "ko": "아우락시스 파이어암즈",
-      "pt": "Corporação de Armas de Fogo de Auraxium",
-      "ru": "Auraxis Firearms Corp.",
-      "tr": "Auraxis Firearms Corp.",
-      "zh": "Auraxis武器公司"
-    },
-    "facility_type_id": "5",
-    "location_x": "-1212.781",
-    "location_y": "115.553",
-    "location_z": "471.7204"
+    "facility_type_id": "6",
+    "location_x": "-1481.091",
+    "location_y": "127.8263",
+    "location_z": "2101.383"
   },
   {
     "zone_id": "6",
@@ -5401,6 +5361,46 @@
   },
   {
     "zone_id": "6",
+    "facility_id": "217000",
+    "facility_name": {
+      "de": "Die Bastion",
+      "en": "The Bastion",
+      "es": "The Bastion",
+      "fr": "The Bastion",
+      "it": "The Bastion",
+      "ko": "최후의 보루",
+      "pt": "O Bastião",
+      "ru": "The Bastion",
+      "tr": "The Bastion",
+      "zh": "Bastion"
+    },
+    "facility_type_id": "5",
+    "location_x": "464.033",
+    "location_y": "116.5065",
+    "location_z": "-417.8023"
+  },
+  {
+    "zone_id": "6",
+    "facility_id": "218000",
+    "facility_name": {
+      "de": "Auraxis Firearms Corp.",
+      "en": "Auraxis Firearms Corp.",
+      "es": "Auraxis Firearms Corp.",
+      "fr": "Auraxis Firearms Corp.",
+      "it": "Auraxis Firearms Corp.",
+      "ko": "아우락시스 파이어암즈",
+      "pt": "Corporação de Armas de Fogo de Auraxium",
+      "ru": "Auraxis Firearms Corp.",
+      "tr": "Auraxis Firearms Corp.",
+      "zh": "Auraxis武器公司"
+    },
+    "facility_type_id": "5",
+    "location_x": "-1212.781",
+    "location_y": "115.553",
+    "location_z": "471.7204"
+  },
+  {
+    "zone_id": "6",
     "facility_id": "222170",
     "facility_name": {
       "de": "Silver Valley Arsenal",
@@ -5478,46 +5478,6 @@
     "location_x": "-2511.082",
     "location_y": "71.16142",
     "location_z": "-1486.359"
-  },
-  {
-    "zone_id": "6",
-    "facility_id": "222230",
-    "facility_name": {
-      "de": "Highroads Station",
-      "en": "Highroads Station",
-      "es": "Highroads Station",
-      "fr": "Highroads Station",
-      "it": "Highroads Station",
-      "ko": "대로 기지",
-      "pt": "Estação da Estrada de Rodagem",
-      "ru": "Highroads Station",
-      "tr": "Highroads Station",
-      "zh": "高速公路站"
-    },
-    "facility_type_id": "6",
-    "location_x": "-1775",
-    "location_y": "135",
-    "location_z": "560"
-  },
-  {
-    "zone_id": "6",
-    "facility_id": "222240",
-    "facility_name": {
-      "de": "Aramax Chemical Co.",
-      "en": "Aramax Chemical Co.",
-      "es": "Aramax Chemical Co.",
-      "fr": "Aramax Chemical Co.",
-      "it": "Aramax Chemical Co.",
-      "ko": "아라맥스 생화학공장",
-      "pt": "Companhia Química de Aramax",
-      "ru": "Aramax Chemical Co.",
-      "tr": "Aramax Chemical Co.",
-      "zh": "Aramax化学工厂"
-    },
-    "facility_type_id": "6",
-    "location_x": "-2738.894",
-    "location_y": "71.67953",
-    "location_z": "-333.6521"
   },
   {
     "zone_id": "6",
@@ -5880,6 +5840,46 @@
     "location_z": "-2389.168"
   },
   {
+    "zone_id": "6",
+    "facility_id": "222230",
+    "facility_name": {
+      "de": "Highroads Station",
+      "en": "Highroads Station",
+      "es": "Highroads Station",
+      "fr": "Highroads Station",
+      "it": "Highroads Station",
+      "ko": "대로 기지",
+      "pt": "Estação da Estrada de Rodagem",
+      "ru": "Highroads Station",
+      "tr": "Highroads Station",
+      "zh": "高速公路站"
+    },
+    "facility_type_id": "6",
+    "location_x": "-1775",
+    "location_y": "135",
+    "location_z": "560"
+  },
+  {
+    "zone_id": "6",
+    "facility_id": "222240",
+    "facility_name": {
+      "de": "Aramax Chemical Co.",
+      "en": "Aramax Chemical Co.",
+      "es": "Aramax Chemical Co.",
+      "fr": "Aramax Chemical Co.",
+      "it": "Aramax Chemical Co.",
+      "ko": "아라맥스 생화학공장",
+      "pt": "Companhia Química de Aramax",
+      "ru": "Aramax Chemical Co.",
+      "tr": "Aramax Chemical Co.",
+      "zh": "Aramax化学工厂"
+    },
+    "facility_type_id": "6",
+    "location_x": "-2738.894",
+    "location_y": "71.67953",
+    "location_z": "-333.6521"
+  },
+  {
     "zone_id": "4",
     "facility_id": "263000",
     "facility_name": {
@@ -5958,46 +5958,6 @@
     "location_x": "3185.979",
     "location_y": "26.20848",
     "location_z": "-186.0505"
-  },
-  {
-    "zone_id": "4",
-    "facility_id": "267000",
-    "facility_name": {
-      "de": "Hossin BioChem, Inc.",
-      "en": "Hossin BioChem, Inc.",
-      "es": "Hossin BioChem, Inc.",
-      "fr": "Hossin BioChem, Inc.",
-      "it": "Hossin BioChem, Inc.",
-      "ko": "NS 보급 스테이션",
-      "pt": "Estação de Suprimentos NS",
-      "ru": "Hossin BioChem, Inc.",
-      "tr": "Archaic Supply Station",
-      "zh": "Hossin生化公司"
-    },
-    "facility_type_id": "6",
-    "location_x": "2841.119",
-    "location_y": "28.64579",
-    "location_z": "1325.563"
-  },
-  {
-    "zone_id": "4",
-    "facility_id": "268000",
-    "facility_name": {
-      "de": "VEX BioLogics",
-      "en": "VEX BioLogics",
-      "es": "VEX BioLogics",
-      "fr": "VEX BioLogics",
-      "it": "VEX BioLogics",
-      "ko": "VEX 생물학 연구소",
-      "pt": "VEX BioLogics",
-      "ru": "VEX BioLogics",
-      "tr": "VEX BioLogics",
-      "zh": "VEX生物储藏所"
-    },
-    "facility_type_id": "6",
-    "location_x": "2033.715",
-    "location_y": "61.56718",
-    "location_z": "1261.743"
   },
   {
     "zone_id": "4",
@@ -6221,23 +6181,23 @@
   },
   {
     "zone_id": "4",
-    "facility_id": "280000",
+    "facility_id": "268000",
     "facility_name": {
-      "de": "Gourney Dam",
-      "en": "Gourney Dam",
-      "es": "Gourney Dam",
-      "fr": "Gourney Dam",
-      "it": "Gourney Dam",
-      "ko": "포거티 댐",
-      "pt": "Represa Fogerty",
-      "ru": "Gourney Dam",
-      "tr": "Gourney Dam",
-      "zh": "Gourney大坝"
+      "de": "VEX BioLogics",
+      "en": "VEX BioLogics",
+      "es": "VEX BioLogics",
+      "fr": "VEX BioLogics",
+      "it": "VEX BioLogics",
+      "ko": "VEX 생물학 연구소",
+      "pt": "VEX BioLogics",
+      "ru": "VEX BioLogics",
+      "tr": "VEX BioLogics",
+      "zh": "VEX生物储藏所"
     },
     "facility_type_id": "6",
-    "location_x": "-663.1986",
-    "location_y": "137.8467",
-    "location_z": "-293.3634"
+    "location_x": "2033.715",
+    "location_y": "61.56718",
+    "location_z": "1261.743"
   },
   {
     "zone_id": "4",
@@ -6281,6 +6241,26 @@
   },
   {
     "zone_id": "4",
+    "facility_id": "267000",
+    "facility_name": {
+      "de": "Hossin BioChem, Inc.",
+      "en": "Hossin BioChem, Inc.",
+      "es": "Hossin BioChem, Inc.",
+      "fr": "Hossin BioChem, Inc.",
+      "it": "Hossin BioChem, Inc.",
+      "ko": "NS 보급 스테이션",
+      "pt": "Estação de Suprimentos NS",
+      "ru": "Hossin BioChem, Inc.",
+      "tr": "Archaic Supply Station",
+      "zh": "Hossin生化公司"
+    },
+    "facility_type_id": "6",
+    "location_x": "2841.119",
+    "location_y": "28.64579",
+    "location_z": "1325.563"
+  },
+  {
+    "zone_id": "4",
     "facility_id": "283000",
     "facility_name": {
       "de": "Nettlemire Gardens",
@@ -6298,6 +6278,26 @@
     "location_x": "-1139.473",
     "location_y": "4",
     "location_z": "2551.879"
+  },
+  {
+    "zone_id": "4",
+    "facility_id": "280000",
+    "facility_name": {
+      "de": "Gourney Dam",
+      "en": "Gourney Dam",
+      "es": "Gourney Dam",
+      "fr": "Gourney Dam",
+      "it": "Gourney Dam",
+      "ko": "포거티 댐",
+      "pt": "Represa Fogerty",
+      "ru": "Gourney Dam",
+      "tr": "Gourney Dam",
+      "zh": "Gourney大坝"
+    },
+    "facility_type_id": "6",
+    "location_x": "-663.1986",
+    "location_y": "137.8467",
+    "location_z": "-293.3634"
   },
   {
     "zone_id": "4",
@@ -6321,46 +6321,6 @@
   },
   {
     "zone_id": "4",
-    "facility_id": "285000",
-    "facility_name": {
-      "de": "SRP Naniten-Relaisstation",
-      "en": "SRP Nanite Relay Station",
-      "es": "SRP Nanite Relay Station",
-      "fr": "SRP Nanite Relay Station",
-      "it": "SRP Nanite Relay Station",
-      "ko": "컴글로벌 릴레이",
-      "pt": "Retransmissão ComGlobal",
-      "ru": "SRP Nanite Relay Station",
-      "tr": "ComGlobal Telegraph",
-      "zh": "SRP纳能中转站"
-    },
-    "facility_type_id": "6",
-    "location_x": "-2580.367",
-    "location_y": "20.73209",
-    "location_z": "143.9012"
-  },
-  {
-    "zone_id": "4",
-    "facility_id": "286000",
-    "facility_name": {
-      "de": "Four Fingers",
-      "en": "Four Fingers",
-      "es": "Four Fingers",
-      "fr": "Four Fingers",
-      "it": "Four Fingers",
-      "ko": "포 핑거스",
-      "pt": "Quatro Dedos",
-      "ru": "Four Fingers",
-      "tr": "The Finger",
-      "zh": "Four Fingers"
-    },
-    "facility_type_id": "6",
-    "location_x": "-3205.175",
-    "location_y": "15.59608",
-    "location_z": "743.1317"
-  },
-  {
-    "zone_id": "4",
     "facility_id": "287000",
     "facility_name": {
       "de": "Kestral Watch",
@@ -6378,6 +6338,26 @@
     "location_x": "-2571.105",
     "location_y": "58.47634",
     "location_z": "1894.895"
+  },
+  {
+    "zone_id": "4",
+    "facility_id": "285000",
+    "facility_name": {
+      "de": "SRP Naniten-Relaisstation",
+      "en": "SRP Nanite Relay Station",
+      "es": "SRP Nanite Relay Station",
+      "fr": "SRP Nanite Relay Station",
+      "it": "SRP Nanite Relay Station",
+      "ko": "컴글로벌 릴레이",
+      "pt": "Retransmissão ComGlobal",
+      "ru": "SRP Nanite Relay Station",
+      "tr": "ComGlobal Telegraph",
+      "zh": "SRP纳能中转站"
+    },
+    "facility_type_id": "6",
+    "location_x": "-2580.367",
+    "location_y": "20.73209",
+    "location_z": "143.9012"
   },
   {
     "zone_id": "4",
@@ -6441,26 +6421,6 @@
   },
   {
     "zone_id": "4",
-    "facility_id": "287040",
-    "facility_name": {
-      "de": "Takkon Storage",
-      "en": "Takkon Storage",
-      "es": "Takkon Storage",
-      "fr": "Takkon Storage",
-      "it": "Takkon Storage",
-      "ko": "Hossin Small Outpost 31",
-      "pt": "NULL",
-      "ru": "Takkon Storage",
-      "tr": "Takkon Storage",
-      "zh": "Takkon仓库"
-    },
-    "facility_type_id": "6",
-    "location_x": "-1348.853",
-    "location_y": "0.2717934",
-    "location_z": "-1608.503"
-  },
-  {
-    "zone_id": "4",
     "facility_id": "287050",
     "facility_name": {
       "de": "Baustelle Zeta",
@@ -6521,6 +6481,26 @@
   },
   {
     "zone_id": "4",
+    "facility_id": "287040",
+    "facility_name": {
+      "de": "Takkon Storage",
+      "en": "Takkon Storage",
+      "es": "Takkon Storage",
+      "fr": "Takkon Storage",
+      "it": "Takkon Storage",
+      "ko": "Hossin Small Outpost 31",
+      "pt": "NULL",
+      "ru": "Takkon Storage",
+      "tr": "Takkon Storage",
+      "zh": "Takkon仓库"
+    },
+    "facility_type_id": "6",
+    "location_x": "-1348.853",
+    "location_y": "0.2717934",
+    "location_z": "-1608.503"
+  },
+  {
+    "zone_id": "4",
     "facility_id": "287080",
     "facility_name": {
       "de": "Baustelle Epsilon",
@@ -6561,26 +6541,6 @@
   },
   {
     "zone_id": "4",
-    "facility_id": "287100",
-    "facility_name": {
-      "de": "Baustelle Omega",
-      "en": "Construction Site Omega",
-      "es": "Construction Site Omega",
-      "fr": "Construction Site Omega",
-      "it": "Construction Site Omega",
-      "ko": "Hossin Small Outpost 37",
-      "pt": "NULL",
-      "ru": "Construction Site Omega",
-      "tr": "Construction Site Omega",
-      "zh": "建筑工地Omega"
-    },
-    "facility_type_id": "6",
-    "location_x": "1318.172",
-    "location_y": "2.920121",
-    "location_z": "1897.608"
-  },
-  {
-    "zone_id": "4",
     "facility_id": "287110",
     "facility_name": {
       "de": "Außenposten Lambda",
@@ -6598,6 +6558,26 @@
     "location_x": "-1158.351",
     "location_y": "0.4849286",
     "location_z": "-278.4248"
+  },
+  {
+    "zone_id": "4",
+    "facility_id": "287100",
+    "facility_name": {
+      "de": "Baustelle Omega",
+      "en": "Construction Site Omega",
+      "es": "Construction Site Omega",
+      "fr": "Construction Site Omega",
+      "it": "Construction Site Omega",
+      "ko": "Hossin Small Outpost 37",
+      "pt": "NULL",
+      "ru": "Construction Site Omega",
+      "tr": "Construction Site Omega",
+      "zh": "建筑工地Omega"
+    },
+    "facility_type_id": "6",
+    "location_x": "1318.172",
+    "location_y": "2.920121",
+    "location_z": "1897.608"
   },
   {
     "zone_id": "4",
@@ -6681,26 +6661,6 @@
   },
   {
     "zone_id": "4",
-    "facility_id": "292000",
-    "facility_name": {
-      "de": "Southgate Checkpoint",
-      "en": "Southgate Checkpoint",
-      "es": "Southgate Checkpoint",
-      "fr": "Southgate Checkpoint",
-      "it": "Southgate Checkpoint",
-      "ko": "남부게이트 체크포인트",
-      "pt": "Ponto de Inspeção do Portão Sul",
-      "ru": "Southgate Checkpoint",
-      "tr": "Southgate Checkpoint",
-      "zh": "南门哨站"
-    },
-    "facility_type_id": "5",
-    "location_x": "-2562.811",
-    "location_y": "21.8301",
-    "location_z": "1386.953"
-  },
-  {
-    "zone_id": "4",
     "facility_id": "293000",
     "facility_name": {
       "de": "Genesis Terraforming Plant",
@@ -6738,6 +6698,26 @@
     "location_x": "-3.031891",
     "location_y": "22.12843",
     "location_z": "1848.096"
+  },
+  {
+    "zone_id": "4",
+    "facility_id": "292000",
+    "facility_name": {
+      "de": "Southgate Checkpoint",
+      "en": "Southgate Checkpoint",
+      "es": "Southgate Checkpoint",
+      "fr": "Southgate Checkpoint",
+      "it": "Southgate Checkpoint",
+      "ko": "남부게이트 체크포인트",
+      "pt": "Ponto de Inspeção do Portão Sul",
+      "ru": "Southgate Checkpoint",
+      "tr": "Southgate Checkpoint",
+      "zh": "南门哨站"
+    },
+    "facility_type_id": "5",
+    "location_x": "-2562.811",
+    "location_y": "21.8301",
+    "location_z": "1386.953"
   },
   {
     "zone_id": "4",
@@ -6801,26 +6781,6 @@
   },
   {
     "zone_id": "4",
-    "facility_id": "298000",
-    "facility_name": {
-      "de": "Nason's Defiance",
-      "en": "Nason's Defiance",
-      "es": "Nason's Defiance",
-      "fr": "Nason's Defiance",
-      "it": "Nason's Defiance",
-      "ko": "나손 데피앙스",
-      "pt": "Desafio do Nason",
-      "ru": "Nason's Defiance",
-      "tr": "Fort Oppurtunity",
-      "zh": "Nason's Defiance"
-    },
-    "facility_type_id": "5",
-    "location_x": "-15.67515",
-    "location_y": "157.9806",
-    "location_z": "22.43514"
-  },
-  {
-    "zone_id": "4",
     "facility_id": "299000",
     "facility_name": {
       "de": "Naum",
@@ -6838,6 +6798,26 @@
     "location_x": "2397.268",
     "location_y": "16.10193",
     "location_z": "-1478.351"
+  },
+  {
+    "zone_id": "4",
+    "facility_id": "298000",
+    "facility_name": {
+      "de": "Nason's Defiance",
+      "en": "Nason's Defiance",
+      "es": "Nason's Defiance",
+      "fr": "Nason's Defiance",
+      "it": "Nason's Defiance",
+      "ko": "나손 데피앙스",
+      "pt": "Desafio do Nason",
+      "ru": "Nason's Defiance",
+      "tr": "Fort Oppurtunity",
+      "zh": "Nason's Defiance"
+    },
+    "facility_type_id": "5",
+    "location_x": "-15.67515",
+    "location_y": "157.9806",
+    "location_z": "22.43514"
   },
   {
     "zone_id": "4",
@@ -6921,26 +6901,6 @@
   },
   {
     "zone_id": "4",
-    "facility_id": "300010",
-    "facility_name": {
-      "de": "Hurakan Secure Storage",
-      "en": "Hurakan Secure Storage",
-      "es": "Hurakan Secure Storage",
-      "fr": "Hurakan Secure Storage",
-      "it": "Hurakan Secure Storage",
-      "ko": "후라칸 보안 지역",
-      "pt": "Armazém de Segurança de Hurakan",
-      "ru": "Hurakan Secure Storage",
-      "tr": "Hurakan North Sat",
-      "zh": "Hurakan安全存储点"
-    },
-    "facility_type_id": "15",
-    "location_x": "-77.25874",
-    "location_y": "112.5849",
-    "location_z": "-773.0132"
-  },
-  {
-    "zone_id": "4",
     "facility_id": "300020",
     "facility_name": {
       "de": "Hurakan Western Pass",
@@ -6958,6 +6918,26 @@
     "location_x": "-302.0181",
     "location_y": "82.09375",
     "location_z": "-1320.16"
+  },
+  {
+    "zone_id": "4",
+    "facility_id": "300010",
+    "facility_name": {
+      "de": "Hurakan Secure Storage",
+      "en": "Hurakan Secure Storage",
+      "es": "Hurakan Secure Storage",
+      "fr": "Hurakan Secure Storage",
+      "it": "Hurakan Secure Storage",
+      "ko": "후라칸 보안 지역",
+      "pt": "Armazém de Segurança de Hurakan",
+      "ru": "Hurakan Secure Storage",
+      "tr": "Hurakan North Sat",
+      "zh": "Hurakan安全存储点"
+    },
+    "facility_type_id": "15",
+    "location_x": "-77.25874",
+    "location_y": "112.5849",
+    "location_z": "-773.0132"
   },
   {
     "zone_id": "4",
@@ -7061,26 +7041,6 @@
   },
   {
     "zone_id": "4",
-    "facility_id": "302000",
-    "facility_name": {
-      "de": "Acan",
-      "en": "Acan",
-      "es": "Acan",
-      "fr": "Acan",
-      "it": "Acan",
-      "ko": "아칸",
-      "pt": "Acan",
-      "ru": "Acan",
-      "tr": "Acan",
-      "zh": "Acan"
-    },
-    "facility_type_id": "3",
-    "location_x": "1135.101",
-    "location_y": "119.9432",
-    "location_z": "-143.7333"
-  },
-  {
-    "zone_id": "4",
     "facility_id": "302010",
     "facility_name": {
       "de": "East Acan Storage Depot",
@@ -7158,6 +7118,26 @@
     "location_x": "-2159.799",
     "location_y": "5.424654",
     "location_z": "-1355.342"
+  },
+  {
+    "zone_id": "4",
+    "facility_id": "302000",
+    "facility_name": {
+      "de": "Acan",
+      "en": "Acan",
+      "es": "Acan",
+      "fr": "Acan",
+      "it": "Acan",
+      "ko": "아칸",
+      "pt": "Acan",
+      "ru": "Acan",
+      "tr": "Acan",
+      "zh": "Acan"
+    },
+    "facility_type_id": "3",
+    "location_x": "1135.101",
+    "location_y": "119.9432",
+    "location_z": "-143.7333"
   },
   {
     "zone_id": "4",
@@ -7261,26 +7241,6 @@
   },
   {
     "zone_id": "4",
-    "facility_id": "304020",
-    "facility_name": {
-      "de": "Zotz Arboretum",
-      "en": "Zotz Arboretum",
-      "es": "Zotz Arboretum",
-      "fr": "Zotz Arboretum",
-      "it": "Zotz Arboretum",
-      "ko": "볼탄 보급 스테이션",
-      "pt": "Estação de Suprimentos Voltan",
-      "ru": "Zotz Arboretum",
-      "tr": "Zotz Arboretum",
-      "zh": "Zotz植物园"
-    },
-    "facility_type_id": "6",
-    "location_x": "473.9089",
-    "location_y": "-37.46881",
-    "location_z": "2276.472"
-  },
-  {
-    "zone_id": "4",
     "facility_id": "304030",
     "facility_name": {
       "de": "Zotz Agriculture Lab",
@@ -7301,23 +7261,23 @@
   },
   {
     "zone_id": "4",
-    "facility_id": "305000",
+    "facility_id": "304020",
     "facility_name": {
-      "de": "Ghanan",
-      "en": "Ghanan",
-      "es": "Ghanan",
-      "fr": "Ghanan",
-      "it": "Ghanan",
-      "ko": "가난",
-      "pt": "Ghanan",
-      "ru": "Ghanan",
-      "tr": "Ghanan",
-      "zh": "Ghanan"
+      "de": "Zotz Arboretum",
+      "en": "Zotz Arboretum",
+      "es": "Zotz Arboretum",
+      "fr": "Zotz Arboretum",
+      "it": "Zotz Arboretum",
+      "ko": "볼탄 보급 스테이션",
+      "pt": "Estação de Suprimentos Voltan",
+      "ru": "Zotz Arboretum",
+      "tr": "Zotz Arboretum",
+      "zh": "Zotz植物园"
     },
-    "facility_type_id": "4",
-    "location_x": "-677.6385",
-    "location_y": "9.643489",
-    "location_z": "-2805.934"
+    "facility_type_id": "6",
+    "location_x": "473.9089",
+    "location_y": "-37.46881",
+    "location_z": "2276.472"
   },
   {
     "zone_id": "4",
@@ -7338,6 +7298,26 @@
     "location_x": "-1026.51",
     "location_y": "11.56948",
     "location_z": "-3025.609"
+  },
+  {
+    "zone_id": "4",
+    "facility_id": "305000",
+    "facility_name": {
+      "de": "Ghanan",
+      "en": "Ghanan",
+      "es": "Ghanan",
+      "fr": "Ghanan",
+      "it": "Ghanan",
+      "ko": "가난",
+      "pt": "Ghanan",
+      "ru": "Ghanan",
+      "tr": "Ghanan",
+      "zh": "Ghanan"
+    },
+    "facility_type_id": "4",
+    "location_x": "-677.6385",
+    "location_y": "9.643489",
+    "location_z": "-2805.934"
   },
   {
     "zone_id": "4",
@@ -7381,6 +7361,26 @@
   },
   {
     "zone_id": "4",
+    "facility_id": "286000",
+    "facility_name": {
+      "de": "Four Fingers",
+      "en": "Four Fingers",
+      "es": "Four Fingers",
+      "fr": "Four Fingers",
+      "it": "Four Fingers",
+      "ko": "포 핑거스",
+      "pt": "Quatro Dedos",
+      "ru": "Four Fingers",
+      "tr": "The Finger",
+      "zh": "Four Fingers"
+    },
+    "facility_type_id": "6",
+    "location_x": "-3205.175",
+    "location_y": "15.59608",
+    "location_z": "743.1317"
+  },
+  {
+    "zone_id": "4",
     "facility_id": "306000",
     "facility_name": {
       "de": "Mulac",
@@ -7421,6 +7421,26 @@
   },
   {
     "zone_id": "4",
+    "facility_id": "307000",
+    "facility_name": {
+      "de": "Chac",
+      "en": "Chac",
+      "es": "Chac",
+      "fr": "Chac",
+      "it": "Chac",
+      "ko": "차크",
+      "pt": "Chac",
+      "ru": "Chac",
+      "tr": "Chac",
+      "zh": "Chac"
+    },
+    "facility_type_id": "4",
+    "location_x": "2970.179",
+    "location_y": "12.7552",
+    "location_z": "661.3818"
+  },
+  {
+    "zone_id": "4",
     "facility_id": "306020",
     "facility_name": {
       "de": "Mulac Foundry",
@@ -7458,26 +7478,6 @@
     "location_x": "-2238.982",
     "location_y": "10.10089",
     "location_z": "2257.801"
-  },
-  {
-    "zone_id": "4",
-    "facility_id": "307000",
-    "facility_name": {
-      "de": "Chac",
-      "en": "Chac",
-      "es": "Chac",
-      "fr": "Chac",
-      "it": "Chac",
-      "ko": "차크",
-      "pt": "Chac",
-      "ru": "Chac",
-      "tr": "Chac",
-      "zh": "Chac"
-    },
-    "facility_type_id": "4",
-    "location_x": "2970.179",
-    "location_y": "12.7552",
-    "location_z": "661.3818"
   },
   {
     "zone_id": "4",
@@ -7541,26 +7541,6 @@
   },
   {
     "zone_id": "4",
-    "facility_id": "308000",
-    "facility_name": {
-      "de": "Westliches Warptor - Hossin",
-      "en": "Hossin Western Warpgate",
-      "es": "Hossin Western Warpgate",
-      "fr": "Hossin Western Warpgate",
-      "it": "Warpgate occidentale di Hossin",
-      "ko": "호신 서부 워프게이트",
-      "pt": "Portal da SV de Hossin",
-      "ru": "Hossin Western Warpgate",
-      "tr": "Hossin VS Warpgate",
-      "zh": "Hossin西部传送门"
-    },
-    "facility_type_id": "7",
-    "location_x": "2046.573",
-    "location_y": "14.93053",
-    "location_z": "-3122.905"
-  },
-  {
-    "zone_id": "4",
     "facility_id": "309000",
     "facility_name": {
       "de": "Östliches Warptor - Hossin",
@@ -7578,6 +7558,26 @@
     "location_x": "2036.771",
     "location_y": "12.00514",
     "location_z": "3023.958"
+  },
+  {
+    "zone_id": "4",
+    "facility_id": "308000",
+    "facility_name": {
+      "de": "Westliches Warptor - Hossin",
+      "en": "Hossin Western Warpgate",
+      "es": "Hossin Western Warpgate",
+      "fr": "Hossin Western Warpgate",
+      "it": "Warpgate occidentale di Hossin",
+      "ko": "호신 서부 워프게이트",
+      "pt": "Portal da SV de Hossin",
+      "ru": "Hossin Western Warpgate",
+      "tr": "Hossin VS Warpgate",
+      "zh": "Hossin西部传送门"
+    },
+    "facility_type_id": "7",
+    "location_x": "2046.573",
+    "location_y": "14.93053",
+    "location_z": "-3122.905"
   },
   {
     "zone_id": "4",
@@ -7621,26 +7621,6 @@
   },
   {
     "zone_id": "10",
-    "facility_id": "310510",
-    "facility_name": {
-      "de": "Nexus Secure Substation",
-      "en": "Nexus Secure Substation",
-      "es": "Nexus Secure Substation",
-      "fr": "Nexus Secure Substation",
-      "it": "Nexus Secure Substation",
-      "ko": "넥서스 보안 변전소",
-      "pt": "Subestação Segura de Nexus",
-      "ru": "Nexus Secure Substation",
-      "tr": "Nexus Secure Substation",
-      "zh": "节点稳定变电所"
-    },
-    "facility_type_id": "6",
-    "location_x": "-605.3044",
-    "location_y": "79.86848",
-    "location_z": "-9.616364"
-  },
-  {
-    "zone_id": "10",
     "facility_id": "310520",
     "facility_name": {
       "de": "Hydroponics Compound",
@@ -7661,43 +7641,23 @@
   },
   {
     "zone_id": "10",
-    "facility_id": "310530",
+    "facility_id": "310510",
     "facility_name": {
-      "de": "The Granitehead Reactor",
-      "en": "The Granitehead Reactor",
-      "es": "The Granitehead Reactor",
-      "fr": "The Granitehead Reactor",
-      "it": "The Granitehead Reactor",
-      "ko": "그라니트헤드 원자로",
-      "pt": "O Reator Cabeça de Granito",
-      "ru": "The Granitehead Reactor",
-      "tr": "The Granitehead Reactor",
-      "zh": "Granitehead反应堆"
-    },
-    "facility_type_id": "5",
-    "location_x": "173.4238",
-    "location_y": "104.6066",
-    "location_z": "-65.9746"
-  },
-  {
-    "zone_id": "10",
-    "facility_id": "310540",
-    "facility_name": {
-      "de": "Argent Pass",
-      "en": "Argent Pass",
-      "es": "Argent Pass",
-      "fr": "Argent Pass",
-      "it": "Argent Pass",
-      "ko": "아전트 통로",
-      "pt": "Passagem Argento",
-      "ru": "Серебристый перевал",
-      "tr": "Argent Pass",
-      "zh": "银色小径"
+      "de": "Nexus Secure Substation",
+      "en": "Nexus Secure Substation",
+      "es": "Nexus Secure Substation",
+      "fr": "Nexus Secure Substation",
+      "it": "Nexus Secure Substation",
+      "ko": "넥서스 보안 변전소",
+      "pt": "Subestação Segura de Nexus",
+      "ru": "Nexus Secure Substation",
+      "tr": "Nexus Secure Substation",
+      "zh": "节点稳定变电所"
     },
     "facility_type_id": "6",
-    "location_x": "188.7715",
-    "location_y": "136.9988",
-    "location_z": "-826.3948"
+    "location_x": "-605.3044",
+    "location_y": "79.86848",
+    "location_z": "-9.616364"
   },
   {
     "zone_id": "10",
@@ -7721,23 +7681,23 @@
   },
   {
     "zone_id": "10",
-    "facility_id": "310560",
+    "facility_id": "310540",
     "facility_name": {
-      "de": "Nexus Omega Warptor",
-      "en": "Nexus Omega Warpgate",
-      "es": "Nexus Omega Warpgate",
-      "fr": "Nexus Omega Warpgate",
-      "it": "Nexus Omega Warpgate",
-      "ko": "Nexus Northeast Warpgate",
-      "pt": "Portal Nordeste de Nexus",
-      "ru": "Nexus Omega Warpgate",
-      "tr": "Nexus Northeast Warpgate",
-      "zh": "欧米茄节点传送门"
+      "de": "Argent Pass",
+      "en": "Argent Pass",
+      "es": "Argent Pass",
+      "fr": "Argent Pass",
+      "it": "Argent Pass",
+      "ko": "아전트 통로",
+      "pt": "Passagem Argento",
+      "ru": "Серебристый перевал",
+      "tr": "Argent Pass",
+      "zh": "银色小径"
     },
-    "facility_type_id": "7",
-    "location_x": "637.1814",
-    "location_y": "81.1886",
-    "location_z": "664.5247"
+    "facility_type_id": "6",
+    "location_x": "188.7715",
+    "location_y": "136.9988",
+    "location_z": "-826.3948"
   },
   {
     "zone_id": "10",
@@ -7761,23 +7721,23 @@
   },
   {
     "zone_id": "10",
-    "facility_id": "310590",
+    "facility_id": "310560",
     "facility_name": {
-      "de": "Bitter Gorge Garrison",
-      "en": "Bitter Gorge Garrison",
-      "es": "Bitter Gorge Garrison",
-      "fr": "Bitter Gorge Garrison",
-      "it": "Bitter Gorge Garrison",
-      "ko": "혹독한 협곡 진지",
-      "pt": "Guarnição do Desfiladeiro Amargo",
-      "ru": "Bitter Gorge Garrison",
-      "tr": "Bitter Gorge Garrison",
-      "zh": "Bitter Gorge兵站"
+      "de": "Nexus Omega Warptor",
+      "en": "Nexus Omega Warpgate",
+      "es": "Nexus Omega Warpgate",
+      "fr": "Nexus Omega Warpgate",
+      "it": "Nexus Omega Warpgate",
+      "ko": "Nexus Northeast Warpgate",
+      "pt": "Portal Nordeste de Nexus",
+      "ru": "Nexus Omega Warpgate",
+      "tr": "Nexus Northeast Warpgate",
+      "zh": "欧米茄节点传送门"
     },
-    "facility_type_id": "5",
-    "location_x": "442.6318",
-    "location_y": "91.75409",
-    "location_z": "-436.2534"
+    "facility_type_id": "7",
+    "location_x": "637.1814",
+    "location_y": "81.1886",
+    "location_z": "664.5247"
   },
   {
     "zone_id": "10",
@@ -7798,6 +7758,46 @@
     "location_x": "-361.7592",
     "location_y": "98.83099",
     "location_z": "-373.9822"
+  },
+  {
+    "zone_id": "10",
+    "facility_id": "310590",
+    "facility_name": {
+      "de": "Bitter Gorge Garrison",
+      "en": "Bitter Gorge Garrison",
+      "es": "Bitter Gorge Garrison",
+      "fr": "Bitter Gorge Garrison",
+      "it": "Bitter Gorge Garrison",
+      "ko": "혹독한 협곡 진지",
+      "pt": "Guarnição do Desfiladeiro Amargo",
+      "ru": "Bitter Gorge Garrison",
+      "tr": "Bitter Gorge Garrison",
+      "zh": "Bitter Gorge兵站"
+    },
+    "facility_type_id": "5",
+    "location_x": "442.6318",
+    "location_y": "91.75409",
+    "location_z": "-436.2534"
+  },
+  {
+    "zone_id": "10",
+    "facility_id": "310530",
+    "facility_name": {
+      "de": "The Granitehead Reactor",
+      "en": "The Granitehead Reactor",
+      "es": "The Granitehead Reactor",
+      "fr": "The Granitehead Reactor",
+      "it": "The Granitehead Reactor",
+      "ko": "그라니트헤드 원자로",
+      "pt": "O Reator Cabeça de Granito",
+      "ru": "The Granitehead Reactor",
+      "tr": "The Granitehead Reactor",
+      "zh": "Granitehead反应堆"
+    },
+    "facility_type_id": "5",
+    "location_x": "173.4238",
+    "location_y": "104.6066",
+    "location_z": "-65.9746"
   },
   {
     "zone_id": "10",

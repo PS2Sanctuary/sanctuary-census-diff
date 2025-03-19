@@ -81336,6 +81336,30 @@
     "image_path": "/files/ps2/images/static/95979.png"
   },
   {
+    "image_set_id": "807563",
+    "image_id": "95980",
+    "description": "Codex_Construction_Harvesting",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95980.png"
+  },
+  {
+    "image_set_id": "807564",
+    "image_id": "95981",
+    "description": "Codex_Construction_Building",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95981.png"
+  },
+  {
+    "image_set_id": "807565",
+    "image_id": "95982",
+    "description": "Codex_Construction_Placement",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/95982.png"
+  },
+  {
     "image_set_id": "807566",
     "image_id": "95985",
     "description": "Icon_Vehicle_Common_ANT_Attachment_Demolition_Bumper",
@@ -81550,30 +81574,6 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/96072.png"
-  },
-  {
-    "image_set_id": "807563",
-    "image_id": "95980",
-    "description": "Codex_Construction_Harvesting",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/95980.png"
-  },
-  {
-    "image_set_id": "807564",
-    "image_id": "95981",
-    "description": "Codex_Construction_Building",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/95981.png"
-  },
-  {
-    "image_set_id": "807565",
-    "image_id": "95982",
-    "description": "Codex_Construction_Placement",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/95982.png"
   },
   {
     "image_set_id": "807594",
@@ -82792,6 +82792,14 @@
     "image_path": "/files/ps2/images/static/96582.png"
   },
   {
+    "image_set_id": "807746",
+    "image_id": "96587",
+    "description": "icon_Vehicle_Common_AutoTurret_GroundMachineGun_PrimeDirective",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/96587.png"
+  },
+  {
     "image_set_id": "807747",
     "image_id": "96590",
     "description": "icon_litTrim_Buggy_Attachment_TidesOfSummer_vs",
@@ -82854,14 +82862,6 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/96611.png"
-  },
-  {
-    "image_set_id": "807746",
-    "image_id": "96587",
-    "description": "icon_Vehicle_Common_AutoTurret_GroundMachineGun_PrimeDirective",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/96587.png"
   },
   {
     "image_set_id": "807755",
@@ -84384,6 +84384,14 @@
     "image_path": "/files/ps2/images/static/97217.png"
   },
   {
+    "image_set_id": "807982",
+    "image_id": "97222",
+    "description": "I_CRRNC_fishing_up(Fishing 2024)",
+    "type_id": "8",
+    "type_description": "Very Large (256 pixel height)",
+    "image_path": "/files/ps2/images/static/97222.png"
+  },
+  {
     "image_set_id": "807983",
     "image_id": "97225",
     "description": "I_Fishing_Scanner(Fishing 2024)",
@@ -84454,6 +84462,38 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97271.png"
+  },
+  {
+    "image_set_id": "808000",
+    "image_id": "97275",
+    "description": "Icon_SundererCargo_RepairStation",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97275.png"
+  },
+  {
+    "image_set_id": "808001",
+    "image_id": "97278",
+    "description": "Icon_SundererCargo_ShieldDisruptor",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97278.png"
+  },
+  {
+    "image_set_id": "808002",
+    "image_id": "97281",
+    "description": "Icon_SM_SundererCargo_AmmoTower",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97281.png"
+  },
+  {
+    "image_set_id": "808003",
+    "image_id": "97284",
+    "description": "Icon_SundererCargo_ProximityRadar",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97284.png"
   },
   {
     "image_set_id": "808004",
@@ -84680,38 +84720,6 @@
     "image_path": "/files/ps2/images/static/97404.png"
   },
   {
-    "image_set_id": "808000",
-    "image_id": "97275",
-    "description": "Icon_SundererCargo_RepairStation",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97275.png"
-  },
-  {
-    "image_set_id": "808001",
-    "image_id": "97278",
-    "description": "Icon_SundererCargo_ShieldDisruptor",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97278.png"
-  },
-  {
-    "image_set_id": "808002",
-    "image_id": "97281",
-    "description": "Icon_SM_SundererCargo_AmmoTower",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97281.png"
-  },
-  {
-    "image_set_id": "808003",
-    "image_id": "97284",
-    "description": "Icon_SundererCargo_ProximityRadar",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97284.png"
-  },
-  {
     "image_set_id": "808034",
     "image_id": "97385",
     "description": "icon_SundererDeployment_PointDefense",
@@ -84758,14 +84766,6 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97419.png"
-  },
-  {
-    "image_set_id": "807982",
-    "image_id": "97222",
-    "description": "I_CRRNC_fishing_up(Fishing 2024)",
-    "type_id": "8",
-    "type_description": "Very Large (256 pixel height)",
-    "image_path": "/files/ps2/images/static/97222.png"
   },
   {
     "image_set_id": "808040",
@@ -85344,6 +85344,14 @@
     "image_path": "/files/ps2/images/static/97683.png"
   },
   {
+    "image_set_id": "808133",
+    "image_id": "97689",
+    "description": "Fish - Softhead Mumbler",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97689.png"
+  },
+  {
     "image_set_id": "808134",
     "image_id": "97686",
     "description": "I_Frogman_Armor_TR_CM (Tides of Summer Bravo 2024)",
@@ -85374,6 +85382,46 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97698.png"
+  },
+  {
+    "image_set_id": "808138",
+    "image_id": "97701",
+    "description": "Fish - Regular Wetgripper",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97701.png"
+  },
+  {
+    "image_set_id": "808139",
+    "image_id": "97704",
+    "description": "Fish - Reticulaheaded Anther",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97704.png"
+  },
+  {
+    "image_set_id": "808140",
+    "image_id": "97707",
+    "description": "Fish - Winged Pseudofloater",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97707.png"
+  },
+  {
+    "image_set_id": "808141",
+    "image_id": "97710",
+    "description": "Fish - Shelled Reefcrusher",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97710.png"
+  },
+  {
+    "image_set_id": "808142",
+    "image_id": "97713",
+    "description": "Fish - Mudcreeper",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97713.png"
   },
   {
     "image_set_id": "808143",
@@ -85416,6 +85464,118 @@
     "image_path": "/files/ps2/images/static/97728.png"
   },
   {
+    "image_set_id": "808148",
+    "image_id": "97731",
+    "description": "Fish - Voidswifter Anoa",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97731.png"
+  },
+  {
+    "image_set_id": "808149",
+    "image_id": "97734",
+    "description": "Fish - Spiked Siltdigger",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97734.png"
+  },
+  {
+    "image_set_id": "808155",
+    "image_id": "97754",
+    "description": "Fish - Coastal Thornbill",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97754.png"
+  },
+  {
+    "image_set_id": "808157",
+    "image_id": "97760",
+    "description": "Fish - Astraxian Wormech",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97760.png"
+  },
+  {
+    "image_set_id": "808158",
+    "image_id": "97763",
+    "description": "Fish - Warthog Triton",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97763.png"
+  },
+  {
+    "image_set_id": "808159",
+    "image_id": "97766",
+    "description": "Fish - Purple Bubblereaver",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97766.png"
+  },
+  {
+    "image_set_id": "808160",
+    "image_id": "97769",
+    "description": "Fish - Oshur Cleaverjaw",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97769.png"
+  },
+  {
+    "image_set_id": "808161",
+    "image_id": "97772",
+    "description": "Fish - Ghosted Phlegmata",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97772.png"
+  },
+  {
+    "image_set_id": "808162",
+    "image_id": "97775",
+    "description": "Fish - Shimmering Abyssal Gargantua",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97775.png"
+  },
+  {
+    "image_set_id": "808163",
+    "image_id": "97778",
+    "description": "Fish - Pimplespin Screamer",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97778.png"
+  },
+  {
+    "image_set_id": "808164",
+    "image_id": "97781",
+    "description": "Fish - Lavra Medullaria",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97781.png"
+  },
+  {
+    "image_set_id": "808165",
+    "image_id": "97784",
+    "description": "Fish - Unghotian Plasmabreaker",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97784.png"
+  },
+  {
+    "image_set_id": "808166",
+    "image_id": "97787",
+    "description": "Fish - Augumentatroxis",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97787.png"
+  },
+  {
+    "image_set_id": "808167",
+    "image_id": "97790",
+    "description": "Fish - Fullmetal Erupter",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97790.png"
+  },
+  {
     "image_set_id": "808168",
     "image_id": "97887",
     "description": "I_Frogman_Armor_NSO_EN (Tides of Summer Bravo 2024)",
@@ -85454,6 +85614,46 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97884.png"
+  },
+  {
+    "image_set_id": "808173",
+    "image_id": "97794",
+    "description": "Fishing - Currency",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97794.png"
+  },
+  {
+    "image_set_id": "808174",
+    "image_id": "97797",
+    "description": "icon_directives_badges_bronze_fishing",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97797.png"
+  },
+  {
+    "image_set_id": "808175",
+    "image_id": "97800",
+    "description": "icon_directives_badges_silver_fishing",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97800.png"
+  },
+  {
+    "image_set_id": "808176",
+    "image_id": "97803",
+    "description": "icon_directives_badges_gold_fishing",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97803.png"
+  },
+  {
+    "image_set_id": "808177",
+    "image_id": "97804",
+    "description": "I_directive_fishing",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/97804.png"
   },
   {
     "image_set_id": "808178",
@@ -85702,206 +85902,6 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/97930.png"
-  },
-  {
-    "image_set_id": "808133",
-    "image_id": "97689",
-    "description": "Fish - Softhead Mumbler",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97689.png"
-  },
-  {
-    "image_set_id": "808138",
-    "image_id": "97701",
-    "description": "Fish - Regular Wetgripper",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97701.png"
-  },
-  {
-    "image_set_id": "808139",
-    "image_id": "97704",
-    "description": "Fish - Reticulaheaded Anther",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97704.png"
-  },
-  {
-    "image_set_id": "808140",
-    "image_id": "97707",
-    "description": "Fish - Winged Pseudofloater",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97707.png"
-  },
-  {
-    "image_set_id": "808141",
-    "image_id": "97710",
-    "description": "Fish - Shelled Reefcrusher",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97710.png"
-  },
-  {
-    "image_set_id": "808142",
-    "image_id": "97713",
-    "description": "Fish - Mudcreeper",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97713.png"
-  },
-  {
-    "image_set_id": "808148",
-    "image_id": "97731",
-    "description": "Fish - Voidswifter Anoa",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97731.png"
-  },
-  {
-    "image_set_id": "808149",
-    "image_id": "97734",
-    "description": "Fish - Spiked Siltdigger",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97734.png"
-  },
-  {
-    "image_set_id": "808155",
-    "image_id": "97754",
-    "description": "Fish - Coastal Thornbill",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97754.png"
-  },
-  {
-    "image_set_id": "808157",
-    "image_id": "97760",
-    "description": "Fish - Astraxian Wormech",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97760.png"
-  },
-  {
-    "image_set_id": "808158",
-    "image_id": "97763",
-    "description": "Fish - Warthog Triton",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97763.png"
-  },
-  {
-    "image_set_id": "808159",
-    "image_id": "97766",
-    "description": "Fish - Purple Bubblereaver",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97766.png"
-  },
-  {
-    "image_set_id": "808160",
-    "image_id": "97769",
-    "description": "Fish - Oshur Cleaverjaw",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97769.png"
-  },
-  {
-    "image_set_id": "808161",
-    "image_id": "97772",
-    "description": "Fish - Ghosted Phlegmata",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97772.png"
-  },
-  {
-    "image_set_id": "808162",
-    "image_id": "97775",
-    "description": "Fish - Shimmering Abyssal Gargantua",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97775.png"
-  },
-  {
-    "image_set_id": "808163",
-    "image_id": "97778",
-    "description": "Fish - Pimplespin Screamer",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97778.png"
-  },
-  {
-    "image_set_id": "808164",
-    "image_id": "97781",
-    "description": "Fish - Lavra Medullaria",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97781.png"
-  },
-  {
-    "image_set_id": "808165",
-    "image_id": "97784",
-    "description": "Fish - Unghotian Plasmabreaker",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97784.png"
-  },
-  {
-    "image_set_id": "808166",
-    "image_id": "97787",
-    "description": "Fish - Augumentatroxis",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97787.png"
-  },
-  {
-    "image_set_id": "808167",
-    "image_id": "97790",
-    "description": "Fish - Fullmetal Erupter",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97790.png"
-  },
-  {
-    "image_set_id": "808173",
-    "image_id": "97794",
-    "description": "Fishing - Currency",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97794.png"
-  },
-  {
-    "image_set_id": "808174",
-    "image_id": "97797",
-    "description": "icon_directives_badges_bronze_fishing",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97797.png"
-  },
-  {
-    "image_set_id": "808175",
-    "image_id": "97800",
-    "description": "icon_directives_badges_silver_fishing",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97800.png"
-  },
-  {
-    "image_set_id": "808176",
-    "image_id": "97803",
-    "description": "icon_directives_badges_gold_fishing",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97803.png"
-  },
-  {
-    "image_set_id": "808177",
-    "image_id": "97804",
-    "description": "I_directive_fishing",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/97804.png"
   },
   {
     "image_set_id": "808212",
@@ -86384,20 +86384,20 @@
     "image_path": "/files/ps2/images/static/98107.png"
   },
   {
-    "image_set_id": "808275",
-    "image_id": "98113",
-    "description": "I_NascentExpedition_NSO_Helmet (12th Anniversary)",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/98113.png"
-  },
-  {
     "image_set_id": "808274",
     "image_id": "98119",
     "description": "I_Sacrificial_Knife_MW_NSO (12th Anniversary)",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/98119.png"
+  },
+  {
+    "image_set_id": "808275",
+    "image_id": "98113",
+    "description": "I_NascentExpedition_NSO_Helmet (12th Anniversary)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98113.png"
   },
   {
     "image_set_id": "808277",
@@ -86968,22 +86968,6 @@
     "image_path": "/files/ps2/images/static/98334.png"
   },
   {
-    "image_set_id": "808355",
-    "image_id": "98349",
-    "description": "BND_Intoxicated2024_ (New Years 2025)",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/98349.png"
-  },
-  {
-    "image_set_id": "808359",
-    "image_id": "98359",
-    "description": "I_NS11C_CAR_Confetti_Barrel_Attachment_ (New Years 2025)",
-    "type_id": "7",
-    "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/98359.png"
-  },
-  {
     "image_set_id": "808352",
     "image_id": "98337",
     "description": "I_Vehicle_Valkyrie_Glass_Attachment",
@@ -87008,6 +86992,14 @@
     "image_path": "/files/ps2/images/static/98343.png"
   },
   {
+    "image_set_id": "808355",
+    "image_id": "98349",
+    "description": "BND_Intoxicated2024_ (New Years 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98349.png"
+  },
+  {
     "image_set_id": "808356",
     "image_id": "98346",
     "description": "I_Vehicle_Reaver_Glass_Attachment",
@@ -87025,11 +87017,19 @@
   },
   {
     "image_set_id": "808358",
-    "image_id": "98355",
+    "image_id": "98356",
     "description": "I_A_Vehicle_Love_Horn_Attachment",
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
-    "image_path": "/files/ps2/images/static/98355.png"
+    "image_path": "/files/ps2/images/static/98356.png"
+  },
+  {
+    "image_set_id": "808359",
+    "image_id": "98359",
+    "description": "I_NS11C_CAR_Confetti_Barrel_Attachment_ (New Years 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98359.png"
   },
   {
     "image_set_id": "808360",
@@ -87174,5 +87174,325 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/98423.png"
+  },
+  {
+    "image_set_id": "808382",
+    "image_id": "98426",
+    "description": "I_BND_Valentines24 - Valentine's Day 2024 Directive Bundle",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98426.png"
+  },
+  {
+    "image_set_id": "808383",
+    "image_id": "98429",
+    "description": "I_DCL_FishingReward (Fishing)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98429.png"
+  },
+  {
+    "image_set_id": "808384",
+    "image_id": "98433",
+    "description": "I_FRM_FishingReward (Fishing)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98433.png"
+  },
+  {
+    "image_set_id": "808385",
+    "image_id": "98434",
+    "description": "FRM_Fishing (Fishing)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98434.png"
+  },
+  {
+    "image_set_id": "808386",
+    "image_id": "98437",
+    "description": "I_Vehicle_Fishing_HoodOrnaments_Attachment (Fishing)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98437.png"
+  },
+  {
+    "image_set_id": "808387",
+    "image_id": "98440",
+    "description": "I_DCL_MothersDay25 (Mothers Day 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98440.png"
+  },
+  {
+    "image_set_id": "808388",
+    "image_id": "98444",
+    "description": "BND_LegionOfTheCrows (2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98444.png"
+  },
+  {
+    "image_set_id": "808389",
+    "image_id": "98447",
+    "description": "I_FishingHatPremium_Helmet_NSO",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98447.png"
+  },
+  {
+    "image_set_id": "808390",
+    "image_id": "98450",
+    "description": "I_FishingHatPremium_Helmet_NC",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98450.png"
+  },
+  {
+    "image_set_id": "808391",
+    "image_id": "98453",
+    "description": "I_FishingHatPremium_Helmet_TR",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98453.png"
+  },
+  {
+    "image_set_id": "808392",
+    "image_id": "98456",
+    "description": "I_FishingHatPremium_Helmet_VS",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98456.png"
+  },
+  {
+    "image_set_id": "808393",
+    "image_id": "98459",
+    "description": "I_BNR_FishingReward (Fishing 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98459.png"
+  },
+  {
+    "image_set_id": "808394",
+    "image_id": "98460",
+    "description": "BNR_Fishing (Fishing 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98460.png"
+  },
+  {
+    "image_set_id": "808395",
+    "image_id": "98463",
+    "description": "I_CAMO_FishingReward_NSO (Fishing 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98463.png"
+  },
+  {
+    "image_set_id": "808396",
+    "image_id": "98466",
+    "description": "I_CAMO_FishingReward_NC (Fishing 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98466.png"
+  },
+  {
+    "image_set_id": "808397",
+    "image_id": "98469",
+    "description": "I_CAMO_FishingReward_TR (Fishing 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98469.png"
+  },
+  {
+    "image_set_id": "808398",
+    "image_id": "98472",
+    "description": "I_CAMO_FishingReward_VS (Fishing 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98472.png"
+  },
+  {
+    "image_set_id": "808399",
+    "image_id": "98475",
+    "description": "I_Vehicle_EVL_HoodOrnaments_Attachment (2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98475.png"
+  },
+  {
+    "image_set_id": "808400",
+    "image_id": "98477",
+    "description": "I_A_Vehicle_Leprechaun_Horn_Attachment (2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98477.png"
+  },
+  {
+    "image_set_id": "808401",
+    "image_id": "98481",
+    "description": "I_Vehicle_EVL_Sunderer_Exterior_Attachment (2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98481.png"
+  },
+  {
+    "image_set_id": "808402",
+    "image_id": "98484",
+    "description": "I_Vehicle_EVL_Flash_Other_Attachment (2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98484.png"
+  },
+  {
+    "image_set_id": "808403",
+    "image_id": "98487",
+    "description": "I_ArborDay (2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98487.png"
+  },
+  {
+    "image_set_id": "808405",
+    "image_id": "98493",
+    "description": "I_BND_SeptOfAnu (2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98493.png"
+  },
+  {
+    "image_set_id": "808407",
+    "image_id": "98497",
+    "description": "I_EasterEgg_Frag_Consumable",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98497.png"
+  },
+  {
+    "image_set_id": "808408",
+    "image_id": "98500",
+    "description": "I_Iceberg_Wrench_MW_TR_ENG",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98500.png"
+  },
+  {
+    "image_set_id": "808409",
+    "image_id": "98503",
+    "description": "I_Iceberg_Wrench_MW_VS_ENG",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98503.png"
+  },
+  {
+    "image_set_id": "808410",
+    "image_id": "98506",
+    "description": "I_Iceberg_Wrench_MW_NC_ENG",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98506.png"
+  },
+  {
+    "image_set_id": "808411",
+    "image_id": "98509",
+    "description": "I_Iceberg_Wrench_MW_NSO_ENG",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98509.png"
+  },
+  {
+    "image_set_id": "808412",
+    "image_id": "98512",
+    "description": "I_DeadmanTrigger_Implant_Tier1",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98512.png"
+  },
+  {
+    "image_set_id": "808413",
+    "image_id": "98515",
+    "description": "I_Vehicle_EVSiren_Horn (EVL 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98515.png"
+  },
+  {
+    "image_set_id": "808414",
+    "image_id": "98519",
+    "description": "I_LegionOfTheCrows_Armor_NC_CM (Legion Of The Crows Armor 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98519.png"
+  },
+  {
+    "image_set_id": "808415",
+    "image_id": "98522",
+    "description": "I_LegionOfTheCrows_Armor_NC_EN (Legion Of The Crows Armor 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98522.png"
+  },
+  {
+    "image_set_id": "808416",
+    "image_id": "98525",
+    "description": "I_LegionOfTheCrows_Armor_NC_HA (Legion Of The Crows Armor 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98525.png"
+  },
+  {
+    "image_set_id": "808417",
+    "image_id": "98528",
+    "description": "I_LegionOfTheCrows_Armor_NC_INF (Legion Of The Crows Armor 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98528.png"
+  },
+  {
+    "image_set_id": "808418",
+    "image_id": "98531",
+    "description": "I_LegionOfTheCrows_Armor_NC_LA (Legion Of The Crows Armor 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98531.png"
+  },
+  {
+    "image_set_id": "808419",
+    "image_id": "98534",
+    "description": "I_PremiumPuzzlerHair_Helmet_NC_Male (April Fools Day 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98534.png"
+  },
+  {
+    "image_set_id": "808420",
+    "image_id": "98537",
+    "description": "I_PremiumPuzzlerHair_Helmet_TR_Male (April Fools Day 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98537.png"
+  },
+  {
+    "image_set_id": "808421",
+    "image_id": "98540",
+    "description": "I_PremiumPuzzlerHair_Helmet_VS_Male (April Fools Day 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98540.png"
+  },
+  {
+    "image_set_id": "808422",
+    "image_id": "98543",
+    "description": "I_PremiumPuzzlerHair_Helmet_NSO_Male (April Fools Day 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98543.png"
+  },
+  {
+    "image_set_id": "808423",
+    "image_id": "98546",
+    "description": "I_Camo_LegionOfCrows_NC_ (2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98546.png"
   }
 ]
