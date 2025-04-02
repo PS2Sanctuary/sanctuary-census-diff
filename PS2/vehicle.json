@@ -3717,5 +3717,51 @@
     "auto_detect_radius": "0",
     "lockon_time_add": "NULL",
     "lockon_time_mult": "NULL"
+  },
+  {
+    "vehicle_id": "2153",
+    "name": {
+      "de": "Stryder",
+      "en": "Stryder",
+      "es": "Stryder",
+      "fr": "Stryder",
+      "it": "Stryder",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Stryder",
+      "tr": "NULL",
+      "zh": "Stryder"
+    },
+    "description": {
+      "de": "Der Magrider ist ein Luftkissenpanzer, der ausschließlich von der Vanu-Souveränität genutzt wird. Mit seinen Schwebeeigenschaften kann er weitaus mehr Geländearten als andere Panzer bezwingen.",
+      "en": "The Magrider is a hover tank used exclusively by the Vanu Sovereignty.  Its hover capabilities allow it ability strafe and climb more types of terrain beyond other tanks.",
+      "es": "El Magrider es un tanque aerodeslizador exclusivo de la Soberanía Vanu. Sus capacidades para sostenerse en el aire le permiten realizar desplazamientos laterales y trepar por todo tipo de terrenos inalcanzables para otros tanques.",
+      "fr": "L'Aérochar est un char planeur utilisé exclusivement par la Souveraineté Vanu. Ses capacités de vol stationnaire lui permettent de se déplacer latéralement et d'arpenter davantage de types de terrains que les autres chars.",
+      "it": "Il Magrider è il carro armato aeroscivolante della Sovranità Vanu. La sua capacità di librarsi gli consente di spostarsi lateralmente e di arrampicarsi su una varietà di terreni, in modo superiore agli altri carri.",
+      "ko": "맥라이더는 바누 자치국에서 독점 사용하는 호버 탱크입니다. 호버 기능으로 다른 탱크들보다 더 다양한 지형을 이동하며 맹렬히 폭격할 수 있습니다.",
+      "pt": "O Magnave é um tanque flutuante usado exclusivamente pela Supremacia Vanu.  Suas capacidades flutuantes lhe permitem que ande para os lados, sem se virar, e subir vários tipos de terrenos.",
+      "ru": "Magrider — танк на воздушной подушке, который используется исключительно фракцией Vanu Sovereignty. Способность танка парить над землей позволяет ему атаковать в движении и перемещаться по большему количеству типов ландшафта по сравнению с другими танками.",
+      "tr": "Süvari, sadece Vanu Hükümdarlığı'nda mevcut olan orta sınıf bir tanktır. Süvari, havada durma özellikleri sayesinde yanlara dönüş kabiliyetine ve farklı tip arazilerde diğer tanklara göre daha fazla tırmanma özelliğine sahiptir.",
+      "zh": "Magrider是Vanu Sovereignty特有的悬浮式坦克。悬浮技术可以让它在其他坦克无法通行的地表进行转向或爬坡。"
+    },
+    "type_id": "2",
+    "decay_sec": "300",
+    "purchase_cooldown": "30",
+    "image_set_id": "95",
+    "image_id": "259",
+    "image_path": "/files/ps2/images/static/259.png",
+    "cost": "0",
+    "cost_resource_id": "4",
+    "landing_height": "NULL",
+    "impact_damage_blocked": "0",
+    "impact_damage_multiplier": "1",
+    "impact_damage_inflicted_multiplier": "1.5",
+    "propulsion_type": "0",
+    "schematic_image_set_id": "404",
+    "health_image_set_id": "399",
+    "minimap_range": "150",
+    "auto_detect_radius": "100",
+    "lockon_time_add": "NULL",
+    "lockon_time_mult": "NULL"
   }
 ]

@@ -152,5 +152,26 @@
       "zh": "专长"
     },
     "display_order": "9"
+  },
+  {
+    "directive_tree_category_id": "20",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": {
+      "de": "Angeln",
+      "en": "Fishing",
+      "es": "Pesca",
+      "fr": "Pêche",
+      "it": "Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рыбная ловля",
+      "tr": "NULL",
+      "zh": "钓鱼"
+    },
+    "display_order": "60"
   }
 ]

@@ -1944,5 +1944,80 @@
     "image_set_id": "806714",
     "image_id": "93608",
     "image_path": "/files/ps2/images/static/93608.png"
+  },
+  {
+    "directive_tree_id": "152",
+    "directive_tree_category_id": "20",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Angelmeister",
+      "en": "Fishing Mastery",
+      "es": "Maestría de pesca",
+      "fr": "Maîtrise de la pêche",
+      "it": "Padronanza nella pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мастерство рыбной ловли",
+      "tr": "NULL",
+      "zh": "钓鱼精通"
+    },
+    "image_set_id": "808177",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_tree_id": "144",
+    "directive_tree_category_id": "20",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Angeln",
+      "en": "Fishing",
+      "es": "Pesca",
+      "fr": "Pêche",
+      "it": "Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рыбная ловля",
+      "tr": "NULL",
+      "zh": "钓鱼"
+    },
+    "image_set_id": "808177",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_tree_id": "135",
+    "directive_tree_category_id": "17",
+    "faction_ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "name": "NULL",
+    "description": {
+      "de": "Angeln",
+      "en": "Fishing",
+      "es": "Pesca",
+      "fr": "Pêche",
+      "it": "Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рыбная ловля",
+      "tr": "NULL",
+      "zh": "钓鱼"
+    },
+    "image_set_id": "808177",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
   }
 ]

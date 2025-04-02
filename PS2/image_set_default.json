@@ -87494,5 +87494,245 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/98546.png"
+  },
+  {
+    "image_set_id": "808424",
+    "image_id": "98551",
+    "description": "I_PremiumPuzzlerHair_Helmet_NC_Female (April Fools Day 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98551.png"
+  },
+  {
+    "image_set_id": "808425",
+    "image_id": "98554",
+    "description": "I_PremiumPuzzlerHair_Helmet_TR_Female (April Fools Day 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98554.png"
+  },
+  {
+    "image_set_id": "808426",
+    "image_id": "98557",
+    "description": "I_PremiumPuzzlerHair_Helmet_VS_Female (April Fools Day 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98557.png"
+  },
+  {
+    "image_set_id": "808427",
+    "image_id": "98559",
+    "description": "I_A_Vehicle_Brrrt_Horn_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98559.png"
+  },
+  {
+    "image_set_id": "808428",
+    "image_id": "98563",
+    "description": "I_PremiumPuzzlerHair_Helmet_Neutral_Male (April Fools Day 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98563.png"
+  },
+  {
+    "image_set_id": "808429",
+    "image_id": "98566",
+    "description": "I_PremiumPuzzlerHair_Helmet_Neutral_Female (April Fools Day 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98566.png"
+  },
+  {
+    "image_set_id": "808430",
+    "image_id": "98569",
+    "description": "I_PTSTester25_NSO",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98569.png"
+  },
+  {
+    "image_set_id": "808431",
+    "image_id": "98572",
+    "description": "I_PTSTester25_TR",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98572.png"
+  },
+  {
+    "image_set_id": "808432",
+    "image_id": "98575",
+    "description": "I_PTSTester25_VS",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98575.png"
+  },
+  {
+    "image_set_id": "808433",
+    "image_id": "98578",
+    "description": "I_PTSTester25_NC",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98578.png"
+  },
+  {
+    "image_set_id": "808434",
+    "image_id": "98579",
+    "description": "BNR_PTSTester25_NC.png",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98579.png"
+  },
+  {
+    "image_set_id": "808435",
+    "image_id": "98580",
+    "description": "BNR_PTSTester25_NSO",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98580.png"
+  },
+  {
+    "image_set_id": "808436",
+    "image_id": "98581",
+    "description": "BNR_PTSTester25_TR",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98581.png"
+  },
+  {
+    "image_set_id": "808437",
+    "image_id": "98582",
+    "description": "BNR_PTSTester25_VS",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98582.png"
+  },
+  {
+    "image_set_id": "808438",
+    "image_id": "98585",
+    "description": "I_FirstBlood_NorthAmerica2025",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98585.png"
+  },
+  {
+    "image_set_id": "808439",
+    "image_id": "98586",
+    "description": "BNR_FirstBlood_NorthAmerica2025",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98586.png"
+  },
+  {
+    "image_set_id": "808440",
+    "image_id": "98589",
+    "description": "I_FirstBlood_Europe2025",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98589.png"
+  },
+  {
+    "image_set_id": "808441",
+    "image_id": "98590",
+    "description": "BNR_FirstBlood_Europe2025",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98590.png"
+  },
+  {
+    "image_set_id": "808442",
+    "image_id": "98593",
+    "description": "I_FishingHatDirective_Helmet_NC",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98593.png"
+  },
+  {
+    "image_set_id": "808443",
+    "image_id": "98596",
+    "description": "I_FishingHatDirective_Helmet_VS",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98596.png"
+  },
+  {
+    "image_set_id": "808444",
+    "image_id": "98599",
+    "description": "I_FishingHatDirective_Helmet_TR",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98599.png"
+  },
+  {
+    "image_set_id": "808445",
+    "image_id": "98602",
+    "description": "I_FishingHatDirective_Helmet_NSO",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98602.png"
+  },
+  {
+    "image_set_id": "808446",
+    "image_id": "98605",
+    "description": "I_BattleVeteran_Miller2025_",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98605.png"
+  },
+  {
+    "image_set_id": "808447",
+    "image_id": "98606",
+    "description": "BNR_BattleVeteran_Miller2025",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98606.png"
+  },
+  {
+    "image_set_id": "808448",
+    "image_id": "98609",
+    "description": "I_BattleVeteran_Connery2025",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98609.png"
+  },
+  {
+    "image_set_id": "808449",
+    "image_id": "98610",
+    "description": "BNR_BattleVeteran_Connery2025",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98610.png"
+  },
+  {
+    "image_set_id": "808450",
+    "image_id": "98613",
+    "description": "I_BattleVeteran_Emerald2025",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98613.png"
+  },
+  {
+    "image_set_id": "808451",
+    "image_id": "98614",
+    "description": "BNR_BattleVeteran_Emerald2025",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98614.png"
+  },
+  {
+    "image_set_id": "808452",
+    "image_id": "98617",
+    "description": "I_BattleVeteran_Cobalt2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98617.png"
+  },
+  {
+    "image_set_id": "808453",
+    "image_id": "98618",
+    "description": "BNR_BattleVeteran_Cobalt2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98618.png"
   }
 ]

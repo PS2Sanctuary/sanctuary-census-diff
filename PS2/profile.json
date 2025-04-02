@@ -10014,5 +10014,53 @@
     "strafe_acceleration_time_sec": "NULL",
     "strafe_deceleration_time_sec": "NULL",
     "max_water_speed_multiplier": "NULL"
+  },
+  {
+    "profile_id": "338",
+    "profile_type_id": "0",
+    "faction_id": "NULL",
+    "name": {
+      "de": "Stryder",
+      "en": "Stryder",
+      "es": "Stryder",
+      "fr": "Stryder",
+      "it": "Stryder",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Stryder",
+      "tr": "NULL",
+      "zh": "Stryder"
+    },
+    "description": {
+      "de": "Stryder description",
+      "en": "Stryder description",
+      "es": "Descripción del Stryder",
+      "fr": "Description de Stryder",
+      "it": "Descrizione Stryder",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Описание Stryder",
+      "tr": "NULL",
+      "zh": "Stryder描述"
+    },
+    "camera_height": "4",
+    "crouch_camera_height": "NULL",
+    "image_set_id": "92",
+    "image_id": "256",
+    "image_path": "/files/ps2/images/static/256.png",
+    "movement_speed": "NULL",
+    "backpedal_speed_multiplier": "NULL",
+    "crouch_speed_multiplier": "NULL",
+    "sprint_speed_multiplier": "NULL",
+    "strafe_speed_multiplier": "NULL",
+    "sprint_acceleration_time_sec": "NULL",
+    "sprint_deceleration_time_sec": "NULL",
+    "forward_acceleration_time_sec": "NULL",
+    "forward_deceleration_time_sec": "NULL",
+    "back_acceleration_time_sec": "NULL",
+    "back_deceleration_time_sec": "NULL",
+    "strafe_acceleration_time_sec": "NULL",
+    "strafe_deceleration_time_sec": "NULL",
+    "max_water_speed_multiplier": "NULL"
   }
 ]

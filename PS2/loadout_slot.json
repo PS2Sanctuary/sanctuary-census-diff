@@ -315,6 +315,16 @@
   },
   {
     "loadout_id": "1",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "1",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -671,6 +681,16 @@
   },
   {
     "loadout_id": "3",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "3",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -1027,6 +1047,16 @@
   },
   {
     "loadout_id": "4",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "4",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -1393,6 +1423,16 @@
   },
   {
     "loadout_id": "5",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "5",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -1749,6 +1789,16 @@
   },
   {
     "loadout_id": "6",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "6",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -2357,6 +2407,16 @@
   },
   {
     "loadout_id": "8",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "8",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -2713,6 +2773,16 @@
   },
   {
     "loadout_id": "10",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "10",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -3069,6 +3139,16 @@
   },
   {
     "loadout_id": "11",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "11",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -3435,6 +3515,16 @@
   },
   {
     "loadout_id": "12",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "12",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -3791,6 +3881,16 @@
   },
   {
     "loadout_id": "13",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "13",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -4399,6 +4499,16 @@
   },
   {
     "loadout_id": "15",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "15",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -4755,6 +4865,16 @@
   },
   {
     "loadout_id": "17",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "17",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -5107,6 +5227,16 @@
     "is_auto_equipped": "0",
     "is_required": "0",
     "is_visible": "1",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
     "ui_tag": "NULL"
   },
   {
@@ -5477,6 +5607,16 @@
   },
   {
     "loadout_id": "19",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "19",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -5829,6 +5969,16 @@
     "is_auto_equipped": "0",
     "is_required": "0",
     "is_visible": "1",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "20",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
     "ui_tag": "NULL"
   },
   {
@@ -6430,6 +6580,16 @@
   },
   {
     "loadout_id": "28",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "28",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -6796,6 +6956,16 @@
   },
   {
     "loadout_id": "29",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "29",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -7158,6 +7328,16 @@
     "is_auto_equipped": "0",
     "is_required": "0",
     "is_visible": "1",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
     "ui_tag": "NULL"
   },
   {
@@ -7538,6 +7718,16 @@
   },
   {
     "loadout_id": "31",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "31",
     "slot_id": "22",
     "name": {
       "de": "Prestige",
@@ -7900,6 +8090,16 @@
     "is_auto_equipped": "0",
     "is_required": "0",
     "is_visible": "1",
+    "ui_tag": "NULL"
+  },
+  {
+    "loadout_id": "32",
+    "slot_id": "21",
+    "name": "NULL",
+    "description": "NULL",
+    "is_auto_equipped": "0",
+    "is_required": "0",
+    "is_visible": "0",
     "ui_tag": "NULL"
   },
   {
@@ -8176,202 +8376,202 @@
   },
   {
     "loadout_id": "1",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "3",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "4",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "5",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "6",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "8",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "10",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "11",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "12",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "13",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "15",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "17",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "18",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "19",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "20",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "28",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "29",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "30",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "31",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   },
   {
     "loadout_id": "32",
-    "slot_id": "21",
+    "slot_id": "52",
     "name": "NULL",
     "description": "NULL",
     "is_auto_equipped": "0",
     "is_required": "0",
-    "is_visible": "0",
+    "is_visible": "1",
     "ui_tag": "NULL"
   }
 ]

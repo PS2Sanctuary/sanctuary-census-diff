@@ -1405,5 +1405,12 @@
     "faction_id": "4",
     "is_customizable": "0",
     "is_hidden_from_loadout_screen": "0"
+  },
+  {
+    "loadout_id": "598",
+    "vehicle_id": "2153",
+    "faction_id": "1",
+    "is_customizable": "1",
+    "is_hidden_from_loadout_screen": "1"
   }
 ]
