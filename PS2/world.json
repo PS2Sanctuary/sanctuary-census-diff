@@ -1,20 +1,20 @@
 [
   {
-    "world_id": "40",
+    "world_id": "10",
     "name": {
-      "de": "SolTech",
-      "en": "SolTech",
-      "es": "SolTech",
-      "fr": "SolTech",
-      "it": "SolTech",
-      "ko": "솔테크",
-      "pt": "SolTech",
-      "ru": "SolTech",
-      "tr": "SolTech",
-      "zh": "SolTech"
+      "de": "Miller",
+      "en": "Miller",
+      "es": "Miller",
+      "fr": "Miller",
+      "it": "Miller",
+      "ko": "밀러",
+      "pt": "Miller",
+      "ru": "Miller",
+      "tr": "Miller",
+      "zh": "Miller"
     },
-    "is_locked": "0",
-    "lock_state": "Unlocked",
+    "is_locked": "1",
+    "lock_state": "Locked",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -31,8 +31,26 @@
       "tr": "Emerald",
       "zh": "Emerald"
     },
-    "is_locked": "0",
-    "lock_state": "Unlocked",
+    "is_locked": "1",
+    "lock_state": "Locked",
+    "is_unprivileged_access_allowed": "1"
+  },
+  {
+    "world_id": "40",
+    "name": {
+      "de": "SolTech",
+      "en": "SolTech",
+      "es": "SolTech",
+      "fr": "SolTech",
+      "it": "SolTech",
+      "ko": "솔테크",
+      "pt": "SolTech",
+      "ru": "SolTech",
+      "tr": "SolTech",
+      "zh": "SolTech"
+    },
+    "is_locked": "1",
+    "lock_state": "Locked",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -50,7 +68,7 @@
       "zh": "Jaeger"
     },
     "is_locked": "0",
-    "lock_state": "Unlocked",
+    "lock_state": "Maintenance",
     "is_unprivileged_access_allowed": "0"
   },
   {
@@ -67,26 +85,8 @@
       "tr": "Connery",
       "zh": "Connery"
     },
-    "is_locked": "0",
-    "lock_state": "Unlocked",
-    "is_unprivileged_access_allowed": "1"
-  },
-  {
-    "world_id": "10",
-    "name": {
-      "de": "Miller",
-      "en": "Miller",
-      "es": "Miller",
-      "fr": "Miller",
-      "it": "Miller",
-      "ko": "밀러",
-      "pt": "Miller",
-      "ru": "Miller",
-      "tr": "Miller",
-      "zh": "Miller"
-    },
-    "is_locked": "0",
-    "lock_state": "Unlocked",
+    "is_locked": "1",
+    "lock_state": "Locked",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -103,8 +103,8 @@
       "tr": "Apex",
       "zh": "苍穹"
     },
-    "is_locked": "1",
-    "lock_state": "Locked",
+    "is_locked": "0",
+    "lock_state": "Maintenance",
     "is_unprivileged_access_allowed": "0"
   },
   {
@@ -122,7 +122,7 @@
       "zh": "荣耀"
     },
     "is_locked": "0",
-    "lock_state": "Offline",
+    "lock_state": "Maintenance",
     "is_unprivileged_access_allowed": "1"
   }
 ]
