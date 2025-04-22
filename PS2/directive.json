@@ -143367,5 +143367,2881 @@
     "image_set_id": "93043",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "directive_id": "6401",
+    "directive_tree_id": "152",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne alle gewöhnlichen Fische.",
+      "en": "Scan All Common Fish",
+      "es": "Escanea todos los peces comunes",
+      "fr": "Scanner tous les poissons ordinaires",
+      "it": "Scansiona tutti i pesci comuni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование всех обычных рыб",
+      "tr": "NULL",
+      "zh": "扫描所有普通鱼类"
+    },
+    "description": {
+      "de": "Scanne alle gewöhnlichen Fische.",
+      "en": "Scan All Common Fish",
+      "es": "Escanea todos los peces comunes",
+      "fr": "Scanner tous les poissons ordinaires",
+      "it": "Scansiona tutti i pesci comuni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование всех обычных рыб",
+      "tr": "NULL",
+      "zh": "扫描所有普通鱼类"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6402",
+    "directive_tree_id": "152",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne alle seltenen Fische.",
+      "en": "Scan All Rare Fish",
+      "es": "Escanea todos los peces raros",
+      "fr": "Scanner tous les poissons rares",
+      "it": "Scansiona tutti i pesci rari",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование всех редких рыб",
+      "tr": "NULL",
+      "zh": "扫描所有稀有鱼类"
+    },
+    "description": {
+      "de": "Scanne alle seltenen Fische.",
+      "en": "Scan All Rare Fish",
+      "es": "Escanea todos los peces raros",
+      "fr": "Scanner tous les poissons rares",
+      "it": "Scansiona tutti i pesci rari",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование всех редких рыб",
+      "tr": "NULL",
+      "zh": "扫描所有稀有鱼类"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6403",
+    "directive_tree_id": "152",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne Fische.",
+      "en": "Scan fish",
+      "es": "Escanea peces",
+      "fr": "Scanner un poisson",
+      "it": "Scansiona pesce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование рыбы",
+      "tr": "NULL",
+      "zh": "扫描鱼"
+    },
+    "description": {
+      "de": "Scanne 200 beliebige Fische.",
+      "en": "Scan any 200 fish",
+      "es": "Escanea 200 peces cualesquiera",
+      "fr": "Scanner 200 poissons",
+      "it": "Scansiona 200 pesci qualsiasi",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование любых 200 рыб",
+      "tr": "NULL",
+      "zh": "扫描任意种类的鱼200次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6404",
+    "directive_tree_id": "152",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne alle legendären Fische.",
+      "en": "Scan All Legendary Fish",
+      "es": "Escanea todos los peces legendarios",
+      "fr": "Scanner tous les poissons légendaires",
+      "it": "Scansiona tutti i pesci leggendari",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование всех легендарных рыб",
+      "tr": "NULL",
+      "zh": "扫描所有传奇鱼类"
+    },
+    "description": {
+      "de": "Scanne alle legendären Fische.",
+      "en": "Scan All Legendary Fish",
+      "es": "Escanea todos los peces legendarios",
+      "fr": "Scanner tous les poissons légendaires",
+      "it": "Scansiona tutti i pesci leggendari",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование всех легендарных рыб",
+      "tr": "NULL",
+      "zh": "扫描所有传奇鱼类"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6379",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6380",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6381",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6382",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6383",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6384",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6385",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6386",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6387",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6388",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6389",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6390",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6394",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6392",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6391",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6393",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Demnächst Verfügbar",
+      "en": "Coming Soon",
+      "es": "¡Próximamente!",
+      "fr": "À venir",
+      "it": "Prossimamente!",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Скоро",
+      "tr": "NULL",
+      "zh": "即将推出"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6103",
+    "directive_tree_id": "144",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne Weichkopfmummel.",
+      "en": "Scan Softheaded Mumbler",
+      "es": "Escanea un murmurador de cabeza blanda",
+      "fr": "Scanner une Marmouille à tête molle",
+      "it": "Scansiona il Mormorante testamolle",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование мягкоголового бормотуна",
+      "tr": "NULL",
+      "zh": "扫描呆呆咕哝鱼"
+    },
+    "description": {
+      "de": "Scanne 5-mal einen Weichkopfmummel.",
+      "en": "Scan Softheaded Mumbler 5 times",
+      "es": "Escanea un murmurador de cabeza blanda 5 veces",
+      "fr": "Scanner 5 fois une Marmouille à tête molle",
+      "it": "Scansiona il Mormorante testamolle 5 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование мягкоголового бормотуна 5 раз",
+      "tr": "NULL",
+      "zh": "扫描呆呆咕哝鱼5次"
+    },
+    "image_set_id": "808133",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6183",
+    "directive_tree_id": "144",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fischmünzen",
+      "en": "Fishcoins",
+      "es": "Pezetas",
+      "fr": "Pièces de pêche",
+      "it": "Monete pesce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рыбные монеты",
+      "tr": "NULL",
+      "zh": "鱼币"
+    },
+    "description": {
+      "de": "Verdiene 1000 Fischmünzen.",
+      "en": "Earn 1000 Fishcoins",
+      "es": "Gana 1000 pezetas",
+      "fr": "Gagner 1000 Pièces de pêche",
+      "it": "Guadagna 1.000 monete pesce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 1000 рыбных монет",
+      "tr": "NULL",
+      "zh": "赚取1000鱼币"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6104",
+    "directive_tree_id": "144",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne Fische.",
+      "en": "Scan fish",
+      "es": "Escanea peces",
+      "fr": "Scanner un poisson",
+      "it": "Scansiona pesce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование рыбы",
+      "tr": "NULL",
+      "zh": "扫描鱼"
+    },
+    "description": {
+      "de": "Scanne 10 beliebige Fische.",
+      "en": "Scan any kind of fish 10 times",
+      "es": "Escanea cualquier pez 10 veces",
+      "fr": "Scanner 10 fois n'importe quel poisson",
+      "it": "Scansiona qualsiasi tipo di pesce 10 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование любой рыбы 10 раз",
+      "tr": "NULL",
+      "zh": "扫描任意种类的鱼10次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6184",
+    "directive_tree_id": "144",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Benutze Köder.",
+      "en": "Use Attractors",
+      "es": "Usa atractores",
+      "fr": "Utiliser des appâts",
+      "it": "Usa gli attrattori",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте привлекатели",
+      "tr": "NULL",
+      "zh": "使用诱鱼器"
+    },
+    "description": {
+      "de": "Benutze 5 Köder.",
+      "en": "Use any Attractors 5 times",
+      "es": "Usa cualquier atractor 5 veces",
+      "fr": "Utiliser 5 fois des appâts",
+      "it": "Usa qualsiasi attrattore 5 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте любые привлекатели 5 раз",
+      "tr": "NULL",
+      "zh": "使用任意诱鱼器5次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6106",
+    "directive_tree_id": "144",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne kleine Fische.",
+      "en": "Scan Small Fish",
+      "es": "Escanea peces pequeños",
+      "fr": "Scanner un petit poisson",
+      "it": "Scansiona un pesce piccolo",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование маленькой рыбы",
+      "tr": "NULL",
+      "zh": "扫描小型鱼类"
+    },
+    "description": {
+      "de": "Scanne 40 kleine Fische.",
+      "en": "Scan Small Fish 40 times",
+      "es": "Escanea peces pequeños 40 veces",
+      "fr": "Scanner 40 fois un petit poisson",
+      "it": "Scansiona un pesce piccolo 40 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование маленькой рыбы 40 раз",
+      "tr": "NULL",
+      "zh": "扫描小型鱼类40次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6107",
+    "directive_tree_id": "144",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne gewöhnliche Fische.",
+      "en": "Scan Common Fish",
+      "es": "Escanea peces comunes",
+      "fr": "Scanner un poisson ordinaire",
+      "it": "Scansiona un pesce comune",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование обычной рыбы",
+      "tr": "NULL",
+      "zh": "扫描普通鱼类"
+    },
+    "description": {
+      "de": "Scanne 20 gewöhnliche Fische.",
+      "en": "Scan Common 20 Fish",
+      "es": "Escanea peces comunes 20 veces",
+      "fr": "Scanner 20 fois un poisson ordinaire",
+      "it": "Scansiona un pesce comune 20 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование обычной рыбы 20 раз",
+      "tr": "NULL",
+      "zh": "扫描20条普通鱼类"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6134",
+    "directive_tree_id": "144",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Oshur",
+      "en": "Oshur",
+      "es": "Oshur",
+      "fr": "Oshur",
+      "it": "Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Oshur",
+      "tr": "NULL",
+      "zh": "Oshur"
+    },
+    "description": {
+      "de": "Scanne Fische auf Oshur.",
+      "en": "Scan Fish on Oshur",
+      "es": "Escanea peces en Oshur",
+      "fr": "Scanner un poisson sur Oshur",
+      "it": "Scansiona un pesce su Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование рыбы в Oshur",
+      "tr": "NULL",
+      "zh": "在Oshur扫描鱼"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6185",
+    "directive_tree_id": "144",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Benutze Köder.",
+      "en": "Use Attractors",
+      "es": "Usa atractores",
+      "fr": "Utiliser des appâts",
+      "it": "Usa gli attrattori",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте привлекатели",
+      "tr": "NULL",
+      "zh": "使用诱鱼器"
+    },
+    "description": {
+      "de": "Benutze 30-mal den Köder LiquidTech \"A-1\".",
+      "en": "Use LiquidTech \"A-1\" Attractor 30 times",
+      "es": "Usa el atractor LiquidTech \"A-1\" 30 veces",
+      "fr": "Utiliser 30 fois l'appât LiquidTech \"A-1\"",
+      "it": "Usa l'attrattore LiquidTech \"A-1\" 30 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте привлекатель LiquidTech «A-1» 30 раз",
+      "tr": "NULL",
+      "zh": "使用LiquidTech“A-1”诱鱼器30次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6190",
+    "directive_tree_id": "144",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne Fische.",
+      "en": "Scan fish",
+      "es": "Escanea peces",
+      "fr": "Scanner un poisson",
+      "it": "Scansiona pesce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование рыбы",
+      "tr": "NULL",
+      "zh": "扫描鱼"
+    },
+    "description": {
+      "de": "Scanne 25 beliebige Fische.",
+      "en": "Scan any kind of fish 25 times",
+      "es": "Escanea cualquier pez 25 veces",
+      "fr": "Scanner 25 fois n'importe quel poisson",
+      "it": "Scansiona qualsiasi tipo di pesce 25 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование любой рыбы 25 раз",
+      "tr": "NULL",
+      "zh": "扫描任意种类的鱼25次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6193",
+    "directive_tree_id": "144",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne Weichkopfmummel.",
+      "en": "Scan Softheaded Mumbler",
+      "es": "Escanea un murmurador de cabeza blanda",
+      "fr": "Scanner une Marmouille à tête molle",
+      "it": "Scansiona il Mormorante testamolle",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование мягкоголового бормотуна",
+      "tr": "NULL",
+      "zh": "扫描呆呆咕哝鱼"
+    },
+    "description": {
+      "de": "Scanne 15-mal einen Weichkopfmummel.",
+      "en": "Scan Softheaded Mumbler 15 times",
+      "es": "Escanea un murmurador de cabeza blanda 15 veces",
+      "fr": "Scanner 15 fois une Marmouille à tête molle",
+      "it": "Scansiona il Mormorante testamolle 15 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование мягкоголового бормотуна 15 раз",
+      "tr": "NULL",
+      "zh": "扫描呆呆咕哝鱼15次"
+    },
+    "image_set_id": "808133",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6196",
+    "directive_tree_id": "144",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne mittlere Fische.",
+      "en": "Scan Medium Fish",
+      "es": "Escanea peces medianos",
+      "fr": "Scanner un poisson de taille moyenne",
+      "it": "Scansiona un pesce medio",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование средней рыбы",
+      "tr": "NULL",
+      "zh": "扫描中型鱼类"
+    },
+    "description": {
+      "de": "Scanne 30 mittlere Fische.",
+      "en": "Scan Medium Fish 30 times",
+      "es": "Escanea peces medianos 30 veces",
+      "fr": "Scanner 30 fois un poisson de taille moyenne",
+      "it": "Scansiona un pesce medio 30 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование средней рыбы 30 раз",
+      "tr": "NULL",
+      "zh": "扫描中型鱼类30次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6199",
+    "directive_tree_id": "144",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne gewöhnliche Fische.",
+      "en": "Scan Common Fish",
+      "es": "Escanea peces comunes",
+      "fr": "Scanner un poisson ordinaire",
+      "it": "Scansiona un pesce comune",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование обычной рыбы",
+      "tr": "NULL",
+      "zh": "扫描普通鱼类"
+    },
+    "description": {
+      "de": "Scanne 40 gewöhnliche Fische.",
+      "en": "Scan Common Fish 40 times",
+      "es": "Escanea peces comunes 40 veces",
+      "fr": "Scanner 40 fois un poisson ordinaire",
+      "it": "Scansiona un pesce comune 40 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование обычной рыбы 40 раз",
+      "tr": "NULL",
+      "zh": "扫描普通鱼类40次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6200",
+    "directive_tree_id": "144",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne seltene Fische.",
+      "en": "Scan Rare Fish",
+      "es": "Escanea peces raros",
+      "fr": "Scanner un poisson rare",
+      "it": "Scansiona un pesce raro",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование редкой рыбы",
+      "tr": "NULL",
+      "zh": "扫描稀有鱼类"
+    },
+    "description": {
+      "de": "Scanne 30 seltene Fische.",
+      "en": "Scan Rare Fish 30 times",
+      "es": "Escanea peces raros 30 veces",
+      "fr": "Scanner 30 fois un poisson rare",
+      "it": "Scansiona un pesce raro 30 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование редкой рыбы 30 раз",
+      "tr": "NULL",
+      "zh": "扫描稀有鱼类30次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6208",
+    "directive_tree_id": "144",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Benutze Köder.",
+      "en": "Use Attractors",
+      "es": "Usa atractores",
+      "fr": "Utiliser des appâts",
+      "it": "Usa gli attrattori",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте привлекатели",
+      "tr": "NULL",
+      "zh": "使用诱鱼器"
+    },
+    "description": {
+      "de": "Benutze 30-mal den Köder LiquidTech \"Enticing S\".",
+      "en": "Use LiquidTech \"Enticing S\" Attractor 30 times",
+      "es": "Usa el atractor LiquidTech \"Cautivador S\" 30 veces",
+      "fr": "Utiliser 30 fois l'appât LiquidTech \"Alléchance S\"",
+      "it": "Usa l'attrattore LiquidTech \"Enticing S\" 30 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте привлекатель LiquidTech «Enticing S» 30 раз",
+      "tr": "NULL",
+      "zh": "使用LiquidTech“Enticing S”诱鱼器30次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6202",
+    "directive_tree_id": "144",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fischmünzen",
+      "en": "Fishcoins",
+      "es": "Pezetas",
+      "fr": "Pièces de pêche",
+      "it": "Monete pesce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рыбные монеты",
+      "tr": "NULL",
+      "zh": "鱼币"
+    },
+    "description": {
+      "de": "Verdiene 3000 Fischmünzen.",
+      "en": "Earn 3000 Fishcoins",
+      "es": "Gana 3000 pezetas",
+      "fr": "Gagner 3000 Pièces de pêche",
+      "it": "Guadagna 3.000 monete pesce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 3000 рыбных монет",
+      "tr": "NULL",
+      "zh": "赚取3000鱼币"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6205",
+    "directive_tree_id": "144",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Benutze Köder.",
+      "en": "Use Attractors",
+      "es": "Usa atractores",
+      "fr": "Utiliser des appâts",
+      "it": "Usa gli attrattori",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте привлекатели",
+      "tr": "NULL",
+      "zh": "使用诱鱼器"
+    },
+    "description": {
+      "de": "Benutze 25 Köder.",
+      "en": "Use any Attractors 25 times",
+      "es": "Usa cualquier atractor 25 veces",
+      "fr": "Utiliser 25 fois n'importe quel appât",
+      "it": "Usa qualsiasi attrattore 25 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте любые привлекатели 25 раз",
+      "tr": "NULL",
+      "zh": "使用任意诱鱼器25次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6211",
+    "directive_tree_id": "144",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Oshur",
+      "en": "Oshur",
+      "es": "Oshur",
+      "fr": "Oshur",
+      "it": "Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Oshur",
+      "tr": "NULL",
+      "zh": "Oshur"
+    },
+    "description": {
+      "de": "Scanne Fische auf Oshur.",
+      "en": "Scan Fish on Oshur",
+      "es": "Escanea peces en Oshur",
+      "fr": "Scanner un poisson sur Oshur",
+      "it": "Scansiona un pesce su Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование рыбы в Oshur",
+      "tr": "NULL",
+      "zh": "在Oshur扫描鱼"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6191",
+    "directive_tree_id": "144",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne Fische.",
+      "en": "Scan fish",
+      "es": "Escanea peces",
+      "fr": "Scanner un poisson",
+      "it": "Scansiona pesce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование рыбы",
+      "tr": "NULL",
+      "zh": "扫描鱼"
+    },
+    "description": {
+      "de": "Scanne 40 beliebige Fische.",
+      "en": "Scan any kind of fish 40 times",
+      "es": "Escanea cualquier pez 40 veces",
+      "fr": "Scanner 40 fois n'importe quel poisson",
+      "it": "Scansiona qualsiasi tipo di pesce 40 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование любой рыбы 40 раз",
+      "tr": "NULL",
+      "zh": "扫描任意种类的鱼40次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6194",
+    "directive_tree_id": "144",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne Weichkopfmummel.",
+      "en": "Scan Softheaded Mumbler",
+      "es": "Escanea un murmurador de cabeza blanda",
+      "fr": "Scanner une Marmouille à tête molle",
+      "it": "Scansiona il Mormorante testamolle",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование мягкоголового бормотуна",
+      "tr": "NULL",
+      "zh": "扫描呆呆咕哝鱼"
+    },
+    "description": {
+      "de": "Scanne 30-mal einen Weichkopfmummel.",
+      "en": "Scan Softheaded Mumbler 30 times",
+      "es": "Escanea un murmurador de cabeza blanda 30 veces",
+      "fr": "Scanner 30 fois une Marmouille à tête molle",
+      "it": "Scansiona il Mormorante testamolle 30 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование мягкоголового бормотуна 30 раз",
+      "tr": "NULL",
+      "zh": "扫描呆呆咕哝鱼30次"
+    },
+    "image_set_id": "808133",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6197",
+    "directive_tree_id": "144",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne große Fische.",
+      "en": "Scan Large Fish",
+      "es": "Escanea peces grandes",
+      "fr": "Scanner un gros poisson",
+      "it": "Scansiona un pesce grande",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование большой рыбы",
+      "tr": "NULL",
+      "zh": "扫描大型鱼类"
+    },
+    "description": {
+      "de": "Scanne 30 große Fische.",
+      "en": "Scan Large Fish 30 times",
+      "es": "Escanea peces grandes 30 veces",
+      "fr": "Scanner 30 fois un gros poisson",
+      "it": "Scansiona un pesce grande 30 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование большой рыбы 30 раз",
+      "tr": "NULL",
+      "zh": "扫描大型鱼类30次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6203",
+    "directive_tree_id": "144",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fischmünzen",
+      "en": "Fishcoins",
+      "es": "Pezetas",
+      "fr": "Pièces de pêche",
+      "it": "Monete pesce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рыбные монеты",
+      "tr": "NULL",
+      "zh": "鱼币"
+    },
+    "description": {
+      "de": "Verdiene 6500 Fischmünzen.",
+      "en": "Earn 6500 Fishcoins",
+      "es": "Gana 6500 pezetas",
+      "fr": "Gagner 6500 Pièces de pêche",
+      "it": "Guadagna 6.500 monete pesce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 6500 рыбных монет",
+      "tr": "NULL",
+      "zh": "赚取6500鱼币"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6206",
+    "directive_tree_id": "144",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Benutze Köder.",
+      "en": "Use Attractors",
+      "es": "Usa atractores",
+      "fr": "Utiliser des appâts",
+      "it": "Usa gli attrattori",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте привлекатели",
+      "tr": "NULL",
+      "zh": "使用诱鱼器"
+    },
+    "description": {
+      "de": "Benutze 55 Köder.",
+      "en": "Use any Attractors 55 times",
+      "es": "Usa cualquier atractor 55 veces",
+      "fr": "Utiliser 55 fois n'importe quel appât",
+      "it": "Usa qualsiasi attrattore 55 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте любые привлекатели 55 раз",
+      "tr": "NULL",
+      "zh": "使用任意诱鱼器55次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6209",
+    "directive_tree_id": "144",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Benutze Köder.",
+      "en": "Use Attractors",
+      "es": "Usa atractores",
+      "fr": "Utiliser des appâts",
+      "it": "Usa gli attrattori",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте привлекатели",
+      "tr": "NULL",
+      "zh": "使用诱鱼器"
+    },
+    "description": {
+      "de": "Benutze 30-mal den Köder SynthX \"Lured-1N\".",
+      "en": "Use SynthX \"Lured-1N\" Attractor 30 times",
+      "es": "Usa el atractor SynthX \"Cebo-1N\" 30 veces",
+      "fr": "Utiliser 30 fois l'appât SynthX \"Appât-1N\"",
+      "it": "Usa l'attrattore SynthX \"Lured-1N\" 30 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте привлекатель SynthX «Lured-1N» 30 раз",
+      "tr": "NULL",
+      "zh": "使用SynthX“Lured-1N”诱鱼器30次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6212",
+    "directive_tree_id": "144",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Oshur",
+      "en": "Oshur",
+      "es": "Oshur",
+      "fr": "Oshur",
+      "it": "Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Oshur",
+      "tr": "NULL",
+      "zh": "Oshur"
+    },
+    "description": {
+      "de": "Scanne Fische auf Oshur.",
+      "en": "Scan Fish on Oshur",
+      "es": "Escanea peces en Oshur",
+      "fr": "Scanner un poisson sur Oshur",
+      "it": "Scansiona un pesce su Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование рыбы в Oshur",
+      "tr": "NULL",
+      "zh": "在Oshur扫描鱼"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6192",
+    "directive_tree_id": "144",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne Fische.",
+      "en": "Scan fish",
+      "es": "Escanea peces",
+      "fr": "Scanner un poisson",
+      "it": "Scansiona pesce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование рыбы",
+      "tr": "NULL",
+      "zh": "扫描鱼"
+    },
+    "description": {
+      "de": "Scanne 80 beliebige Fische.",
+      "en": "Scan any kind of fish 80 times",
+      "es": "Escanea cualquier pez 80 veces",
+      "fr": "Scanner 80 fois n'importe quel poisson",
+      "it": "Scansiona qualsiasi tipo di pesce 80 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование любой рыбы 80 раз",
+      "tr": "NULL",
+      "zh": "扫描任意种类的鱼80次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6195",
+    "directive_tree_id": "144",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne Weichkopfmummel.",
+      "en": "Scan Softheaded Mumbler",
+      "es": "Escanea un murmurador de cabeza blanda",
+      "fr": "Scanner une Marmouille à tête molle",
+      "it": "Scansiona il Mormorante testamolle",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование мягкоголового бормотуна",
+      "tr": "NULL",
+      "zh": "扫描呆呆咕哝鱼"
+    },
+    "description": {
+      "de": "Scanne 65-mal einen Weichkopfmummel.",
+      "en": "Scan Softheaded Mumbler 65 times",
+      "es": "Escanea un murmurador de cabeza blanda 65 veces",
+      "fr": "Scanner 65 fois une Marmouille à tête molle",
+      "it": "Scansiona il Mormorante testamolle 65 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование мягкоголового бормотуна 65 раз",
+      "tr": "NULL",
+      "zh": "扫描呆呆咕哝鱼65次"
+    },
+    "image_set_id": "808133",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6198",
+    "directive_tree_id": "144",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne riesige Fische.",
+      "en": "Scan Huge Fish",
+      "es": "Escanea peces enormes",
+      "fr": "Scanner un poisson gigantesque",
+      "it": "Scansiona un pesce enorme",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование огромной рыбы",
+      "tr": "NULL",
+      "zh": "扫描巨型鱼类"
+    },
+    "description": {
+      "de": "Scanne 30 riesige Fische.",
+      "en": "Scan Huge Fish 30 times",
+      "es": "Escanea peces enormes 30 veces",
+      "fr": "Scanner 30 fois un poisson gigantesque",
+      "it": "Scansiona un pesce enorme 30 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование огромной рыбы 30 раз",
+      "tr": "NULL",
+      "zh": "扫描巨型鱼类30次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6201",
+    "directive_tree_id": "144",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne legendäre Fische.",
+      "en": "Scan Legendary Fish",
+      "es": "Escanea peces legendarios",
+      "fr": "Scanner un poisson légendaire",
+      "it": "Scansiona un pesce leggendario",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование легендарной рыбы",
+      "tr": "NULL",
+      "zh": "扫描传奇鱼类"
+    },
+    "description": {
+      "de": "Scanne 20 legendäre Fische.",
+      "en": "Scan Legendary Fish 20 Times",
+      "es": "Escanea peces legendarios 20 veces",
+      "fr": "Scanner 20 fois un poisson légendaire",
+      "it": "Scansiona un pesce leggendario 20 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование легендарной рыбы 20 раз",
+      "tr": "NULL",
+      "zh": "扫描传奇鱼类20次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6204",
+    "directive_tree_id": "144",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Fischmünzen",
+      "en": "Fishcoins",
+      "es": "Pezetas",
+      "fr": "Pièces de pêche",
+      "it": "Monete pesce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рыбные монеты",
+      "tr": "NULL",
+      "zh": "鱼币"
+    },
+    "description": {
+      "de": "Verdiene 9000 Fischmünzen.",
+      "en": "Earn 9000 Fishcoins",
+      "es": "Gana 9000 pezetas",
+      "fr": "Gagner 9000 Pièces de pêche",
+      "it": "Guadagna 9.000 monete pesce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Заработайте 9000 рыбных монет",
+      "tr": "NULL",
+      "zh": "赚取9000鱼币"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6207",
+    "directive_tree_id": "144",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Benutze Köder.",
+      "en": "Use Attractors",
+      "es": "Usa atractores",
+      "fr": "Utiliser des appâts",
+      "it": "Usa gli attrattori",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте привлекатели",
+      "tr": "NULL",
+      "zh": "使用诱鱼器"
+    },
+    "description": {
+      "de": "Benutze 95 Köder.",
+      "en": "Use any Attractors 95 times",
+      "es": "Usa cualquier atractor 95 veces",
+      "fr": "Utiliser 95 fois n'importe quel appât",
+      "it": "Usa qualsiasi attrattore 95 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте любые привлекатели 95 раз",
+      "tr": "NULL",
+      "zh": "使用任意诱鱼器95次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6210",
+    "directive_tree_id": "144",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Benutze Köder.",
+      "en": "Use Attractors",
+      "es": "Usa atractores",
+      "fr": "Utiliser des appâts",
+      "it": "Usa gli attrattori",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте привлекатели",
+      "tr": "NULL",
+      "zh": "使用诱鱼器"
+    },
+    "description": {
+      "de": "Benutze 30-mal den Köder SynthX \"The Essence\".",
+      "en": "Use SynthX \"The Essence\" Attractor 30 times",
+      "es": "Usa el atractor SynthX \"La Esencia\" 30 veces",
+      "fr": "Utiliser 30 fois l'appât SynthX-Premium \"Essence\"",
+      "it": "Usa l'attrattore SynthX \"The Essence\" 30 volte",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Используйте привлекатель SynthX «The Essence» 30 раз",
+      "tr": "NULL",
+      "zh": "使用SynthX“The Essence”诱鱼器30次"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6213",
+    "directive_tree_id": "144",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Oshur",
+      "en": "Oshur",
+      "es": "Oshur",
+      "fr": "Oshur",
+      "it": "Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Oshur",
+      "tr": "NULL",
+      "zh": "Oshur"
+    },
+    "description": {
+      "de": "Scanne Fische auf Oshur.",
+      "en": "Scan Fish on Oshur",
+      "es": "Escanea peces en Oshur",
+      "fr": "Scanner un poisson sur Oshur",
+      "it": "Scansiona un pesce su Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование рыбы в Oshur",
+      "tr": "NULL",
+      "zh": "在Oshur扫描鱼"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "5804",
+    "directive_tree_id": "135",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Weichkopfmummel",
+      "en": "Softheaded Mumbler",
+      "es": "Mascullador de cabeza blanda",
+      "fr": "Marmouille à tête molle",
+      "it": "Mormorante testamolle",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мягкоголовый бормотун",
+      "tr": "NULL",
+      "zh": "呆呆咕哝鱼"
+    },
+    "description": {
+      "de": "Weichkopfmummel",
+      "en": "Softheaded Mumbler",
+      "es": "Mascullador de cabeza blanda",
+      "fr": "Marmouille à tête molle",
+      "it": "Mormorante testamolle",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мягкоголовый бормотун",
+      "tr": "NULL",
+      "zh": "呆呆咕哝鱼"
+    },
+    "image_set_id": "808133",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6076",
+    "directive_tree_id": "135",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Pickelschreier",
+      "en": "Pimplespin Screamer",
+      "es": "Chillón ampollado",
+      "fr": "Hurleur à pustules",
+      "it": "Urlatore vescicoso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Прыщавый крикун",
+      "tr": "NULL",
+      "zh": "旋转疱疹尖啸鱼"
+    },
+    "description": {
+      "de": "Pickelschreier",
+      "en": "Pimplespin Screamer",
+      "es": "Chillón ampollado",
+      "fr": "Hurleur à pustules",
+      "it": "Urlatore vescicoso",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Прыщавый крикун",
+      "tr": "NULL",
+      "zh": "旋转疱疹尖啸鱼"
+    },
+    "image_set_id": "808163",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6068",
+    "directive_tree_id": "135",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Stachelschwanz-Schlickgräber",
+      "en": "Spiked Siltdigger",
+      "es": "Hurgalodo con púas",
+      "fr": "Fouille-limon à pointes",
+      "it": "Cercalimo puntato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Шипастый илокопатель",
+      "tr": "NULL",
+      "zh": "尖刺钻泥鱼"
+    },
+    "description": {
+      "de": "Stachelschwanz-Schlickgräber",
+      "en": "Spiked Siltdigger",
+      "es": "Hurgalodo con púas",
+      "fr": "Fouille-limon à pointes",
+      "it": "Cercalimo puntato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Шипастый илокопатель",
+      "tr": "NULL",
+      "zh": "尖刺钻泥鱼"
+    },
+    "image_set_id": "808149",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6062",
+    "directive_tree_id": "135",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Gewöhnlicher Nassgreifer",
+      "en": "Regular Wetgripper",
+      "es": "Garrahúmeda común",
+      "fr": "Aquapinceur ordinaire",
+      "it": "Fiutatore normale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Обычный мокрохват",
+      "tr": "NULL",
+      "zh": "普通湿叼鱼"
+    },
+    "description": {
+      "de": "Gewöhnlicher Nassgreifer",
+      "en": "Regular Wetgripper",
+      "es": "Garrahúmeda común",
+      "fr": "Aquapinceur ordinaire",
+      "it": "Fiutatore normale",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Обычный мокрохват",
+      "tr": "NULL",
+      "zh": "普通湿叼鱼"
+    },
+    "image_set_id": "808138",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6078",
+    "directive_tree_id": "135",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Unghotianischer Plasmabrecher",
+      "en": "Unghotian Plasmabreaker",
+      "es": "Quebrantaplasma unghotiano",
+      "fr": "Briseplasma unghotien ",
+      "it": "Rompiplasma ungotiano",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Унготийский плазмолом",
+      "tr": "NULL",
+      "zh": "尤格霍提亚血浆破坏者"
+    },
+    "description": {
+      "de": "Unghotianischer Plasmabrecher",
+      "en": "Unghotian Plasmabreaker",
+      "es": "Quebrantaplasma unghotiano",
+      "fr": "Briseplasma unghotien ",
+      "it": "Rompiplasma ungotiano",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Унготийский плазмолом",
+      "tr": "NULL",
+      "zh": "尤格霍提亚血浆破坏者"
+    },
+    "image_set_id": "808165",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6063",
+    "directive_tree_id": "135",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Retikulakopf-Anther",
+      "en": "Reticulaheaded Anther",
+      "es": "Antera reticulada",
+      "fr": "Anthère à réticule",
+      "it": "Anteride reticolato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сетчатоголовый антер",
+      "tr": "NULL",
+      "zh": "网纹花药鱼"
+    },
+    "description": {
+      "de": "Retikulakopf-Anther",
+      "en": "Reticulaheaded Anther",
+      "es": "Antera reticulada",
+      "fr": "Anthère à réticule",
+      "it": "Anteride reticolato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сетчатоголовый антер",
+      "tr": "NULL",
+      "zh": "网纹花药鱼"
+    },
+    "image_set_id": "808139",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6071",
+    "directive_tree_id": "135",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Warzentriton",
+      "en": "Warthog Triton",
+      "es": "Tritón jabalí",
+      "fr": "Triton phacochère",
+      "it": "Tritone facocero",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Тритон-бородавочник",
+      "tr": "NULL",
+      "zh": "疣猪海信使"
+    },
+    "description": {
+      "de": "Warzentriton",
+      "en": "Warthog Triton",
+      "es": "Tritón jabalí",
+      "fr": "Triton phacochère",
+      "it": "Tritone facocero",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Тритон-бородавочник",
+      "tr": "NULL",
+      "zh": "疣猪海信使"
+    },
+    "image_set_id": "808158",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6066",
+    "directive_tree_id": "135",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schlammkriecher",
+      "en": "Mudcreeper",
+      "es": "Reptalodos",
+      "fr": "Rampe-vase",
+      "it": "Fanguario",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Грязевой ползун",
+      "tr": "NULL",
+      "zh": "泥沼爬行者"
+    },
+    "description": {
+      "de": "Schlammkriecher",
+      "en": "Mudcreeper",
+      "es": "Reptalodos",
+      "fr": "Rampe-vase",
+      "it": "Fanguario",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Грязевой ползун",
+      "tr": "NULL",
+      "zh": "泥沼爬行者"
+    },
+    "image_set_id": "808142",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6067",
+    "directive_tree_id": "135",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Kluftbrecher-Anoa",
+      "en": "Voidswifter Anoa",
+      "es": "Anoa voraz",
+      "fr": "Anoa vide-vif",
+      "it": "Anoa afferratore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пустотный аноа",
+      "tr": "NULL",
+      "zh": "虚游水牛鱼"
+    },
+    "description": {
+      "de": "Kluftbrecher-Anoa",
+      "en": "Voidswifter Anoa",
+      "es": "Anoa voraz",
+      "fr": "Anoa vide-vif",
+      "it": "Anoa afferratore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пустотный аноа",
+      "tr": "NULL",
+      "zh": "虚游水牛鱼"
+    },
+    "image_set_id": "808148",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6072",
+    "directive_tree_id": "135",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Violetter Blasenweber",
+      "en": "Purple Bubblereaver",
+      "es": "Saqueaburbujas morado",
+      "fr": "Pillebulle pourpre",
+      "it": "Mietitore viola",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пурпурный пузырник",
+      "tr": "NULL",
+      "zh": "紫色掠泡鱼"
+    },
+    "description": {
+      "de": "Violetter Blasenweber",
+      "en": "Purple Bubblereaver",
+      "es": "Saqueaburbujas morado",
+      "fr": "Pillebulle pourpre",
+      "it": "Mietitore viola",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Пурпурный пузырник",
+      "tr": "NULL",
+      "zh": "紫色掠泡鱼"
+    },
+    "image_set_id": "808159",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6073",
+    "directive_tree_id": "135",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Oshur-Hackkiefer",
+      "en": "Oshur Cleaverjaw",
+      "es": "Mandíbula punzante de Oshur",
+      "fr": "Mâchedur d'Oshur",
+      "it": "Mascellide di Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Ошурский топорозуб",
+      "tr": "NULL",
+      "zh": "欧夏尔锯齿颌鱼"
+    },
+    "description": {
+      "de": "Oshur-Hackkiefer",
+      "en": "Oshur Cleaverjaw",
+      "es": "Mandíbula punzante de Oshur",
+      "fr": "Mâchedur d'Oshur",
+      "it": "Mascellide di Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Ошурский топорозуб",
+      "tr": "NULL",
+      "zh": "欧夏尔锯齿颌鱼"
+    },
+    "image_set_id": "808160",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6077",
+    "directive_tree_id": "135",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Lavra Medullaria",
+      "en": "Lavra Medullaria",
+      "es": "Medullaria gregaria",
+      "fr": "Lavra Medullaria",
+      "it": "Medullaria lavra",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Лавра медуллярия",
+      "tr": "NULL",
+      "zh": "拉夫拉髓质鱼"
+    },
+    "description": {
+      "de": "Lavra Medullaria",
+      "en": "Lavra Medullaria",
+      "es": "Medullaria gregaria",
+      "fr": "Lavra Medullaria",
+      "it": "Medullaria lavra",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Лавра медуллярия",
+      "tr": "NULL",
+      "zh": "拉夫拉髓质鱼"
+    },
+    "image_set_id": "808164",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6064",
+    "directive_tree_id": "135",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Geflügelter Pseudoschweber",
+      "en": "Winged Pseudofloater",
+      "es": "Seudoflotador alado",
+      "fr": "Pseudoflotteur ailé",
+      "it": "Fluttuante alato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Крылатый псевдоплавун",
+      "tr": "NULL",
+      "zh": "飞翼伪浮漂鱼"
+    },
+    "description": {
+      "de": "Geflügelter Pseudoschweber",
+      "en": "Winged Pseudofloater",
+      "es": "Seudoflotador alado",
+      "fr": "Pseudoflotteur ailé",
+      "it": "Fluttuante alato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Крылатый псевдоплавун",
+      "tr": "NULL",
+      "zh": "飞翼伪浮漂鱼"
+    },
+    "image_set_id": "808140",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6069",
+    "directive_tree_id": "135",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Küstendornschnabel",
+      "en": "Coastal Thornbill",
+      "es": "Espinoso de las orillas",
+      "fr": "Mérion côtier",
+      "it": "Beccospino costiero",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Прибрежный шипоклюв",
+      "tr": "NULL",
+      "zh": "沿岸刺喙鱼"
+    },
+    "description": {
+      "de": "Küstendornschnabel",
+      "en": "Coastal Thornbill",
+      "es": "Espinoso de las orillas",
+      "fr": "Mérion côtier",
+      "it": "Beccospino costiero",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Прибрежный шипоклюв",
+      "tr": "NULL",
+      "zh": "沿岸刺喙鱼"
+    },
+    "image_set_id": "808155",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6074",
+    "directive_tree_id": "135",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Geister-Phlegmata",
+      "en": "Ghosted Phlegmata",
+      "es": "Viscoso fantasmal",
+      "fr": "Phlegmate fantomatique",
+      "it": "Flemmatico fantasma",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Призрачная флегмата",
+      "tr": "NULL",
+      "zh": "幽影淡漠鱼"
+    },
+    "description": {
+      "de": "Geister-Phlegmata",
+      "en": "Ghosted Phlegmata",
+      "es": "Viscoso fantasmal",
+      "fr": "Phlegmate fantomatique",
+      "it": "Flemmatico fantasma",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Призрачная флегмата",
+      "tr": "NULL",
+      "zh": "幽影淡漠鱼"
+    },
+    "image_set_id": "808161",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6079",
+    "directive_tree_id": "135",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Augumentatroxis",
+      "en": "Augumentatroxis",
+      "es": "Augumentatroxis",
+      "fr": "Augumentatroxis",
+      "it": "Augumentatroxis",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Аугументатроксис",
+      "tr": "NULL",
+      "zh": "外骨骼增生鱼"
+    },
+    "description": {
+      "de": "Augumentatroxis",
+      "en": "Augumentatroxis",
+      "es": "Augumentatroxis",
+      "fr": "Augumentatroxis",
+      "it": "Augumentatroxis",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Аугументатроксис",
+      "tr": "NULL",
+      "zh": "外骨骼增生鱼"
+    },
+    "image_set_id": "808166",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6065",
+    "directive_tree_id": "135",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Gepanzerter Riffbrecher",
+      "en": "Shelled Reefcrusher",
+      "es": "Machacarrecifes de concha",
+      "fr": "Concasseur à coquille",
+      "it": "Frantumacoralli corazzato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Панцирный рифокрушитель",
+      "tr": "NULL",
+      "zh": "硬壳碎礁鱼"
+    },
+    "description": {
+      "de": "Gepanzerter Riffbrecher",
+      "en": "Shelled Reefcrusher",
+      "es": "Machacarrecifes de concha",
+      "fr": "Concasseur à coquille",
+      "it": "Frantumacoralli corazzato",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Панцирный рифокрушитель",
+      "tr": "NULL",
+      "zh": "硬壳碎礁鱼"
+    },
+    "image_set_id": "808141",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6070",
+    "directive_tree_id": "135",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Astraxianischer Wurmech",
+      "en": "Astraxian Wormech",
+      "es": "Tecgusano astraxiano",
+      "fr": "Verphage astraxien",
+      "it": "Wormech astraxiano",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Астраксийский червемех",
+      "tr": "NULL",
+      "zh": "阿斯特拉西蠕虫机甲鱼"
+    },
+    "description": {
+      "de": "Astraxianischer Wurmech",
+      "en": "Astraxian Wormech",
+      "es": "Tecgusano astraxiano",
+      "fr": "Verphage astraxien",
+      "it": "Wormech astraxiano",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Астраксийский червемех",
+      "tr": "NULL",
+      "zh": "阿斯特拉西蠕虫机甲鱼"
+    },
+    "image_set_id": "808157",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6075",
+    "directive_tree_id": "135",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Schimmernder Abyssal-Gargantua",
+      "en": "Shimmering Abyssal Gargantua",
+      "es": "Gargantúa brillante abisal",
+      "fr": "Gargantua brillant des abysses",
+      "it": "Gargantua abissale luminescente",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мерцающий глубинный гаргантюа",
+      "tr": "NULL",
+      "zh": "深渊微光巨兽鱼"
+    },
+    "description": {
+      "de": "Schimmernder Abyssal-Gargantua",
+      "en": "Shimmering Abyssal Gargantua",
+      "es": "Gargantúa brillante abisal",
+      "fr": "Gargantua brillant des abysses",
+      "it": "Gargantua abissale luminescente",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мерцающий глубинный гаргантюа",
+      "tr": "NULL",
+      "zh": "深渊微光巨兽鱼"
+    },
+    "image_set_id": "808162",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6080",
+    "directive_tree_id": "135",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Metallischer Ausbrecher",
+      "en": "Fullmetal Erupter",
+      "es": "Invasor metálico",
+      "fr": "Érupteur métatotalis",
+      "it": "Eruttante metallico",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Цельнометаллический извергатель",
+      "tr": "NULL",
+      "zh": "全金属喷射鱼"
+    },
+    "description": {
+      "de": "Metallischer Ausbrecher",
+      "en": "Fullmetal Erupter",
+      "es": "Invasor metálico",
+      "fr": "Érupteur métatotalis",
+      "it": "Eruttante metallico",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Цельнометаллический извергатель",
+      "tr": "NULL",
+      "zh": "全金属喷射鱼"
+    },
+    "image_set_id": "808167",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6187",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "NS-T Skeleton Key",
+      "en": "NS-T Skeleton Key",
+      "es": "NS-T Llave maestra",
+      "fr": "Clé-squelette NS-T",
+      "it": "Chiave scheletro NS-T",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мастер-ключ NS-T",
+      "tr": "NULL",
+      "zh": "NS-T万能钥匙"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6186",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "NS-T Skeleton Key",
+      "en": "NS-T Skeleton Key",
+      "es": "NS-T Llave maestra",
+      "fr": "Clé-squelette NS-T",
+      "it": "Chiave scheletro NS-T",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мастер-ключ NS-T",
+      "tr": "NULL",
+      "zh": "NS-T万能钥匙"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6189",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "NS-T Skeleton Key",
+      "en": "NS-T Skeleton Key",
+      "es": "NS-T Llave maestra",
+      "fr": "Clé-squelette NS-T",
+      "it": "Chiave scheletro NS-T",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мастер-ключ NS-T",
+      "tr": "NULL",
+      "zh": "NS-T万能钥匙"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6188",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "NS-T Skeleton Key",
+      "en": "NS-T Skeleton Key",
+      "es": "NS-T Llave maestra",
+      "fr": "Clé-squelette NS-T",
+      "it": "Chiave scheletro NS-T",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мастер-ключ NS-T",
+      "tr": "NULL",
+      "zh": "NS-T万能钥匙"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
   }
 ]

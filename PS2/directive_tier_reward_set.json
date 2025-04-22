@@ -14590,5 +14590,613 @@
     "image_set_id": "808294",
     "image_id": "NULL",
     "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6328",
+    "faction_id": "2",
+    "name": {
+      "de": "ST-2.301B \"Nanocaster\"",
+      "en": "ST-2.301B \"Nanocaster\"",
+      "es": "ST-2.301B \"Nanoproyector\"",
+      "fr": "ST-2.301B \"Nanocaster\"",
+      "it": "ST-2.301B \"Nanocaster\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "ST-2.301B «Nanocaster»",
+      "tr": "NULL",
+      "zh": "ST-2.301B“纳能施放者”"
+    },
+    "image_set_id": "808366",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6329",
+    "faction_id": "2",
+    "name": {
+      "de": "Kühlerfigur \"Angeln\"",
+      "en": "Fishing Hood Ornament",
+      "es": "Adorno de capó de pesca",
+      "fr": "Ornement de capot \"Pêche\"",
+      "it": "Decorazione per veicoli Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Символ «Рыбалка» (капот)",
+      "tr": "NULL",
+      "zh": "钓鱼车标"
+    },
+    "image_set_id": "808386",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6330",
+    "faction_id": "2",
+    "name": {
+      "de": "SQS-3.045 \"Beleza\"",
+      "en": "SQS-3.045 \"Beleza\"",
+      "es": "SQS-3.045 \"Belleza\"",
+      "fr": "SQS-3.045 \"Beleza\"",
+      "it": "SQS-3.045 \"Beleza\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "SQS-3.045 «Beleza»",
+      "tr": "NULL",
+      "zh": "SQS-3.045“Beleza”"
+    },
+    "image_set_id": "808367",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6331",
+    "faction_id": "2",
+    "name": {
+      "de": "Angelhut \"Meisterangler\"",
+      "en": "'Fishing Master' Fishing Hat",
+      "es": "Gorro de pesca \"Maestro pescador\"",
+      "fr": "Chapeau de pêche \"Maître pêcheur\"",
+      "it": "Cappello da pesca \"Fishing Master\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Шляпа рыбака «Мастер рыбной ловли»",
+      "tr": "NULL",
+      "zh": "“钓鱼大师”钓鱼帽"
+    },
+    "image_set_id": "808390",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6332",
+    "faction_id": "2",
+    "name": {
+      "de": "Emblem \"Angeln\"",
+      "en": "Fishing Decal",
+      "es": "Emblema de pesca",
+      "fr": "Décalco : Pêche",
+      "it": "Adesivo Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема «Рыбалка»",
+      "tr": "NULL",
+      "zh": "钓鱼涂装"
+    },
+    "image_set_id": "808383",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6325",
+    "faction_id": "2",
+    "name": {
+      "de": "Bannerrahmen \"Angeln\"",
+      "en": "Fishing Banner Frame",
+      "es": "Marco de pancarta de pesca",
+      "fr": "Cadre de bannière \"Pêche\"",
+      "it": "Cornice per insegna Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Рыбалка»",
+      "tr": "NULL",
+      "zh": "钓鱼横幅框"
+    },
+    "image_set_id": "808384",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6326",
+    "faction_id": "2",
+    "name": {
+      "de": "Banner \"Angeln\"",
+      "en": "Angler Banner",
+      "es": "Pancarta de pescador",
+      "fr": "Bannière \"Pêcheur\"",
+      "it": "Insegna Pescatore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Рыболов»",
+      "tr": "NULL",
+      "zh": "垂钓者横幅"
+    },
+    "image_set_id": "808393",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6327",
+    "faction_id": "2",
+    "name": {
+      "de": "Tarnung \"Angelbelohnung\"",
+      "en": "Fishing Reward Camo",
+      "es": "Camuflaje de recompensa de pesca",
+      "fr": "Camo : Récompense de pêche",
+      "it": "Mimetizzazione ricompensa Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж в награду «Рыбалка»",
+      "tr": "NULL",
+      "zh": "钓鱼奖励迷彩"
+    },
+    "image_set_id": "808396",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6328",
+    "faction_id": "3",
+    "name": {
+      "de": "ST-2.301B \"Nanocaster\"",
+      "en": "ST-2.301B \"Nanocaster\"",
+      "es": "ST-2.301B \"Nanoproyector\"",
+      "fr": "ST-2.301B \"Nanocaster\"",
+      "it": "ST-2.301B \"Nanocaster\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "ST-2.301B «Nanocaster»",
+      "tr": "NULL",
+      "zh": "ST-2.301B“纳能施放者”"
+    },
+    "image_set_id": "808366",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6329",
+    "faction_id": "3",
+    "name": {
+      "de": "Kühlerfigur \"Angeln\"",
+      "en": "Fishing Hood Ornament",
+      "es": "Adorno de capó de pesca",
+      "fr": "Ornement de capot \"Pêche\"",
+      "it": "Decorazione per veicoli Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Символ «Рыбалка» (капот)",
+      "tr": "NULL",
+      "zh": "钓鱼车标"
+    },
+    "image_set_id": "808386",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6330",
+    "faction_id": "3",
+    "name": {
+      "de": "SQS-3.045 \"Beleza\"",
+      "en": "SQS-3.045 \"Beleza\"",
+      "es": "SQS-3.045 \"Belleza\"",
+      "fr": "SQS-3.045 \"Beleza\"",
+      "it": "SQS-3.045 \"Beleza\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "SQS-3.045 «Beleza»",
+      "tr": "NULL",
+      "zh": "SQS-3.045“Beleza”"
+    },
+    "image_set_id": "808367",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6331",
+    "faction_id": "3",
+    "name": {
+      "de": "Angelhut \"Meisterangler\"",
+      "en": "'Fishing Master' Fishing Hat",
+      "es": "Gorro de pesca \"Maestro pescador\"",
+      "fr": "Chapeau de pêche \"Maître pêcheur\"",
+      "it": "Cappello da pesca \"Fishing Master\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Шляпа рыбака «Мастер рыбной ловли»",
+      "tr": "NULL",
+      "zh": "“钓鱼大师”钓鱼帽"
+    },
+    "image_set_id": "808391",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6332",
+    "faction_id": "3",
+    "name": {
+      "de": "Emblem \"Angeln\"",
+      "en": "Fishing Decal",
+      "es": "Emblema de pesca",
+      "fr": "Décalco : Pêche",
+      "it": "Adesivo Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема «Рыбалка»",
+      "tr": "NULL",
+      "zh": "钓鱼涂装"
+    },
+    "image_set_id": "808383",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6325",
+    "faction_id": "3",
+    "name": {
+      "de": "Bannerrahmen \"Angeln\"",
+      "en": "Fishing Banner Frame",
+      "es": "Marco de pancarta de pesca",
+      "fr": "Cadre de bannière \"Pêche\"",
+      "it": "Cornice per insegna Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Рыбалка»",
+      "tr": "NULL",
+      "zh": "钓鱼横幅框"
+    },
+    "image_set_id": "808384",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6326",
+    "faction_id": "3",
+    "name": {
+      "de": "Banner \"Angeln\"",
+      "en": "Angler Banner",
+      "es": "Pancarta de pescador",
+      "fr": "Bannière \"Pêcheur\"",
+      "it": "Insegna Pescatore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Рыболов»",
+      "tr": "NULL",
+      "zh": "垂钓者横幅"
+    },
+    "image_set_id": "808393",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6327",
+    "faction_id": "3",
+    "name": {
+      "de": "Tarnung \"Angelbelohnung\"",
+      "en": "Fishing Reward Camo",
+      "es": "Camuflaje de recompensa de pesca",
+      "fr": "Camo : Récompense de pêche",
+      "it": "Mimetizzazione ricompensa Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж в награду «Рыбалка»",
+      "tr": "NULL",
+      "zh": "钓鱼奖励迷彩"
+    },
+    "image_set_id": "808397",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6328",
+    "faction_id": "1",
+    "name": {
+      "de": "ST-2.301B \"Nanocaster\"",
+      "en": "ST-2.301B \"Nanocaster\"",
+      "es": "ST-2.301B \"Nanoproyector\"",
+      "fr": "ST-2.301B \"Nanocaster\"",
+      "it": "ST-2.301B \"Nanocaster\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "ST-2.301B «Nanocaster»",
+      "tr": "NULL",
+      "zh": "ST-2.301B“纳能施放者”"
+    },
+    "image_set_id": "808366",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6329",
+    "faction_id": "1",
+    "name": {
+      "de": "Kühlerfigur \"Angeln\"",
+      "en": "Fishing Hood Ornament",
+      "es": "Adorno de capó de pesca",
+      "fr": "Ornement de capot \"Pêche\"",
+      "it": "Decorazione per veicoli Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Символ «Рыбалка» (капот)",
+      "tr": "NULL",
+      "zh": "钓鱼车标"
+    },
+    "image_set_id": "808386",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6330",
+    "faction_id": "1",
+    "name": {
+      "de": "SQS-3.045 \"Beleza\"",
+      "en": "SQS-3.045 \"Beleza\"",
+      "es": "SQS-3.045 \"Belleza\"",
+      "fr": "SQS-3.045 \"Beleza\"",
+      "it": "SQS-3.045 \"Beleza\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "SQS-3.045 «Beleza»",
+      "tr": "NULL",
+      "zh": "SQS-3.045“Beleza”"
+    },
+    "image_set_id": "808367",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6331",
+    "faction_id": "1",
+    "name": {
+      "de": "Angelhut \"Meisterangler\"",
+      "en": "'Fishing Master' Fishing Hat",
+      "es": "Gorro de pesca \"Maestro pescador\"",
+      "fr": "Chapeau de pêche \"Maître pêcheur\"",
+      "it": "Cappello da pesca \"Fishing Master\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Шляпа рыбака «Мастер рыбной ловли»",
+      "tr": "NULL",
+      "zh": "“钓鱼大师”钓鱼帽"
+    },
+    "image_set_id": "808392",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6332",
+    "faction_id": "1",
+    "name": {
+      "de": "Emblem \"Angeln\"",
+      "en": "Fishing Decal",
+      "es": "Emblema de pesca",
+      "fr": "Décalco : Pêche",
+      "it": "Adesivo Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема «Рыбалка»",
+      "tr": "NULL",
+      "zh": "钓鱼涂装"
+    },
+    "image_set_id": "808383",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6325",
+    "faction_id": "1",
+    "name": {
+      "de": "Bannerrahmen \"Angeln\"",
+      "en": "Fishing Banner Frame",
+      "es": "Marco de pancarta de pesca",
+      "fr": "Cadre de bannière \"Pêche\"",
+      "it": "Cornice per insegna Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Рыбалка»",
+      "tr": "NULL",
+      "zh": "钓鱼横幅框"
+    },
+    "image_set_id": "808384",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6326",
+    "faction_id": "1",
+    "name": {
+      "de": "Banner \"Angeln\"",
+      "en": "Angler Banner",
+      "es": "Pancarta de pescador",
+      "fr": "Bannière \"Pêcheur\"",
+      "it": "Insegna Pescatore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Рыболов»",
+      "tr": "NULL",
+      "zh": "垂钓者横幅"
+    },
+    "image_set_id": "808393",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6327",
+    "faction_id": "1",
+    "name": {
+      "de": "Tarnung \"Angelbelohnung\"",
+      "en": "Fishing Reward Camo",
+      "es": "Camuflaje de recompensa de pesca",
+      "fr": "Camo : Récompense de pêche",
+      "it": "Mimetizzazione ricompensa Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж в награду «Рыбалка»",
+      "tr": "NULL",
+      "zh": "钓鱼奖励迷彩"
+    },
+    "image_set_id": "808398",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6328",
+    "faction_id": "4",
+    "name": {
+      "de": "ST-2.301B \"Nanocaster\"",
+      "en": "ST-2.301B \"Nanocaster\"",
+      "es": "ST-2.301B \"Nanoproyector\"",
+      "fr": "ST-2.301B \"Nanocaster\"",
+      "it": "ST-2.301B \"Nanocaster\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "ST-2.301B «Nanocaster»",
+      "tr": "NULL",
+      "zh": "ST-2.301B“纳能施放者”"
+    },
+    "image_set_id": "808366",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6329",
+    "faction_id": "4",
+    "name": {
+      "de": "Kühlerfigur \"Angeln\"",
+      "en": "Fishing Hood Ornament",
+      "es": "Adorno de capó de pesca",
+      "fr": "Ornement de capot \"Pêche\"",
+      "it": "Decorazione per veicoli Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Символ «Рыбалка» (капот)",
+      "tr": "NULL",
+      "zh": "钓鱼车标"
+    },
+    "image_set_id": "808386",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6330",
+    "faction_id": "4",
+    "name": {
+      "de": "SQS-3.045 \"Beleza\"",
+      "en": "SQS-3.045 \"Beleza\"",
+      "es": "SQS-3.045 \"Belleza\"",
+      "fr": "SQS-3.045 \"Beleza\"",
+      "it": "SQS-3.045 \"Beleza\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "SQS-3.045 «Beleza»",
+      "tr": "NULL",
+      "zh": "SQS-3.045“Beleza”"
+    },
+    "image_set_id": "808367",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6331",
+    "faction_id": "4",
+    "name": {
+      "de": "Angelhut \"Meisterangler\"",
+      "en": "'Fishing Master' Fishing Hat",
+      "es": "Gorro de pesca \"Maestro pescador\"",
+      "fr": "Chapeau de pêche \"Maître pêcheur\"",
+      "it": "Cappello da pesca \"Fishing Master\"",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Шляпа рыбака «Мастер рыбной ловли»",
+      "tr": "NULL",
+      "zh": "“钓鱼大师”钓鱼帽"
+    },
+    "image_set_id": "808389",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6332",
+    "faction_id": "4",
+    "name": {
+      "de": "Emblem \"Angeln\"",
+      "en": "Fishing Decal",
+      "es": "Emblema de pesca",
+      "fr": "Décalco : Pêche",
+      "it": "Adesivo Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема «Рыбалка»",
+      "tr": "NULL",
+      "zh": "钓鱼涂装"
+    },
+    "image_set_id": "808383",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6325",
+    "faction_id": "4",
+    "name": {
+      "de": "Bannerrahmen \"Angeln\"",
+      "en": "Fishing Banner Frame",
+      "es": "Marco de pancarta de pesca",
+      "fr": "Cadre de bannière \"Pêche\"",
+      "it": "Cornice per insegna Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Рыбалка»",
+      "tr": "NULL",
+      "zh": "钓鱼横幅框"
+    },
+    "image_set_id": "808384",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6326",
+    "faction_id": "4",
+    "name": {
+      "de": "Banner \"Angeln\"",
+      "en": "Angler Banner",
+      "es": "Pancarta de pescador",
+      "fr": "Bannière \"Pêcheur\"",
+      "it": "Insegna Pescatore",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Рыболов»",
+      "tr": "NULL",
+      "zh": "垂钓者横幅"
+    },
+    "image_set_id": "808393",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6327",
+    "faction_id": "4",
+    "name": {
+      "de": "Tarnung \"Angelbelohnung\"",
+      "en": "Fishing Reward Camo",
+      "es": "Camuflaje de recompensa de pesca",
+      "fr": "Camo : Récompense de pêche",
+      "it": "Mimetizzazione ricompensa Pesca",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж в награду «Рыбалка»",
+      "tr": "NULL",
+      "zh": "钓鱼奖励迷彩"
+    },
+    "image_set_id": "808395",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
   }
 ]
