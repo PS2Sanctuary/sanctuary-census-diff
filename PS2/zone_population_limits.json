@@ -350,5 +350,60 @@
       "TR": "1",
       "NSO": "1"
     }
+  },
+  {
+    "world_id": "1",
+    "zone_id": "8",
+    "total": "1050",
+    "population_limits": {
+      "VS": "350",
+      "NC": "350",
+      "TR": "350",
+      "NSO": "0"
+    }
+  },
+  {
+    "world_id": "1",
+    "zone_id": "364",
+    "total": "4",
+    "population_limits": {
+      "VS": "1",
+      "NC": "1",
+      "TR": "1",
+      "NSO": "1"
+    }
+  },
+  {
+    "world_id": "1",
+    "zone_id": "364",
+    "total": "4",
+    "population_limits": {
+      "VS": "1",
+      "NC": "1",
+      "TR": "1",
+      "NSO": "1"
+    }
+  },
+  {
+    "world_id": "10",
+    "zone_id": "8",
+    "total": "1050",
+    "population_limits": {
+      "VS": "350",
+      "NC": "350",
+      "TR": "350",
+      "NSO": "0"
+    }
+  },
+  {
+    "world_id": "40",
+    "zone_id": "6",
+    "total": "1047",
+    "population_limits": {
+      "VS": "349",
+      "NC": "349",
+      "TR": "349",
+      "NSO": "0"
+    }
   }
 ]
