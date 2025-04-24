@@ -2,16 +2,16 @@
   {
     "world_id": "10",
     "name": {
-      "de": "Miller",
-      "en": "Miller",
-      "es": "Miller",
-      "fr": "Miller",
-      "it": "Miller",
-      "ko": "밀러",
-      "pt": "Miller",
-      "ru": "Miller",
-      "tr": "Miller",
-      "zh": "Miller"
+      "de": "NULL",
+      "en": "Wainwright",
+      "es": "NULL",
+      "fr": "NULL",
+      "it": "NULL",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NULL",
+      "tr": "NULL",
+      "zh": "NULL"
     },
     "is_locked": "0",
     "lock_state": "Unlocked",
@@ -74,16 +74,16 @@
   {
     "world_id": "1",
     "name": {
-      "de": "Connery",
-      "en": "Connery",
-      "es": "Connery",
-      "fr": "Connery",
-      "it": "Connery",
-      "ko": "코너리",
-      "pt": "Connery",
-      "ru": "Connery",
-      "tr": "Connery",
-      "zh": "Connery"
+      "de": "NULL",
+      "en": "Osprey",
+      "es": "NULL",
+      "fr": "NULL",
+      "it": "NULL",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NULL",
+      "tr": "NULL",
+      "zh": "NULL"
     },
     "is_locked": "0",
     "lock_state": "Unlocked",
