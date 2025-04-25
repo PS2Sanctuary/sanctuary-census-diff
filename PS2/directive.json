@@ -146243,5 +146243,706 @@
     "image_set_id": "1567",
     "image_id": "79737",
     "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6612",
+    "directive_tree_id": "154",
+    "directive_tier_id": "1",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne gewöhnliche Fische.",
+      "en": "Scan Common Fish",
+      "es": "Escanea peces comunes",
+      "fr": "Scanner un poisson ordinaire",
+      "it": "Scansiona un pesce comune",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование обычной рыбы",
+      "tr": "NULL",
+      "zh": "扫描普通鱼类"
+    },
+    "description": {
+      "de": "Scanne gewöhnliche Fische.",
+      "en": "Scan Common Fish",
+      "es": "Escanea peces comunes",
+      "fr": "Scanner un poisson ordinaire",
+      "it": "Scansiona un pesce comune",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование обычной рыбы",
+      "tr": "NULL",
+      "zh": "扫描普通鱼类"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6613",
+    "directive_tree_id": "154",
+    "directive_tier_id": "2",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne seltene Fische.",
+      "en": "Scan Rare Fish",
+      "es": "Escanea peces raros",
+      "fr": "Scanner un poisson rare",
+      "it": "Scansiona un pesce raro",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование редкой рыбы",
+      "tr": "NULL",
+      "zh": "扫描稀有鱼类"
+    },
+    "description": {
+      "de": "Scanne seltene Fische.",
+      "en": "Scan Rare Fish",
+      "es": "Escanea peces raros",
+      "fr": "Scanner un poisson rare",
+      "it": "Scansiona un pesce raro",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование редкой рыбы",
+      "tr": "NULL",
+      "zh": "扫描稀有鱼类"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6614",
+    "directive_tree_id": "154",
+    "directive_tier_id": "3",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne Fische.",
+      "en": "Scan fish",
+      "es": "Escanea peces",
+      "fr": "Scanner un poisson",
+      "it": "Scansiona pesce",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование рыбы",
+      "tr": "NULL",
+      "zh": "扫描鱼"
+    },
+    "description": "NULL",
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6615",
+    "directive_tree_id": "154",
+    "directive_tier_id": "4",
+    "factions": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Scanne legendäre Fische.",
+      "en": "Scan Legendary Fish",
+      "es": "Escanea peces legendarios",
+      "fr": "Scanner un poisson légendaire",
+      "it": "Scansiona un pesce leggendario",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование легендарной рыбы",
+      "tr": "NULL",
+      "zh": "扫描传奇鱼类"
+    },
+    "description": {
+      "de": "Scanne legendäre Fische.",
+      "en": "Scan Legendary Fish",
+      "es": "Escanea peces legendarios",
+      "fr": "Scanner un poisson légendaire",
+      "it": "Scansiona un pesce leggendario",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Выполните сканирование легендарной рыбы",
+      "tr": "NULL",
+      "zh": "扫描传奇鱼类"
+    },
+    "image_set_id": "0",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_id": "6407",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6408",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6405",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6406",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "2"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6411",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6412",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6409",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6410",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "3"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6415",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6416",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6413",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6414",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "1"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6417",
+    "directive_tree_id": "145",
+    "directive_tier_id": "1",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "10 Feinde getötet",
+      "en": "10 Enemies Killed",
+      "es": "10 enemigos muertos",
+      "fr": "10 ennemis tués",
+      "it": "10 nemici uccisi",
+      "ko": "적군 10명 사살",
+      "pt": "10 Inimigos Abatidos",
+      "ru": "Убить 10 врагов",
+      "tr": "10 Düşman Öldürüldü",
+      "zh": "杀敌10人"
+    },
+    "image_set_id": "1564",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6418",
+    "directive_tree_id": "145",
+    "directive_tier_id": "2",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "50 Feinde getötet",
+      "en": "50 Enemies Killed",
+      "es": "50 enemigos muertos",
+      "fr": "50 ennemis tués",
+      "it": "50 nemici uccisi",
+      "ko": "적군 50명 사살",
+      "pt": "50 Inimigos Abatidos",
+      "ru": "Убить 50 врагов",
+      "tr": "50 Düşman Öldürüldü",
+      "zh": "杀敌50人"
+    },
+    "image_set_id": "1565",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6419",
+    "directive_tree_id": "145",
+    "directive_tier_id": "3",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "100 Feinde getötet",
+      "en": "100 Enemies Killed",
+      "es": "100 enemigos muertos",
+      "fr": "100 ennemis tués",
+      "it": "100 nemici uccisi",
+      "ko": "적 100명 사살",
+      "pt": "100 Inimigos Abatidos",
+      "ru": "Убить 100 врагов",
+      "tr": "100 Düşman Öldürüldü",
+      "zh": "杀敌100人"
+    },
+    "image_set_id": "1566",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "directive_id": "6420",
+    "directive_tree_id": "145",
+    "directive_tier_id": "4",
+    "factions": [
+      "4"
+    ],
+    "name": {
+      "de": "Schraubenschlüssel-Messer",
+      "en": "Wrench Knife",
+      "es": "Cuchillo llave",
+      "fr": "Couteau à molette",
+      "it": "Coltello chiave inglese",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Нож с гаечным ключом",
+      "tr": "NULL",
+      "zh": "扳手刀"
+    },
+    "description": {
+      "de": "1000 Feinde getötet",
+      "en": "1000 Enemies Killed",
+      "es": "1000 enemigos muertos",
+      "fr": "1\u00A0000 ennemis tués",
+      "it": "1000 nemici uccisi",
+      "ko": "적군 1000명 사살",
+      "pt": "1000 Inimigos Abatidos",
+      "ru": "Убить 1000 врагов",
+      "tr": "1000 Düşman Öldürüldü",
+      "zh": "杀敌1000人"
+    },
+    "image_set_id": "1567",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
   }
 ]

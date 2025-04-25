@@ -10620,7 +10620,7 @@
     },
     "reward_set_id": "6332",
     "directive_points": "5",
-    "completion_count": "2",
+    "completion_count": "4",
     "image_set_id": "808174",
     "image_id": "97804",
     "image_path": "/files/ps2/images/static/97804.png"
@@ -10754,6 +10754,94 @@
     "directive_points": "0",
     "completion_count": "999",
     "image_set_id": "808176",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_tree_id": "154",
+    "directive_tier_id": "1",
+    "name": {
+      "de": "Anfänger",
+      "en": "Novice",
+      "es": "Novato",
+      "fr": "Novice",
+      "it": "Novizi",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Новичок",
+      "tr": "NULL",
+      "zh": "新手"
+    },
+    "reward_set_id": "6328",
+    "directive_points": "5",
+    "completion_count": "1",
+    "image_set_id": "808174",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_tree_id": "154",
+    "directive_tier_id": "2",
+    "name": {
+      "de": "Adept",
+      "en": "Adept",
+      "es": "Adepto",
+      "fr": "Adepte",
+      "it": "Adepto",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Адепт",
+      "tr": "NULL",
+      "zh": "专家"
+    },
+    "reward_set_id": "6329",
+    "directive_points": "10",
+    "completion_count": "1",
+    "image_set_id": "808175",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_tree_id": "154",
+    "directive_tier_id": "3",
+    "name": {
+      "de": "Meister",
+      "en": "Master",
+      "es": "Maestro",
+      "fr": "Maître",
+      "it": "Maestri",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Мастер",
+      "tr": "NULL",
+      "zh": "大师"
+    },
+    "reward_set_id": "6330",
+    "directive_points": "25",
+    "completion_count": "1",
+    "image_set_id": "808176",
+    "image_id": "97804",
+    "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_tree_id": "154",
+    "directive_tier_id": "4",
+    "name": {
+      "de": "Experte",
+      "en": "Expert",
+      "es": "Experto",
+      "fr": "Expert",
+      "it": "Esperti",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эксперт",
+      "tr": "NULL",
+      "zh": "专家"
+    },
+    "reward_set_id": "6331",
+    "directive_points": "100",
+    "completion_count": "1",
+    "image_set_id": "808307",
     "image_id": "97804",
     "image_path": "/files/ps2/images/static/97804.png"
   }
