@@ -101,10 +101,10 @@
   {
     "world_id": "10",
     "zone_id": "2",
-    "total": "1041",
+    "total": "1044",
     "population_limits": {
-      "VS": "350",
-      "NC": "341",
+      "VS": "344",
+      "NC": "350",
       "TR": "350",
       "NSO": "0"
     }
