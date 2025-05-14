@@ -143525,8 +143525,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -143561,8 +143563,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -143597,8 +143601,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -143633,8 +143639,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -143669,8 +143677,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -143705,8 +143715,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -143741,8 +143753,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -143777,8 +143791,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -143813,8 +143829,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -143849,8 +143867,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -143885,8 +143905,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -143921,8 +143943,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -143957,8 +143981,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "4",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -143993,8 +144019,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "4",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -144029,8 +144057,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "4",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -144065,8 +144095,10 @@
     "directive_tree_id": "145",
     "directive_tier_id": "4",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Demnächst Verfügbar",
@@ -144101,8 +144133,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne Weichkopfmummel.",
@@ -144137,8 +144171,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Fischmünzen",
@@ -144173,8 +144209,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne Fische.",
@@ -144209,8 +144247,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Benutze Köder.",
@@ -144245,8 +144285,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne kleine Fische.",
@@ -144281,8 +144323,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne gewöhnliche Fische.",
@@ -144317,8 +144361,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Oshur",
@@ -144353,8 +144399,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Benutze Köder.",
@@ -144389,8 +144437,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne Fische.",
@@ -144425,8 +144475,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne Weichkopfmummel.",
@@ -144461,8 +144513,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne mittlere Fische.",
@@ -144497,8 +144551,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne gewöhnliche Fische.",
@@ -144533,8 +144589,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne seltene Fische.",
@@ -144569,8 +144627,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Benutze Köder.",
@@ -144605,8 +144665,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Fischmünzen",
@@ -144641,8 +144703,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Benutze Köder.",
@@ -144677,8 +144741,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Oshur",
@@ -144713,8 +144779,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne Fische.",
@@ -144749,8 +144817,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne Weichkopfmummel.",
@@ -144785,8 +144855,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne große Fische.",
@@ -144821,8 +144893,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Fischmünzen",
@@ -144857,8 +144931,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Benutze Köder.",
@@ -144893,8 +144969,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Benutze Köder.",
@@ -144929,8 +145007,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Oshur",
@@ -144965,8 +145045,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "4",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne Fische.",
@@ -145001,8 +145083,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "4",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne Weichkopfmummel.",
@@ -145037,8 +145121,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "4",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne riesige Fische.",
@@ -145073,8 +145159,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "4",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne legendäre Fische.",
@@ -145109,8 +145197,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "4",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Fischmünzen",
@@ -145145,8 +145235,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "4",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Benutze Köder.",
@@ -145181,8 +145273,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "4",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Benutze Köder.",
@@ -145217,8 +145311,10 @@
     "directive_tree_id": "144",
     "directive_tier_id": "4",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Oshur",
@@ -145253,8 +145349,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Weichkopfmummel",
@@ -145289,8 +145387,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Pickelschreier",
@@ -145325,8 +145425,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Stachelschwanz-Schlickgräber",
@@ -145361,8 +145463,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Gewöhnlicher Nassgreifer",
@@ -145397,8 +145501,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Unghotianischer Plasmabrecher",
@@ -145433,8 +145539,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Retikulakopf-Anther",
@@ -145469,8 +145577,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Warzentriton",
@@ -145505,8 +145615,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Schlammkriecher",
@@ -145541,8 +145653,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Kluftbrecher-Anoa",
@@ -145577,8 +145691,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Violetter Blasenweber",
@@ -145613,8 +145729,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Oshur-Hackkiefer",
@@ -145649,8 +145767,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Lavra Medullaria",
@@ -145685,8 +145805,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Geflügelter Pseudoschweber",
@@ -145721,8 +145843,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Küstendornschnabel",
@@ -145757,8 +145881,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Geister-Phlegmata",
@@ -145793,8 +145919,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Augumentatroxis",
@@ -145829,8 +145957,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Gepanzerter Riffbrecher",
@@ -145865,8 +145995,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Astraxianischer Wurmech",
@@ -145901,8 +146033,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Schimmernder Abyssal-Gargantua",
@@ -145937,8 +146071,10 @@
     "directive_tree_id": "135",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Metallischer Ausbrecher",
@@ -146113,8 +146249,10 @@
     "directive_tree_id": "154",
     "directive_tier_id": "1",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne gewöhnliche Fische.",
@@ -146149,8 +146287,10 @@
     "directive_tree_id": "154",
     "directive_tier_id": "2",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne seltene Fische.",
@@ -146185,8 +146325,10 @@
     "directive_tree_id": "154",
     "directive_tier_id": "3",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne Fische.",
@@ -146210,8 +146352,10 @@
     "directive_tree_id": "154",
     "directive_tier_id": "4",
     "factions": [
+      "1",
       "2",
-      "3"
+      "3",
+      "4"
     ],
     "name": {
       "de": "Scanne legendäre Fische.",
