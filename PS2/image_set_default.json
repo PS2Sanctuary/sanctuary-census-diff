@@ -87734,5 +87734,85 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/98618.png"
+  },
+  {
+    "image_set_id": "808454",
+    "image_id": "98621",
+    "description": "I_SeptOfAnu_Helmet_VS_EN",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98621.png"
+  },
+  {
+    "image_set_id": "808455",
+    "image_id": "98624",
+    "description": "I_SeptOfAnu_Helmet_VS_CM",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98624.png"
+  },
+  {
+    "image_set_id": "808456",
+    "image_id": "98627",
+    "description": "I_SeptOfAnu_Helmet_VS_LA",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98627.png"
+  },
+  {
+    "image_set_id": "808457",
+    "image_id": "98630",
+    "description": "I_SeptOfAnu_Helmet_VS_HA",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98630.png"
+  },
+  {
+    "image_set_id": "808458",
+    "image_id": "98633",
+    "description": "I_SeptOfAnu_Helmet_VS_INF",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98633.png"
+  },
+  {
+    "image_set_id": "808459",
+    "image_id": "98636",
+    "description": "I_SeptOfAnu_Armor_VS_INF",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98636.png"
+  },
+  {
+    "image_set_id": "808460",
+    "image_id": "98639",
+    "description": "I_SeptOfAnu_Armor_VS_CM",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98639.png"
+  },
+  {
+    "image_set_id": "808461",
+    "image_id": "98642",
+    "description": "I_SeptOfAnu_Armor_VS_EN",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98642.png"
+  },
+  {
+    "image_set_id": "808462",
+    "image_id": "98645",
+    "description": "I_SeptOfAnu_Armor_VS_LA",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98645.png"
+  },
+  {
+    "image_set_id": "808463",
+    "image_id": "98648",
+    "description": "I_SeptOfAnu_Armor_VS_HA",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98648.png"
   }
 ]

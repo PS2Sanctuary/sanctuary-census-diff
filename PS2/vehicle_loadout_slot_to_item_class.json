@@ -6526,6 +6526,11 @@
   },
   {
     "loadout_id": "577",
+    "slot_id": "16",
+    "item_class_id": "51168"
+  },
+  {
+    "loadout_id": "577",
     "slot_id": "20",
     "item_class_id": "51143"
   },
@@ -6646,6 +6651,11 @@
   },
   {
     "loadout_id": "590",
+    "slot_id": "16",
+    "item_class_id": "51168"
+  },
+  {
+    "loadout_id": "590",
     "slot_id": "20",
     "item_class_id": "51143"
   },
@@ -6733,6 +6743,11 @@
     "loadout_id": "591",
     "slot_id": "16",
     "item_class_id": "51157"
+  },
+  {
+    "loadout_id": "591",
+    "slot_id": "16",
+    "item_class_id": "51168"
   },
   {
     "loadout_id": "591",
@@ -6826,6 +6841,11 @@
   },
   {
     "loadout_id": "592",
+    "slot_id": "16",
+    "item_class_id": "51168"
+  },
+  {
+    "loadout_id": "592",
     "slot_id": "20",
     "item_class_id": "51143"
   },
@@ -6840,23 +6860,8 @@
     "item_class_id": "51143"
   },
   {
-    "loadout_id": "577",
-    "slot_id": "16",
-    "item_class_id": "51168"
-  },
-  {
-    "loadout_id": "590",
-    "slot_id": "16",
-    "item_class_id": "51168"
-  },
-  {
-    "loadout_id": "591",
-    "slot_id": "16",
-    "item_class_id": "51168"
-  },
-  {
-    "loadout_id": "592",
-    "slot_id": "16",
-    "item_class_id": "51168"
+    "loadout_id": "598",
+    "slot_id": "1",
+    "item_class_id": "51182"
   }
 ]

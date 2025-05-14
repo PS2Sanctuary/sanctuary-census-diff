@@ -33294,5 +33294,69 @@
     "image_set_id": "807394",
     "image_id": "95507",
     "image_path": "/files/ps2/images/static/95507.png"
+  },
+  {
+    "skill_set_id": "1987",
+    "skill_points": "0",
+    "required_item_id": "NULL",
+    "name": {
+      "de": "Aufklärungsdrohnen-Granate",
+      "en": "Recon Drone Grenade",
+      "es": "Granada de VANT de reconocimiento",
+      "fr": "Grenade de drone de reconnaissance",
+      "it": "Granata per Drone di ricognizione",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Граната для робота-разведчика",
+      "tr": "NULL",
+      "zh": "探测器手雷"
+    },
+    "description": {
+      "de": "Ermöglicht die Anbringung einer Granate, die auf den Feind abgeworfen werden kann.",
+      "en": "Allows to attach a grenade for dropping on enemies",
+      "es": "Permite acoplar una granada para soltarla sobre enemigos.",
+      "fr": "Permet d'y attacher une grenade à larguer sur les ennemis",
+      "it": "Consente di agganciare una granata da sganciare sui nemici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Позволяет прикрепить гранату для сбрасывания на врагов",
+      "tr": "NULL",
+      "zh": "允许携带一枚可朝敌人投掷的手雷"
+    },
+    "image_set_id": "1561",
+    "image_id": "2704",
+    "image_path": "/files/ps2/images/static/2704.png"
+  },
+  {
+    "skill_set_id": "1988",
+    "skill_points": "500",
+    "required_item_id": "6016017",
+    "name": {
+      "de": "PRIMÄRWAFFE: Supernova PK",
+      "en": "PRIMARY WEAPON:  Supernova PC",
+      "es": "ARMA PRIMARIA: Supernova PC",
+      "fr": "ARME PRINCIPALE: CP Supernova",
+      "it": "ARMA PRIMARIA: Supernova PC",
+      "ko": "주무기: 수퍼노바 PC",
+      "pt": "ARMA PRIMÁRIA:  Supernova PC",
+      "ru": "ОСНОВНОЕ ОРУДИЕ: Плазменная пушка Supernova PC",
+      "tr": "BİRİNCİL - Süpernova PC",
+      "zh": "第一武器：Supernova PC"
+    },
+    "description": {
+      "de": "Die Supernova PK ist geladen mit einem hochexplosiven Panzerabwehr-Plasma, das gleichermaßen wirksam gegen Panzer und Infanterie ist. Nur für VS.",
+      "en": "The Supernova PC quickly reloads its high-explosive anti-tank plasma charges that carry balanced effectiveness against armor and infantry. VS use only.",
+      "es": "El Supernova PC dispara proyectiles antitanque de plasma altamente explosivos con buena velocidad de recarga que resultan eficaces contra blindados e infantería por igual. Solo para SV.",
+      "fr": "Le Supernova CP recharge rapidement ses charges de plasma hautement explosif antichars qui sont d'une grande efficacité contre les armures et l'infanterie. SV uniquement.",
+      "it": "Il Supernova PC ricarica velocemente i suoi proiettili anticarro al plasma altamente esplosivi che hanno un'efficacia bilanciata contro i corazzati e la fanteria. Esclusivo SV.",
+      "ko": "슈퍼노바 PC는 장갑 타겟에 효과적이며 폭발 시 반경 내 보병 타겟에게 피해를 주는 플라즈마탄을 사용합니다. 바누 전용.",
+      "pt": "A Supernova PC dispara projéteis de plasma eficazes contra alvos blindados e possui um alcance explosivo médio, que é perigoso para alvos frágeis. Uso exclusivo: SV.",
+      "ru": "Плазменная пушка Supernova PC обладает функцией быстрой перезарядки и стреляет разрывными противотанковыми плазменными зарядами, которые эффективно поражают бронированные цели и пехоту. Только для VS.",
+      "tr": "The Supernova PC is charged with high explosive anti-tank plasma that is effective against armor and produce an explosion harmful to personnel.  VS use only.",
+      "zh": "Supernova PC可快速填装高爆反坦克粒子弹药，在对抗装甲与步兵单位时都非常有效。仅限Vanu Sovereignty阵营使用。"
+    },
+    "image_set_id": "749",
+    "image_id": "1829",
+    "image_path": "/files/ps2/images/static/1829.png"
   }
 ]

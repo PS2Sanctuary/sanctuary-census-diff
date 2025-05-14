@@ -2,16 +2,16 @@
   {
     "world_id": "10",
     "name": {
-      "de": "NULL",
+      "de": "Wainwright",
       "en": "Wainwright",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Wainwright",
+      "fr": "Wainwright",
+      "it": "Wainwright",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Wainwright",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "Wainwright"
     },
     "is_locked": "0",
     "lock_state": "Unlocked",
@@ -74,16 +74,16 @@
   {
     "world_id": "1",
     "name": {
-      "de": "NULL",
+      "de": "Osprey",
       "en": "Osprey",
-      "es": "NULL",
-      "fr": "NULL",
-      "it": "NULL",
+      "es": "Osprey",
+      "fr": "Osprey",
+      "it": "Osprey",
       "ko": "NULL",
       "pt": "NULL",
-      "ru": "NULL",
+      "ru": "Osprey",
       "tr": "NULL",
-      "zh": "NULL"
+      "zh": "Osprey"
     },
     "is_locked": "0",
     "lock_state": "Unlocked",
