@@ -1452,7 +1452,18 @@
       "3",
       "4"
     ],
-    "name": "NULL",
+    "name": {
+      "de": "Indar",
+      "en": "Indar",
+      "es": "Indar",
+      "fr": "Indar",
+      "it": "Indar",
+      "ko": "인다르",
+      "pt": "Indar",
+      "ru": "Indar",
+      "tr": "Indar",
+      "zh": "Indar"
+    },
     "description": "NULL",
     "image_set_id": "14448",
     "image_id": "78104",
@@ -1592,7 +1603,18 @@
       "3",
       "4"
     ],
-    "name": "NULL",
+    "name": {
+      "de": "Esamir",
+      "en": "Esamir",
+      "es": "Esamir",
+      "fr": "Esamir",
+      "it": "Esamir",
+      "ko": "에사미르",
+      "pt": "Esamir",
+      "ru": "Esamir",
+      "tr": "Esamir",
+      "zh": "Esamir"
+    },
     "description": "NULL",
     "image_set_id": "808177",
     "image_id": "97804",
@@ -1612,5 +1634,109 @@
     "image_set_id": "808177",
     "image_id": "97804",
     "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "directive_tree_id": "149",
+    "directive_tree_category_id": "17",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Planetside 2",
+      "en": "Planetside 2",
+      "es": "PlanetSide 2",
+      "fr": "Planetside 2",
+      "it": "PlanetSide 2",
+      "ko": "플래닛사이드 2",
+      "pt": "PlanetSide 2",
+      "ru": "Planetside 2",
+      "tr": "Planetside 2 ",
+      "zh": "Planetside 2"
+    },
+    "description": "NULL",
+    "image_set_id": "14448",
+    "image_id": "78104",
+    "image_path": "/files/ps2/images/static/78104.png"
+  },
+  {
+    "directive_tree_id": "151",
+    "directive_tree_category_id": "17",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Männlich",
+      "en": "Male",
+      "es": "Hombre",
+      "fr": "Masculin",
+      "it": "Maschio",
+      "ko": "남성",
+      "pt": "Masculino",
+      "ru": "Мужчина",
+      "tr": "Erkek",
+      "zh": "男性"
+    },
+    "description": "NULL",
+    "image_set_id": "14448",
+    "image_id": "78104",
+    "image_path": "/files/ps2/images/static/78104.png"
+  },
+  {
+    "directive_tree_id": "150",
+    "directive_tree_category_id": "17",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Weiblich",
+      "en": "Female",
+      "es": "Mujer",
+      "fr": "Femme",
+      "it": "Femmina",
+      "ko": "여성",
+      "pt": "Feminino",
+      "ru": "Женщина",
+      "tr": "Kadın",
+      "zh": "女性"
+    },
+    "description": "NULL",
+    "image_set_id": "14448",
+    "image_id": "78104",
+    "image_path": "/files/ps2/images/static/78104.png"
+  },
+  {
+    "directive_tree_id": "148",
+    "directive_tree_category_id": "17",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": {
+      "de": "Amerish",
+      "en": "Amerish",
+      "es": "Amerish",
+      "fr": "Amerish",
+      "it": "Amerish",
+      "ko": "아메리시",
+      "pt": "Amerish",
+      "ru": "Amerish",
+      "tr": "Amerish",
+      "zh": "Amerish"
+    },
+    "description": "NULL",
+    "image_set_id": "14448",
+    "image_id": "78104",
+    "image_path": "/files/ps2/images/static/78104.png"
   }
 ]

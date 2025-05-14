@@ -12784,5 +12784,85 @@
     "image_set_id": "808395",
     "image_id": "97804",
     "image_path": "/files/ps2/images/static/97804.png"
+  },
+  {
+    "reward_set_id": "6323",
+    "item_id": "6015977",
+    "name": {
+      "de": "Kühlerfigur \"EVL\"",
+      "en": "EVL Hood Ornament",
+      "es": "Adorno de capó EVL",
+      "fr": "Ornement de capot \"Feux de secours\"",
+      "it": "Decorazione per veicoli EVL",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Символ «EVL» (капот)",
+      "tr": "NULL",
+      "zh": "EVL车标"
+    },
+    "quantity": "1",
+    "image_set_id": "808399",
+    "image_id": "78104",
+    "image_path": "/files/ps2/images/static/78104.png"
+  },
+  {
+    "reward_set_id": "6334",
+    "item_id": "6016001",
+    "name": {
+      "de": "EVL Sirene",
+      "en": "EVL Siren",
+      "es": "Sirena de emergencia",
+      "fr": "Feux de secours - Sirène",
+      "it": "Sirena EVL",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Сирена EVL",
+      "tr": "NULL",
+      "zh": "EVL警笛"
+    },
+    "quantity": "1",
+    "image_set_id": "808413",
+    "image_id": "78104",
+    "image_path": "/files/ps2/images/static/78104.png"
+  },
+  {
+    "reward_set_id": "6324",
+    "item_id": "6015981",
+    "name": {
+      "de": "EVL Sunderer Einsatzlichter",
+      "en": "EVL Sunderer Exterior Attachment",
+      "es": "Accesorio exterior Luces de emergencia para Sunderer",
+      "fr": "Accessoire extérieur de Disperseur - Feux de secours",
+      "it": "Accessorio esterno Sunderer EVL",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Внешний модификатор EVL для Sunderer",
+      "tr": "NULL",
+      "zh": "EVL Sunderer外部附件"
+    },
+    "quantity": "1",
+    "image_set_id": "808401",
+    "image_id": "78104",
+    "image_path": "/files/ps2/images/static/78104.png"
+  },
+  {
+    "reward_set_id": "6322",
+    "item_id": "6015982",
+    "name": {
+      "de": "EVL Flash Einsatzlichter",
+      "en": "EVL Flash Attachment",
+      "es": "Accesorio Luces de emergencia para Flash",
+      "fr": "Accessoire de Flash - Feux de secours",
+      "it": "Accessorio Flash EVL",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Модификатор EVL для Flash",
+      "tr": "NULL",
+      "zh": "EVL Flash附件"
+    },
+    "quantity": "1",
+    "image_set_id": "808402",
+    "image_id": "78104",
+    "image_path": "/files/ps2/images/static/78104.png"
   }
 ]

@@ -1654,5 +1654,24 @@
       "zh": "钓鱼扫描仪"
     },
     "parent_category_ids": "NULL"
+  },
+  {
+    "item_category_id": "227",
+    "name": {
+      "de": "NULL",
+      "en": "Stryder Primary Weapon",
+      "es": "NULL",
+      "fr": "NULL",
+      "it": "NULL",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "NULL",
+      "tr": "NULL",
+      "zh": "NULL"
+    },
+    "parent_category_ids": [
+      "104",
+      "101"
+    ]
   }
 ]

@@ -52693,5 +52693,39 @@
     "max_view_pitch": "85",
     "requires_ammo": "1",
     "use_cooldown_ms": "0"
+  },
+  {
+    "weapon_id": "78877",
+    "weapon_group_id": "5010",
+    "equip_ms": "0",
+    "unequip_ms": "0",
+    "to_iron_sights_ms": "0",
+    "from_iron_sights_ms": "0",
+    "to_iron_sights_anim_ms": "0",
+    "from_iron_sights_anim_ms": "0",
+    "sprint_recovery_ms": "0",
+    "turn_modifier": "1",
+    "move_modifier": "1",
+    "heat_bleed_off_rate": "NULL",
+    "heat_overheat_penalty_ms": "NULL",
+    "range_description": {
+      "de": "Sehr lang",
+      "en": "Very Long",
+      "es": "Muy largo",
+      "fr": "Très long",
+      "it": "Molto lunga",
+      "ko": "매우 김",
+      "pt": "Muito Longa",
+      "ru": "Очень большой длины",
+      "tr": "Çok Uzun",
+      "zh": "超远距离"
+    },
+    "melee_detect_width": "NULL",
+    "melee_detect_height": "NULL",
+    "animation_wield_type_name": "NULL",
+    "min_view_pitch": "NULL",
+    "max_view_pitch": "NULL",
+    "requires_ammo": "0",
+    "use_cooldown_ms": "0"
   }
 ]
