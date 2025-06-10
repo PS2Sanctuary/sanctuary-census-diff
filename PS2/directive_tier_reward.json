@@ -12864,5 +12864,85 @@
     "image_set_id": "808402",
     "image_id": "78104",
     "image_path": "/files/ps2/images/static/78104.png"
+  },
+  {
+    "reward_set_id": "6307",
+    "item_id": "6016025",
+    "name": {
+      "de": "NC-021 Angelhelm",
+      "en": "NC-021 Fishing Helmet",
+      "es": "Casco de pesca NC-021",
+      "fr": "Casque de pêche NC-021",
+      "it": "Casco da pesca NC-021",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рыбацкий шлем NC-021",
+      "tr": "NULL",
+      "zh": "NC-021钓鱼头盔"
+    },
+    "quantity": "1",
+    "image_set_id": "808442",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6307",
+    "item_id": "6016026",
+    "name": {
+      "de": "TR-TLV8 Angelhelm",
+      "en": "TR-TLV8 Fishing Helmet",
+      "es": "Casco de pesca TR-TLV8",
+      "fr": "Casque de pêche RT-TLV8",
+      "it": "Casco da pesca TR-TLV8",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рыбацкий шлем TR-TLV8",
+      "tr": "NULL",
+      "zh": "TR-TLV8钓鱼头盔"
+    },
+    "quantity": "1",
+    "image_set_id": "808444",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6307",
+    "item_id": "6016027",
+    "name": {
+      "de": "VS-B1 Angelhelm",
+      "en": "VS-B1 Fishing Helmet",
+      "es": "Casco de pesca VS-B1",
+      "fr": "Casque de pêche SV-B1",
+      "it": "Casco da pesca VS-B1",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рыбацкий шлем VS-B1",
+      "tr": "NULL",
+      "zh": "VS-B1钓鱼头盔"
+    },
+    "quantity": "1",
+    "image_set_id": "808443",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6307",
+    "item_id": "6016024",
+    "name": {
+      "de": "NSO-2PT Angelhelm",
+      "en": "NSO-2PT Fishing Helmet",
+      "es": "Casco de pesca NSO-2PT",
+      "fr": "Casque de pêche ANS-2PT",
+      "it": "Casco da pesca NSO-2PT",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рыбацкий шлем NSO-2PT",
+      "tr": "NULL",
+      "zh": "NSO-2PT钓鱼头盔"
+    },
+    "quantity": "1",
+    "image_set_id": "808445",
+    "image_id": "79737",
+    "image_path": "/files/ps2/images/static/79737.png"
   }
 ]

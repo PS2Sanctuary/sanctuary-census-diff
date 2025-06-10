@@ -13,8 +13,8 @@
       "tr": "NULL",
       "zh": "Wainwright"
     },
-    "is_locked": "1",
-    "lock_state": "Locked",
+    "is_locked": "0",
+    "lock_state": "Unlocked",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -50,7 +50,7 @@
       "zh": "SolTech"
     },
     "is_locked": "0",
-    "lock_state": "Maintenance",
+    "lock_state": "Unlocked",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -67,8 +67,8 @@
       "tr": "Jaeger",
       "zh": "Jaeger"
     },
-    "is_locked": "1",
-    "lock_state": "Locked",
+    "is_locked": "0",
+    "lock_state": "Unlocked",
     "is_unprivileged_access_allowed": "0"
   },
   {
@@ -85,8 +85,8 @@
       "tr": "NULL",
       "zh": "Osprey"
     },
-    "is_locked": "1",
-    "lock_state": "Locked",
+    "is_locked": "0",
+    "lock_state": "Unlocked",
     "is_unprivileged_access_allowed": "1"
   },
   {
@@ -122,7 +122,7 @@
       "zh": "荣耀"
     },
     "is_locked": "0",
-    "lock_state": "Maintenance",
+    "lock_state": "Offline",
     "is_unprivileged_access_allowed": "1"
   }
 ]
