@@ -87950,5 +87950,45 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/98698.png"
+  },
+  {
+    "image_set_id": "808482",
+    "image_id": "98703",
+    "description": "I_BullMarket_Implant_HUD",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98703.png"
+  },
+  {
+    "image_set_id": "808483",
+    "image_id": "98706",
+    "description": "I_DeadmanTrigger_Implant_HUD",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98706.png"
+  },
+  {
+    "image_set_id": "808484",
+    "image_id": "98709",
+    "description": "I_Vehicle_TacticalTires_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98709.png"
+  },
+  {
+    "image_set_id": "808485",
+    "image_id": "98712",
+    "description": "I_Vehicle_Harasser_Surfboard_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98712.png"
+  },
+  {
+    "image_set_id": "808486",
+    "image_id": "98715",
+    "description": "I_BND_TrueNorthSummerAlpha2024",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98715.png"
   }
 ]
