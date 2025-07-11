@@ -12944,5 +12944,285 @@
     "image_set_id": "808445",
     "image_id": "79737",
     "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6339",
+    "item_id": "6016057",
+    "name": {
+      "de": "Emblem \"Surf's Up\"",
+      "en": "Surf's Up Decal",
+      "es": "Emblema A surfear",
+      "fr": "Décalco : Vive le surf !",
+      "it": "Adesivo È ora del surf",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема «Лови волну»",
+      "tr": "NULL",
+      "zh": "冲浪[#DECAL#]"
+    },
+    "quantity": "1",
+    "image_set_id": "808481",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6339",
+    "item_id": "6016058",
+    "name": {
+      "de": "Titel: Schiffsbauer",
+      "en": "Title: Shipwright",
+      "es": "Título: Naviero",
+      "fr": "Titre : Charpentier de marine",
+      "it": "Titolo: Costruttore di navi",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Звание: Корабел",
+      "tr": "NULL",
+      "zh": "头衔：造船工人"
+    },
+    "quantity": "1",
+    "image_set_id": "808008",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6339",
+    "item_id": "77893",
+    "name": {
+      "de": "250 ZERTS",
+      "en": "250 Certs",
+      "es": "250 Certs",
+      "fr": "250 Accréditations",
+      "it": "250 certificazioni",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "250 сертификатов",
+      "tr": "NULL",
+      "zh": "250证书点"
+    },
+    "quantity": "1",
+    "image_set_id": "2208",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6340",
+    "item_id": "6016049",
+    "name": {
+      "de": "Bannerrahmen \"Ozeandock\"",
+      "en": "Ocean Docks Banner Frame",
+      "es": "Marco de pancarta de puerto del océano",
+      "fr": "Cadre de bannière \"Ocean Docks\"",
+      "it": "Cornice per insegna Moli oceanici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Волны океана»",
+      "tr": "NULL",
+      "zh": "海滨码头横幅框"
+    },
+    "quantity": "1",
+    "image_set_id": "808471",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6340",
+    "item_id": "6016048",
+    "name": {
+      "de": "Banner \"Meereswellen\"",
+      "en": "Ocean Waves Banner",
+      "es": "Pancarta de olas del océano",
+      "fr": "Bannière \"Vagues de l'océan\"",
+      "it": "Insegna onde oceaniche",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Баннер «Волны океана»‎",
+      "tr": "NULL",
+      "zh": "海浪横幅"
+    },
+    "quantity": "1",
+    "image_set_id": "808470",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6340",
+    "item_id": "6008708",
+    "name": {
+      "de": "500 ISO-4",
+      "en": "500 ISO-4",
+      "es": "500 ISO-4",
+      "fr": "500 ISO-4",
+      "it": "500 ISO-4",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 ISO-4",
+      "tr": "NULL",
+      "zh": "500 ISO-4"
+    },
+    "quantity": "1",
+    "image_set_id": "803815",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6341",
+    "item_id": "6003486",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "quantity": "1",
+    "image_set_id": "803836",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6341",
+    "item_id": "6016050",
+    "name": {
+      "de": "Tarnung \"Oshuri Shirt\"",
+      "en": "Oshuri Shirt Camo",
+      "es": "Camuflaje de camisa oshuriana",
+      "fr": "Camo : Chemise Oshuri",
+      "it": "Mimetizzazione maglietta di Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Рубашка Oshur»",
+      "tr": "NULL",
+      "zh": "欧胡衬衫迷彩"
+    },
+    "quantity": "1",
+    "image_set_id": "808474",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6341",
+    "item_id": "6009498",
+    "name": {
+      "de": "500 A7",
+      "en": "500 A7",
+      "es": "500 A7",
+      "fr": "500 A7",
+      "it": "500 A7",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "500 A7",
+      "tr": "NULL",
+      "zh": "500 A7"
+    },
+    "quantity": "1",
+    "image_set_id": "806266",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6342",
+    "item_id": "6016031",
+    "name": {
+      "de": "Reifenspur \"Sand\"",
+      "en": "Sand Tire Trails",
+      "es": "Rastro de neumático de arena",
+      "fr": "Traînées de roues \"Sable\"",
+      "it": "Tracce degli pneumatici Sabbia",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "След шин «Песок»",
+      "tr": "NULL",
+      "zh": "沙地轮胎痕迹"
+    },
+    "quantity": "1",
+    "image_set_id": "807486",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6342",
+    "item_id": "6008980",
+    "name": {
+      "de": "Implantat-Paket \"Deluxe\"",
+      "en": "Deluxe Implant Pack",
+      "es": "Pack de implantes de lujo",
+      "fr": "Pack d'Implants de Luxe",
+      "it": "Pacchetto impianti Deluxe",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Роскошный набор имплантов",
+      "tr": "NULL",
+      "zh": "豪华插件包"
+    },
+    "quantity": "1",
+    "image_set_id": "803838",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6341",
+    "item_id": "6016051",
+    "name": {
+      "de": "Tarnung \"Oshuri Shirt\"",
+      "en": "Oshuri Shirt Camo",
+      "es": "Camuflaje de camisa oshuriana",
+      "fr": "Camo : Chemise Oshuri",
+      "it": "Mimetizzazione maglietta di Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Рубашка Oshur»",
+      "tr": "NULL",
+      "zh": "欧胡衬衫迷彩"
+    },
+    "quantity": "1",
+    "image_set_id": "808475",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6341",
+    "item_id": "6016053",
+    "name": {
+      "de": "Tarnung \"Oshuri Shirt\"",
+      "en": "Oshuri Shirt Camo",
+      "es": "Camuflaje de camisa oshuriana",
+      "fr": "Camo : Chemise Oshuri",
+      "it": "Mimetizzazione maglietta di Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Рубашка Oshur»",
+      "tr": "NULL",
+      "zh": "欧胡衬衫迷彩"
+    },
+    "quantity": "1",
+    "image_set_id": "808477",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6341",
+    "item_id": "6016052",
+    "name": {
+      "de": "Tarnung \"Oshuri Shirt\"",
+      "en": "Oshuri Shirt Camo",
+      "es": "Camuflaje de camisa oshuriana",
+      "fr": "Camo : Chemise Oshuri",
+      "it": "Mimetizzazione maglietta di Oshur",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Камуфляж «Рубашка Oshur»",
+      "tr": "NULL",
+      "zh": "欧胡衬衫迷彩"
+    },
+    "quantity": "1",
+    "image_set_id": "808476",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

@@ -1738,5 +1738,20 @@
     "image_set_id": "14448",
     "image_id": "78104",
     "image_path": "/files/ps2/images/static/78104.png"
+  },
+  {
+    "directive_tree_id": "155",
+    "directive_tree_category_id": "8",
+    "faction_ids": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "name": "NULL",
+    "description": "NULL",
+    "image_set_id": "0",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]

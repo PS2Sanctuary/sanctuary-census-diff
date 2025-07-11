@@ -15578,5 +15578,309 @@
     "image_set_id": "808445",
     "image_id": "79737",
     "image_path": "/files/ps2/images/static/79737.png"
+  },
+  {
+    "reward_set_id": "6339",
+    "faction_id": "2",
+    "name": {
+      "de": "Emblem \"Surf's Up\"",
+      "en": "Surf's Up Decal",
+      "es": "Emblema A surfear",
+      "fr": "Décalco : Vive le surf !",
+      "it": "Adesivo È ora del surf",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема «Лови волну»",
+      "tr": "NULL",
+      "zh": "冲浪[#DECAL#]"
+    },
+    "image_set_id": "808481",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6340",
+    "faction_id": "2",
+    "name": {
+      "de": "Bannerrahmen \"Ozeandock\"",
+      "en": "Ocean Docks Banner Frame",
+      "es": "Marco de pancarta de puerto del océano",
+      "fr": "Cadre de bannière \"Ocean Docks\"",
+      "it": "Cornice per insegna Moli oceanici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Волны океана»",
+      "tr": "NULL",
+      "zh": "海滨码头横幅框"
+    },
+    "image_set_id": "808471",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6341",
+    "faction_id": "2",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6342",
+    "faction_id": "2",
+    "name": {
+      "de": "Reifenspur \"Sand\"",
+      "en": "Sand Tire Trails",
+      "es": "Rastro de neumático de arena",
+      "fr": "Traînées de roues \"Sable\"",
+      "it": "Tracce degli pneumatici Sabbia",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "След шин «Песок»",
+      "tr": "NULL",
+      "zh": "沙地轮胎痕迹"
+    },
+    "image_set_id": "807486",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6339",
+    "faction_id": "3",
+    "name": {
+      "de": "Emblem \"Surf's Up\"",
+      "en": "Surf's Up Decal",
+      "es": "Emblema A surfear",
+      "fr": "Décalco : Vive le surf !",
+      "it": "Adesivo È ora del surf",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема «Лови волну»",
+      "tr": "NULL",
+      "zh": "冲浪[#DECAL#]"
+    },
+    "image_set_id": "808481",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6340",
+    "faction_id": "3",
+    "name": {
+      "de": "Bannerrahmen \"Ozeandock\"",
+      "en": "Ocean Docks Banner Frame",
+      "es": "Marco de pancarta de puerto del océano",
+      "fr": "Cadre de bannière \"Ocean Docks\"",
+      "it": "Cornice per insegna Moli oceanici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Волны океана»",
+      "tr": "NULL",
+      "zh": "海滨码头横幅框"
+    },
+    "image_set_id": "808471",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6341",
+    "faction_id": "3",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6342",
+    "faction_id": "3",
+    "name": {
+      "de": "Reifenspur \"Sand\"",
+      "en": "Sand Tire Trails",
+      "es": "Rastro de neumático de arena",
+      "fr": "Traînées de roues \"Sable\"",
+      "it": "Tracce degli pneumatici Sabbia",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "След шин «Песок»",
+      "tr": "NULL",
+      "zh": "沙地轮胎痕迹"
+    },
+    "image_set_id": "807486",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6339",
+    "faction_id": "1",
+    "name": {
+      "de": "Emblem \"Surf's Up\"",
+      "en": "Surf's Up Decal",
+      "es": "Emblema A surfear",
+      "fr": "Décalco : Vive le surf !",
+      "it": "Adesivo È ora del surf",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема «Лови волну»",
+      "tr": "NULL",
+      "zh": "冲浪[#DECAL#]"
+    },
+    "image_set_id": "808481",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6340",
+    "faction_id": "1",
+    "name": {
+      "de": "Bannerrahmen \"Ozeandock\"",
+      "en": "Ocean Docks Banner Frame",
+      "es": "Marco de pancarta de puerto del océano",
+      "fr": "Cadre de bannière \"Ocean Docks\"",
+      "it": "Cornice per insegna Moli oceanici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Волны океана»",
+      "tr": "NULL",
+      "zh": "海滨码头横幅框"
+    },
+    "image_set_id": "808471",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6341",
+    "faction_id": "1",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6342",
+    "faction_id": "1",
+    "name": {
+      "de": "Reifenspur \"Sand\"",
+      "en": "Sand Tire Trails",
+      "es": "Rastro de neumático de arena",
+      "fr": "Traînées de roues \"Sable\"",
+      "it": "Tracce degli pneumatici Sabbia",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "След шин «Песок»",
+      "tr": "NULL",
+      "zh": "沙地轮胎痕迹"
+    },
+    "image_set_id": "807486",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6339",
+    "faction_id": "4",
+    "name": {
+      "de": "Emblem \"Surf's Up\"",
+      "en": "Surf's Up Decal",
+      "es": "Emblema A surfear",
+      "fr": "Décalco : Vive le surf !",
+      "it": "Adesivo È ora del surf",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Эмблема «Лови волну»",
+      "tr": "NULL",
+      "zh": "冲浪[#DECAL#]"
+    },
+    "image_set_id": "808481",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6340",
+    "faction_id": "4",
+    "name": {
+      "de": "Bannerrahmen \"Ozeandock\"",
+      "en": "Ocean Docks Banner Frame",
+      "es": "Marco de pancarta de puerto del océano",
+      "fr": "Cadre de bannière \"Ocean Docks\"",
+      "it": "Cornice per insegna Moli oceanici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Рамка баннера «Волны океана»",
+      "tr": "NULL",
+      "zh": "海滨码头横幅框"
+    },
+    "image_set_id": "808471",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6341",
+    "faction_id": "4",
+    "name": {
+      "de": "Implantat-Paket \"Basic\"",
+      "en": "Basic Implant Pack",
+      "es": "Pack de implantes básico",
+      "fr": "Pack d'implants de base",
+      "it": "Pacchetto Impianti basici",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "Базовый набор имплантов",
+      "tr": "NULL",
+      "zh": "基础插件包"
+    },
+    "image_set_id": "803836",
+    "image_id": "NULL",
+    "image_path": "NULL"
+  },
+  {
+    "reward_set_id": "6342",
+    "faction_id": "4",
+    "name": {
+      "de": "Reifenspur \"Sand\"",
+      "en": "Sand Tire Trails",
+      "es": "Rastro de neumático de arena",
+      "fr": "Traînées de roues \"Sable\"",
+      "it": "Tracce degli pneumatici Sabbia",
+      "ko": "NULL",
+      "pt": "NULL",
+      "ru": "След шин «Песок»",
+      "tr": "NULL",
+      "zh": "沙地轮胎痕迹"
+    },
+    "image_set_id": "807486",
+    "image_id": "NULL",
+    "image_path": "NULL"
   }
 ]
