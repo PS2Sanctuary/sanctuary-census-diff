@@ -818,7 +818,9 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -831,7 +833,9 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": {
@@ -855,7 +859,9 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -868,7 +874,9 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -881,7 +889,9 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": {
@@ -905,7 +915,9 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": {
@@ -929,7 +941,9 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -942,7 +956,9 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": {
@@ -966,7 +982,9 @@
     "directive_tree_category_id": "11",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -991,7 +1009,9 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": {
@@ -1015,7 +1035,9 @@
     "directive_tree_category_id": "11",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1028,7 +1050,9 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": {
@@ -1052,7 +1076,9 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1065,7 +1091,9 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1078,7 +1106,9 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1091,7 +1121,9 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1104,7 +1136,9 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1117,7 +1151,9 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1130,7 +1166,9 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1155,7 +1193,9 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1168,7 +1208,9 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1181,7 +1223,9 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1194,7 +1238,9 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1207,7 +1253,9 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1220,7 +1268,9 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1233,7 +1283,9 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1246,7 +1298,9 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1259,7 +1313,9 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1272,7 +1328,9 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1285,7 +1343,9 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1298,7 +1358,9 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1311,7 +1373,9 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1324,7 +1388,9 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1337,7 +1403,9 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1350,7 +1418,9 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1363,7 +1433,9 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1376,7 +1448,9 @@
     "directive_tree_category_id": "17",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": {
       "de": "Indar",
@@ -1510,7 +1584,9 @@
     "directive_tree_category_id": "20",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1523,7 +1599,9 @@
     "directive_tree_category_id": "17",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": {
       "de": "Esamir",
@@ -1547,7 +1625,9 @@
     "directive_tree_category_id": "20",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
@@ -1560,7 +1640,9 @@
     "directive_tree_category_id": "17",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": {
       "de": "Planetside 2",
@@ -1584,7 +1666,9 @@
     "directive_tree_category_id": "17",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": {
       "de": "Männlich",
@@ -1608,7 +1692,9 @@
     "directive_tree_category_id": "17",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": {
       "de": "Weiblich",
@@ -1632,7 +1718,9 @@
     "directive_tree_category_id": "17",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": {
       "de": "Amerish",
@@ -1656,7 +1744,9 @@
     "directive_tree_category_id": "8",
     "faction_ids": [
       "1",
-      "2"
+      "2",
+      "3",
+      "4"
     ],
     "name": "NULL",
     "description": "NULL",
