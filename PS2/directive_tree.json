@@ -818,6 +818,7 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -832,6 +833,7 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -857,6 +859,7 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -871,6 +874,7 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -885,6 +889,7 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -910,6 +915,7 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -935,6 +941,7 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -949,6 +956,7 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -974,6 +982,7 @@
     "directive_tree_category_id": "11",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1000,6 +1009,7 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1025,6 +1035,7 @@
     "directive_tree_category_id": "11",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1039,6 +1050,7 @@
     "directive_tree_category_id": "3",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1064,6 +1076,7 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1078,6 +1091,7 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1092,6 +1106,7 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1106,6 +1121,7 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1120,6 +1136,7 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1134,6 +1151,7 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1148,6 +1166,7 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1174,6 +1193,7 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1188,6 +1208,7 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1202,6 +1223,7 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1216,6 +1238,7 @@
     "directive_tree_category_id": "4",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1230,6 +1253,7 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1244,6 +1268,7 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1258,6 +1283,7 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1272,6 +1298,7 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1286,6 +1313,7 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1300,6 +1328,7 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1314,6 +1343,7 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1328,6 +1358,7 @@
     "directive_tree_category_id": "5",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1342,6 +1373,7 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1356,6 +1388,7 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1370,6 +1403,7 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1384,6 +1418,7 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1398,6 +1433,7 @@
     "directive_tree_category_id": "7",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1412,6 +1448,7 @@
     "directive_tree_category_id": "17",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1547,6 +1584,7 @@
     "directive_tree_category_id": "20",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1561,6 +1599,7 @@
     "directive_tree_category_id": "17",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1586,6 +1625,7 @@
     "directive_tree_category_id": "20",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1600,6 +1640,7 @@
     "directive_tree_category_id": "17",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1625,6 +1666,7 @@
     "directive_tree_category_id": "17",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1650,6 +1692,7 @@
     "directive_tree_category_id": "17",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1675,6 +1718,7 @@
     "directive_tree_category_id": "17",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -1700,6 +1744,7 @@
     "directive_tree_category_id": "8",
     "faction_ids": [
       "1",
+      "2",
       "3",
       "4"
     ],
