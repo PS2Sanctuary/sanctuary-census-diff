@@ -1311,7 +1311,10 @@
       "tr": "NULL",
       "zh": "空战武器"
     },
-    "parent_category_ids": "NULL"
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
   },
   {
     "item_category_id": "148",
@@ -1570,7 +1573,10 @@
       "tr": "NULL",
       "zh": "两栖步枪"
     },
-    "parent_category_ids": "NULL"
+    "parent_category_ids": [
+      "102",
+      "100"
+    ]
   },
   {
     "item_category_id": "221",

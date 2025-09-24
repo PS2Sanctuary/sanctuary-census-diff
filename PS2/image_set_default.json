@@ -87990,5 +87990,285 @@
     "type_id": "7",
     "type_description": "Large (128 pixel height)",
     "image_path": "/files/ps2/images/static/98715.png"
+  },
+  {
+    "image_set_id": "808487",
+    "image_id": "98719",
+    "description": "I_DaughtersOfDawn_Helmet_NSO_CM",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98719.png"
+  },
+  {
+    "image_set_id": "808488",
+    "image_id": "98722",
+    "description": "I_DaughtersOfDawn_Helmet_NSO_EN",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98722.png"
+  },
+  {
+    "image_set_id": "808489",
+    "image_id": "98725",
+    "description": "I_DaughtersOfDawn_Helmet_NSO_HA",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98725.png"
+  },
+  {
+    "image_set_id": "808490",
+    "image_id": "98728",
+    "description": "I_DaughtersOfDawn_Helmet_NSO_LA",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98728.png"
+  },
+  {
+    "image_set_id": "808491",
+    "image_id": "98731",
+    "description": "I_DaughtersOfDawn_Helmet_NSO_INF",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98731.png"
+  },
+  {
+    "image_set_id": "808492",
+    "image_id": "98734",
+    "description": "I_DaughtersOfDawn_Armor_NSO_HA",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98734.png"
+  },
+  {
+    "image_set_id": "808493",
+    "image_id": "98737",
+    "description": "I_DaughtersOfDawn_Armor_NSO_INF",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98737.png"
+  },
+  {
+    "image_set_id": "808494",
+    "image_id": "98740",
+    "description": "I_DaughtersOfDawn_Armor_NSO_LA",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98740.png"
+  },
+  {
+    "image_set_id": "808495",
+    "image_id": "98743",
+    "description": "I_DaughtersOfDawn_Armor_NSO_EN",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98743.png"
+  },
+  {
+    "image_set_id": "808496",
+    "image_id": "98746",
+    "description": "I_DaughtersOfDawn_Armor_NSO_CM",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98746.png"
+  },
+  {
+    "image_set_id": "808497",
+    "image_id": "98749",
+    "description": "I_Infiltrator_Certificate_GrenadeAbility",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98749.png"
+  },
+  {
+    "image_set_id": "808498",
+    "image_id": "98752",
+    "description": "I_Infiltrator_Certificate_AdvancedSensorsSystem",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98752.png"
+  },
+  {
+    "image_set_id": "808499",
+    "image_id": "98753",
+    "description": "I_Infiltrator_Drone",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98753.png"
+  },
+  {
+    "image_set_id": "808500",
+    "image_id": "98758",
+    "description": "I_Observer_Implant_Tier6",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98758.png"
+  },
+  {
+    "image_set_id": "808501",
+    "image_id": "98761",
+    "description": "I_Vehicle_Harasser_Splash_Trail_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98761.png"
+  },
+  {
+    "image_set_id": "808502",
+    "image_id": "98764",
+    "description": "I_Vehicle_Flash_Splash_Trail_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98764.png"
+  },
+  {
+    "image_set_id": "808503",
+    "image_id": "98767",
+    "description": "I_CAMO_SeaMonster_NSO (Tides of Summer Bravo 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98767.png"
+  },
+  {
+    "image_set_id": "808504",
+    "image_id": "98770",
+    "description": "I_CAMO_SeaMonster_VS (Tides of Summer Bravo 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98770.png"
+  },
+  {
+    "image_set_id": "808505",
+    "image_id": "98773",
+    "description": "I_CAMO_SeaMonster_NC (Tides of Summer Bravo 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98773.png"
+  },
+  {
+    "image_set_id": "808506",
+    "image_id": "98776",
+    "description": "I_CAMO_SeaMonster_TR (Tides of Summer Bravo 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98776.png"
+  },
+  {
+    "image_set_id": "808507",
+    "image_id": "98779",
+    "description": "I_BNR_SeaMonster (Tides of Summer Bravo 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98779.png"
+  },
+  {
+    "image_set_id": "808508",
+    "image_id": "98780",
+    "description": "BNR_SeaMonster (Tides of Summer Bravo 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98780.png"
+  },
+  {
+    "image_set_id": "808509",
+    "image_id": "98783",
+    "description": "I_FRM_SeaMonster (Tides of Summer Bravo 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98783.png"
+  },
+  {
+    "image_set_id": "808510",
+    "image_id": "98784",
+    "description": "FRM_SeaMonster.png",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98784.png"
+  },
+  {
+    "image_set_id": "808511",
+    "image_id": "98787",
+    "description": "I_DCL_SeaMonster (Tides of Summer Bravo 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98787.png"
+  },
+  {
+    "image_set_id": "808512",
+    "image_id": "98791",
+    "description": "I_Vehicle_Harasser_Tentacle_Tire_Attachment (Tides of Summer Bravo 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98791.png"
+  },
+  {
+    "image_set_id": "808513",
+    "image_id": "98806",
+    "description": "I_Vehicle_Harasser_Monster_Exterior_Attachment (Tides of Summer Bravo 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98806.png"
+  },
+  {
+    "image_set_id": "808514",
+    "image_id": "98793",
+    "description": "I_Vehicle_SonarPing_Horn_Attachment (Tides of Summer Bravo 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98793.png"
+  },
+  {
+    "image_set_id": "808515",
+    "image_id": "98797",
+    "description": "I_BND_SummerBravo2024 (Tides of Sumer Bravo 2024)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98797.png"
+  },
+  {
+    "image_set_id": "808516",
+    "image_id": "98799",
+    "description": "I_Vehicle_SeaMonster_Horn_Attachment (Tides of Summer Bravo 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98799.png"
+  },
+  {
+    "image_set_id": "808517",
+    "image_id": "98803",
+    "description": "I_BND_DaughtersOfDawn",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98803.png"
+  },
+  {
+    "image_set_id": "808519",
+    "image_id": "98815",
+    "description": "I_Vehicle_Flash_Monster_Exterior_Attachment (Tides of Summer Bravo 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98815.png"
+  },
+  {
+    "image_set_id": "808520",
+    "image_id": "98818",
+    "description": "I_Vehicle_AngelChoir_Horn_Attachment(Extra life 2025)",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98818.png"
+  },
+  {
+    "image_set_id": "808521",
+    "image_id": "98822",
+    "description": "scope_glint_infiltrator",
+    "type_id": "6",
+    "type_description": "Medium (64 pixel height)",
+    "image_path": "/files/ps2/images/static/98822.png"
+  },
+  {
+    "image_set_id": "808522",
+    "image_id": "98825",
+    "description": "SM_Vehicle_Halo_HoodOrnaments_Attachment",
+    "type_id": "7",
+    "type_description": "Large (128 pixel height)",
+    "image_path": "/files/ps2/images/static/98825.png"
   }
 ]

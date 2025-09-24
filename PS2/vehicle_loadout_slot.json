@@ -54667,5 +54667,101 @@
     "image_set_id": "112",
     "image_id": "4",
     "image_path": "/files/ps2/images/static/4.png"
+  },
+  {
+    "loadout_id": "599",
+    "slot_id": "1",
+    "name": {
+      "de": "Waffe",
+      "en": "Weapon",
+      "es": "Arma",
+      "fr": "Arme",
+      "it": "Arma",
+      "ko": "무기",
+      "pt": "Arma",
+      "ru": "Оружие",
+      "tr": "Silah",
+      "zh": "武器"
+    },
+    "description": "NULL",
+    "is_auto_equipped": "1",
+    "is_required": "1",
+    "is_visible": "1",
+    "ui_tag": "NULL",
+    "image_set_id": "1",
+    "image_id": "35",
+    "image_path": "/files/ps2/images/static/35.png"
+  },
+  {
+    "loadout_id": "600",
+    "slot_id": "1",
+    "name": {
+      "de": "Waffe",
+      "en": "Weapon",
+      "es": "Arma",
+      "fr": "Arme",
+      "it": "Arma",
+      "ko": "무기",
+      "pt": "Arma",
+      "ru": "Оружие",
+      "tr": "Silah",
+      "zh": "武器"
+    },
+    "description": "NULL",
+    "is_auto_equipped": "1",
+    "is_required": "1",
+    "is_visible": "1",
+    "ui_tag": "NULL",
+    "image_set_id": "1",
+    "image_id": "35",
+    "image_path": "/files/ps2/images/static/35.png"
+  },
+  {
+    "loadout_id": "601",
+    "slot_id": "1",
+    "name": {
+      "de": "Waffe",
+      "en": "Weapon",
+      "es": "Arma",
+      "fr": "Arme",
+      "it": "Arma",
+      "ko": "무기",
+      "pt": "Arma",
+      "ru": "Оружие",
+      "tr": "Silah",
+      "zh": "武器"
+    },
+    "description": "NULL",
+    "is_auto_equipped": "1",
+    "is_required": "1",
+    "is_visible": "1",
+    "ui_tag": "NULL",
+    "image_set_id": "1",
+    "image_id": "35",
+    "image_path": "/files/ps2/images/static/35.png"
+  },
+  {
+    "loadout_id": "602",
+    "slot_id": "1",
+    "name": {
+      "de": "Waffe",
+      "en": "Weapon",
+      "es": "Arma",
+      "fr": "Arme",
+      "it": "Arma",
+      "ko": "무기",
+      "pt": "Arma",
+      "ru": "Оружие",
+      "tr": "Silah",
+      "zh": "武器"
+    },
+    "description": "NULL",
+    "is_auto_equipped": "1",
+    "is_required": "1",
+    "is_visible": "1",
+    "ui_tag": "NULL",
+    "image_set_id": "1",
+    "image_id": "35",
+    "image_path": "/files/ps2/images/static/35.png"
   }
 ]

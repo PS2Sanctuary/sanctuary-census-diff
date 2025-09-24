@@ -756,6 +756,12 @@
     "client_requirement_expression": "NULL"
   },
   {
+    "loadout_id": "1",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
     "loadout_id": "3",
     "slot_id": "1",
     "item_class_id": "551",
@@ -1533,6 +1539,12 @@
     "loadout_id": "3",
     "slot_id": "51",
     "item_class_id": "51165",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "3",
+    "slot_id": "52",
+    "item_class_id": "51173",
     "client_requirement_expression": "NULL"
   },
   {
@@ -2319,6 +2331,12 @@
     "loadout_id": "4",
     "slot_id": "51",
     "item_class_id": "51165",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "4",
+    "slot_id": "52",
+    "item_class_id": "51173",
     "client_requirement_expression": "NULL"
   },
   {
@@ -3126,6 +3144,12 @@
     "client_requirement_expression": "NULL"
   },
   {
+    "loadout_id": "5",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
     "loadout_id": "6",
     "slot_id": "1",
     "item_class_id": "551",
@@ -3547,6 +3571,12 @@
   },
   {
     "loadout_id": "6",
+    "slot_id": "10",
+    "item_class_id": "51180",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "6",
     "slot_id": "11",
     "item_class_id": "171",
     "client_requirement_expression": "NULL"
@@ -3939,6 +3969,12 @@
     "loadout_id": "6",
     "slot_id": "51",
     "item_class_id": "51165",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "6",
+    "slot_id": "52",
+    "item_class_id": "51173",
     "client_requirement_expression": "NULL"
   },
   {
@@ -4962,6 +4998,12 @@
     "client_requirement_expression": "NULL"
   },
   {
+    "loadout_id": "8",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
     "loadout_id": "10",
     "slot_id": "1",
     "item_class_id": "731",
@@ -5748,6 +5790,12 @@
     "client_requirement_expression": "NULL"
   },
   {
+    "loadout_id": "10",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
     "loadout_id": "11",
     "slot_id": "1",
     "item_class_id": "731",
@@ -6531,6 +6579,12 @@
     "loadout_id": "11",
     "slot_id": "51",
     "item_class_id": "51165",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "11",
+    "slot_id": "52",
+    "item_class_id": "51173",
     "client_requirement_expression": "NULL"
   },
   {
@@ -7338,6 +7392,12 @@
     "client_requirement_expression": "NULL"
   },
   {
+    "loadout_id": "12",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
     "loadout_id": "13",
     "slot_id": "1",
     "item_class_id": "731",
@@ -7765,6 +7825,12 @@
   },
   {
     "loadout_id": "13",
+    "slot_id": "10",
+    "item_class_id": "51180",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "13",
     "slot_id": "11",
     "item_class_id": "173",
     "client_requirement_expression": "NULL"
@@ -8157,6 +8223,12 @@
     "loadout_id": "13",
     "slot_id": "51",
     "item_class_id": "51165",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "13",
+    "slot_id": "52",
+    "item_class_id": "51173",
     "client_requirement_expression": "NULL"
   },
   {
@@ -9186,6 +9258,12 @@
     "client_requirement_expression": "NULL"
   },
   {
+    "loadout_id": "15",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
     "loadout_id": "17",
     "slot_id": "1",
     "item_class_id": "2",
@@ -9978,6 +10056,12 @@
     "client_requirement_expression": "NULL"
   },
   {
+    "loadout_id": "17",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
     "loadout_id": "18",
     "slot_id": "1",
     "item_class_id": "2",
@@ -10767,6 +10851,12 @@
     "loadout_id": "18",
     "slot_id": "51",
     "item_class_id": "51165",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "18",
+    "slot_id": "52",
+    "item_class_id": "51173",
     "client_requirement_expression": "NULL"
   },
   {
@@ -11580,6 +11670,12 @@
     "client_requirement_expression": "NULL"
   },
   {
+    "loadout_id": "19",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
     "loadout_id": "20",
     "slot_id": "1",
     "item_class_id": "2",
@@ -12001,6 +12097,12 @@
   },
   {
     "loadout_id": "20",
+    "slot_id": "10",
+    "item_class_id": "51180",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "20",
     "slot_id": "11",
     "item_class_id": "90",
     "client_requirement_expression": "NULL"
@@ -12405,6 +12507,12 @@
     "loadout_id": "20",
     "slot_id": "51",
     "item_class_id": "51165",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "20",
+    "slot_id": "52",
+    "item_class_id": "51173",
     "client_requirement_expression": "NULL"
   },
   {
@@ -13092,6 +13200,12 @@
     "client_requirement_expression": "NULL"
   },
   {
+    "loadout_id": "28",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
     "loadout_id": "29",
     "slot_id": "1",
     "item_class_id": "999",
@@ -13653,6 +13767,12 @@
     "loadout_id": "29",
     "slot_id": "51",
     "item_class_id": "51165",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "29",
+    "slot_id": "52",
+    "item_class_id": "51173",
     "client_requirement_expression": "NULL"
   },
   {
@@ -14223,6 +14343,12 @@
     "loadout_id": "30",
     "slot_id": "51",
     "item_class_id": "51165",
+    "client_requirement_expression": "NULL"
+  },
+  {
+    "loadout_id": "30",
+    "slot_id": "52",
+    "item_class_id": "51173",
     "client_requirement_expression": "NULL"
   },
   {
@@ -14826,6 +14952,12 @@
     "client_requirement_expression": "NULL"
   },
   {
+    "loadout_id": "31",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
     "loadout_id": "32",
     "slot_id": "1",
     "item_class_id": "999",
@@ -15426,6 +15558,12 @@
     "client_requirement_expression": "NULL"
   },
   {
+    "loadout_id": "32",
+    "slot_id": "52",
+    "item_class_id": "51173",
+    "client_requirement_expression": "NULL"
+  },
+  {
     "loadout_id": "45",
     "slot_id": "1",
     "item_class_id": "50931",
@@ -15558,141 +15696,33 @@
     "client_requirement_expression": "NULL"
   },
   {
-    "loadout_id": "1",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "3",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "4",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "5",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "6",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "8",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "10",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "11",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "12",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "13",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "15",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "17",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "18",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "19",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "20",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
     "loadout_id": "28",
-    "slot_id": "52",
-    "item_class_id": "51173",
+    "slot_id": "11",
+    "item_class_id": "51187",
     "client_requirement_expression": "NULL"
   },
   {
     "loadout_id": "29",
-    "slot_id": "52",
-    "item_class_id": "51173",
+    "slot_id": "11",
+    "item_class_id": "51186",
     "client_requirement_expression": "NULL"
   },
   {
     "loadout_id": "30",
-    "slot_id": "52",
-    "item_class_id": "51173",
+    "slot_id": "11",
+    "item_class_id": "51184",
     "client_requirement_expression": "NULL"
   },
   {
     "loadout_id": "31",
-    "slot_id": "52",
-    "item_class_id": "51173",
+    "slot_id": "11",
+    "item_class_id": "51185",
     "client_requirement_expression": "NULL"
   },
   {
     "loadout_id": "32",
-    "slot_id": "52",
-    "item_class_id": "51173",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "6",
-    "slot_id": "10",
-    "item_class_id": "51180",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "13",
-    "slot_id": "10",
-    "item_class_id": "51180",
-    "client_requirement_expression": "NULL"
-  },
-  {
-    "loadout_id": "20",
-    "slot_id": "10",
-    "item_class_id": "51180",
+    "slot_id": "11",
+    "item_class_id": "51188",
     "client_requirement_expression": "NULL"
   }
 ]
